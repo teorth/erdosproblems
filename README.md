@@ -9,1000 +9,1000 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 ## Table
 
 <!-- TABLE:START -->
-| # | Prize | Status | Formalized | OEIS | Tags |
-|---|---|---|---|---|---|
-| [1](https://www.erdosproblems.com/1) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1.lean) | [A276661](https://oeis.org/A276661) | number theory, additive combinatorics |
-| [2](https://www.erdosproblems.com/2) | $1000 | solved | no | N/A | number theory, covering systems |
-| [3](https://www.erdosproblems.com/3) | $5000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/3.lean) | N/A | number theory, additive combinatorics, arithmetic progressions |
-| [4](https://www.erdosproblems.com/4) | $10000 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/4.lean) | ? | number theory, primes |
-| [5](https://www.erdosproblems.com/5) | No | open | no | ? | ? |
-| [6](https://www.erdosproblems.com/6) | $100 | solved | no | ? | ? |
-| [7](https://www.erdosproblems.com/7) | No | open | no | ? | ? |
-| [8](https://www.erdosproblems.com/8) | No | solved | no | ? | ? |
-| [9](https://www.erdosproblems.com/9) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/9.lean) | [A006286](https://oeis.org/A006286) | ? |
-| [10](https://www.erdosproblems.com/10) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/10.lean) | ? | ? |
-| [11](https://www.erdosproblems.com/11) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/11.lean) | ? | ? |
-| [12](https://www.erdosproblems.com/12) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/12.lean) | ? | ? |
-| [13](https://www.erdosproblems.com/13) | $100 | solved | no | ? | ? |
-| [14](https://www.erdosproblems.com/14) | No | open | no | ? | ? |
-| [15](https://www.erdosproblems.com/15) | No | open | no | ? | ? |
-| [16](https://www.erdosproblems.com/16) | No | solved | no | ? | ? |
-| [17](https://www.erdosproblems.com/17) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/17.lean) | [A038133](https://oeis.org/A038133) | ? |
-| [18](https://www.erdosproblems.com/18) | No | open | no | [A005153](https://oeis.org/A005153) | ? |
-| [19](https://www.erdosproblems.com/19) | $500 | solved | no | ? | ? |
-| [20](https://www.erdosproblems.com/20) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/20.lean) | ? | ? |
-| [21](https://www.erdosproblems.com/21) | $500 | solved | no | ? | ? |
-| [22](https://www.erdosproblems.com/22) | No | solved | no | ? | ? |
-| [23](https://www.erdosproblems.com/23) | No | open | no | ? | ? |
-| [24](https://www.erdosproblems.com/24) | No | solved | no | ? | ? |
-| [25](https://www.erdosproblems.com/25) | No | open | no | ? | ? |
-| [26](https://www.erdosproblems.com/26) | No | solved | no | ? | ? |
-| [27](https://www.erdosproblems.com/27) | $100 | solved | no | ? | ? |
-| [28](https://www.erdosproblems.com/28) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/28.lean) | ? | ? |
-| [29](https://www.erdosproblems.com/29) | $100 | solved | no | ? | ? |
-| [30](https://www.erdosproblems.com/30) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/30.lean) | ? | ? |
-| [31](https://www.erdosproblems.com/31) | No | solved | no | ? | ? |
-| [32](https://www.erdosproblems.com/32) | No | open | no | ? | ? |
-| [33](https://www.erdosproblems.com/33) | No | open | no | ? | ? |
-| [34](https://www.erdosproblems.com/34) | No | solved | no | ? | ? |
-| [35](https://www.erdosproblems.com/35) | No | solved | no | ? | ? |
-| [36](https://www.erdosproblems.com/36) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/36.lean) | ? | ? |
-| [37](https://www.erdosproblems.com/37) | No | solved | no | ? | ? |
-| [38](https://www.erdosproblems.com/38) | No | open | no | ? | ? |
-| [39](https://www.erdosproblems.com/39) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/39.lean) | ? | ? |
-| [40](https://www.erdosproblems.com/40) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/40.lean) | ? | ? |
-| [41](https://www.erdosproblems.com/41) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/41.lean) | ? | ? |
-| [42](https://www.erdosproblems.com/42) | No | open | no | ? | ? |
-| [43](https://www.erdosproblems.com/43) | $100 | open | no | ? | ? |
-| [44](https://www.erdosproblems.com/44) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/44.lean) | ? | ? |
-| [45](https://www.erdosproblems.com/45) | No | solved | no | ? | ? |
-| [46](https://www.erdosproblems.com/46) | No | solved | no | ? | ? |
-| [47](https://www.erdosproblems.com/47) | $100 | solved | no | ? | ? |
-| [48](https://www.erdosproblems.com/48) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/48.lean) | ? | ? |
-| [49](https://www.erdosproblems.com/49) | No | solved | no | ? | ? |
-| [50](https://www.erdosproblems.com/50) | $250 | open | no | ? | ? |
-| [51](https://www.erdosproblems.com/51) | No | open | no | ? | ? |
-| [52](https://www.erdosproblems.com/52) | $250 | open | no | ? | ? |
-| [53](https://www.erdosproblems.com/53) | No | solved | no | ? | ? |
-| [54](https://www.erdosproblems.com/54) | $100 | solved | no | ? | ? |
-| [55](https://www.erdosproblems.com/55) | $250 | solved | no | ? | ? |
-| [56](https://www.erdosproblems.com/56) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/56.lean) | ? | ? |
-| [57](https://www.erdosproblems.com/57) | No | solved | no | ? | ? |
-| [58](https://www.erdosproblems.com/58) | No | solved | no | ? | ? |
-| [59](https://www.erdosproblems.com/59) | No | solved | no | ? | ? |
-| [60](https://www.erdosproblems.com/60) | No | open | no | ? | ? |
-| [61](https://www.erdosproblems.com/61) | No | open | no | ? | ? |
-| [62](https://www.erdosproblems.com/62) | No | open | no | ? | ? |
-| [63](https://www.erdosproblems.com/63) | No | solved | no | ? | ? |
-| [64](https://www.erdosproblems.com/64) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/64.lean) | ? | ? |
-| [65](https://www.erdosproblems.com/65) | No | open | no | ? | ? |
-| [66](https://www.erdosproblems.com/66) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/66.lean) | ? | ? |
-| [67](https://www.erdosproblems.com/67) | $500 | solved | no | ? | ? |
-| [68](https://www.erdosproblems.com/68) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/68.lean) | [A331373](https://oeis.org/A331373) | ? |
-| [69](https://www.erdosproblems.com/69) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/69.lean) | ? | ? |
-| [70](https://www.erdosproblems.com/70) | No | open | no | ? | ? |
-| [71](https://www.erdosproblems.com/71) | No | solved | no | ? | ? |
-| [72](https://www.erdosproblems.com/72) | $100 | solved | no | ? | ? |
-| [73](https://www.erdosproblems.com/73) | No | solved | no | ? | ? |
-| [74](https://www.erdosproblems.com/74) | $500 | open | no | ? | ? |
-| [75](https://www.erdosproblems.com/75) | No | open | no | ? | ? |
-| [76](https://www.erdosproblems.com/76) | No | solved | no | ? | ? |
-| [77](https://www.erdosproblems.com/77) | $250 | open | no | ? | ? |
-| [78](https://www.erdosproblems.com/78) | $100 | open | no | ? | ? |
-| [79](https://www.erdosproblems.com/79) | No | solved | no | ? | ? |
-| [80](https://www.erdosproblems.com/80) | No | open | no | ? | ? |
-| [81](https://www.erdosproblems.com/81) | No | open | no | ? | ? |
-| [82](https://www.erdosproblems.com/82) | No | open | no | ? | ? |
-| [83](https://www.erdosproblems.com/83) | $500 | solved | no | ? | ? |
-| [84](https://www.erdosproblems.com/84) | No | open | no | ? | ? |
-| [85](https://www.erdosproblems.com/85) | No | open | no | ? | ? |
-| [86](https://www.erdosproblems.com/86) | $100 | open | no | ? | ? |
-| [87](https://www.erdosproblems.com/87) | No | open | no | ? | ? |
-| [88](https://www.erdosproblems.com/88) | $100 | solved | no | ? | ? |
-| [89](https://www.erdosproblems.com/89) | $500 | open | no | ? | ? |
-| [90](https://www.erdosproblems.com/90) | $500 | open | no | ? | ? |
-| [91](https://www.erdosproblems.com/91) | No | open | no | ? | ? |
-| [92](https://www.erdosproblems.com/92) | $500 | open | no | ? | ? |
-| [93](https://www.erdosproblems.com/93) | No | solved | no | ? | ? |
-| [94](https://www.erdosproblems.com/94) | £25 | open | no | ? | ? |
-| [95](https://www.erdosproblems.com/95) | $500 | solved | no | ? | ? |
-| [96](https://www.erdosproblems.com/96) | No | open | no | ? | ? |
-| [97](https://www.erdosproblems.com/97) | $100 | open | no | ? | ? |
-| [98](https://www.erdosproblems.com/98) | No | open | no | ? | ? |
-| [99](https://www.erdosproblems.com/99) | $100 | open | no | ? | ? |
-| [100](https://www.erdosproblems.com/100) | No | open | no | ? | ? |
-| [101](https://www.erdosproblems.com/101) | $100 | open | no | ? | ? |
-| [102](https://www.erdosproblems.com/102) | No | open | no | ? | ? |
-| [103](https://www.erdosproblems.com/103) | No | open | no | ? | ? |
-| [104](https://www.erdosproblems.com/104) | $100 | open | no | [A003829](https://oeis.org/A003829) | ? |
-| [105](https://www.erdosproblems.com/105) | $50 | open | no | ? | ? |
-| [106](https://www.erdosproblems.com/106) | No | open | no | ? | ? |
-| [107](https://www.erdosproblems.com/107) | $500 | open | no | ? | ? |
-| [108](https://www.erdosproblems.com/108) | No | open | no | ? | ? |
-| [109](https://www.erdosproblems.com/109) | No | solved | no | ? | ? |
-| [110](https://www.erdosproblems.com/110) | No | open | no | ? | ? |
-| [111](https://www.erdosproblems.com/111) | No | open | no | ? | ? |
-| [112](https://www.erdosproblems.com/112) | No | open | no | ? | ? |
-| [113](https://www.erdosproblems.com/113) | $500 | solved | no | ? | ? |
-| [114](https://www.erdosproblems.com/114) | No | open | no | ? | ? |
-| [115](https://www.erdosproblems.com/115) | No | solved | no | ? | ? |
-| [116](https://www.erdosproblems.com/116) | No | solved | no | ? | ? |
-| [117](https://www.erdosproblems.com/117) | No | open | no | ? | ? |
-| [118](https://www.erdosproblems.com/118) | No | solved | no | ? | ? |
-| [119](https://www.erdosproblems.com/119) | $100 | open | no | ? | ? |
-| [120](https://www.erdosproblems.com/120) | $100 | open | no | ? | ? |
-| [121](https://www.erdosproblems.com/121) | No | solved | no | ? | ? |
-| [122](https://www.erdosproblems.com/122) | No | open | no | ? | ? |
-| [123](https://www.erdosproblems.com/123) | $250 | open | no | ? | ? |
-| [124](https://www.erdosproblems.com/124) | No | open | no | ? | ? |
-| [125](https://www.erdosproblems.com/125) | No | open | no | ? | ? |
-| [126](https://www.erdosproblems.com/126) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/126.lean) | ? | ? |
-| [127](https://www.erdosproblems.com/127) | No | solved | no | ? | ? |
-| [128](https://www.erdosproblems.com/128) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | ? | ? |
-| [129](https://www.erdosproblems.com/129) | No | open | no | ? | ? |
-| [130](https://www.erdosproblems.com/130) | No | open | no | ? | ? |
-| [131](https://www.erdosproblems.com/131) | No | open | no | ? | ? |
-| [132](https://www.erdosproblems.com/132) | $100 | open | no | ? | ? |
-| [133](https://www.erdosproblems.com/133) | No | solved | no | ? | ? |
-| [134](https://www.erdosproblems.com/134) | No | solved | no | ? | ? |
-| [135](https://www.erdosproblems.com/135) | $250 | solved | no | ? | ? |
-| [136](https://www.erdosproblems.com/136) | No | solved | no | ? | ? |
-| [137](https://www.erdosproblems.com/137) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/137.lean) | ? | ? |
-| [138](https://www.erdosproblems.com/138) | $500 | open | no | ? | ? |
-| [139](https://www.erdosproblems.com/139) | $1000 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/139.lean) | ? | ? |
-| [140](https://www.erdosproblems.com/140) | $500 | solved | no | ? | ? |
-| [141](https://www.erdosproblems.com/141) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/141.lean) | ? | ? |
-| [142](https://www.erdosproblems.com/142) | $10000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/142.lean) | ? | ? |
-| [143](https://www.erdosproblems.com/143) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/143.lean) | ? | ? |
-| [144](https://www.erdosproblems.com/144) | $250 | solved | no | ? | ? |
-| [145](https://www.erdosproblems.com/145) | No | open | no | ? | ? |
-| [146](https://www.erdosproblems.com/146) | $500 | open | no | ? | ? |
-| [147](https://www.erdosproblems.com/147) | $500 | solved | no | ? | ? |
-| [148](https://www.erdosproblems.com/148) | No | open | no | ? | ? |
-| [149](https://www.erdosproblems.com/149) | No | open | no | ? | ? |
-| [150](https://www.erdosproblems.com/150) | No | solved | no | ? | ? |
-| [151](https://www.erdosproblems.com/151) | No | open | no | ? | ? |
-| [152](https://www.erdosproblems.com/152) | No | open | no | ? | ? |
-| [153](https://www.erdosproblems.com/153) | No | open | no | ? | ? |
-| [154](https://www.erdosproblems.com/154) | No | solved | no | ? | ? |
-| [155](https://www.erdosproblems.com/155) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/155.lean) | ? | ? |
-| [156](https://www.erdosproblems.com/156) | No | open | no | ? | ? |
-| [157](https://www.erdosproblems.com/157) | No | solved | no | ? | ? |
-| [158](https://www.erdosproblems.com/158) | No | open | no | ? | ? |
-| [159](https://www.erdosproblems.com/159) | No | open | no | ? | ? |
-| [160](https://www.erdosproblems.com/160) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/160.lean) | ? | ? |
-| [161](https://www.erdosproblems.com/161) | $500 | open | no | ? | ? |
-| [162](https://www.erdosproblems.com/162) | No | open | no | ? | ? |
-| [163](https://www.erdosproblems.com/163) | No | solved | no | ? | ? |
-| [164](https://www.erdosproblems.com/164) | No | solved | no | ? | ? |
-| [165](https://www.erdosproblems.com/165) | $250 | open | no | ? | ? |
-| [166](https://www.erdosproblems.com/166) | $250 | solved | no | ? | ? |
-| [167](https://www.erdosproblems.com/167) | No | open | no | ? | ? |
-| [168](https://www.erdosproblems.com/168) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/168.lean) | ? | ? |
-| [169](https://www.erdosproblems.com/169) | No | open | no | ? | ? |
-| [170](https://www.erdosproblems.com/170) | No | open | no | ? | ? |
-| [171](https://www.erdosproblems.com/171) | No | solved | no | ? | ? |
-| [172](https://www.erdosproblems.com/172) | No | open | no | ? | ? |
-| [173](https://www.erdosproblems.com/173) | No | open | no | ? | ? |
-| [174](https://www.erdosproblems.com/174) | No | open | no | ? | ? |
-| [175](https://www.erdosproblems.com/175) | No | solved | no | ? | ? |
-| [176](https://www.erdosproblems.com/176) | No | open | no | ? | ? |
-| [177](https://www.erdosproblems.com/177) | No | open | no | ? | ? |
-| [178](https://www.erdosproblems.com/178) | No | solved | no | ? | ? |
-| [179](https://www.erdosproblems.com/179) | No | solved | no | ? | ? |
-| [180](https://www.erdosproblems.com/180) | No | open | no | ? | ? |
-| [181](https://www.erdosproblems.com/181) | No | open | no | ? | ? |
-| [182](https://www.erdosproblems.com/182) | No | solved | no | ? | ? |
-| [183](https://www.erdosproblems.com/183) | $250 | open | no | ? | ? |
-| [184](https://www.erdosproblems.com/184) | No | open | no | ? | ? |
-| [185](https://www.erdosproblems.com/185) | No | solved | no | ? | ? |
-| [186](https://www.erdosproblems.com/186) | No | solved | no | ? | ? |
-| [187](https://www.erdosproblems.com/187) | No | open | no | ? | ? |
-| [188](https://www.erdosproblems.com/188) | No | open | no | ? | ? |
-| [189](https://www.erdosproblems.com/189) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/189.lean) | ? | ? |
-| [190](https://www.erdosproblems.com/190) | No | open | no | ? | ? |
-| [191](https://www.erdosproblems.com/191) | No | solved | no | ? | ? |
-| [192](https://www.erdosproblems.com/192) | No | solved | no | ? | ? |
-| [193](https://www.erdosproblems.com/193) | No | open | no | ? | ? |
-| [194](https://www.erdosproblems.com/194) | No | solved | no | ? | ? |
-| [195](https://www.erdosproblems.com/195) | No | open | no | ? | ? |
-| [196](https://www.erdosproblems.com/196) | No | open | no | ? | ? |
-| [197](https://www.erdosproblems.com/197) | No | open | no | ? | ? |
-| [198](https://www.erdosproblems.com/198) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/198.lean) | ? | ? |
-| [199](https://www.erdosproblems.com/199) | No | solved | no | ? | ? |
-| [200](https://www.erdosproblems.com/200) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/200.lean) | ? | ? |
-| [201](https://www.erdosproblems.com/201) | No | open | no | ? | ? |
-| [202](https://www.erdosproblems.com/202) | No | open | no | ? | ? |
-| [203](https://www.erdosproblems.com/203) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/203.lean) | ? | ? |
-| [204](https://www.erdosproblems.com/204) | No | solved | no | ? | ? |
-| [205](https://www.erdosproblems.com/205) | No | open | no | ? | ? |
-| [206](https://www.erdosproblems.com/206) | No | solved | no | ? | ? |
-| [207](https://www.erdosproblems.com/207) | No | solved | no | ? | ? |
-| [208](https://www.erdosproblems.com/208) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/208.lean) | ? | ? |
-| [209](https://www.erdosproblems.com/209) | No | solved | no | ? | ? |
-| [210](https://www.erdosproblems.com/210) | No | solved | no | ? | ? |
-| [211](https://www.erdosproblems.com/211) | $100 | solved | no | ? | ? |
-| [212](https://www.erdosproblems.com/212) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/212.lean) | ? | ? |
-| [213](https://www.erdosproblems.com/213) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/213.lean) | ? | ? |
-| [214](https://www.erdosproblems.com/214) | No | solved | no | ? | ? |
-| [215](https://www.erdosproblems.com/215) | No | solved | no | ? | ? |
-| [216](https://www.erdosproblems.com/216) | No | solved | no | ? | ? |
-| [217](https://www.erdosproblems.com/217) | No | open | no | ? | ? |
-| [218](https://www.erdosproblems.com/218) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/218.lean) | ? | ? |
-| [219](https://www.erdosproblems.com/219) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/219.lean) | ? | ? |
-| [220](https://www.erdosproblems.com/220) | $500 | solved | no | ? | ? |
-| [221](https://www.erdosproblems.com/221) | No | solved | no | ? | ? |
-| [222](https://www.erdosproblems.com/222) | No | open | no | [A256435](https://oeis.org/A256435) | ? |
-| [223](https://www.erdosproblems.com/223) | No | open | no | ? | ? |
-| [224](https://www.erdosproblems.com/224) | No | solved | no | ? | ? |
-| [225](https://www.erdosproblems.com/225) | No | solved | no | ? | ? |
-| [226](https://www.erdosproblems.com/226) | No | solved | no | ? | ? |
-| [227](https://www.erdosproblems.com/227) | No | solved | no | ? | ? |
-| [228](https://www.erdosproblems.com/228) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/228.lean) | ? | ? |
-| [229](https://www.erdosproblems.com/229) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/229.lean) | ? | ? |
-| [230](https://www.erdosproblems.com/230) | No | solved | no | ? | ? |
-| [231](https://www.erdosproblems.com/231) | No | solved | no | ? | ? |
-| [232](https://www.erdosproblems.com/232) | No | solved | no | ? | ? |
-| [233](https://www.erdosproblems.com/233) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/233.lean) | [A074741](https://oeis.org/A074741) | ? |
-| [234](https://www.erdosproblems.com/234) | No | open | no | ? | ? |
-| [235](https://www.erdosproblems.com/235) | No | solved | no | ? | ? |
-| [236](https://www.erdosproblems.com/236) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/236.lean) | [A109925](https://oeis.org/A109925) | ? |
-| [237](https://www.erdosproblems.com/237) | No | solved | no | ? | ? |
-| [238](https://www.erdosproblems.com/238) | No | open | no | ? | ? |
-| [239](https://www.erdosproblems.com/239) | No | solved | no | ? | ? |
-| [240](https://www.erdosproblems.com/240) | No | solved | no | ? | ? |
-| [241](https://www.erdosproblems.com/241) | $100 | open | no | ? | ? |
-| [242](https://www.erdosproblems.com/242) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/242.lean) | ? | ? |
-| [243](https://www.erdosproblems.com/243) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/243.lean) | ? | ? |
-| [244](https://www.erdosproblems.com/244) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/244.lean) | ? | ? |
-| [245](https://www.erdosproblems.com/245) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/245.lean) | ? | ? |
-| [246](https://www.erdosproblems.com/246) | No | solved | no | ? | ? |
-| [247](https://www.erdosproblems.com/247) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/247.lean) | ? | ? |
-| [248](https://www.erdosproblems.com/248) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/248.lean) | ? | ? |
-| [249](https://www.erdosproblems.com/249) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/249.lean) | [A256936](https://oeis.org/A256936) | ? |
-| [250](https://www.erdosproblems.com/250) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/250.lean) | ? | ? |
-| [251](https://www.erdosproblems.com/251) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/251.lean) | [A098990](https://oeis.org/A098990) | ? |
-| [252](https://www.erdosproblems.com/252) | No | open | no | ? | ? |
-| [253](https://www.erdosproblems.com/253) | No | solved | no | ? | ? |
-| [254](https://www.erdosproblems.com/254) | No | open | no | ? | ? |
-| [255](https://www.erdosproblems.com/255) | No | solved | no | ? | ? |
-| [256](https://www.erdosproblems.com/256) | No | open | no | ? | ? |
-| [257](https://www.erdosproblems.com/257) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/257.lean) | ? | ? |
-| [258](https://www.erdosproblems.com/258) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/258.lean) | ? | ? |
-| [259](https://www.erdosproblems.com/259) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/259.lean) | ? | ? |
-| [260](https://www.erdosproblems.com/260) | No | open | no | ? | ? |
-| [261](https://www.erdosproblems.com/261) | No | open | no | ? | ? |
-| [262](https://www.erdosproblems.com/262) | No | solved | no | ? | ? |
-| [263](https://www.erdosproblems.com/263) | No | open | no | ? | ? |
-| [264](https://www.erdosproblems.com/264) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/264.lean) | ? | ? |
-| [265](https://www.erdosproblems.com/265) | No | open | no | ? | ? |
-| [266](https://www.erdosproblems.com/266) | No | solved | no | ? | ? |
-| [267](https://www.erdosproblems.com/267) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/267.lean) | ? | ? |
-| [268](https://www.erdosproblems.com/268) | No | solved | no | ? | ? |
-| [269](https://www.erdosproblems.com/269) | No | open | no | ? | ? |
-| [270](https://www.erdosproblems.com/270) | No | solved | no | ? | ? |
-| [271](https://www.erdosproblems.com/271) | No | open | no | [A005487](https://oeis.org/A005487) | ? |
-| [272](https://www.erdosproblems.com/272) | No | open | no | ? | ? |
-| [273](https://www.erdosproblems.com/273) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/273.lean) | ? | ? |
-| [274](https://www.erdosproblems.com/274) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/274.lean) | ? | ? |
-| [275](https://www.erdosproblems.com/275) | No | solved | no | ? | ? |
-| [276](https://www.erdosproblems.com/276) | No | open | no | ? | ? |
-| [277](https://www.erdosproblems.com/277) | No | solved | no | ? | ? |
-| [278](https://www.erdosproblems.com/278) | No | open | no | ? | ? |
-| [279](https://www.erdosproblems.com/279) | No | open | no | ? | ? |
-| [280](https://www.erdosproblems.com/280) | No | solved | no | ? | ? |
-| [281](https://www.erdosproblems.com/281) | No | open | no | ? | ? |
-| [282](https://www.erdosproblems.com/282) | No | open | no | ? | ? |
-| [283](https://www.erdosproblems.com/283) | No | open | no | ? | ? |
-| [284](https://www.erdosproblems.com/284) | No | solved | no | ? | ? |
-| [285](https://www.erdosproblems.com/285) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/285.lean) | ? | ? |
-| [286](https://www.erdosproblems.com/286) | No | solved | no | ? | ? |
-| [287](https://www.erdosproblems.com/287) | No | open | no | ? | ? |
-| [288](https://www.erdosproblems.com/288) | No | open | no | ? | ? |
-| [289](https://www.erdosproblems.com/289) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/289.lean) | ? | ? |
-| [290](https://www.erdosproblems.com/290) | No | solved | no | [A375081](https://oeis.org/A375081) | ? |
-| [291](https://www.erdosproblems.com/291) | No | open | no | ? | ? |
-| [292](https://www.erdosproblems.com/292) | No | solved | no | ? | ? |
-| [293](https://www.erdosproblems.com/293) | No | open | no | ? | ? |
-| [294](https://www.erdosproblems.com/294) | No | solved | no | ? | ? |
-| [295](https://www.erdosproblems.com/295) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/295.lean) | ? | ? |
-| [296](https://www.erdosproblems.com/296) | No | solved | no | ? | ? |
-| [297](https://www.erdosproblems.com/297) | No | solved | no | ? | ? |
-| [298](https://www.erdosproblems.com/298) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/298.lean) | ? | ? |
-| [299](https://www.erdosproblems.com/299) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/299.lean) | ? | ? |
-| [300](https://www.erdosproblems.com/300) | No | solved | no | ? | ? |
-| [301](https://www.erdosproblems.com/301) | No | open | no | ? | ? |
-| [302](https://www.erdosproblems.com/302) | No | open | no | ? | ? |
-| [303](https://www.erdosproblems.com/303) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/303.lean) | ? | ? |
-| [304](https://www.erdosproblems.com/304) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/304.lean) | ? | ? |
-| [305](https://www.erdosproblems.com/305) | No | solved | no | ? | ? |
-| [306](https://www.erdosproblems.com/306) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/306.lean) | ? | ? |
-| [307](https://www.erdosproblems.com/307) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | ? | ? |
-| [308](https://www.erdosproblems.com/308) | No | solved | no | ? | ? |
-| [309](https://www.erdosproblems.com/309) | No | solved | no | ? | ? |
-| [310](https://www.erdosproblems.com/310) | No | solved | no | ? | ? |
-| [311](https://www.erdosproblems.com/311) | No | open | no | ? | ? |
-| [312](https://www.erdosproblems.com/312) | No | open | no | ? | ? |
-| [313](https://www.erdosproblems.com/313) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/313.lean) | [A054377](https://oeis.org/A054377) | ? |
-| [314](https://www.erdosproblems.com/314) | No | solved | no | ? | ? |
-| [315](https://www.erdosproblems.com/315) | No | solved | no | ? | ? |
-| [316](https://www.erdosproblems.com/316) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/316.lean) | ? | ? |
-| [317](https://www.erdosproblems.com/317) | No | open | no | ? | ? |
-| [318](https://www.erdosproblems.com/318) | No | open | no | ? | ? |
-| [319](https://www.erdosproblems.com/319) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/319.lean) | ? | ? |
-| [320](https://www.erdosproblems.com/320) | No | open | no | ? | ? |
-| [321](https://www.erdosproblems.com/321) | No | open | no | ? | ? |
-| [322](https://www.erdosproblems.com/322) | No | open | no | ? | ? |
-| [323](https://www.erdosproblems.com/323) | No | open | no | ? | ? |
-| [324](https://www.erdosproblems.com/324) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/324.lean) | ? | ? |
-| [325](https://www.erdosproblems.com/325) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/325.lean) | ? | ? |
-| [326](https://www.erdosproblems.com/326) | No | open | no | ? | ? |
-| [327](https://www.erdosproblems.com/327) | No | open | no | ? | ? |
-| [328](https://www.erdosproblems.com/328) | No | solved | no | ? | ? |
-| [329](https://www.erdosproblems.com/329) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/329.lean) | ? | ? |
-| [330](https://www.erdosproblems.com/330) | No | open | no | ? | ? |
-| [331](https://www.erdosproblems.com/331) | No | solved | no | ? | ? |
-| [332](https://www.erdosproblems.com/332) | No | open | no | ? | ? |
-| [333](https://www.erdosproblems.com/333) | No | open | no | ? | ? |
-| [334](https://www.erdosproblems.com/334) | No | open | no | ? | ? |
-| [335](https://www.erdosproblems.com/335) | No | open | no | ? | ? |
-| [336](https://www.erdosproblems.com/336) | No | open | no | ? | ? |
-| [337](https://www.erdosproblems.com/337) | No | solved | no | ? | ? |
-| [338](https://www.erdosproblems.com/338) | No | open | no | ? | ? |
-| [339](https://www.erdosproblems.com/339) | No | open | no | ? | ? |
-| [340](https://www.erdosproblems.com/340) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/340.lean) | [A080200](https://oeis.org/A080200), [A005282](https://oeis.org/A005282) | ? |
-| [341](https://www.erdosproblems.com/341) | No | open | no | ? | ? |
-| [342](https://www.erdosproblems.com/342) | No | open | no | [A002858](https://oeis.org/A002858) | ? |
-| [343](https://www.erdosproblems.com/343) | No | solved | no | ? | ? |
-| [344](https://www.erdosproblems.com/344) | No | solved | no | ? | ? |
-| [345](https://www.erdosproblems.com/345) | No | open | no | ? | ? |
-| [346](https://www.erdosproblems.com/346) | No | open | no | ? | ? |
-| [347](https://www.erdosproblems.com/347) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/347.lean) | ? | ? |
-| [348](https://www.erdosproblems.com/348) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/348.lean) | ? | ? |
-| [349](https://www.erdosproblems.com/349) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/349.lean) | ? | ? |
-| [350](https://www.erdosproblems.com/350) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/350.lean) | ? | ? |
-| [351](https://www.erdosproblems.com/351) | No | open | no | ? | ? |
-| [352](https://www.erdosproblems.com/352) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/352.lean) | ? | ? |
-| [353](https://www.erdosproblems.com/353) | No | solved | no | ? | ? |
-| [354](https://www.erdosproblems.com/354) | No | open | no | ? | ? |
-| [355](https://www.erdosproblems.com/355) | No | solved | no | ? | ? |
-| [356](https://www.erdosproblems.com/356) | No | solved | no | ? | ? |
-| [357](https://www.erdosproblems.com/357) | No | open | no | ? | ? |
-| [358](https://www.erdosproblems.com/358) | No | open | no | ? | ? |
-| [359](https://www.erdosproblems.com/359) | No | open | no | [A002048](https://oeis.org/A002048) | ? |
-| [360](https://www.erdosproblems.com/360) | No | solved | no | ? | ? |
-| [361](https://www.erdosproblems.com/361) | No | open | no | ? | ? |
-| [362](https://www.erdosproblems.com/362) | No | solved | no | ? | ? |
-| [363](https://www.erdosproblems.com/363) | No | solved | no | ? | ? |
-| [364](https://www.erdosproblems.com/364) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | ? |
-| [365](https://www.erdosproblems.com/365) | No | open | no | [A060355](https://oeis.org/A060355) | ? |
-| [366](https://www.erdosproblems.com/366) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | ? |
-| [367](https://www.erdosproblems.com/367) | No | open | no | ? | ? |
-| [368](https://www.erdosproblems.com/368) | No | open | no | [A074399](https://oeis.org/A074399) | ? |
-| [369](https://www.erdosproblems.com/369) | No | open | no | ? | ? |
-| [370](https://www.erdosproblems.com/370) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | ? | ? |
-| [371](https://www.erdosproblems.com/371) | No | open | no | [A070089](https://oeis.org/A070089) | ? |
-| [372](https://www.erdosproblems.com/372) | No | solved | no | ? | ? |
-| [373](https://www.erdosproblems.com/373) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | ? | ? |
-| [374](https://www.erdosproblems.com/374) | No | open | no | ? | ? |
-| [375](https://www.erdosproblems.com/375) | No | open | no | ? | ? |
-| [376](https://www.erdosproblems.com/376) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/376.lean) | [A030979](https://oeis.org/A030979) | ? |
-| [377](https://www.erdosproblems.com/377) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/377.lean) | ? | ? |
-| [378](https://www.erdosproblems.com/378) | No | solved | no | ? | ? |
-| [379](https://www.erdosproblems.com/379) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/379.lean) | ? | ? |
-| [380](https://www.erdosproblems.com/380) | No | open | no | ? | ? |
-| [381](https://www.erdosproblems.com/381) | No | solved | no | ? | ? |
-| [382](https://www.erdosproblems.com/382) | No | open | no | ? | ? |
-| [383](https://www.erdosproblems.com/383) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/383.lean) | ? | ? |
-| [384](https://www.erdosproblems.com/384) | No | solved | no | ? | ? |
-| [385](https://www.erdosproblems.com/385) | No | open | no | ? | ? |
-| [386](https://www.erdosproblems.com/386) | No | open | no | [A280992](https://oeis.org/A280992) | ? |
-| [387](https://www.erdosproblems.com/387) | No | open | no | ? | ? |
-| [388](https://www.erdosproblems.com/388) | No | open | no | ? | ? |
-| [389](https://www.erdosproblems.com/389) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/389.lean) | [A375071](https://oeis.org/A375071) | ? |
-| [390](https://www.erdosproblems.com/390) | No | open | no | ? | ? |
-| [391](https://www.erdosproblems.com/391) | No | solved | no | ? | ? |
-| [392](https://www.erdosproblems.com/392) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/392.lean) | ? | ? |
-| [393](https://www.erdosproblems.com/393) | No | open | no | ? | ? |
-| [394](https://www.erdosproblems.com/394) | No | solved | no | ? | ? |
-| [395](https://www.erdosproblems.com/395) | No | solved | no | ? | ? |
-| [396](https://www.erdosproblems.com/396) | No | open | no | [A375077](https://oeis.org/A375077) | ? |
-| [397](https://www.erdosproblems.com/397) | No | open | no | ? | ? |
-| [398](https://www.erdosproblems.com/398) | No | open | no | [A146968](https://oeis.org/A146968) | ? |
-| [399](https://www.erdosproblems.com/399) | No | solved | no | ? | ? |
-| [400](https://www.erdosproblems.com/400) | No | open | no | ? | ? |
-| [401](https://www.erdosproblems.com/401) | No | open | no | ? | ? |
-| [402](https://www.erdosproblems.com/402) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/402.lean) | ? | ? |
-| [403](https://www.erdosproblems.com/403) | No | solved | no | ? | ? |
-| [404](https://www.erdosproblems.com/404) | No | open | no | ? | ? |
-| [405](https://www.erdosproblems.com/405) | No | solved | no | ? | ? |
-| [406](https://www.erdosproblems.com/406) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/406.lean) | ? | ? |
-| [407](https://www.erdosproblems.com/407) | No | solved | no | ? | ? |
-| [408](https://www.erdosproblems.com/408) | No | open | no | ? | ? |
-| [409](https://www.erdosproblems.com/409) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/409.lean) | [A039651](https://oeis.org/A039651) | ? |
-| [410](https://www.erdosproblems.com/410) | No | open | no | ? | ? |
-| [411](https://www.erdosproblems.com/411) | No | open | no | ? | ? |
-| [412](https://www.erdosproblems.com/412) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/412.lean) | ? | ? |
-| [413](https://www.erdosproblems.com/413) | No | open | no | ? | ? |
-| [414](https://www.erdosproblems.com/414) | No | open | no | ? | ? |
-| [415](https://www.erdosproblems.com/415) | No | open | no | ? | ? |
-| [416](https://www.erdosproblems.com/416) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/416.lean) | ? | ? |
-| [417](https://www.erdosproblems.com/417) | No | open | no | ? | ? |
-| [418](https://www.erdosproblems.com/418) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/418.lean) | ? | ? |
-| [419](https://www.erdosproblems.com/419) | No | solved | no | ? | ? |
-| [420](https://www.erdosproblems.com/420) | No | open | no | ? | ? |
-| [421](https://www.erdosproblems.com/421) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | ? | ? |
-| [422](https://www.erdosproblems.com/422) | No | open | no | [A005185](https://oeis.org/A005185) | ? |
-| [423](https://www.erdosproblems.com/423) | No | open | no | [A005243](https://oeis.org/A005243) | ? |
-| [424](https://www.erdosproblems.com/424) | No | open | no | [A005244](https://oeis.org/A005244) | ? |
-| [425](https://www.erdosproblems.com/425) | No | open | no | ? | ? |
-| [426](https://www.erdosproblems.com/426) | $25 | solved | no | ? | ? |
-| [427](https://www.erdosproblems.com/427) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/427.lean) | ? | ? |
-| [428](https://www.erdosproblems.com/428) | No | open | no | ? | ? |
-| [429](https://www.erdosproblems.com/429) | No | solved | no | ? | ? |
-| [430](https://www.erdosproblems.com/430) | No | open | no | ? | ? |
-| [431](https://www.erdosproblems.com/431) | No | open | no | ? | ? |
-| [432](https://www.erdosproblems.com/432) | No | open | no | ? | ? |
-| [433](https://www.erdosproblems.com/433) | No | open | no | ? | ? |
-| [434](https://www.erdosproblems.com/434) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | ? | ? |
-| [435](https://www.erdosproblems.com/435) | No | open | no | ? | ? |
-| [436](https://www.erdosproblems.com/436) | No | open | no | ? | ? |
-| [437](https://www.erdosproblems.com/437) | No | solved | no | ? | ? |
-| [438](https://www.erdosproblems.com/438) | No | solved | no | ? | ? |
-| [439](https://www.erdosproblems.com/439) | No | solved | no | ? | ? |
-| [440](https://www.erdosproblems.com/440) | No | open | no | ? | ? |
-| [441](https://www.erdosproblems.com/441) | No | solved | no | ? | ? |
-| [442](https://www.erdosproblems.com/442) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/442.lean) | ? | ? |
-| [443](https://www.erdosproblems.com/443) | No | solved | no | ? | ? |
-| [444](https://www.erdosproblems.com/444) | No | solved | no | ? | ? |
-| [445](https://www.erdosproblems.com/445) | No | open | no | ? | ? |
-| [446](https://www.erdosproblems.com/446) | No | solved | no | ? | ? |
-| [447](https://www.erdosproblems.com/447) | No | solved | no | ? | ? |
-| [448](https://www.erdosproblems.com/448) | No | solved | no | ? | ? |
-| [449](https://www.erdosproblems.com/449) | No | solved | no | ? | ? |
-| [450](https://www.erdosproblems.com/450) | No | open | no | ? | ? |
-| [451](https://www.erdosproblems.com/451) | No | open | no | ? | ? |
-| [452](https://www.erdosproblems.com/452) | No | open | no | ? | ? |
-| [453](https://www.erdosproblems.com/453) | No | solved | no | ? | ? |
-| [454](https://www.erdosproblems.com/454) | No | open | no | ? | ? |
-| [455](https://www.erdosproblems.com/455) | No | open | no | ? | ? |
-| [456](https://www.erdosproblems.com/456) | No | open | no | ? | ? |
-| [457](https://www.erdosproblems.com/457) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | ? | ? |
-| [458](https://www.erdosproblems.com/458) | No | open | no | ? | ? |
-| [459](https://www.erdosproblems.com/459) | No | solved | no | ? | ? |
-| [460](https://www.erdosproblems.com/460) | No | open | no | ? | ? |
-| [461](https://www.erdosproblems.com/461) | No | open | no | ? | ? |
-| [462](https://www.erdosproblems.com/462) | No | open | no | ? | ? |
-| [463](https://www.erdosproblems.com/463) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/463.lean) | ? | ? |
-| [464](https://www.erdosproblems.com/464) | No | solved | no | ? | ? |
-| [465](https://www.erdosproblems.com/465) | No | solved | no | ? | ? |
-| [466](https://www.erdosproblems.com/466) | No | solved | no | ? | ? |
-| [467](https://www.erdosproblems.com/467) | No | open | no | ? | ? |
-| [468](https://www.erdosproblems.com/468) | No | open | no | ? | ? |
-| [469](https://www.erdosproblems.com/469) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/469.lean) | [A006036](https://oeis.org/A006036) | ? |
-| [470](https://www.erdosproblems.com/470) | No | open | no | [A006037](https://oeis.org/A006037) | ? |
-| [471](https://www.erdosproblems.com/471) | No | solved | no | ? | ? |
-| [472](https://www.erdosproblems.com/472) | No | open | no | ? | ? |
-| [473](https://www.erdosproblems.com/473) | No | solved | no | ? | ? |
-| [474](https://www.erdosproblems.com/474) | $100 | solved | no | ? | ? |
-| [475](https://www.erdosproblems.com/475) | No | open | no | ? | ? |
-| [476](https://www.erdosproblems.com/476) | No | solved | no | ? | ? |
-| [477](https://www.erdosproblems.com/477) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | ? | ? |
-| [478](https://www.erdosproblems.com/478) | No | open | no | ? | ? |
-| [479](https://www.erdosproblems.com/479) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236) | ? |
-| [480](https://www.erdosproblems.com/480) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/480.lean) | ? | ? |
-| [481](https://www.erdosproblems.com/481) | No | open | no | ? | ? |
-| [482](https://www.erdosproblems.com/482) | No | solved | no | ? | ? |
-| [483](https://www.erdosproblems.com/483) | No | open | no | [A030126](https://oeis.org/A030126) | ? |
-| [484](https://www.erdosproblems.com/484) | No | solved | no | ? | ? |
-| [485](https://www.erdosproblems.com/485) | No | solved | no | ? | ? |
-| [486](https://www.erdosproblems.com/486) | No | open | no | ? | ? |
-| [487](https://www.erdosproblems.com/487) | No | solved | no | ? | ? |
-| [488](https://www.erdosproblems.com/488) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | ? | ? |
-| [489](https://www.erdosproblems.com/489) | No | open | no | ? | ? |
-| [490](https://www.erdosproblems.com/490) | No | solved | no | ? | ? |
-| [491](https://www.erdosproblems.com/491) | No | solved | no | ? | ? |
-| [492](https://www.erdosproblems.com/492) | No | solved | no | ? | ? |
-| [493](https://www.erdosproblems.com/493) | No | solved | no | ? | ? |
-| [494](https://www.erdosproblems.com/494) | No | open | no | ? | ? |
-| [495](https://www.erdosproblems.com/495) | No | open | no | ? | ? |
-| [496](https://www.erdosproblems.com/496) | No | solved | no | ? | ? |
-| [497](https://www.erdosproblems.com/497) | No | solved | no | ? | ? |
-| [498](https://www.erdosproblems.com/498) | No | solved | no | ? | ? |
-| [499](https://www.erdosproblems.com/499) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | ? | ? |
-| [500](https://www.erdosproblems.com/500) | $500 | open | no | ? | ? |
-| [501](https://www.erdosproblems.com/501) | No | open | no | ? | ? |
-| [502](https://www.erdosproblems.com/502) | No | solved | no | ? | ? |
-| [503](https://www.erdosproblems.com/503) | No | open | no | ? | ? |
-| [504](https://www.erdosproblems.com/504) | No | solved | no | ? | ? |
-| [505](https://www.erdosproblems.com/505) | No | solved | no | ? | ? |
-| [506](https://www.erdosproblems.com/506) | No | solved | no | ? | ? |
-| [507](https://www.erdosproblems.com/507) | No | open | no | ? | ? |
-| [508](https://www.erdosproblems.com/508) | No | open | no | ? | ? |
-| [509](https://www.erdosproblems.com/509) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/509.lean) | ? | ? |
-| [510](https://www.erdosproblems.com/510) | No | open | no | ? | ? |
-| [511](https://www.erdosproblems.com/511) | No | open | no | ? | ? |
-| [512](https://www.erdosproblems.com/512) | No | solved | no | ? | ? |
-| [513](https://www.erdosproblems.com/513) | No | open | no | ? | ? |
-| [514](https://www.erdosproblems.com/514) | No | open | no | ? | ? |
-| [515](https://www.erdosproblems.com/515) | No | open | no | ? | ? |
-| [516](https://www.erdosproblems.com/516) | No | open | no | ? | ? |
-| [517](https://www.erdosproblems.com/517) | No | open | no | ? | ? |
-| [518](https://www.erdosproblems.com/518) | No | solved | no | ? | ? |
-| [519](https://www.erdosproblems.com/519) | No | solved | no | ? | ? |
-| [520](https://www.erdosproblems.com/520) | No | open | no | ? | ? |
-| [521](https://www.erdosproblems.com/521) | No | open | no | ? | ? |
-| [522](https://www.erdosproblems.com/522) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/522.lean) | ? | ? |
-| [523](https://www.erdosproblems.com/523) | No | solved | no | ? | ? |
-| [524](https://www.erdosproblems.com/524) | No | open | no | ? | ? |
-| [525](https://www.erdosproblems.com/525) | No | solved | no | ? | ? |
-| [526](https://www.erdosproblems.com/526) | No | solved | no | ? | ? |
-| [527](https://www.erdosproblems.com/527) | No | open | no | ? | ? |
-| [528](https://www.erdosproblems.com/528) | No | open | no | ? | ? |
-| [529](https://www.erdosproblems.com/529) | No | open | no | ? | ? |
-| [530](https://www.erdosproblems.com/530) | No | open | no | ? | ? |
-| [531](https://www.erdosproblems.com/531) | No | open | no | ? | ? |
-| [532](https://www.erdosproblems.com/532) | No | solved | no | ? | ? |
-| [533](https://www.erdosproblems.com/533) | No | open | no | ? | ? |
-| [534](https://www.erdosproblems.com/534) | No | solved | no | ? | ? |
-| [535](https://www.erdosproblems.com/535) | No | open | no | ? | ? |
-| [536](https://www.erdosproblems.com/536) | No | open | no | ? | ? |
-| [537](https://www.erdosproblems.com/537) | No | solved | no | ? | ? |
-| [538](https://www.erdosproblems.com/538) | No | open | no | ? | ? |
-| [539](https://www.erdosproblems.com/539) | No | open | no | ? | ? |
-| [540](https://www.erdosproblems.com/540) | No | solved | no | ? | ? |
-| [541](https://www.erdosproblems.com/541) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/541.lean) | ? | ? |
-| [542](https://www.erdosproblems.com/542) | No | solved | no | ? | ? |
-| [543](https://www.erdosproblems.com/543) | No | open | no | ? | ? |
-| [544](https://www.erdosproblems.com/544) | No | open | no | ? | ? |
-| [545](https://www.erdosproblems.com/545) | No | open | no | ? | ? |
-| [546](https://www.erdosproblems.com/546) | No | solved | no | ? | ? |
-| [547](https://www.erdosproblems.com/547) | No | open | no | ? | ? |
-| [548](https://www.erdosproblems.com/548) | No | open | no | ? | ? |
-| [549](https://www.erdosproblems.com/549) | No | solved | no | ? | ? |
-| [550](https://www.erdosproblems.com/550) | No | open | no | ? | ? |
-| [551](https://www.erdosproblems.com/551) | No | solved | no | ? | ? |
-| [552](https://www.erdosproblems.com/552) | No | open | no | ? | ? |
-| [553](https://www.erdosproblems.com/553) | No | solved | no | ? | ? |
-| [554](https://www.erdosproblems.com/554) | No | open | no | ? | ? |
-| [555](https://www.erdosproblems.com/555) | No | open | no | ? | ? |
-| [556](https://www.erdosproblems.com/556) | No | solved | no | ? | ? |
-| [557](https://www.erdosproblems.com/557) | No | open | no | ? | ? |
-| [558](https://www.erdosproblems.com/558) | No | open | no | ? | ? |
-| [559](https://www.erdosproblems.com/559) | No | solved | no | ? | ? |
-| [560](https://www.erdosproblems.com/560) | No | open | no | ? | ? |
-| [561](https://www.erdosproblems.com/561) | No | open | no | ? | ? |
-| [562](https://www.erdosproblems.com/562) | No | open | no | ? | ? |
-| [563](https://www.erdosproblems.com/563) | No | open | no | ? | ? |
-| [564](https://www.erdosproblems.com/564) | $500 | open | no | ? | ? |
-| [565](https://www.erdosproblems.com/565) | No | open | no | ? | ? |
-| [566](https://www.erdosproblems.com/566) | No | open | no | ? | ? |
-| [567](https://www.erdosproblems.com/567) | No | open | no | ? | ? |
-| [568](https://www.erdosproblems.com/568) | No | open | no | ? | ? |
-| [569](https://www.erdosproblems.com/569) | No | open | no | ? | ? |
-| [570](https://www.erdosproblems.com/570) | No | open | no | ? | ? |
-| [571](https://www.erdosproblems.com/571) | No | open | no | ? | ? |
-| [572](https://www.erdosproblems.com/572) | No | open | no | ? | ? |
-| [573](https://www.erdosproblems.com/573) | No | open | no | ? | ? |
-| [574](https://www.erdosproblems.com/574) | No | open | no | ? | ? |
-| [575](https://www.erdosproblems.com/575) | No | open | no | ? | ? |
-| [576](https://www.erdosproblems.com/576) | No | open | no | ? | ? |
-| [577](https://www.erdosproblems.com/577) | No | solved | no | ? | ? |
-| [578](https://www.erdosproblems.com/578) | No | solved | no | ? | ? |
-| [579](https://www.erdosproblems.com/579) | No | open | no | ? | ? |
-| [580](https://www.erdosproblems.com/580) | No | open | no | ? | ? |
-| [581](https://www.erdosproblems.com/581) | No | solved | no | ? | ? |
-| [582](https://www.erdosproblems.com/582) | $100 | solved | no | ? | ? |
-| [583](https://www.erdosproblems.com/583) | No | open | no | ? | ? |
-| [584](https://www.erdosproblems.com/584) | No | open | no | ? | ? |
-| [585](https://www.erdosproblems.com/585) | No | open | no | ? | ? |
-| [586](https://www.erdosproblems.com/586) | No | solved | no | ? | ? |
-| [587](https://www.erdosproblems.com/587) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/587.lean) | ? | ? |
-| [588](https://www.erdosproblems.com/588) | $100 | open | no | ? | ? |
-| [589](https://www.erdosproblems.com/589) | No | open | no | ? | ? |
-| [590](https://www.erdosproblems.com/590) | $250 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/590.lean) | ? | ? |
-| [591](https://www.erdosproblems.com/591) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/591.lean) | ? | ? |
-| [592](https://www.erdosproblems.com/592) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/592.lean) | ? | ? |
-| [593](https://www.erdosproblems.com/593) | $500 | open | no | ? | ? |
-| [594](https://www.erdosproblems.com/594) | No | solved | no | ? | ? |
-| [595](https://www.erdosproblems.com/595) | $250 | open | no | ? | ? |
-| [596](https://www.erdosproblems.com/596) | No | open | no | ? | ? |
-| [597](https://www.erdosproblems.com/597) | No | open | no | ? | ? |
-| [598](https://www.erdosproblems.com/598) | No | open | no | ? | ? |
-| [599](https://www.erdosproblems.com/599) | No | solved | no | ? | ? |
-| [600](https://www.erdosproblems.com/600) | No | open | no | ? | ? |
-| [601](https://www.erdosproblems.com/601) | $500 | open | no | ? | ? |
-| [602](https://www.erdosproblems.com/602) | No | open | no | ? | ? |
-| [603](https://www.erdosproblems.com/603) | No | open | no | ? | ? |
-| [604](https://www.erdosproblems.com/604) | $500 | open | no | ? | ? |
-| [605](https://www.erdosproblems.com/605) | No | solved | no | ? | ? |
-| [606](https://www.erdosproblems.com/606) | No | solved | no | ? | ? |
-| [607](https://www.erdosproblems.com/607) | $250 | solved | no | ? | ? |
-| [608](https://www.erdosproblems.com/608) | No | open | no | ? | ? |
-| [609](https://www.erdosproblems.com/609) | No | open | no | ? | ? |
-| [610](https://www.erdosproblems.com/610) | No | open | no | ? | ? |
-| [611](https://www.erdosproblems.com/611) | No | open | no | ? | ? |
-| [612](https://www.erdosproblems.com/612) | No | open | no | ? | ? |
-| [613](https://www.erdosproblems.com/613) | No | open | no | ? | ? |
-| [614](https://www.erdosproblems.com/614) | No | open | no | ? | ? |
-| [615](https://www.erdosproblems.com/615) | No | solved | no | ? | ? |
-| [616](https://www.erdosproblems.com/616) | No | open | no | ? | ? |
-| [617](https://www.erdosproblems.com/617) | No | open | no | ? | ? |
-| [618](https://www.erdosproblems.com/618) | No | solved | no | ? | ? |
-| [619](https://www.erdosproblems.com/619) | No | open | no | ? | ? |
-| [620](https://www.erdosproblems.com/620) | No | open | no | ? | ? |
-| [621](https://www.erdosproblems.com/621) | No | open | no | ? | ? |
-| [622](https://www.erdosproblems.com/622) | No | solved | no | ? | ? |
-| [623](https://www.erdosproblems.com/623) | No | open | no | ? | ? |
-| [624](https://www.erdosproblems.com/624) | No | open | no | ? | ? |
-| [625](https://www.erdosproblems.com/625) | $1000 | open | no | ? | ? |
-| [626](https://www.erdosproblems.com/626) | No | open | no | ? | ? |
-| [627](https://www.erdosproblems.com/627) | No | open | no | ? | ? |
-| [628](https://www.erdosproblems.com/628) | No | open | no | ? | ? |
-| [629](https://www.erdosproblems.com/629) | No | open | no | ? | ? |
-| [630](https://www.erdosproblems.com/630) | No | solved | no | ? | ? |
-| [631](https://www.erdosproblems.com/631) | No | solved | no | ? | ? |
-| [632](https://www.erdosproblems.com/632) | No | solved | no | ? | ? |
-| [633](https://www.erdosproblems.com/633) | $25 | open | no | ? | ? |
-| [634](https://www.erdosproblems.com/634) | $25 | open | no | ? | ? |
-| [635](https://www.erdosproblems.com/635) | No | open | no | ? | ? |
-| [636](https://www.erdosproblems.com/636) | No | solved | no | ? | ? |
-| [637](https://www.erdosproblems.com/637) | No | solved | no | ? | ? |
-| [638](https://www.erdosproblems.com/638) | No | open | no | ? | ? |
-| [639](https://www.erdosproblems.com/639) | No | solved | no | ? | ? |
-| [640](https://www.erdosproblems.com/640) | No | open | no | ? | ? |
-| [641](https://www.erdosproblems.com/641) | No | solved | no | ? | ? |
-| [642](https://www.erdosproblems.com/642) | No | open | no | ? | ? |
-| [643](https://www.erdosproblems.com/643) | No | open | no | ? | ? |
-| [644](https://www.erdosproblems.com/644) | No | open | no | ? | ? |
-| [645](https://www.erdosproblems.com/645) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | ? | ? |
-| [646](https://www.erdosproblems.com/646) | No | solved | no | ? | ? |
-| [647](https://www.erdosproblems.com/647) | No | open | no | ? | ? |
-| [648](https://www.erdosproblems.com/648) | No | solved | no | ? | ? |
-| [649](https://www.erdosproblems.com/649) | No | solved | no | ? | ? |
-| [650](https://www.erdosproblems.com/650) | No | open | no | ? | ? |
-| [651](https://www.erdosproblems.com/651) | No | solved | no | ? | ? |
-| [652](https://www.erdosproblems.com/652) | No | open | no | ? | ? |
-| [653](https://www.erdosproblems.com/653) | No | open | no | ? | ? |
-| [654](https://www.erdosproblems.com/654) | No | open | no | ? | ? |
-| [655](https://www.erdosproblems.com/655) | No | open | no | ? | ? |
-| [656](https://www.erdosproblems.com/656) | No | solved | no | ? | ? |
-| [657](https://www.erdosproblems.com/657) | No | open | no | ? | ? |
-| [658](https://www.erdosproblems.com/658) | No | solved | no | ? | ? |
-| [659](https://www.erdosproblems.com/659) | No | open | no | ? | ? |
-| [660](https://www.erdosproblems.com/660) | No | open | no | ? | ? |
-| [661](https://www.erdosproblems.com/661) | $50 | open | no | ? | ? |
-| [662](https://www.erdosproblems.com/662) | No | open | no | ? | ? |
-| [663](https://www.erdosproblems.com/663) | No | open | no | ? | ? |
-| [664](https://www.erdosproblems.com/664) | No | solved | no | ? | ? |
-| [665](https://www.erdosproblems.com/665) | No | open | no | ? | ? |
-| [666](https://www.erdosproblems.com/666) | No | solved | no | ? | ? |
-| [667](https://www.erdosproblems.com/667) | No | open | no | ? | ? |
-| [668](https://www.erdosproblems.com/668) | No | open | no | ? | ? |
-| [669](https://www.erdosproblems.com/669) | No | open | no | ? | ? |
-| [670](https://www.erdosproblems.com/670) | No | open | no | ? | ? |
-| [671](https://www.erdosproblems.com/671) | $250 | open | no | ? | ? |
-| [672](https://www.erdosproblems.com/672) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | ? | ? |
-| [673](https://www.erdosproblems.com/673) | No | solved | no | ? | ? |
-| [674](https://www.erdosproblems.com/674) | No | solved | no | ? | ? |
-| [675](https://www.erdosproblems.com/675) | No | open | no | ? | ? |
-| [676](https://www.erdosproblems.com/676) | No | open | no | ? | ? |
-| [677](https://www.erdosproblems.com/677) | No | open | no | ? | ? |
-| [678](https://www.erdosproblems.com/678) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/678.lean) | ? | ? |
-| [679](https://www.erdosproblems.com/679) | No | open | no | ? | ? |
-| [680](https://www.erdosproblems.com/680) | No | open | no | ? | ? |
-| [681](https://www.erdosproblems.com/681) | No | open | no | ? | ? |
-| [682](https://www.erdosproblems.com/682) | No | solved | no | ? | ? |
-| [683](https://www.erdosproblems.com/683) | No | open | no | ? | ? |
-| [684](https://www.erdosproblems.com/684) | No | open | no | ? | ? |
-| [685](https://www.erdosproblems.com/685) | No | open | no | ? | ? |
-| [686](https://www.erdosproblems.com/686) | No | open | no | ? | ? |
-| [687](https://www.erdosproblems.com/687) | No | open | no | ? | ? |
-| [688](https://www.erdosproblems.com/688) | No | open | no | ? | ? |
-| [689](https://www.erdosproblems.com/689) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/689.lean) | ? | ? |
-| [690](https://www.erdosproblems.com/690) | No | open | no | ? | ? |
-| [691](https://www.erdosproblems.com/691) | No | open | no | ? | ? |
-| [692](https://www.erdosproblems.com/692) | No | solved | no | ? | ? |
-| [693](https://www.erdosproblems.com/693) | No | open | no | ? | ? |
-| [694](https://www.erdosproblems.com/694) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/694.lean) | ? | ? |
-| [695](https://www.erdosproblems.com/695) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/695.lean) | ? | ? |
-| [696](https://www.erdosproblems.com/696) | No | open | no | ? | ? |
-| [697](https://www.erdosproblems.com/697) | No | open | no | ? | ? |
-| [698](https://www.erdosproblems.com/698) | No | solved | no | ? | ? |
-| [699](https://www.erdosproblems.com/699) | No | open | no | ? | ? |
-| [700](https://www.erdosproblems.com/700) | No | open | no | ? | ? |
-| [701](https://www.erdosproblems.com/701) | No | open | no | ? | ? |
-| [702](https://www.erdosproblems.com/702) | No | solved | no | ? | ? |
-| [703](https://www.erdosproblems.com/703) | $250 | solved | no | ? | ? |
-| [704](https://www.erdosproblems.com/704) | No | open | no | ? | ? |
-| [705](https://www.erdosproblems.com/705) | No | open | no | ? | ? |
-| [706](https://www.erdosproblems.com/706) | No | open | no | ? | ? |
-| [707](https://www.erdosproblems.com/707) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | ? | ? |
-| [708](https://www.erdosproblems.com/708) | $100 | open | no | ? | ? |
-| [709](https://www.erdosproblems.com/709) | No | open | no | ? | ? |
-| [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | ? | ? |
-| [711](https://www.erdosproblems.com/711) | ₹1000 | open | no | ? | ? |
-| [712](https://www.erdosproblems.com/712) | $500 | open | no | ? | ? |
-| [713](https://www.erdosproblems.com/713) | $500 | open | no | ? | ? |
-| [714](https://www.erdosproblems.com/714) | No | open | no | ? | ? |
-| [715](https://www.erdosproblems.com/715) | No | solved | no | ? | ? |
-| [716](https://www.erdosproblems.com/716) | No | solved | no | ? | ? |
-| [717](https://www.erdosproblems.com/717) | No | solved | no | ? | ? |
-| [718](https://www.erdosproblems.com/718) | No | solved | no | ? | ? |
-| [719](https://www.erdosproblems.com/719) | No | open | no | ? | ? |
-| [720](https://www.erdosproblems.com/720) | $100 | solved | no | ? | ? |
-| [721](https://www.erdosproblems.com/721) | No | solved | no | ? | ? |
-| [722](https://www.erdosproblems.com/722) | No | solved | no | ? | ? |
-| [723](https://www.erdosproblems.com/723) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/723.lean) | ? | ? |
-| [724](https://www.erdosproblems.com/724) | No | open | no | [A001438](https://oeis.org/A001438) | ? |
-| [725](https://www.erdosproblems.com/725) | No | open | no | [A001009](https://oeis.org/A001009) | ? |
-| [726](https://www.erdosproblems.com/726) | No | open | no | ? | ? |
-| [727](https://www.erdosproblems.com/727) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | ? | ? |
-| [728](https://www.erdosproblems.com/728) | No | open | no | ? | ? |
-| [729](https://www.erdosproblems.com/729) | No | open | no | ? | ? |
-| [730](https://www.erdosproblems.com/730) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | ? |
-| [731](https://www.erdosproblems.com/731) | No | open | no | ? | ? |
-| [732](https://www.erdosproblems.com/732) | No | solved | no | ? | ? |
-| [733](https://www.erdosproblems.com/733) | No | solved | no | ? | ? |
-| [734](https://www.erdosproblems.com/734) | No | open | no | ? | ? |
-| [735](https://www.erdosproblems.com/735) | No | solved | no | ? | ? |
-| [736](https://www.erdosproblems.com/736) | No | open | no | ? | ? |
-| [737](https://www.erdosproblems.com/737) | No | open | no | ? | ? |
-| [738](https://www.erdosproblems.com/738) | No | open | no | ? | ? |
-| [739](https://www.erdosproblems.com/739) | No | open | no | ? | ? |
-| [740](https://www.erdosproblems.com/740) | No | open | no | ? | ? |
-| [741](https://www.erdosproblems.com/741) | No | open | no | ? | ? |
-| [742](https://www.erdosproblems.com/742) | No | solved | no | ? | ? |
-| [743](https://www.erdosproblems.com/743) | No | open | no | ? | ? |
-| [744](https://www.erdosproblems.com/744) | No | solved | no | ? | ? |
-| [745](https://www.erdosproblems.com/745) | No | solved | no | ? | ? |
-| [746](https://www.erdosproblems.com/746) | No | solved | no | ? | ? |
-| [747](https://www.erdosproblems.com/747) | No | solved | no | ? | ? |
-| [748](https://www.erdosproblems.com/748) | No | solved | no | ? | ? |
-| [749](https://www.erdosproblems.com/749) | No | open | no | ? | ? |
-| [750](https://www.erdosproblems.com/750) | No | open | no | ? | ? |
-| [751](https://www.erdosproblems.com/751) | No | solved | no | ? | ? |
-| [752](https://www.erdosproblems.com/752) | No | solved | no | ? | ? |
-| [753](https://www.erdosproblems.com/753) | No | solved | no | ? | ? |
-| [754](https://www.erdosproblems.com/754) | No | solved | no | ? | ? |
-| [755](https://www.erdosproblems.com/755) | No | solved | no | ? | ? |
-| [756](https://www.erdosproblems.com/756) | No | solved | no | ? | ? |
-| [757](https://www.erdosproblems.com/757) | No | open | no | ? | ? |
-| [758](https://www.erdosproblems.com/758) | No | solved | no | ? | ? |
-| [759](https://www.erdosproblems.com/759) | No | solved | no | ? | ? |
-| [760](https://www.erdosproblems.com/760) | No | solved | no | ? | ? |
-| [761](https://www.erdosproblems.com/761) | No | open | no | ? | ? |
-| [762](https://www.erdosproblems.com/762) | No | solved | no | ? | ? |
-| [763](https://www.erdosproblems.com/763) | No | solved | no | ? | ? |
-| [764](https://www.erdosproblems.com/764) | No | solved | no | ? | ? |
-| [765](https://www.erdosproblems.com/765) | No | solved | no | ? | ? |
-| [766](https://www.erdosproblems.com/766) | No | open | no | ? | ? |
-| [767](https://www.erdosproblems.com/767) | No | solved | no | ? | ? |
-| [768](https://www.erdosproblems.com/768) | No | open | no | ? | ? |
-| [769](https://www.erdosproblems.com/769) | No | open | no | ? | ? |
-| [770](https://www.erdosproblems.com/770) | No | open | no | ? | ? |
-| [771](https://www.erdosproblems.com/771) | No | solved | no | ? | ? |
-| [772](https://www.erdosproblems.com/772) | No | solved | no | ? | ? |
-| [773](https://www.erdosproblems.com/773) | No | open | no | ? | ? |
-| [774](https://www.erdosproblems.com/774) | No | open | no | ? | ? |
-| [775](https://www.erdosproblems.com/775) | No | open | no | ? | ? |
-| [776](https://www.erdosproblems.com/776) | No | open | no | ? | ? |
-| [777](https://www.erdosproblems.com/777) | No | solved | no | ? | ? |
-| [778](https://www.erdosproblems.com/778) | No | open | no | ? | ? |
-| [779](https://www.erdosproblems.com/779) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | ? | ? |
-| [780](https://www.erdosproblems.com/780) | No | solved | no | ? | ? |
-| [781](https://www.erdosproblems.com/781) | No | solved | no | ? | ? |
-| [782](https://www.erdosproblems.com/782) | No | open | no | ? | ? |
-| [783](https://www.erdosproblems.com/783) | No | open | no | ? | ? |
-| [784](https://www.erdosproblems.com/784) | No | open | no | ? | ? |
-| [785](https://www.erdosproblems.com/785) | No | solved | no | ? | ? |
-| [786](https://www.erdosproblems.com/786) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | ? | ? |
-| [787](https://www.erdosproblems.com/787) | No | open | no | ? | ? |
-| [788](https://www.erdosproblems.com/788) | No | open | no | ? | ? |
-| [789](https://www.erdosproblems.com/789) | No | open | no | ? | ? |
-| [790](https://www.erdosproblems.com/790) | No | open | no | ? | ? |
-| [791](https://www.erdosproblems.com/791) | No | open | no | ? | ? |
-| [792](https://www.erdosproblems.com/792) | No | open | no | ? | ? |
-| [793](https://www.erdosproblems.com/793) | No | open | no | ? | ? |
-| [794](https://www.erdosproblems.com/794) | No | solved | no | ? | ? |
-| [795](https://www.erdosproblems.com/795) | No | solved | no | ? | ? |
-| [796](https://www.erdosproblems.com/796) | No | open | no | ? | ? |
-| [797](https://www.erdosproblems.com/797) | No | solved | no | ? | ? |
-| [798](https://www.erdosproblems.com/798) | No | solved | no | ? | ? |
-| [799](https://www.erdosproblems.com/799) | No | solved | no | ? | ? |
-| [800](https://www.erdosproblems.com/800) | No | solved | no | ? | ? |
-| [801](https://www.erdosproblems.com/801) | No | solved | no | ? | ? |
-| [802](https://www.erdosproblems.com/802) | No | open | no | ? | ? |
-| [803](https://www.erdosproblems.com/803) | No | solved | no | ? | ? |
-| [804](https://www.erdosproblems.com/804) | No | solved | no | ? | ? |
-| [805](https://www.erdosproblems.com/805) | No | open | no | ? | ? |
-| [806](https://www.erdosproblems.com/806) | No | solved | no | ? | ? |
-| [807](https://www.erdosproblems.com/807) | No | solved | no | ? | ? |
-| [808](https://www.erdosproblems.com/808) | No | solved | no | ? | ? |
-| [809](https://www.erdosproblems.com/809) | No | open | no | ? | ? |
-| [810](https://www.erdosproblems.com/810) | No | open | no | ? | ? |
-| [811](https://www.erdosproblems.com/811) | No | open | no | ? | ? |
-| [812](https://www.erdosproblems.com/812) | No | open | no | ? | ? |
-| [813](https://www.erdosproblems.com/813) | No | open | no | ? | ? |
-| [814](https://www.erdosproblems.com/814) | No | solved | no | ? | ? |
-| [815](https://www.erdosproblems.com/815) | No | solved | no | ? | ? |
-| [816](https://www.erdosproblems.com/816) | No | solved | no | ? | ? |
-| [817](https://www.erdosproblems.com/817) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/817.lean) | ? | ? |
-| [818](https://www.erdosproblems.com/818) | No | solved | no | ? | ? |
-| [819](https://www.erdosproblems.com/819) | No | open | no | ? | ? |
-| [820](https://www.erdosproblems.com/820) | No | open | no | [A263647](https://oeis.org/A263647) | ? |
-| [821](https://www.erdosproblems.com/821) | No | open | no | ? | ? |
-| [822](https://www.erdosproblems.com/822) | No | open | no | ? | ? |
-| [823](https://www.erdosproblems.com/823) | No | solved | no | ? | ? |
-| [824](https://www.erdosproblems.com/824) | No | open | no | ? | ? |
-| [825](https://www.erdosproblems.com/825) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/825.lean) | ? | ? |
-| [826](https://www.erdosproblems.com/826) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/826.lean) | ? | ? |
-| [827](https://www.erdosproblems.com/827) | No | open | no | ? | ? |
-| [828](https://www.erdosproblems.com/828) | No | open | no | ? | ? |
-| [829](https://www.erdosproblems.com/829) | No | open | no | ? | ? |
-| [830](https://www.erdosproblems.com/830) | No | open | no | ? | ? |
-| [831](https://www.erdosproblems.com/831) | No | open | no | ? | ? |
-| [832](https://www.erdosproblems.com/832) | No | solved | no | ? | ? |
-| [833](https://www.erdosproblems.com/833) | No | solved | no | ? | ? |
-| [834](https://www.erdosproblems.com/834) | No | open | no | ? | ? |
-| [835](https://www.erdosproblems.com/835) | No | open | no | ? | ? |
-| [836](https://www.erdosproblems.com/836) | No | open | no | ? | ? |
-| [837](https://www.erdosproblems.com/837) | No | open | no | ? | ? |
-| [838](https://www.erdosproblems.com/838) | No | open | no | ? | ? |
-| [839](https://www.erdosproblems.com/839) | No | open | no | ? | ? |
-| [840](https://www.erdosproblems.com/840) | No | open | no | ? | ? |
-| [841](https://www.erdosproblems.com/841) | No | solved | no | ? | ? |
-| [842](https://www.erdosproblems.com/842) | No | solved | no | ? | ? |
-| [843](https://www.erdosproblems.com/843) | No | solved | no | ? | ? |
-| [844](https://www.erdosproblems.com/844) | No | solved | no | ? | ? |
-| [845](https://www.erdosproblems.com/845) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | ? | ? |
-| [846](https://www.erdosproblems.com/846) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | ? | ? |
-| [847](https://www.erdosproblems.com/847) | No | open | no | ? | ? |
-| [848](https://www.erdosproblems.com/848) | No | open | no | ? | ? |
-| [849](https://www.erdosproblems.com/849) | No | open | no | ? | ? |
-| [850](https://www.erdosproblems.com/850) | No | open | no | [A343101](https://oeis.org/A343101) | ? |
-| [851](https://www.erdosproblems.com/851) | No | open | no | ? | ? |
-| [852](https://www.erdosproblems.com/852) | No | open | no | ? | ? |
-| [853](https://www.erdosproblems.com/853) | No | open | no | ? | ? |
-| [854](https://www.erdosproblems.com/854) | No | open | no | ? | ? |
-| [855](https://www.erdosproblems.com/855) | No | open | no | ? | ? |
-| [856](https://www.erdosproblems.com/856) | No | open | no | ? | ? |
-| [857](https://www.erdosproblems.com/857) | No | open | no | ? | ? |
-| [858](https://www.erdosproblems.com/858) | No | open | no | ? | ? |
-| [859](https://www.erdosproblems.com/859) | No | open | no | ? | ? |
-| [860](https://www.erdosproblems.com/860) | No | open | no | ? | ? |
-| [861](https://www.erdosproblems.com/861) | No | solved | no | ? | ? |
-| [862](https://www.erdosproblems.com/862) | No | open | no | ? | ? |
-| [863](https://www.erdosproblems.com/863) | No | open | no | ? | ? |
-| [864](https://www.erdosproblems.com/864) | No | open | no | ? | ? |
-| [865](https://www.erdosproblems.com/865) | No | open | no | ? | ? |
-| [866](https://www.erdosproblems.com/866) | No | open | no | ? | ? |
-| [867](https://www.erdosproblems.com/867) | No | open | no | ? | ? |
-| [868](https://www.erdosproblems.com/868) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/868.lean) | ? | ? |
-| [869](https://www.erdosproblems.com/869) | No | open | no | ? | ? |
-| [870](https://www.erdosproblems.com/870) | No | open | no | ? | ? |
-| [871](https://www.erdosproblems.com/871) | No | open | no | ? | ? |
-| [872](https://www.erdosproblems.com/872) | No | open | no | ? | ? |
-| [873](https://www.erdosproblems.com/873) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/873.lean) | ? | ? |
-| [874](https://www.erdosproblems.com/874) | No | solved | no | ? | ? |
-| [875](https://www.erdosproblems.com/875) | No | open | no | ? | ? |
-| [876](https://www.erdosproblems.com/876) | No | open | no | ? | ? |
-| [877](https://www.erdosproblems.com/877) | No | solved | no | ? | ? |
-| [878](https://www.erdosproblems.com/878) | No | open | no | ? | ? |
-| [879](https://www.erdosproblems.com/879) | No | open | no | ? | ? |
-| [880](https://www.erdosproblems.com/880) | No | solved | no | ? | ? |
-| [881](https://www.erdosproblems.com/881) | No | open | no | ? | ? |
-| [882](https://www.erdosproblems.com/882) | No | solved | no | ? | ? |
-| [883](https://www.erdosproblems.com/883) | No | open | no | ? | ? |
-| [884](https://www.erdosproblems.com/884) | No | open | no | ? | ? |
-| [885](https://www.erdosproblems.com/885) | No | open | no | ? | ? |
-| [886](https://www.erdosproblems.com/886) | No | open | no | ? | ? |
-| [887](https://www.erdosproblems.com/887) | No | open | no | ? | ? |
-| [888](https://www.erdosproblems.com/888) | No | open | no | ? | ? |
-| [889](https://www.erdosproblems.com/889) | No | open | no | ? | ? |
-| [890](https://www.erdosproblems.com/890) | No | open | no | ? | ? |
-| [891](https://www.erdosproblems.com/891) | No | open | no | ? | ? |
-| [892](https://www.erdosproblems.com/892) | No | open | no | ? | ? |
-| [893](https://www.erdosproblems.com/893) | No | open | no | ? | ? |
-| [894](https://www.erdosproblems.com/894) | No | solved | no | ? | ? |
-| [895](https://www.erdosproblems.com/895) | No | solved | no | ? | ? |
-| [896](https://www.erdosproblems.com/896) | No | open | no | ? | ? |
-| [897](https://www.erdosproblems.com/897) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/897.lean) | ? | ? |
-| [898](https://www.erdosproblems.com/898) | No | solved | no | ? | ? |
-| [899](https://www.erdosproblems.com/899) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/899.lean) | ? | ? |
-| [900](https://www.erdosproblems.com/900) | No | solved | no | ? | ? |
-| [901](https://www.erdosproblems.com/901) | No | open | no | ? | ? |
-| [902](https://www.erdosproblems.com/902) | No | open | no | ? | ? |
-| [903](https://www.erdosproblems.com/903) | No | open | no | ? | ? |
-| [904](https://www.erdosproblems.com/904) | No | solved | no | ? | ? |
-| [905](https://www.erdosproblems.com/905) | No | solved | no | ? | ? |
-| [906](https://www.erdosproblems.com/906) | No | open | no | ? | ? |
-| [907](https://www.erdosproblems.com/907) | No | solved | no | ? | ? |
-| [908](https://www.erdosproblems.com/908) | No | solved | no | ? | ? |
-| [909](https://www.erdosproblems.com/909) | No | solved | no | ? | ? |
-| [910](https://www.erdosproblems.com/910) | No | solved | no | ? | ? |
-| [911](https://www.erdosproblems.com/911) | No | open | no | ? | ? |
-| [912](https://www.erdosproblems.com/912) | No | open | no | [A071626](https://oeis.org/A071626) | ? |
-| [913](https://www.erdosproblems.com/913) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/913.lean) | ? | ? |
-| [914](https://www.erdosproblems.com/914) | No | solved | no | ? | ? |
-| [915](https://www.erdosproblems.com/915) | No | open | no | ? | ? |
-| [916](https://www.erdosproblems.com/916) | No | solved | no | ? | ? |
-| [917](https://www.erdosproblems.com/917) | No | open | no | ? | ? |
-| [918](https://www.erdosproblems.com/918) | No | open | no | ? | ? |
-| [919](https://www.erdosproblems.com/919) | No | open | no | ? | ? |
-| [920](https://www.erdosproblems.com/920) | No | open | no | ? | ? |
-| [921](https://www.erdosproblems.com/921) | No | solved | no | ? | ? |
-| [922](https://www.erdosproblems.com/922) | No | solved | no | ? | ? |
-| [923](https://www.erdosproblems.com/923) | No | solved | no | ? | ? |
-| [924](https://www.erdosproblems.com/924) | No | solved | no | ? | ? |
-| [925](https://www.erdosproblems.com/925) | No | solved | no | ? | ? |
-| [926](https://www.erdosproblems.com/926) | No | solved | no | ? | ? |
-| [927](https://www.erdosproblems.com/927) | No | solved | no | ? | ? |
-| [928](https://www.erdosproblems.com/928) | No | open | no | ? | ? |
-| [929](https://www.erdosproblems.com/929) | No | open | no | ? | ? |
-| [930](https://www.erdosproblems.com/930) | No | open | no | ? | ? |
-| [931](https://www.erdosproblems.com/931) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/931.lean) | ? | ? |
-| [932](https://www.erdosproblems.com/932) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/932.lean) | ? | ? |
-| [933](https://www.erdosproblems.com/933) | No | open | no | ? | ? |
-| [934](https://www.erdosproblems.com/934) | No | open | no | ? | ? |
-| [935](https://www.erdosproblems.com/935) | No | open | no | ? | ? |
-| [936](https://www.erdosproblems.com/936) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/936.lean) | ? | ? |
-| [937](https://www.erdosproblems.com/937) | No | solved | no | ? | ? |
-| [938](https://www.erdosproblems.com/938) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/938.lean) | ? | ? |
-| [939](https://www.erdosproblems.com/939) | No | open | no | ? | ? |
-| [940](https://www.erdosproblems.com/940) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/940.lean) | ? | ? |
-| [941](https://www.erdosproblems.com/941) | No | solved | no | ? | ? |
-| [942](https://www.erdosproblems.com/942) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/942.lean) | ? | ? |
-| [943](https://www.erdosproblems.com/943) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/943.lean) | ? | ? |
-| [944](https://www.erdosproblems.com/944) | No | open | no | ? | ? |
-| [945](https://www.erdosproblems.com/945) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/945.lean) | ? | ? |
-| [946](https://www.erdosproblems.com/946) | No | solved | no | ? | ? |
-| [947](https://www.erdosproblems.com/947) | No | solved | no | ? | ? |
-| [948](https://www.erdosproblems.com/948) | No | open | no | ? | ? |
-| [949](https://www.erdosproblems.com/949) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/949.lean) | ? | ? |
-| [950](https://www.erdosproblems.com/950) | No | open | no | ? | ? |
-| [951](https://www.erdosproblems.com/951) | No | open | no | ? | ? |
-| [952](https://www.erdosproblems.com/952) | No | open | no | ? | ? |
-| [953](https://www.erdosproblems.com/953) | No | open | no | ? | ? |
-| [954](https://www.erdosproblems.com/954) | No | open | no | ? | ? |
-| [955](https://www.erdosproblems.com/955) | No | open | no | ? | ? |
-| [956](https://www.erdosproblems.com/956) | No | open | no | ? | ? |
-| [957](https://www.erdosproblems.com/957) | No | open | no | ? | ? |
-| [958](https://www.erdosproblems.com/958) | No | solved | no | ? | ? |
-| [959](https://www.erdosproblems.com/959) | No | open | no | ? | ? |
-| [960](https://www.erdosproblems.com/960) | No | open | no | ? | ? |
-| [961](https://www.erdosproblems.com/961) | No | open | no | ? | ? |
-| [962](https://www.erdosproblems.com/962) | No | open | no | ? | ? |
-| [963](https://www.erdosproblems.com/963) | No | open | no | ? | ? |
-| [964](https://www.erdosproblems.com/964) | No | solved | no | ? | ? |
-| [965](https://www.erdosproblems.com/965) | No | open | no | ? | ? |
-| [966](https://www.erdosproblems.com/966) | No | solved | no | ? | ? |
-| [967](https://www.erdosproblems.com/967) | No | open | no | ? | ? |
-| [968](https://www.erdosproblems.com/968) | No | open | no | ? | ? |
-| [969](https://www.erdosproblems.com/969) | No | open | no | ? | ? |
-| [970](https://www.erdosproblems.com/970) | No | open | no | ? | ? |
-| [971](https://www.erdosproblems.com/971) | No | open | no | ? | ? |
-| [972](https://www.erdosproblems.com/972) | No | open | no | ? | ? |
-| [973](https://www.erdosproblems.com/973) | No | open | no | ? | ? |
-| [974](https://www.erdosproblems.com/974) | No | open | no | ? | ? |
-| [975](https://www.erdosproblems.com/975) | No | open | no | ? | ? |
-| [976](https://www.erdosproblems.com/976) | No | open | no | ? | ? |
-| [977](https://www.erdosproblems.com/977) | No | solved | no | ? | ? |
-| [978](https://www.erdosproblems.com/978) | No | open | no | ? | ? |
-| [979](https://www.erdosproblems.com/979) | No | open | no | ? | ? |
-| [980](https://www.erdosproblems.com/980) | No | solved | no | ? | ? |
-| [981](https://www.erdosproblems.com/981) | No | open | no | ? | ? |
-| [982](https://www.erdosproblems.com/982) | No | open | no | ? | ? |
-| [983](https://www.erdosproblems.com/983) | No | open | no | ? | ? |
-| [984](https://www.erdosproblems.com/984) | No | solved | no | ? | ? |
-| [985](https://www.erdosproblems.com/985) | No | open | no | ? | ? |
-| [986](https://www.erdosproblems.com/986) | No | open | no | ? | ? |
-| [987](https://www.erdosproblems.com/987) | No | solved | no | ? | ? |
-| [988](https://www.erdosproblems.com/988) | No | solved | no | ? | ? |
-| [989](https://www.erdosproblems.com/989) | No | solved | no | ? | ? |
-| [990](https://www.erdosproblems.com/990) | No | open | no | ? | ? |
-| [991](https://www.erdosproblems.com/991) | No | open | no | ? | ? |
-| [992](https://www.erdosproblems.com/992) | No | open | no | ? | ? |
+| # | Prize | Status | Formalized | OEIS | Tags | Comments |
+|---|---|---|---|---|---|---|
+| [1](https://www.erdosproblems.com/1) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1.lean) | [A276661](https://oeis.org/A276661) | number theory, additive combinatorics |  |
+| [2](https://www.erdosproblems.com/2) | $1000 | solved | no | N/A | number theory, covering systems |  |
+| [3](https://www.erdosproblems.com/3) | $5000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/3.lean) | N/A | number theory, additive combinatorics, arithmetic progressions |  |
+| [4](https://www.erdosproblems.com/4) | $10000 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/4.lean) | ? | number theory, primes |  |
+| [5](https://www.erdosproblems.com/5) | No | open | no | ? | ? |  |
+| [6](https://www.erdosproblems.com/6) | $100 | solved | no | ? | ? |  |
+| [7](https://www.erdosproblems.com/7) | No | open | no | ? | ? |  |
+| [8](https://www.erdosproblems.com/8) | No | solved | no | ? | ? |  |
+| [9](https://www.erdosproblems.com/9) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/9.lean) | [A006286](https://oeis.org/A006286) | ? |  |
+| [10](https://www.erdosproblems.com/10) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/10.lean) | ? | ? |  |
+| [11](https://www.erdosproblems.com/11) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/11.lean) | ? | ? |  |
+| [12](https://www.erdosproblems.com/12) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/12.lean) | ? | ? |  |
+| [13](https://www.erdosproblems.com/13) | $100 | solved | no | ? | ? |  |
+| [14](https://www.erdosproblems.com/14) | No | open | no | ? | ? |  |
+| [15](https://www.erdosproblems.com/15) | No | open | no | ? | ? |  |
+| [16](https://www.erdosproblems.com/16) | No | solved | no | ? | ? |  |
+| [17](https://www.erdosproblems.com/17) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/17.lean) | [A038133](https://oeis.org/A038133) | ? | cluster primes |
+| [18](https://www.erdosproblems.com/18) | No | open | no | [A005153](https://oeis.org/A005153) | ? |  |
+| [19](https://www.erdosproblems.com/19) | $500 | solved | no | ? | ? |  |
+| [20](https://www.erdosproblems.com/20) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/20.lean) | ? | ? |  |
+| [21](https://www.erdosproblems.com/21) | $500 | solved | no | ? | ? |  |
+| [22](https://www.erdosproblems.com/22) | No | solved | no | ? | ? |  |
+| [23](https://www.erdosproblems.com/23) | No | open | no | ? | ? |  |
+| [24](https://www.erdosproblems.com/24) | No | solved | no | ? | ? |  |
+| [25](https://www.erdosproblems.com/25) | No | open | no | ? | ? |  |
+| [26](https://www.erdosproblems.com/26) | No | solved | no | ? | ? |  |
+| [27](https://www.erdosproblems.com/27) | $100 | solved | no | ? | ? |  |
+| [28](https://www.erdosproblems.com/28) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/28.lean) | ? | ? |  |
+| [29](https://www.erdosproblems.com/29) | $100 | solved | no | ? | ? |  |
+| [30](https://www.erdosproblems.com/30) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/30.lean) | ? | ? |  |
+| [31](https://www.erdosproblems.com/31) | No | solved | no | ? | ? |  |
+| [32](https://www.erdosproblems.com/32) | No | open | no | ? | ? |  |
+| [33](https://www.erdosproblems.com/33) | No | open | no | ? | ? |  |
+| [34](https://www.erdosproblems.com/34) | No | solved | no | ? | ? |  |
+| [35](https://www.erdosproblems.com/35) | No | solved | no | ? | ? |  |
+| [36](https://www.erdosproblems.com/36) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/36.lean) | ? | ? | minimum overlap problem |
+| [37](https://www.erdosproblems.com/37) | No | solved | no | ? | ? |  |
+| [38](https://www.erdosproblems.com/38) | No | open | no | ? | ? |  |
+| [39](https://www.erdosproblems.com/39) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/39.lean) | ? | ? |  |
+| [40](https://www.erdosproblems.com/40) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/40.lean) | ? | ? |  |
+| [41](https://www.erdosproblems.com/41) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/41.lean) | ? | ? |  |
+| [42](https://www.erdosproblems.com/42) | No | open | no | ? | ? |  |
+| [43](https://www.erdosproblems.com/43) | $100 | open | no | ? | ? |  |
+| [44](https://www.erdosproblems.com/44) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/44.lean) | ? | ? |  |
+| [45](https://www.erdosproblems.com/45) | No | solved | no | ? | ? |  |
+| [46](https://www.erdosproblems.com/46) | No | solved | no | ? | ? |  |
+| [47](https://www.erdosproblems.com/47) | $100 | solved | no | ? | ? |  |
+| [48](https://www.erdosproblems.com/48) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/48.lean) | ? | ? |  |
+| [49](https://www.erdosproblems.com/49) | No | solved | no | ? | ? |  |
+| [50](https://www.erdosproblems.com/50) | $250 | open | no | ? | ? |  |
+| [51](https://www.erdosproblems.com/51) | No | open | no | ? | ? |  |
+| [52](https://www.erdosproblems.com/52) | $250 | open | no | ? | ? | sum-product problem |
+| [53](https://www.erdosproblems.com/53) | No | solved | no | ? | ? |  |
+| [54](https://www.erdosproblems.com/54) | $100 | solved | no | ? | ? |  |
+| [55](https://www.erdosproblems.com/55) | $250 | solved | no | ? | ? |  |
+| [56](https://www.erdosproblems.com/56) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/56.lean) | ? | ? |  |
+| [57](https://www.erdosproblems.com/57) | No | solved | no | ? | ? |  |
+| [58](https://www.erdosproblems.com/58) | No | solved | no | ? | ? |  |
+| [59](https://www.erdosproblems.com/59) | No | solved | no | ? | ? |  |
+| [60](https://www.erdosproblems.com/60) | No | open | no | ? | ? |  |
+| [61](https://www.erdosproblems.com/61) | No | open | no | ? | ? |  |
+| [62](https://www.erdosproblems.com/62) | No | open | no | ? | ? |  |
+| [63](https://www.erdosproblems.com/63) | No | solved | no | ? | ? |  |
+| [64](https://www.erdosproblems.com/64) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/64.lean) | ? | ? |  |
+| [65](https://www.erdosproblems.com/65) | No | open | no | ? | ? |  |
+| [66](https://www.erdosproblems.com/66) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/66.lean) | ? | ? |  |
+| [67](https://www.erdosproblems.com/67) | $500 | solved | no | ? | ? | Erdős discrepancy problem |
+| [68](https://www.erdosproblems.com/68) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/68.lean) | [A331373](https://oeis.org/A331373) | ? |  |
+| [69](https://www.erdosproblems.com/69) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/69.lean) | ? | ? |  |
+| [70](https://www.erdosproblems.com/70) | No | open | no | ? | ? |  |
+| [71](https://www.erdosproblems.com/71) | No | solved | no | ? | ? |  |
+| [72](https://www.erdosproblems.com/72) | $100 | solved | no | ? | ? |  |
+| [73](https://www.erdosproblems.com/73) | No | solved | no | ? | ? |  |
+| [74](https://www.erdosproblems.com/74) | $500 | open | no | ? | ? |  |
+| [75](https://www.erdosproblems.com/75) | No | open | no | ? | ? |  |
+| [76](https://www.erdosproblems.com/76) | No | solved | no | ? | ? |  |
+| [77](https://www.erdosproblems.com/77) | $250 | open | no | ? | ? |  |
+| [78](https://www.erdosproblems.com/78) | $100 | open | no | ? | ? |  |
+| [79](https://www.erdosproblems.com/79) | No | solved | no | ? | ? |  |
+| [80](https://www.erdosproblems.com/80) | No | open | no | ? | ? |  |
+| [81](https://www.erdosproblems.com/81) | No | open | no | ? | ? |  |
+| [82](https://www.erdosproblems.com/82) | No | open | no | ? | ? |  |
+| [83](https://www.erdosproblems.com/83) | $500 | solved | no | ? | ? |  |
+| [84](https://www.erdosproblems.com/84) | No | open | no | ? | ? |  |
+| [85](https://www.erdosproblems.com/85) | No | open | no | ? | ? |  |
+| [86](https://www.erdosproblems.com/86) | $100 | open | no | ? | ? |  |
+| [87](https://www.erdosproblems.com/87) | No | open | no | ? | ? |  |
+| [88](https://www.erdosproblems.com/88) | $100 | solved | no | ? | ? |  |
+| [89](https://www.erdosproblems.com/89) | $500 | open | no | ? | ? |  |
+| [90](https://www.erdosproblems.com/90) | $500 | open | no | ? | ? | unit distance problem |
+| [91](https://www.erdosproblems.com/91) | No | open | no | ? | ? |  |
+| [92](https://www.erdosproblems.com/92) | $500 | open | no | ? | ? |  |
+| [93](https://www.erdosproblems.com/93) | No | solved | no | ? | ? |  |
+| [94](https://www.erdosproblems.com/94) | £25 | open | no | ? | ? |  |
+| [95](https://www.erdosproblems.com/95) | $500 | solved | no | ? | ? |  |
+| [96](https://www.erdosproblems.com/96) | No | open | no | ? | ? |  |
+| [97](https://www.erdosproblems.com/97) | $100 | open | no | ? | ? |  |
+| [98](https://www.erdosproblems.com/98) | No | open | no | ? | ? |  |
+| [99](https://www.erdosproblems.com/99) | $100 | open | no | ? | ? |  |
+| [100](https://www.erdosproblems.com/100) | No | open | no | ? | ? |  |
+| [101](https://www.erdosproblems.com/101) | $100 | open | no | ? | ? |  |
+| [102](https://www.erdosproblems.com/102) | No | open | no | ? | ? |  |
+| [103](https://www.erdosproblems.com/103) | No | open | no | ? | ? |  |
+| [104](https://www.erdosproblems.com/104) | $100 | open | no | [A003829](https://oeis.org/A003829) | ? |  |
+| [105](https://www.erdosproblems.com/105) | $50 | open | no | ? | ? |  |
+| [106](https://www.erdosproblems.com/106) | No | open | no | ? | ? |  |
+| [107](https://www.erdosproblems.com/107) | $500 | open | no | ? | ? | 'Happy Ending' problem |
+| [108](https://www.erdosproblems.com/108) | No | open | no | ? | ? |  |
+| [109](https://www.erdosproblems.com/109) | No | solved | no | ? | ? | Erdős sumset conjecture |
+| [110](https://www.erdosproblems.com/110) | No | open | no | ? | ? |  |
+| [111](https://www.erdosproblems.com/111) | No | open | no | ? | ? |  |
+| [112](https://www.erdosproblems.com/112) | No | open | no | ? | ? |  |
+| [113](https://www.erdosproblems.com/113) | $500 | solved | no | ? | ? |  |
+| [114](https://www.erdosproblems.com/114) | No | open | no | ? | ? |  |
+| [115](https://www.erdosproblems.com/115) | No | solved | no | ? | ? |  |
+| [116](https://www.erdosproblems.com/116) | No | solved | no | ? | ? |  |
+| [117](https://www.erdosproblems.com/117) | No | open | no | ? | ? |  |
+| [118](https://www.erdosproblems.com/118) | No | solved | no | ? | ? |  |
+| [119](https://www.erdosproblems.com/119) | $100 | open | no | ? | ? |  |
+| [120](https://www.erdosproblems.com/120) | $100 | open | no | ? | ? | Erdős similarity problem |
+| [121](https://www.erdosproblems.com/121) | No | solved | no | ? | ? |  |
+| [122](https://www.erdosproblems.com/122) | No | open | no | ? | ? |  |
+| [123](https://www.erdosproblems.com/123) | $250 | open | no | ? | ? |  |
+| [124](https://www.erdosproblems.com/124) | No | open | no | ? | ? |  |
+| [125](https://www.erdosproblems.com/125) | No | open | no | ? | ? |  |
+| [126](https://www.erdosproblems.com/126) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/126.lean) | ? | ? |  |
+| [127](https://www.erdosproblems.com/127) | No | solved | no | ? | ? |  |
+| [128](https://www.erdosproblems.com/128) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | ? | ? |  |
+| [129](https://www.erdosproblems.com/129) | No | open | no | ? | ? |  |
+| [130](https://www.erdosproblems.com/130) | No | open | no | ? | ? |  |
+| [131](https://www.erdosproblems.com/131) | No | open | no | ? | ? |  |
+| [132](https://www.erdosproblems.com/132) | $100 | open | no | ? | ? |  |
+| [133](https://www.erdosproblems.com/133) | No | solved | no | ? | ? |  |
+| [134](https://www.erdosproblems.com/134) | No | solved | no | ? | ? |  |
+| [135](https://www.erdosproblems.com/135) | $250 | solved | no | ? | ? |  |
+| [136](https://www.erdosproblems.com/136) | No | solved | no | ? | ? |  |
+| [137](https://www.erdosproblems.com/137) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/137.lean) | ? | ? |  |
+| [138](https://www.erdosproblems.com/138) | $500 | open | no | ? | ? |  |
+| [139](https://www.erdosproblems.com/139) | $1000 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/139.lean) | ? | ? |  |
+| [140](https://www.erdosproblems.com/140) | $500 | solved | no | ? | ? |  |
+| [141](https://www.erdosproblems.com/141) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/141.lean) | ? | ? |  |
+| [142](https://www.erdosproblems.com/142) | $10000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/142.lean) | ? | ? |  |
+| [143](https://www.erdosproblems.com/143) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/143.lean) | ? | ? |  |
+| [144](https://www.erdosproblems.com/144) | $250 | solved | no | ? | ? |  |
+| [145](https://www.erdosproblems.com/145) | No | open | no | ? | ? |  |
+| [146](https://www.erdosproblems.com/146) | $500 | open | no | ? | ? |  |
+| [147](https://www.erdosproblems.com/147) | $500 | solved | no | ? | ? |  |
+| [148](https://www.erdosproblems.com/148) | No | open | no | ? | ? |  |
+| [149](https://www.erdosproblems.com/149) | No | open | no | ? | ? |  |
+| [150](https://www.erdosproblems.com/150) | No | solved | no | ? | ? |  |
+| [151](https://www.erdosproblems.com/151) | No | open | no | ? | ? |  |
+| [152](https://www.erdosproblems.com/152) | No | open | no | ? | ? |  |
+| [153](https://www.erdosproblems.com/153) | No | open | no | ? | ? |  |
+| [154](https://www.erdosproblems.com/154) | No | solved | no | ? | ? |  |
+| [155](https://www.erdosproblems.com/155) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/155.lean) | ? | ? |  |
+| [156](https://www.erdosproblems.com/156) | No | open | no | ? | ? |  |
+| [157](https://www.erdosproblems.com/157) | No | solved | no | ? | ? |  |
+| [158](https://www.erdosproblems.com/158) | No | open | no | ? | ? |  |
+| [159](https://www.erdosproblems.com/159) | No | open | no | ? | ? |  |
+| [160](https://www.erdosproblems.com/160) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/160.lean) | ? | ? |  |
+| [161](https://www.erdosproblems.com/161) | $500 | open | no | ? | ? |  |
+| [162](https://www.erdosproblems.com/162) | No | open | no | ? | ? |  |
+| [163](https://www.erdosproblems.com/163) | No | solved | no | ? | ? | Burr-Erdős conjecture. |
+| [164](https://www.erdosproblems.com/164) | No | solved | no | ? | ? |  |
+| [165](https://www.erdosproblems.com/165) | $250 | open | no | ? | ? |  |
+| [166](https://www.erdosproblems.com/166) | $250 | solved | no | ? | ? |  |
+| [167](https://www.erdosproblems.com/167) | No | open | no | ? | ? |  |
+| [168](https://www.erdosproblems.com/168) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/168.lean) | ? | ? |  |
+| [169](https://www.erdosproblems.com/169) | No | open | no | ? | ? |  |
+| [170](https://www.erdosproblems.com/170) | No | open | no | ? | ? | Sparse Ruler problem |
+| [171](https://www.erdosproblems.com/171) | No | solved | no | ? | ? | density Hales-Jewett |
+| [172](https://www.erdosproblems.com/172) | No | open | no | ? | ? |  |
+| [173](https://www.erdosproblems.com/173) | No | open | no | ? | ? |  |
+| [174](https://www.erdosproblems.com/174) | No | open | no | ? | ? |  |
+| [175](https://www.erdosproblems.com/175) | No | solved | no | ? | ? |  |
+| [176](https://www.erdosproblems.com/176) | No | open | no | ? | ? |  |
+| [177](https://www.erdosproblems.com/177) | No | open | no | ? | ? |  |
+| [178](https://www.erdosproblems.com/178) | No | solved | no | ? | ? |  |
+| [179](https://www.erdosproblems.com/179) | No | solved | no | ? | ? |  |
+| [180](https://www.erdosproblems.com/180) | No | open | no | ? | ? |  |
+| [181](https://www.erdosproblems.com/181) | No | open | no | ? | ? |  |
+| [182](https://www.erdosproblems.com/182) | No | solved | no | ? | ? |  |
+| [183](https://www.erdosproblems.com/183) | $250 | open | no | ? | ? |  |
+| [184](https://www.erdosproblems.com/184) | No | open | no | ? | ? |  |
+| [185](https://www.erdosproblems.com/185) | No | solved | no | ? | ? |  |
+| [186](https://www.erdosproblems.com/186) | No | solved | no | ? | ? |  |
+| [187](https://www.erdosproblems.com/187) | No | open | no | ? | ? |  |
+| [188](https://www.erdosproblems.com/188) | No | open | no | ? | ? |  |
+| [189](https://www.erdosproblems.com/189) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/189.lean) | ? | ? |  |
+| [190](https://www.erdosproblems.com/190) | No | open | no | ? | ? |  |
+| [191](https://www.erdosproblems.com/191) | No | solved | no | ? | ? |  |
+| [192](https://www.erdosproblems.com/192) | No | solved | no | ? | ? |  |
+| [193](https://www.erdosproblems.com/193) | No | open | no | ? | ? |  |
+| [194](https://www.erdosproblems.com/194) | No | solved | no | ? | ? |  |
+| [195](https://www.erdosproblems.com/195) | No | open | no | ? | ? |  |
+| [196](https://www.erdosproblems.com/196) | No | open | no | ? | ? |  |
+| [197](https://www.erdosproblems.com/197) | No | open | no | ? | ? |  |
+| [198](https://www.erdosproblems.com/198) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/198.lean) | ? | ? |  |
+| [199](https://www.erdosproblems.com/199) | No | solved | no | ? | ? |  |
+| [200](https://www.erdosproblems.com/200) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/200.lean) | ? | ? |  |
+| [201](https://www.erdosproblems.com/201) | No | open | no | ? | ? |  |
+| [202](https://www.erdosproblems.com/202) | No | open | no | ? | ? |  |
+| [203](https://www.erdosproblems.com/203) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/203.lean) | ? | ? |  |
+| [204](https://www.erdosproblems.com/204) | No | solved | no | ? | ? |  |
+| [205](https://www.erdosproblems.com/205) | No | open | no | ? | ? |  |
+| [206](https://www.erdosproblems.com/206) | No | solved | no | ? | ? |  |
+| [207](https://www.erdosproblems.com/207) | No | solved | no | ? | ? |  |
+| [208](https://www.erdosproblems.com/208) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/208.lean) | ? | ? |  |
+| [209](https://www.erdosproblems.com/209) | No | solved | no | ? | ? |  |
+| [210](https://www.erdosproblems.com/210) | No | solved | no | ? | ? |  |
+| [211](https://www.erdosproblems.com/211) | $100 | solved | no | ? | ? |  |
+| [212](https://www.erdosproblems.com/212) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/212.lean) | ? | ? |  |
+| [213](https://www.erdosproblems.com/213) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/213.lean) | ? | ? |  |
+| [214](https://www.erdosproblems.com/214) | No | solved | no | ? | ? |  |
+| [215](https://www.erdosproblems.com/215) | No | solved | no | ? | ? |  |
+| [216](https://www.erdosproblems.com/216) | No | solved | no | ? | ? |  |
+| [217](https://www.erdosproblems.com/217) | No | open | no | ? | ? |  |
+| [218](https://www.erdosproblems.com/218) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/218.lean) | ? | ? |  |
+| [219](https://www.erdosproblems.com/219) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/219.lean) | ? | ? |  |
+| [220](https://www.erdosproblems.com/220) | $500 | solved | no | ? | ? |  |
+| [221](https://www.erdosproblems.com/221) | No | solved | no | ? | ? |  |
+| [222](https://www.erdosproblems.com/222) | No | open | no | [A256435](https://oeis.org/A256435) | ? |  |
+| [223](https://www.erdosproblems.com/223) | No | open | no | ? | ? |  |
+| [224](https://www.erdosproblems.com/224) | No | solved | no | ? | ? |  |
+| [225](https://www.erdosproblems.com/225) | No | solved | no | ? | ? |  |
+| [226](https://www.erdosproblems.com/226) | No | solved | no | ? | ? |  |
+| [227](https://www.erdosproblems.com/227) | No | solved | no | ? | ? |  |
+| [228](https://www.erdosproblems.com/228) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/228.lean) | ? | ? |  |
+| [229](https://www.erdosproblems.com/229) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/229.lean) | ? | ? |  |
+| [230](https://www.erdosproblems.com/230) | No | solved | no | ? | ? |  |
+| [231](https://www.erdosproblems.com/231) | No | solved | no | ? | ? |  |
+| [232](https://www.erdosproblems.com/232) | No | solved | no | ? | ? |  |
+| [233](https://www.erdosproblems.com/233) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/233.lean) | [A074741](https://oeis.org/A074741) | ? |  |
+| [234](https://www.erdosproblems.com/234) | No | open | no | ? | ? |  |
+| [235](https://www.erdosproblems.com/235) | No | solved | no | ? | ? |  |
+| [236](https://www.erdosproblems.com/236) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/236.lean) | [A109925](https://oeis.org/A109925) | ? |  |
+| [237](https://www.erdosproblems.com/237) | No | solved | no | ? | ? |  |
+| [238](https://www.erdosproblems.com/238) | No | open | no | ? | ? |  |
+| [239](https://www.erdosproblems.com/239) | No | solved | no | ? | ? |  |
+| [240](https://www.erdosproblems.com/240) | No | solved | no | ? | ? |  |
+| [241](https://www.erdosproblems.com/241) | $100 | open | no | ? | ? |  |
+| [242](https://www.erdosproblems.com/242) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/242.lean) | ? | ? | Erdős-Straus conjecture |
+| [243](https://www.erdosproblems.com/243) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/243.lean) | [A000058](https://oeis.org/A000058) | ? |  |
+| [244](https://www.erdosproblems.com/244) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/244.lean) | ? | ? |  |
+| [245](https://www.erdosproblems.com/245) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/245.lean) | ? | ? |  |
+| [246](https://www.erdosproblems.com/246) | No | solved | no | ? | ? |  |
+| [247](https://www.erdosproblems.com/247) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/247.lean) | ? | ? |  |
+| [248](https://www.erdosproblems.com/248) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/248.lean) | ? | ? |  |
+| [249](https://www.erdosproblems.com/249) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/249.lean) | [A256936](https://oeis.org/A256936) | ? |  |
+| [250](https://www.erdosproblems.com/250) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/250.lean) | ? | ? |  |
+| [251](https://www.erdosproblems.com/251) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/251.lean) | [A098990](https://oeis.org/A098990) | ? |  |
+| [252](https://www.erdosproblems.com/252) | No | open | no | ? | ? |  |
+| [253](https://www.erdosproblems.com/253) | No | solved | no | ? | ? |  |
+| [254](https://www.erdosproblems.com/254) | No | open | no | ? | ? |  |
+| [255](https://www.erdosproblems.com/255) | No | solved | no | ? | ? |  |
+| [256](https://www.erdosproblems.com/256) | No | open | no | ? | ? |  |
+| [257](https://www.erdosproblems.com/257) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/257.lean) | ? | ? |  |
+| [258](https://www.erdosproblems.com/258) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/258.lean) | ? | ? |  |
+| [259](https://www.erdosproblems.com/259) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/259.lean) | ? | ? |  |
+| [260](https://www.erdosproblems.com/260) | No | open | no | ? | ? |  |
+| [261](https://www.erdosproblems.com/261) | No | open | no | ? | ? |  |
+| [262](https://www.erdosproblems.com/262) | No | solved | no | ? | ? |  |
+| [263](https://www.erdosproblems.com/263) | No | open | no | ? | ? |  |
+| [264](https://www.erdosproblems.com/264) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/264.lean) | ? | ? |  |
+| [265](https://www.erdosproblems.com/265) | No | open | no | ? | ? |  |
+| [266](https://www.erdosproblems.com/266) | No | solved | no | ? | ? |  |
+| [267](https://www.erdosproblems.com/267) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/267.lean) | ? | ? |  |
+| [268](https://www.erdosproblems.com/268) | No | solved | no | ? | ? |  |
+| [269](https://www.erdosproblems.com/269) | No | open | no | ? | ? |  |
+| [270](https://www.erdosproblems.com/270) | No | solved | no | ? | ? |  |
+| [271](https://www.erdosproblems.com/271) | No | open | no | [A005487](https://oeis.org/A005487) | ? |  |
+| [272](https://www.erdosproblems.com/272) | No | open | no | ? | ? |  |
+| [273](https://www.erdosproblems.com/273) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/273.lean) | ? | ? |  |
+| [274](https://www.erdosproblems.com/274) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/274.lean) | ? | ? |  |
+| [275](https://www.erdosproblems.com/275) | No | solved | no | ? | ? |  |
+| [276](https://www.erdosproblems.com/276) | No | open | no | ? | ? |  |
+| [277](https://www.erdosproblems.com/277) | No | solved | no | ? | ? |  |
+| [278](https://www.erdosproblems.com/278) | No | open | no | ? | ? |  |
+| [279](https://www.erdosproblems.com/279) | No | open | no | ? | ? |  |
+| [280](https://www.erdosproblems.com/280) | No | solved | no | ? | ? |  |
+| [281](https://www.erdosproblems.com/281) | No | open | no | ? | ? |  |
+| [282](https://www.erdosproblems.com/282) | No | open | no | ? | ? |  |
+| [283](https://www.erdosproblems.com/283) | No | open | no | ? | ? |  |
+| [284](https://www.erdosproblems.com/284) | No | solved | no | ? | ? |  |
+| [285](https://www.erdosproblems.com/285) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/285.lean) | ? | ? |  |
+| [286](https://www.erdosproblems.com/286) | No | solved | no | ? | ? |  |
+| [287](https://www.erdosproblems.com/287) | No | open | no | ? | ? |  |
+| [288](https://www.erdosproblems.com/288) | No | open | no | ? | ? |  |
+| [289](https://www.erdosproblems.com/289) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/289.lean) | ? | ? |  |
+| [290](https://www.erdosproblems.com/290) | No | solved | no | [A375081](https://oeis.org/A375081) | ? |  |
+| [291](https://www.erdosproblems.com/291) | No | open | no | ? | ? |  |
+| [292](https://www.erdosproblems.com/292) | No | solved | no | ? | ? |  |
+| [293](https://www.erdosproblems.com/293) | No | open | no | ? | ? |  |
+| [294](https://www.erdosproblems.com/294) | No | solved | no | ? | ? |  |
+| [295](https://www.erdosproblems.com/295) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/295.lean) | ? | ? |  |
+| [296](https://www.erdosproblems.com/296) | No | solved | no | ? | ? |  |
+| [297](https://www.erdosproblems.com/297) | No | solved | no | ? | ? |  |
+| [298](https://www.erdosproblems.com/298) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/298.lean) | ? | ? |  |
+| [299](https://www.erdosproblems.com/299) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/299.lean) | ? | ? |  |
+| [300](https://www.erdosproblems.com/300) | No | solved | no | ? | ? |  |
+| [301](https://www.erdosproblems.com/301) | No | open | no | ? | ? |  |
+| [302](https://www.erdosproblems.com/302) | No | open | no | ? | ? |  |
+| [303](https://www.erdosproblems.com/303) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/303.lean) | ? | ? |  |
+| [304](https://www.erdosproblems.com/304) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/304.lean) | ? | ? |  |
+| [305](https://www.erdosproblems.com/305) | No | solved | no | ? | ? |  |
+| [306](https://www.erdosproblems.com/306) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/306.lean) | ? | ? |  |
+| [307](https://www.erdosproblems.com/307) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | ? | ? |  |
+| [308](https://www.erdosproblems.com/308) | No | solved | no | ? | ? |  |
+| [309](https://www.erdosproblems.com/309) | No | solved | no | ? | ? |  |
+| [310](https://www.erdosproblems.com/310) | No | solved | no | ? | ? |  |
+| [311](https://www.erdosproblems.com/311) | No | open | no | ? | ? |  |
+| [312](https://www.erdosproblems.com/312) | No | open | no | ? | ? |  |
+| [313](https://www.erdosproblems.com/313) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/313.lean) | [A054377](https://oeis.org/A054377) | ? |  |
+| [314](https://www.erdosproblems.com/314) | No | solved | no | ? | ? |  |
+| [315](https://www.erdosproblems.com/315) | No | solved | no | [A000058](https://oeis.org/A000058), [A076393](https://oeis.org/A076393) | ? |  |
+| [316](https://www.erdosproblems.com/316) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/316.lean) | ? | ? |  |
+| [317](https://www.erdosproblems.com/317) | No | open | no | ? | ? |  |
+| [318](https://www.erdosproblems.com/318) | No | open | no | ? | ? |  |
+| [319](https://www.erdosproblems.com/319) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/319.lean) | ? | ? |  |
+| [320](https://www.erdosproblems.com/320) | No | open | no | ? | ? |  |
+| [321](https://www.erdosproblems.com/321) | No | open | no | ? | ? |  |
+| [322](https://www.erdosproblems.com/322) | No | open | no | ? | ? |  |
+| [323](https://www.erdosproblems.com/323) | No | open | no | ? | ? |  |
+| [324](https://www.erdosproblems.com/324) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/324.lean) | ? | ? |  |
+| [325](https://www.erdosproblems.com/325) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/325.lean) | ? | ? |  |
+| [326](https://www.erdosproblems.com/326) | No | open | no | ? | ? |  |
+| [327](https://www.erdosproblems.com/327) | No | open | no | ? | ? |  |
+| [328](https://www.erdosproblems.com/328) | No | solved | no | ? | ? |  |
+| [329](https://www.erdosproblems.com/329) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/329.lean) | ? | ? |  |
+| [330](https://www.erdosproblems.com/330) | No | open | no | ? | ? |  |
+| [331](https://www.erdosproblems.com/331) | No | solved | no | ? | ? |  |
+| [332](https://www.erdosproblems.com/332) | No | open | no | ? | ? |  |
+| [333](https://www.erdosproblems.com/333) | No | open | no | ? | ? |  |
+| [334](https://www.erdosproblems.com/334) | No | open | no | ? | ? |  |
+| [335](https://www.erdosproblems.com/335) | No | open | no | ? | ? |  |
+| [336](https://www.erdosproblems.com/336) | No | open | no | ? | ? |  |
+| [337](https://www.erdosproblems.com/337) | No | solved | no | ? | ? |  |
+| [338](https://www.erdosproblems.com/338) | No | open | no | ? | ? |  |
+| [339](https://www.erdosproblems.com/339) | No | open | no | ? | ? |  |
+| [340](https://www.erdosproblems.com/340) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/340.lean) | [A080200](https://oeis.org/A080200), [A005282](https://oeis.org/A005282) | ? |  |
+| [341](https://www.erdosproblems.com/341) | No | open | no | ? | ? |  |
+| [342](https://www.erdosproblems.com/342) | No | open | no | [A002858](https://oeis.org/A002858) | ? |  |
+| [343](https://www.erdosproblems.com/343) | No | solved | no | ? | ? |  |
+| [344](https://www.erdosproblems.com/344) | No | solved | no | ? | ? |  |
+| [345](https://www.erdosproblems.com/345) | No | open | no | ? | ? |  |
+| [346](https://www.erdosproblems.com/346) | No | open | no | ? | ? |  |
+| [347](https://www.erdosproblems.com/347) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/347.lean) | ? | ? |  |
+| [348](https://www.erdosproblems.com/348) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/348.lean) | ? | ? |  |
+| [349](https://www.erdosproblems.com/349) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/349.lean) | ? | ? |  |
+| [350](https://www.erdosproblems.com/350) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/350.lean) | ? | ? |  |
+| [351](https://www.erdosproblems.com/351) | No | open | no | ? | ? |  |
+| [352](https://www.erdosproblems.com/352) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/352.lean) | ? | ? |  |
+| [353](https://www.erdosproblems.com/353) | No | solved | no | ? | ? |  |
+| [354](https://www.erdosproblems.com/354) | No | open | no | ? | ? |  |
+| [355](https://www.erdosproblems.com/355) | No | solved | no | ? | ? |  |
+| [356](https://www.erdosproblems.com/356) | No | solved | no | ? | ? |  |
+| [357](https://www.erdosproblems.com/357) | No | open | no | ? | ? |  |
+| [358](https://www.erdosproblems.com/358) | No | open | no | ? | ? |  |
+| [359](https://www.erdosproblems.com/359) | No | open | no | [A002048](https://oeis.org/A002048) | ? |  |
+| [360](https://www.erdosproblems.com/360) | No | solved | no | ? | ? |  |
+| [361](https://www.erdosproblems.com/361) | No | open | no | ? | ? |  |
+| [362](https://www.erdosproblems.com/362) | No | solved | no | ? | ? |  |
+| [363](https://www.erdosproblems.com/363) | No | solved | no | ? | ? |  |
+| [364](https://www.erdosproblems.com/364) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | ? |  |
+| [365](https://www.erdosproblems.com/365) | No | open | no | [A060355](https://oeis.org/A060355) | ? |  |
+| [366](https://www.erdosproblems.com/366) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | ? |  |
+| [367](https://www.erdosproblems.com/367) | No | open | no | ? | ? |  |
+| [368](https://www.erdosproblems.com/368) | No | open | no | [A074399](https://oeis.org/A074399) | ? |  |
+| [369](https://www.erdosproblems.com/369) | No | open | no | ? | ? |  |
+| [370](https://www.erdosproblems.com/370) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | ? | ? |  |
+| [371](https://www.erdosproblems.com/371) | No | open | no | [A070089](https://oeis.org/A070089) | ? |  |
+| [372](https://www.erdosproblems.com/372) | No | solved | no | ? | ? |  |
+| [373](https://www.erdosproblems.com/373) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | ? | ? |  |
+| [374](https://www.erdosproblems.com/374) | No | open | no | ? | ? |  |
+| [375](https://www.erdosproblems.com/375) | No | open | no | ? | ? |  |
+| [376](https://www.erdosproblems.com/376) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/376.lean) | [A030979](https://oeis.org/A030979) | ? |  |
+| [377](https://www.erdosproblems.com/377) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/377.lean) | ? | ? |  |
+| [378](https://www.erdosproblems.com/378) | No | solved | no | ? | ? |  |
+| [379](https://www.erdosproblems.com/379) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/379.lean) | ? | ? | Proof formalized |
+| [380](https://www.erdosproblems.com/380) | No | open | no | ? | ? |  |
+| [381](https://www.erdosproblems.com/381) | No | solved | no | ? | ? |  |
+| [382](https://www.erdosproblems.com/382) | No | open | no | ? | ? |  |
+| [383](https://www.erdosproblems.com/383) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/383.lean) | ? | ? |  |
+| [384](https://www.erdosproblems.com/384) | No | solved | no | ? | ? |  |
+| [385](https://www.erdosproblems.com/385) | No | open | no | ? | ? |  |
+| [386](https://www.erdosproblems.com/386) | No | open | no | [A280992](https://oeis.org/A280992) | ? |  |
+| [387](https://www.erdosproblems.com/387) | No | open | no | ? | ? |  |
+| [388](https://www.erdosproblems.com/388) | No | open | no | ? | ? |  |
+| [389](https://www.erdosproblems.com/389) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/389.lean) | [A375071](https://oeis.org/A375071) | ? |  |
+| [390](https://www.erdosproblems.com/390) | No | open | no | ? | ? |  |
+| [391](https://www.erdosproblems.com/391) | No | solved | no | ? | ? |  |
+| [392](https://www.erdosproblems.com/392) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/392.lean) | ? | ? |  |
+| [393](https://www.erdosproblems.com/393) | No | open | no | ? | ? |  |
+| [394](https://www.erdosproblems.com/394) | No | solved | no | ? | ? |  |
+| [395](https://www.erdosproblems.com/395) | No | solved | no | ? | ? | reverse Littlewood-Offord problem |
+| [396](https://www.erdosproblems.com/396) | No | open | no | [A375077](https://oeis.org/A375077) | ? |  |
+| [397](https://www.erdosproblems.com/397) | No | open | no | ? | ? |  |
+| [398](https://www.erdosproblems.com/398) | No | open | no | [A146968](https://oeis.org/A146968) | ? | Brocard-Ramanujan conjecture |
+| [399](https://www.erdosproblems.com/399) | No | solved | no | ? | ? |  |
+| [400](https://www.erdosproblems.com/400) | No | open | no | ? | ? |  |
+| [401](https://www.erdosproblems.com/401) | No | open | no | ? | ? |  |
+| [402](https://www.erdosproblems.com/402) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/402.lean) | ? | ? |  |
+| [403](https://www.erdosproblems.com/403) | No | solved | no | ? | ? |  |
+| [404](https://www.erdosproblems.com/404) | No | open | no | ? | ? |  |
+| [405](https://www.erdosproblems.com/405) | No | solved | no | ? | ? |  |
+| [406](https://www.erdosproblems.com/406) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/406.lean) | ? | ? |  |
+| [407](https://www.erdosproblems.com/407) | No | solved | no | ? | ? |  |
+| [408](https://www.erdosproblems.com/408) | No | open | no | ? | ? |  |
+| [409](https://www.erdosproblems.com/409) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/409.lean) | [A039651](https://oeis.org/A039651) | ? |  |
+| [410](https://www.erdosproblems.com/410) | No | open | no | ? | ? |  |
+| [411](https://www.erdosproblems.com/411) | No | open | no | ? | ? |  |
+| [412](https://www.erdosproblems.com/412) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/412.lean) | ? | ? |  |
+| [413](https://www.erdosproblems.com/413) | No | open | no | ? | ? |  |
+| [414](https://www.erdosproblems.com/414) | No | open | no | ? | ? |  |
+| [415](https://www.erdosproblems.com/415) | No | open | no | ? | ? |  |
+| [416](https://www.erdosproblems.com/416) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/416.lean) | ? | ? |  |
+| [417](https://www.erdosproblems.com/417) | No | open | no | ? | ? |  |
+| [418](https://www.erdosproblems.com/418) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/418.lean) | ? | ? |  |
+| [419](https://www.erdosproblems.com/419) | No | solved | no | ? | ? |  |
+| [420](https://www.erdosproblems.com/420) | No | open | no | ? | ? |  |
+| [421](https://www.erdosproblems.com/421) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | ? | ? |  |
+| [422](https://www.erdosproblems.com/422) | No | open | no | [A005185](https://oeis.org/A005185) | ? |  |
+| [423](https://www.erdosproblems.com/423) | No | open | no | [A005243](https://oeis.org/A005243) | ? |  |
+| [424](https://www.erdosproblems.com/424) | No | open | no | [A005244](https://oeis.org/A005244) | ? |  |
+| [425](https://www.erdosproblems.com/425) | No | open | no | ? | ? |  |
+| [426](https://www.erdosproblems.com/426) | $25 | solved | no | ? | ? |  |
+| [427](https://www.erdosproblems.com/427) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/427.lean) | ? | ? |  |
+| [428](https://www.erdosproblems.com/428) | No | open | no | ? | ? |  |
+| [429](https://www.erdosproblems.com/429) | No | solved | no | ? | ? |  |
+| [430](https://www.erdosproblems.com/430) | No | open | no | ? | ? |  |
+| [431](https://www.erdosproblems.com/431) | No | open | no | ? | ? | inverse Goldbach problem |
+| [432](https://www.erdosproblems.com/432) | No | open | no | ? | ? |  |
+| [433](https://www.erdosproblems.com/433) | No | open | no | ? | ? |  |
+| [434](https://www.erdosproblems.com/434) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | ? | ? |  |
+| [435](https://www.erdosproblems.com/435) | No | open | no | ? | ? |  |
+| [436](https://www.erdosproblems.com/436) | No | open | no | ? | ? |  |
+| [437](https://www.erdosproblems.com/437) | No | solved | no | ? | ? |  |
+| [438](https://www.erdosproblems.com/438) | No | solved | no | ? | ? |  |
+| [439](https://www.erdosproblems.com/439) | No | solved | no | ? | ? |  |
+| [440](https://www.erdosproblems.com/440) | No | open | no | ? | ? |  |
+| [441](https://www.erdosproblems.com/441) | No | solved | no | ? | ? |  |
+| [442](https://www.erdosproblems.com/442) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/442.lean) | ? | ? |  |
+| [443](https://www.erdosproblems.com/443) | No | solved | no | ? | ? |  |
+| [444](https://www.erdosproblems.com/444) | No | solved | no | ? | ? |  |
+| [445](https://www.erdosproblems.com/445) | No | open | no | ? | ? |  |
+| [446](https://www.erdosproblems.com/446) | No | solved | no | ? | ? |  |
+| [447](https://www.erdosproblems.com/447) | No | solved | no | ? | ? |  |
+| [448](https://www.erdosproblems.com/448) | No | solved | no | ? | ? |  |
+| [449](https://www.erdosproblems.com/449) | No | solved | no | ? | ? |  |
+| [450](https://www.erdosproblems.com/450) | No | open | no | ? | ? |  |
+| [451](https://www.erdosproblems.com/451) | No | open | no | ? | ? |  |
+| [452](https://www.erdosproblems.com/452) | No | open | no | ? | ? |  |
+| [453](https://www.erdosproblems.com/453) | No | solved | no | ? | ? |  |
+| [454](https://www.erdosproblems.com/454) | No | open | no | ? | ? |  |
+| [455](https://www.erdosproblems.com/455) | No | open | no | ? | ? |  |
+| [456](https://www.erdosproblems.com/456) | No | open | no | ? | ? |  |
+| [457](https://www.erdosproblems.com/457) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | ? | ? |  |
+| [458](https://www.erdosproblems.com/458) | No | open | no | ? | ? |  |
+| [459](https://www.erdosproblems.com/459) | No | solved | no | ? | ? |  |
+| [460](https://www.erdosproblems.com/460) | No | open | no | ? | ? |  |
+| [461](https://www.erdosproblems.com/461) | No | open | no | ? | ? |  |
+| [462](https://www.erdosproblems.com/462) | No | open | no | ? | ? |  |
+| [463](https://www.erdosproblems.com/463) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/463.lean) | ? | ? |  |
+| [464](https://www.erdosproblems.com/464) | No | solved | no | ? | ? |  |
+| [465](https://www.erdosproblems.com/465) | No | solved | no | ? | ? |  |
+| [466](https://www.erdosproblems.com/466) | No | solved | no | ? | ? |  |
+| [467](https://www.erdosproblems.com/467) | No | open | no | ? | ? |  |
+| [468](https://www.erdosproblems.com/468) | No | open | no | ? | ? |  |
+| [469](https://www.erdosproblems.com/469) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/469.lean) | [A006036](https://oeis.org/A006036) | ? |  |
+| [470](https://www.erdosproblems.com/470) | No | open | no | [A006037](https://oeis.org/A006037) | ? |  |
+| [471](https://www.erdosproblems.com/471) | No | solved | no | ? | ? |  |
+| [472](https://www.erdosproblems.com/472) | No | open | no | ? | ? |  |
+| [473](https://www.erdosproblems.com/473) | No | solved | no | ? | ? |  |
+| [474](https://www.erdosproblems.com/474) | $100 | solved | no | ? | ? |  |
+| [475](https://www.erdosproblems.com/475) | No | open | no | ? | ? |  |
+| [476](https://www.erdosproblems.com/476) | No | solved | no | ? | ? |  |
+| [477](https://www.erdosproblems.com/477) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | ? | ? |  |
+| [478](https://www.erdosproblems.com/478) | No | open | no | ? | ? |  |
+| [479](https://www.erdosproblems.com/479) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236) | ? |  |
+| [480](https://www.erdosproblems.com/480) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/480.lean) | ? | ? |  |
+| [481](https://www.erdosproblems.com/481) | No | open | no | ? | ? |  |
+| [482](https://www.erdosproblems.com/482) | No | solved | no | ? | ? |  |
+| [483](https://www.erdosproblems.com/483) | No | open | no | [A030126](https://oeis.org/A030126) | ? |  |
+| [484](https://www.erdosproblems.com/484) | No | solved | no | ? | ? |  |
+| [485](https://www.erdosproblems.com/485) | No | solved | no | ? | ? |  |
+| [486](https://www.erdosproblems.com/486) | No | open | no | ? | ? |  |
+| [487](https://www.erdosproblems.com/487) | No | solved | no | ? | ? |  |
+| [488](https://www.erdosproblems.com/488) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | ? | ? |  |
+| [489](https://www.erdosproblems.com/489) | No | open | no | ? | ? |  |
+| [490](https://www.erdosproblems.com/490) | No | solved | no | ? | ? |  |
+| [491](https://www.erdosproblems.com/491) | No | solved | no | ? | ? |  |
+| [492](https://www.erdosproblems.com/492) | No | solved | no | ? | ? |  |
+| [493](https://www.erdosproblems.com/493) | No | solved | no | ? | ? |  |
+| [494](https://www.erdosproblems.com/494) | No | open | no | ? | ? |  |
+| [495](https://www.erdosproblems.com/495) | No | open | no | ? | ? | Littlewood conjecture |
+| [496](https://www.erdosproblems.com/496) | No | solved | no | ? | ? |  |
+| [497](https://www.erdosproblems.com/497) | No | solved | no | ? | ? | Dedekind's problem |
+| [498](https://www.erdosproblems.com/498) | No | solved | no | ? | ? | strong Littlewood-Offord problem |
+| [499](https://www.erdosproblems.com/499) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | ? | ? |  |
+| [500](https://www.erdosproblems.com/500) | $500 | open | no | ? | ? |  |
+| [501](https://www.erdosproblems.com/501) | No | open | no | ? | ? |  |
+| [502](https://www.erdosproblems.com/502) | No | solved | no | ? | ? |  |
+| [503](https://www.erdosproblems.com/503) | No | open | no | ? | ? |  |
+| [504](https://www.erdosproblems.com/504) | No | solved | no | ? | ? | Blumenthal's problem |
+| [505](https://www.erdosproblems.com/505) | No | solved | no | ? | ? | Borsuk's problem |
+| [506](https://www.erdosproblems.com/506) | No | solved | no | ? | ? |  |
+| [507](https://www.erdosproblems.com/507) | No | open | no | ? | ? | Heilbronn's triangle problem |
+| [508](https://www.erdosproblems.com/508) | No | open | no | ? | ? | Hadwiger-Nelson problem |
+| [509](https://www.erdosproblems.com/509) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/509.lean) | ? | ? |  |
+| [510](https://www.erdosproblems.com/510) | No | open | no | ? | ? | Chowla's cosine problem |
+| [511](https://www.erdosproblems.com/511) | No | open | no | ? | ? |  |
+| [512](https://www.erdosproblems.com/512) | No | solved | no | ? | ? | Littlewood's conjecture |
+| [513](https://www.erdosproblems.com/513) | No | open | no | ? | ? |  |
+| [514](https://www.erdosproblems.com/514) | No | open | no | ? | ? |  |
+| [515](https://www.erdosproblems.com/515) | No | open | no | ? | ? |  |
+| [516](https://www.erdosproblems.com/516) | No | open | no | ? | ? |  |
+| [517](https://www.erdosproblems.com/517) | No | open | no | ? | ? |  |
+| [518](https://www.erdosproblems.com/518) | No | solved | no | ? | ? |  |
+| [519](https://www.erdosproblems.com/519) | No | solved | no | ? | ? |  |
+| [520](https://www.erdosproblems.com/520) | No | open | no | ? | ? |  |
+| [521](https://www.erdosproblems.com/521) | No | open | no | ? | ? |  |
+| [522](https://www.erdosproblems.com/522) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/522.lean) | ? | ? |  |
+| [523](https://www.erdosproblems.com/523) | No | solved | no | ? | ? |  |
+| [524](https://www.erdosproblems.com/524) | No | open | no | ? | ? |  |
+| [525](https://www.erdosproblems.com/525) | No | solved | no | ? | ? |  |
+| [526](https://www.erdosproblems.com/526) | No | solved | no | ? | ? |  |
+| [527](https://www.erdosproblems.com/527) | No | open | no | ? | ? |  |
+| [528](https://www.erdosproblems.com/528) | No | open | no | ? | ? |  |
+| [529](https://www.erdosproblems.com/529) | No | open | no | ? | ? |  |
+| [530](https://www.erdosproblems.com/530) | No | open | no | ? | ? |  |
+| [531](https://www.erdosproblems.com/531) | No | open | no | ? | ? |  |
+| [532](https://www.erdosproblems.com/532) | No | solved | no | ? | ? |  |
+| [533](https://www.erdosproblems.com/533) | No | open | no | ? | ? |  |
+| [534](https://www.erdosproblems.com/534) | No | solved | no | ? | ? |  |
+| [535](https://www.erdosproblems.com/535) | No | open | no | ? | ? |  |
+| [536](https://www.erdosproblems.com/536) | No | open | no | ? | ? |  |
+| [537](https://www.erdosproblems.com/537) | No | solved | no | ? | ? |  |
+| [538](https://www.erdosproblems.com/538) | No | open | no | ? | ? |  |
+| [539](https://www.erdosproblems.com/539) | No | open | no | ? | ? |  |
+| [540](https://www.erdosproblems.com/540) | No | solved | no | ? | ? |  |
+| [541](https://www.erdosproblems.com/541) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/541.lean) | ? | ? |  |
+| [542](https://www.erdosproblems.com/542) | No | solved | no | ? | ? |  |
+| [543](https://www.erdosproblems.com/543) | No | open | no | ? | ? |  |
+| [544](https://www.erdosproblems.com/544) | No | open | no | ? | ? |  |
+| [545](https://www.erdosproblems.com/545) | No | open | no | ? | ? |  |
+| [546](https://www.erdosproblems.com/546) | No | solved | no | ? | ? |  |
+| [547](https://www.erdosproblems.com/547) | No | open | no | ? | ? |  |
+| [548](https://www.erdosproblems.com/548) | No | open | no | ? | ? |  |
+| [549](https://www.erdosproblems.com/549) | No | solved | no | ? | ? |  |
+| [550](https://www.erdosproblems.com/550) | No | open | no | ? | ? |  |
+| [551](https://www.erdosproblems.com/551) | No | solved | no | ? | ? |  |
+| [552](https://www.erdosproblems.com/552) | No | open | no | ? | ? |  |
+| [553](https://www.erdosproblems.com/553) | No | solved | no | ? | ? |  |
+| [554](https://www.erdosproblems.com/554) | No | open | no | ? | ? |  |
+| [555](https://www.erdosproblems.com/555) | No | open | no | ? | ? |  |
+| [556](https://www.erdosproblems.com/556) | No | solved | no | ? | ? |  |
+| [557](https://www.erdosproblems.com/557) | No | open | no | ? | ? |  |
+| [558](https://www.erdosproblems.com/558) | No | open | no | ? | ? |  |
+| [559](https://www.erdosproblems.com/559) | No | solved | no | ? | ? |  |
+| [560](https://www.erdosproblems.com/560) | No | open | no | ? | ? |  |
+| [561](https://www.erdosproblems.com/561) | No | open | no | ? | ? |  |
+| [562](https://www.erdosproblems.com/562) | No | open | no | ? | ? |  |
+| [563](https://www.erdosproblems.com/563) | No | open | no | ? | ? |  |
+| [564](https://www.erdosproblems.com/564) | $500 | open | no | ? | ? |  |
+| [565](https://www.erdosproblems.com/565) | No | open | no | ? | ? |  |
+| [566](https://www.erdosproblems.com/566) | No | open | no | ? | ? |  |
+| [567](https://www.erdosproblems.com/567) | No | open | no | ? | ? |  |
+| [568](https://www.erdosproblems.com/568) | No | open | no | ? | ? |  |
+| [569](https://www.erdosproblems.com/569) | No | open | no | ? | ? |  |
+| [570](https://www.erdosproblems.com/570) | No | open | no | ? | ? |  |
+| [571](https://www.erdosproblems.com/571) | No | open | no | ? | ? |  |
+| [572](https://www.erdosproblems.com/572) | No | open | no | ? | ? |  |
+| [573](https://www.erdosproblems.com/573) | No | open | no | ? | ? |  |
+| [574](https://www.erdosproblems.com/574) | No | open | no | ? | ? |  |
+| [575](https://www.erdosproblems.com/575) | No | open | no | ? | ? |  |
+| [576](https://www.erdosproblems.com/576) | No | open | no | ? | ? |  |
+| [577](https://www.erdosproblems.com/577) | No | solved | no | ? | ? |  |
+| [578](https://www.erdosproblems.com/578) | No | solved | no | ? | ? |  |
+| [579](https://www.erdosproblems.com/579) | No | open | no | ? | ? |  |
+| [580](https://www.erdosproblems.com/580) | No | open | no | ? | ? |  |
+| [581](https://www.erdosproblems.com/581) | No | solved | no | ? | ? |  |
+| [582](https://www.erdosproblems.com/582) | $100 | solved | no | ? | ? |  |
+| [583](https://www.erdosproblems.com/583) | No | open | no | ? | ? |  |
+| [584](https://www.erdosproblems.com/584) | No | open | no | ? | ? |  |
+| [585](https://www.erdosproblems.com/585) | No | open | no | ? | ? |  |
+| [586](https://www.erdosproblems.com/586) | No | solved | no | ? | ? |  |
+| [587](https://www.erdosproblems.com/587) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/587.lean) | ? | ? |  |
+| [588](https://www.erdosproblems.com/588) | $100 | open | no | ? | ? |  |
+| [589](https://www.erdosproblems.com/589) | No | open | no | ? | ? |  |
+| [590](https://www.erdosproblems.com/590) | $250 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/590.lean) | ? | ? |  |
+| [591](https://www.erdosproblems.com/591) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/591.lean) | ? | ? |  |
+| [592](https://www.erdosproblems.com/592) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/592.lean) | ? | ? |  |
+| [593](https://www.erdosproblems.com/593) | $500 | open | no | ? | ? |  |
+| [594](https://www.erdosproblems.com/594) | No | solved | no | ? | ? |  |
+| [595](https://www.erdosproblems.com/595) | $250 | open | no | ? | ? |  |
+| [596](https://www.erdosproblems.com/596) | No | open | no | ? | ? |  |
+| [597](https://www.erdosproblems.com/597) | No | open | no | ? | ? |  |
+| [598](https://www.erdosproblems.com/598) | No | open | no | ? | ? |  |
+| [599](https://www.erdosproblems.com/599) | No | solved | no | ? | ? |  |
+| [600](https://www.erdosproblems.com/600) | No | open | no | ? | ? |  |
+| [601](https://www.erdosproblems.com/601) | $500 | open | no | ? | ? |  |
+| [602](https://www.erdosproblems.com/602) | No | open | no | ? | ? | Property B |
+| [603](https://www.erdosproblems.com/603) | No | open | no | ? | ? |  |
+| [604](https://www.erdosproblems.com/604) | $500 | open | no | ? | ? | pinned distance problem |
+| [605](https://www.erdosproblems.com/605) | No | solved | no | ? | ? |  |
+| [606](https://www.erdosproblems.com/606) | No | solved | no | ? | ? |  |
+| [607](https://www.erdosproblems.com/607) | $250 | solved | no | ? | ? |  |
+| [608](https://www.erdosproblems.com/608) | No | open | no | ? | ? |  |
+| [609](https://www.erdosproblems.com/609) | No | open | no | ? | ? |  |
+| [610](https://www.erdosproblems.com/610) | No | open | no | ? | ? |  |
+| [611](https://www.erdosproblems.com/611) | No | open | no | ? | ? |  |
+| [612](https://www.erdosproblems.com/612) | No | open | no | ? | ? |  |
+| [613](https://www.erdosproblems.com/613) | No | open | no | ? | ? |  |
+| [614](https://www.erdosproblems.com/614) | No | open | no | ? | ? |  |
+| [615](https://www.erdosproblems.com/615) | No | solved | no | ? | ? |  |
+| [616](https://www.erdosproblems.com/616) | No | open | no | ? | ? |  |
+| [617](https://www.erdosproblems.com/617) | No | open | no | ? | ? |  |
+| [618](https://www.erdosproblems.com/618) | No | solved | no | ? | ? |  |
+| [619](https://www.erdosproblems.com/619) | No | open | no | ? | ? |  |
+| [620](https://www.erdosproblems.com/620) | No | open | no | ? | ? |  |
+| [621](https://www.erdosproblems.com/621) | No | open | no | ? | ? |  |
+| [622](https://www.erdosproblems.com/622) | No | solved | no | ? | ? |  |
+| [623](https://www.erdosproblems.com/623) | No | open | no | ? | ? |  |
+| [624](https://www.erdosproblems.com/624) | No | open | no | ? | ? |  |
+| [625](https://www.erdosproblems.com/625) | $1000 | open | no | ? | ? |  |
+| [626](https://www.erdosproblems.com/626) | No | open | no | ? | ? |  |
+| [627](https://www.erdosproblems.com/627) | No | open | no | ? | ? |  |
+| [628](https://www.erdosproblems.com/628) | No | open | no | ? | ? |  |
+| [629](https://www.erdosproblems.com/629) | No | open | no | ? | ? |  |
+| [630](https://www.erdosproblems.com/630) | No | solved | no | ? | ? |  |
+| [631](https://www.erdosproblems.com/631) | No | solved | no | ? | ? |  |
+| [632](https://www.erdosproblems.com/632) | No | solved | no | ? | ? |  |
+| [633](https://www.erdosproblems.com/633) | $25 | open | no | ? | ? |  |
+| [634](https://www.erdosproblems.com/634) | $25 | open | no | ? | ? |  |
+| [635](https://www.erdosproblems.com/635) | No | open | no | ? | ? |  |
+| [636](https://www.erdosproblems.com/636) | No | solved | no | ? | ? |  |
+| [637](https://www.erdosproblems.com/637) | No | solved | no | ? | ? |  |
+| [638](https://www.erdosproblems.com/638) | No | open | no | ? | ? |  |
+| [639](https://www.erdosproblems.com/639) | No | solved | no | ? | ? |  |
+| [640](https://www.erdosproblems.com/640) | No | open | no | ? | ? |  |
+| [641](https://www.erdosproblems.com/641) | No | solved | no | ? | ? |  |
+| [642](https://www.erdosproblems.com/642) | No | open | no | ? | ? |  |
+| [643](https://www.erdosproblems.com/643) | No | open | no | ? | ? |  |
+| [644](https://www.erdosproblems.com/644) | No | open | no | ? | ? |  |
+| [645](https://www.erdosproblems.com/645) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | ? | ? |  |
+| [646](https://www.erdosproblems.com/646) | No | solved | no | ? | ? |  |
+| [647](https://www.erdosproblems.com/647) | No | open | no | ? | ? |  |
+| [648](https://www.erdosproblems.com/648) | No | solved | no | ? | ? |  |
+| [649](https://www.erdosproblems.com/649) | No | solved | no | ? | ? |  |
+| [650](https://www.erdosproblems.com/650) | No | open | no | ? | ? |  |
+| [651](https://www.erdosproblems.com/651) | No | solved | no | ? | ? |  |
+| [652](https://www.erdosproblems.com/652) | No | open | no | ? | ? |  |
+| [653](https://www.erdosproblems.com/653) | No | open | no | ? | ? |  |
+| [654](https://www.erdosproblems.com/654) | No | open | no | ? | ? |  |
+| [655](https://www.erdosproblems.com/655) | No | open | no | ? | ? |  |
+| [656](https://www.erdosproblems.com/656) | No | solved | no | ? | ? |  |
+| [657](https://www.erdosproblems.com/657) | No | open | no | ? | ? |  |
+| [658](https://www.erdosproblems.com/658) | No | solved | no | ? | ? |  |
+| [659](https://www.erdosproblems.com/659) | No | open | no | ? | ? |  |
+| [660](https://www.erdosproblems.com/660) | No | open | no | ? | ? |  |
+| [661](https://www.erdosproblems.com/661) | $50 | open | no | ? | ? |  |
+| [662](https://www.erdosproblems.com/662) | No | open | no | ? | ? |  |
+| [663](https://www.erdosproblems.com/663) | No | open | no | ? | ? |  |
+| [664](https://www.erdosproblems.com/664) | No | solved | no | ? | ? |  |
+| [665](https://www.erdosproblems.com/665) | No | open | no | ? | ? |  |
+| [666](https://www.erdosproblems.com/666) | No | solved | no | ? | ? |  |
+| [667](https://www.erdosproblems.com/667) | No | open | no | ? | ? |  |
+| [668](https://www.erdosproblems.com/668) | No | open | no | ? | ? |  |
+| [669](https://www.erdosproblems.com/669) | No | open | no | ? | ? |  |
+| [670](https://www.erdosproblems.com/670) | No | open | no | ? | ? |  |
+| [671](https://www.erdosproblems.com/671) | $250 | open | no | ? | ? |  |
+| [672](https://www.erdosproblems.com/672) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | ? | ? |  |
+| [673](https://www.erdosproblems.com/673) | No | solved | no | ? | ? |  |
+| [674](https://www.erdosproblems.com/674) | No | solved | no | ? | ? |  |
+| [675](https://www.erdosproblems.com/675) | No | open | no | ? | ? |  |
+| [676](https://www.erdosproblems.com/676) | No | open | no | ? | ? |  |
+| [677](https://www.erdosproblems.com/677) | No | open | no | ? | ? |  |
+| [678](https://www.erdosproblems.com/678) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/678.lean) | ? | ? |  |
+| [679](https://www.erdosproblems.com/679) | No | open | no | ? | ? |  |
+| [680](https://www.erdosproblems.com/680) | No | open | no | ? | ? |  |
+| [681](https://www.erdosproblems.com/681) | No | open | no | ? | ? |  |
+| [682](https://www.erdosproblems.com/682) | No | solved | no | ? | ? |  |
+| [683](https://www.erdosproblems.com/683) | No | open | no | ? | ? |  |
+| [684](https://www.erdosproblems.com/684) | No | open | no | ? | ? |  |
+| [685](https://www.erdosproblems.com/685) | No | open | no | ? | ? |  |
+| [686](https://www.erdosproblems.com/686) | No | open | no | ? | ? |  |
+| [687](https://www.erdosproblems.com/687) | No | open | no | ? | ? |  |
+| [688](https://www.erdosproblems.com/688) | No | open | no | ? | ? |  |
+| [689](https://www.erdosproblems.com/689) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/689.lean) | ? | ? |  |
+| [690](https://www.erdosproblems.com/690) | No | open | no | ? | ? |  |
+| [691](https://www.erdosproblems.com/691) | No | open | no | ? | ? |  |
+| [692](https://www.erdosproblems.com/692) | No | solved | no | ? | ? |  |
+| [693](https://www.erdosproblems.com/693) | No | open | no | ? | ? |  |
+| [694](https://www.erdosproblems.com/694) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/694.lean) | ? | ? |  |
+| [695](https://www.erdosproblems.com/695) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/695.lean) | ? | ? |  |
+| [696](https://www.erdosproblems.com/696) | No | open | no | ? | ? |  |
+| [697](https://www.erdosproblems.com/697) | No | open | no | ? | ? |  |
+| [698](https://www.erdosproblems.com/698) | No | solved | no | ? | ? |  |
+| [699](https://www.erdosproblems.com/699) | No | open | no | ? | ? |  |
+| [700](https://www.erdosproblems.com/700) | No | open | no | ? | ? |  |
+| [701](https://www.erdosproblems.com/701) | No | open | no | ? | ? |  |
+| [702](https://www.erdosproblems.com/702) | No | solved | no | ? | ? |  |
+| [703](https://www.erdosproblems.com/703) | $250 | solved | no | ? | ? |  |
+| [704](https://www.erdosproblems.com/704) | No | open | no | ? | ? |  |
+| [705](https://www.erdosproblems.com/705) | No | open | no | ? | ? |  |
+| [706](https://www.erdosproblems.com/706) | No | open | no | ? | ? |  |
+| [707](https://www.erdosproblems.com/707) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | ? | ? |  |
+| [708](https://www.erdosproblems.com/708) | $100 | open | no | ? | ? |  |
+| [709](https://www.erdosproblems.com/709) | No | open | no | ? | ? |  |
+| [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | ? | ? |  |
+| [711](https://www.erdosproblems.com/711) | ₹1000 | open | no | ? | ? |  |
+| [712](https://www.erdosproblems.com/712) | $500 | open | no | ? | ? |  |
+| [713](https://www.erdosproblems.com/713) | $500 | open | no | ? | ? |  |
+| [714](https://www.erdosproblems.com/714) | No | open | no | ? | ? |  |
+| [715](https://www.erdosproblems.com/715) | No | solved | no | ? | ? |  |
+| [716](https://www.erdosproblems.com/716) | No | solved | no | ? | ? | Ruzsa-Szemerédi problem |
+| [717](https://www.erdosproblems.com/717) | No | solved | no | ? | ? |  |
+| [718](https://www.erdosproblems.com/718) | No | solved | no | ? | ? |  |
+| [719](https://www.erdosproblems.com/719) | No | open | no | ? | ? |  |
+| [720](https://www.erdosproblems.com/720) | $100 | solved | no | ? | ? |  |
+| [721](https://www.erdosproblems.com/721) | No | solved | no | ? | ? |  |
+| [722](https://www.erdosproblems.com/722) | No | solved | no | ? | ? |  |
+| [723](https://www.erdosproblems.com/723) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/723.lean) | ? | ? |  |
+| [724](https://www.erdosproblems.com/724) | No | open | no | [A001438](https://oeis.org/A001438) | ? |  |
+| [725](https://www.erdosproblems.com/725) | No | open | no | [A001009](https://oeis.org/A001009) | ? |  |
+| [726](https://www.erdosproblems.com/726) | No | open | no | ? | ? |  |
+| [727](https://www.erdosproblems.com/727) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | ? | ? |  |
+| [728](https://www.erdosproblems.com/728) | No | open | no | ? | ? |  |
+| [729](https://www.erdosproblems.com/729) | No | open | no | ? | ? |  |
+| [730](https://www.erdosproblems.com/730) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | ? |  |
+| [731](https://www.erdosproblems.com/731) | No | open | no | ? | ? |  |
+| [732](https://www.erdosproblems.com/732) | No | solved | no | ? | ? |  |
+| [733](https://www.erdosproblems.com/733) | No | solved | no | ? | ? |  |
+| [734](https://www.erdosproblems.com/734) | No | open | no | ? | ? |  |
+| [735](https://www.erdosproblems.com/735) | No | solved | no | ? | ? |  |
+| [736](https://www.erdosproblems.com/736) | No | open | no | ? | ? |  |
+| [737](https://www.erdosproblems.com/737) | No | open | no | ? | ? |  |
+| [738](https://www.erdosproblems.com/738) | No | open | no | ? | ? |  |
+| [739](https://www.erdosproblems.com/739) | No | open | no | ? | ? |  |
+| [740](https://www.erdosproblems.com/740) | No | open | no | ? | ? |  |
+| [741](https://www.erdosproblems.com/741) | No | open | no | ? | ? |  |
+| [742](https://www.erdosproblems.com/742) | No | solved | no | ? | ? |  |
+| [743](https://www.erdosproblems.com/743) | No | open | no | ? | ? |  |
+| [744](https://www.erdosproblems.com/744) | No | solved | no | ? | ? |  |
+| [745](https://www.erdosproblems.com/745) | No | solved | no | ? | ? |  |
+| [746](https://www.erdosproblems.com/746) | No | solved | no | ? | ? |  |
+| [747](https://www.erdosproblems.com/747) | No | solved | no | ? | ? |  |
+| [748](https://www.erdosproblems.com/748) | No | solved | no | ? | ? | Cameron-Erdős conjecture |
+| [749](https://www.erdosproblems.com/749) | No | open | no | ? | ? |  |
+| [750](https://www.erdosproblems.com/750) | No | open | no | ? | ? |  |
+| [751](https://www.erdosproblems.com/751) | No | solved | no | ? | ? |  |
+| [752](https://www.erdosproblems.com/752) | No | solved | no | ? | ? |  |
+| [753](https://www.erdosproblems.com/753) | No | solved | no | ? | ? |  |
+| [754](https://www.erdosproblems.com/754) | No | solved | no | ? | ? |  |
+| [755](https://www.erdosproblems.com/755) | No | solved | no | ? | ? |  |
+| [756](https://www.erdosproblems.com/756) | No | solved | no | ? | ? |  |
+| [757](https://www.erdosproblems.com/757) | No | open | no | ? | ? |  |
+| [758](https://www.erdosproblems.com/758) | No | solved | no | ? | ? |  |
+| [759](https://www.erdosproblems.com/759) | No | solved | no | ? | ? |  |
+| [760](https://www.erdosproblems.com/760) | No | solved | no | ? | ? |  |
+| [761](https://www.erdosproblems.com/761) | No | open | no | ? | ? |  |
+| [762](https://www.erdosproblems.com/762) | No | solved | no | ? | ? |  |
+| [763](https://www.erdosproblems.com/763) | No | solved | no | ? | ? |  |
+| [764](https://www.erdosproblems.com/764) | No | solved | no | ? | ? |  |
+| [765](https://www.erdosproblems.com/765) | No | solved | no | ? | ? |  |
+| [766](https://www.erdosproblems.com/766) | No | open | no | ? | ? |  |
+| [767](https://www.erdosproblems.com/767) | No | solved | no | ? | ? |  |
+| [768](https://www.erdosproblems.com/768) | No | open | no | ? | ? |  |
+| [769](https://www.erdosproblems.com/769) | No | open | no | ? | ? |  |
+| [770](https://www.erdosproblems.com/770) | No | open | no | ? | ? |  |
+| [771](https://www.erdosproblems.com/771) | No | solved | no | ? | ? |  |
+| [772](https://www.erdosproblems.com/772) | No | solved | no | ? | ? |  |
+| [773](https://www.erdosproblems.com/773) | No | open | no | ? | ? |  |
+| [774](https://www.erdosproblems.com/774) | No | open | no | ? | ? |  |
+| [775](https://www.erdosproblems.com/775) | No | open | no | ? | ? |  |
+| [776](https://www.erdosproblems.com/776) | No | open | no | ? | ? |  |
+| [777](https://www.erdosproblems.com/777) | No | solved | no | ? | ? |  |
+| [778](https://www.erdosproblems.com/778) | No | open | no | ? | ? |  |
+| [779](https://www.erdosproblems.com/779) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | ? | ? |  |
+| [780](https://www.erdosproblems.com/780) | No | solved | no | ? | ? |  |
+| [781](https://www.erdosproblems.com/781) | No | solved | no | ? | ? |  |
+| [782](https://www.erdosproblems.com/782) | No | open | no | ? | ? |  |
+| [783](https://www.erdosproblems.com/783) | No | open | no | ? | ? |  |
+| [784](https://www.erdosproblems.com/784) | No | open | no | ? | ? |  |
+| [785](https://www.erdosproblems.com/785) | No | solved | no | ? | ? |  |
+| [786](https://www.erdosproblems.com/786) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | ? | ? |  |
+| [787](https://www.erdosproblems.com/787) | No | open | no | ? | ? |  |
+| [788](https://www.erdosproblems.com/788) | No | open | no | ? | ? |  |
+| [789](https://www.erdosproblems.com/789) | No | open | no | ? | ? |  |
+| [790](https://www.erdosproblems.com/790) | No | open | no | ? | ? |  |
+| [791](https://www.erdosproblems.com/791) | No | open | no | ? | ? |  |
+| [792](https://www.erdosproblems.com/792) | No | open | no | ? | ? |  |
+| [793](https://www.erdosproblems.com/793) | No | open | no | ? | ? |  |
+| [794](https://www.erdosproblems.com/794) | No | solved | no | ? | ? |  |
+| [795](https://www.erdosproblems.com/795) | No | solved | no | ? | ? |  |
+| [796](https://www.erdosproblems.com/796) | No | open | no | ? | ? |  |
+| [797](https://www.erdosproblems.com/797) | No | solved | no | ? | ? |  |
+| [798](https://www.erdosproblems.com/798) | No | solved | no | ? | ? |  |
+| [799](https://www.erdosproblems.com/799) | No | solved | no | ? | ? |  |
+| [800](https://www.erdosproblems.com/800) | No | solved | no | ? | ? |  |
+| [801](https://www.erdosproblems.com/801) | No | solved | no | ? | ? |  |
+| [802](https://www.erdosproblems.com/802) | No | open | no | ? | ? |  |
+| [803](https://www.erdosproblems.com/803) | No | solved | no | ? | ? |  |
+| [804](https://www.erdosproblems.com/804) | No | solved | no | ? | ? |  |
+| [805](https://www.erdosproblems.com/805) | No | open | no | ? | ? |  |
+| [806](https://www.erdosproblems.com/806) | No | solved | no | ? | ? |  |
+| [807](https://www.erdosproblems.com/807) | No | solved | no | ? | ? |  |
+| [808](https://www.erdosproblems.com/808) | No | solved | no | ? | ? |  |
+| [809](https://www.erdosproblems.com/809) | No | open | no | ? | ? |  |
+| [810](https://www.erdosproblems.com/810) | No | open | no | ? | ? |  |
+| [811](https://www.erdosproblems.com/811) | No | open | no | ? | ? |  |
+| [812](https://www.erdosproblems.com/812) | No | open | no | ? | ? |  |
+| [813](https://www.erdosproblems.com/813) | No | open | no | ? | ? |  |
+| [814](https://www.erdosproblems.com/814) | No | solved | no | ? | ? |  |
+| [815](https://www.erdosproblems.com/815) | No | solved | no | ? | ? |  |
+| [816](https://www.erdosproblems.com/816) | No | solved | no | ? | ? |  |
+| [817](https://www.erdosproblems.com/817) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/817.lean) | ? | ? |  |
+| [818](https://www.erdosproblems.com/818) | No | solved | no | ? | ? |  |
+| [819](https://www.erdosproblems.com/819) | No | open | no | ? | ? |  |
+| [820](https://www.erdosproblems.com/820) | No | open | no | [A263647](https://oeis.org/A263647) | ? |  |
+| [821](https://www.erdosproblems.com/821) | No | open | no | ? | ? |  |
+| [822](https://www.erdosproblems.com/822) | No | open | no | ? | ? |  |
+| [823](https://www.erdosproblems.com/823) | No | solved | no | ? | ? |  |
+| [824](https://www.erdosproblems.com/824) | No | open | no | ? | ? |  |
+| [825](https://www.erdosproblems.com/825) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/825.lean) | ? | ? |  |
+| [826](https://www.erdosproblems.com/826) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/826.lean) | ? | ? |  |
+| [827](https://www.erdosproblems.com/827) | No | open | no | ? | ? |  |
+| [828](https://www.erdosproblems.com/828) | No | open | no | ? | ? |  |
+| [829](https://www.erdosproblems.com/829) | No | open | no | ? | ? |  |
+| [830](https://www.erdosproblems.com/830) | No | open | no | ? | ? |  |
+| [831](https://www.erdosproblems.com/831) | No | open | no | ? | ? |  |
+| [832](https://www.erdosproblems.com/832) | No | solved | no | ? | ? |  |
+| [833](https://www.erdosproblems.com/833) | No | solved | no | ? | ? |  |
+| [834](https://www.erdosproblems.com/834) | No | open | no | ? | ? |  |
+| [835](https://www.erdosproblems.com/835) | No | open | no | ? | ? |  |
+| [836](https://www.erdosproblems.com/836) | No | open | no | ? | ? |  |
+| [837](https://www.erdosproblems.com/837) | No | open | no | ? | ? |  |
+| [838](https://www.erdosproblems.com/838) | No | open | no | ? | ? |  |
+| [839](https://www.erdosproblems.com/839) | No | open | no | ? | ? |  |
+| [840](https://www.erdosproblems.com/840) | No | open | no | ? | ? |  |
+| [841](https://www.erdosproblems.com/841) | No | solved | no | ? | ? |  |
+| [842](https://www.erdosproblems.com/842) | No | solved | no | ? | ? |  |
+| [843](https://www.erdosproblems.com/843) | No | solved | no | ? | ? |  |
+| [844](https://www.erdosproblems.com/844) | No | solved | no | ? | ? |  |
+| [845](https://www.erdosproblems.com/845) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | ? | ? |  |
+| [846](https://www.erdosproblems.com/846) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | ? | ? |  |
+| [847](https://www.erdosproblems.com/847) | No | open | no | ? | ? |  |
+| [848](https://www.erdosproblems.com/848) | No | open | no | ? | ? |  |
+| [849](https://www.erdosproblems.com/849) | No | open | no | ? | ? |  |
+| [850](https://www.erdosproblems.com/850) | No | open | no | [A343101](https://oeis.org/A343101) | ? | Erdős-Woods conjecture |
+| [851](https://www.erdosproblems.com/851) | No | open | no | ? | ? |  |
+| [852](https://www.erdosproblems.com/852) | No | open | no | ? | ? |  |
+| [853](https://www.erdosproblems.com/853) | No | open | no | ? | ? |  |
+| [854](https://www.erdosproblems.com/854) | No | open | no | ? | ? |  |
+| [855](https://www.erdosproblems.com/855) | No | open | no | ? | ? | second Hardy-Littlewood conjecture |
+| [856](https://www.erdosproblems.com/856) | No | open | no | ? | ? |  |
+| [857](https://www.erdosproblems.com/857) | No | open | no | ? | ? |  |
+| [858](https://www.erdosproblems.com/858) | No | open | no | ? | ? |  |
+| [859](https://www.erdosproblems.com/859) | No | open | no | ? | ? |  |
+| [860](https://www.erdosproblems.com/860) | No | open | no | ? | ? |  |
+| [861](https://www.erdosproblems.com/861) | No | solved | no | ? | ? |  |
+| [862](https://www.erdosproblems.com/862) | No | open | no | ? | ? |  |
+| [863](https://www.erdosproblems.com/863) | No | open | no | ? | ? |  |
+| [864](https://www.erdosproblems.com/864) | No | open | no | ? | ? |  |
+| [865](https://www.erdosproblems.com/865) | No | open | no | ? | ? |  |
+| [866](https://www.erdosproblems.com/866) | No | open | no | ? | ? |  |
+| [867](https://www.erdosproblems.com/867) | No | open | no | ? | ? |  |
+| [868](https://www.erdosproblems.com/868) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/868.lean) | ? | ? |  |
+| [869](https://www.erdosproblems.com/869) | No | open | no | ? | ? |  |
+| [870](https://www.erdosproblems.com/870) | No | open | no | ? | ? |  |
+| [871](https://www.erdosproblems.com/871) | No | open | no | ? | ? |  |
+| [872](https://www.erdosproblems.com/872) | No | open | no | ? | ? |  |
+| [873](https://www.erdosproblems.com/873) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/873.lean) | ? | ? |  |
+| [874](https://www.erdosproblems.com/874) | No | solved | no | ? | ? |  |
+| [875](https://www.erdosproblems.com/875) | No | open | no | ? | ? |  |
+| [876](https://www.erdosproblems.com/876) | No | open | no | ? | ? |  |
+| [877](https://www.erdosproblems.com/877) | No | solved | no | ? | ? |  |
+| [878](https://www.erdosproblems.com/878) | No | open | no | ? | ? |  |
+| [879](https://www.erdosproblems.com/879) | No | open | no | ? | ? |  |
+| [880](https://www.erdosproblems.com/880) | No | solved | no | ? | ? |  |
+| [881](https://www.erdosproblems.com/881) | No | open | no | ? | ? |  |
+| [882](https://www.erdosproblems.com/882) | No | solved | no | ? | ? |  |
+| [883](https://www.erdosproblems.com/883) | No | open | no | ? | ? |  |
+| [884](https://www.erdosproblems.com/884) | No | open | no | ? | ? |  |
+| [885](https://www.erdosproblems.com/885) | No | open | no | ? | ? |  |
+| [886](https://www.erdosproblems.com/886) | No | open | no | ? | ? |  |
+| [887](https://www.erdosproblems.com/887) | No | open | no | ? | ? |  |
+| [888](https://www.erdosproblems.com/888) | No | open | no | ? | ? |  |
+| [889](https://www.erdosproblems.com/889) | No | open | no | ? | ? |  |
+| [890](https://www.erdosproblems.com/890) | No | open | no | ? | ? |  |
+| [891](https://www.erdosproblems.com/891) | No | open | no | ? | ? |  |
+| [892](https://www.erdosproblems.com/892) | No | open | no | ? | ? |  |
+| [893](https://www.erdosproblems.com/893) | No | open | no | ? | ? |  |
+| [894](https://www.erdosproblems.com/894) | No | solved | no | ? | ? |  |
+| [895](https://www.erdosproblems.com/895) | No | solved | no | ? | ? |  |
+| [896](https://www.erdosproblems.com/896) | No | open | no | ? | ? |  |
+| [897](https://www.erdosproblems.com/897) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/897.lean) | ? | ? |  |
+| [898](https://www.erdosproblems.com/898) | No | solved | no | ? | ? |  |
+| [899](https://www.erdosproblems.com/899) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/899.lean) | ? | ? |  |
+| [900](https://www.erdosproblems.com/900) | No | solved | no | ? | ? |  |
+| [901](https://www.erdosproblems.com/901) | No | open | no | ? | ? |  |
+| [902](https://www.erdosproblems.com/902) | No | open | no | ? | ? |  |
+| [903](https://www.erdosproblems.com/903) | No | open | no | ? | ? |  |
+| [904](https://www.erdosproblems.com/904) | No | solved | no | ? | ? |  |
+| [905](https://www.erdosproblems.com/905) | No | solved | no | ? | ? |  |
+| [906](https://www.erdosproblems.com/906) | No | open | no | ? | ? |  |
+| [907](https://www.erdosproblems.com/907) | No | solved | no | ? | ? |  |
+| [908](https://www.erdosproblems.com/908) | No | solved | no | ? | ? |  |
+| [909](https://www.erdosproblems.com/909) | No | solved | no | ? | ? |  |
+| [910](https://www.erdosproblems.com/910) | No | solved | no | ? | ? |  |
+| [911](https://www.erdosproblems.com/911) | No | open | no | ? | ? |  |
+| [912](https://www.erdosproblems.com/912) | No | open | no | [A071626](https://oeis.org/A071626) | ? |  |
+| [913](https://www.erdosproblems.com/913) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/913.lean) | ? | ? |  |
+| [914](https://www.erdosproblems.com/914) | No | solved | no | ? | ? |  |
+| [915](https://www.erdosproblems.com/915) | No | open | no | ? | ? |  |
+| [916](https://www.erdosproblems.com/916) | No | solved | no | ? | ? |  |
+| [917](https://www.erdosproblems.com/917) | No | open | no | ? | ? |  |
+| [918](https://www.erdosproblems.com/918) | No | open | no | ? | ? |  |
+| [919](https://www.erdosproblems.com/919) | No | open | no | ? | ? |  |
+| [920](https://www.erdosproblems.com/920) | No | open | no | ? | ? |  |
+| [921](https://www.erdosproblems.com/921) | No | solved | no | ? | ? |  |
+| [922](https://www.erdosproblems.com/922) | No | solved | no | ? | ? |  |
+| [923](https://www.erdosproblems.com/923) | No | solved | no | ? | ? |  |
+| [924](https://www.erdosproblems.com/924) | No | solved | no | ? | ? |  |
+| [925](https://www.erdosproblems.com/925) | No | solved | no | ? | ? |  |
+| [926](https://www.erdosproblems.com/926) | No | solved | no | ? | ? |  |
+| [927](https://www.erdosproblems.com/927) | No | solved | no | ? | ? |  |
+| [928](https://www.erdosproblems.com/928) | No | open | no | ? | ? |  |
+| [929](https://www.erdosproblems.com/929) | No | open | no | ? | ? |  |
+| [930](https://www.erdosproblems.com/930) | No | open | no | ? | ? |  |
+| [931](https://www.erdosproblems.com/931) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/931.lean) | ? | ? |  |
+| [932](https://www.erdosproblems.com/932) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/932.lean) | ? | ? |  |
+| [933](https://www.erdosproblems.com/933) | No | open | no | ? | ? |  |
+| [934](https://www.erdosproblems.com/934) | No | open | no | ? | ? |  |
+| [935](https://www.erdosproblems.com/935) | No | open | no | ? | ? |  |
+| [936](https://www.erdosproblems.com/936) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/936.lean) | ? | ? |  |
+| [937](https://www.erdosproblems.com/937) | No | solved | no | ? | ? |  |
+| [938](https://www.erdosproblems.com/938) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/938.lean) | ? | ? |  |
+| [939](https://www.erdosproblems.com/939) | No | open | no | ? | ? |  |
+| [940](https://www.erdosproblems.com/940) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/940.lean) | ? | ? |  |
+| [941](https://www.erdosproblems.com/941) | No | solved | no | ? | ? |  |
+| [942](https://www.erdosproblems.com/942) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/942.lean) | ? | ? |  |
+| [943](https://www.erdosproblems.com/943) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/943.lean) | ? | ? |  |
+| [944](https://www.erdosproblems.com/944) | No | open | no | ? | ? |  |
+| [945](https://www.erdosproblems.com/945) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/945.lean) | ? | ? |  |
+| [946](https://www.erdosproblems.com/946) | No | solved | no | ? | ? |  |
+| [947](https://www.erdosproblems.com/947) | No | solved | no | ? | ? |  |
+| [948](https://www.erdosproblems.com/948) | No | open | no | ? | ? |  |
+| [949](https://www.erdosproblems.com/949) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/949.lean) | ? | ? |  |
+| [950](https://www.erdosproblems.com/950) | No | open | no | ? | ? |  |
+| [951](https://www.erdosproblems.com/951) | No | open | no | ? | ? |  |
+| [952](https://www.erdosproblems.com/952) | No | open | no | ? | ? | Gaussian moat problem |
+| [953](https://www.erdosproblems.com/953) | No | open | no | ? | ? |  |
+| [954](https://www.erdosproblems.com/954) | No | open | no | ? | ? |  |
+| [955](https://www.erdosproblems.com/955) | No | open | no | ? | ? |  |
+| [956](https://www.erdosproblems.com/956) | No | open | no | ? | ? |  |
+| [957](https://www.erdosproblems.com/957) | No | open | no | ? | ? |  |
+| [958](https://www.erdosproblems.com/958) | No | solved | no | ? | ? |  |
+| [959](https://www.erdosproblems.com/959) | No | open | no | ? | ? |  |
+| [960](https://www.erdosproblems.com/960) | No | open | no | ? | ? |  |
+| [961](https://www.erdosproblems.com/961) | No | open | no | ? | ? |  |
+| [962](https://www.erdosproblems.com/962) | No | open | no | ? | ? |  |
+| [963](https://www.erdosproblems.com/963) | No | open | no | ? | ? |  |
+| [964](https://www.erdosproblems.com/964) | No | solved | no | ? | ? |  |
+| [965](https://www.erdosproblems.com/965) | No | open | no | ? | ? |  |
+| [966](https://www.erdosproblems.com/966) | No | solved | no | ? | ? |  |
+| [967](https://www.erdosproblems.com/967) | No | open | no | ? | ? |  |
+| [968](https://www.erdosproblems.com/968) | No | open | no | ? | ? |  |
+| [969](https://www.erdosproblems.com/969) | No | open | no | ? | ? |  |
+| [970](https://www.erdosproblems.com/970) | No | open | no | ? | ? |  |
+| [971](https://www.erdosproblems.com/971) | No | open | no | ? | ? |  |
+| [972](https://www.erdosproblems.com/972) | No | open | no | ? | ? |  |
+| [973](https://www.erdosproblems.com/973) | No | open | no | ? | ? |  |
+| [974](https://www.erdosproblems.com/974) | No | open | no | ? | ? |  |
+| [975](https://www.erdosproblems.com/975) | No | open | no | ? | ? |  |
+| [976](https://www.erdosproblems.com/976) | No | open | no | ? | ? |  |
+| [977](https://www.erdosproblems.com/977) | No | solved | no | ? | ? |  |
+| [978](https://www.erdosproblems.com/978) | No | open | no | ? | ? |  |
+| [979](https://www.erdosproblems.com/979) | No | open | no | ? | ? |  |
+| [980](https://www.erdosproblems.com/980) | No | solved | no | ? | ? |  |
+| [981](https://www.erdosproblems.com/981) | No | open | no | ? | ? |  |
+| [982](https://www.erdosproblems.com/982) | No | open | no | ? | ? |  |
+| [983](https://www.erdosproblems.com/983) | No | open | no | ? | ? |  |
+| [984](https://www.erdosproblems.com/984) | No | solved | no | ? | ? |  |
+| [985](https://www.erdosproblems.com/985) | No | open | no | ? | ? |  |
+| [986](https://www.erdosproblems.com/986) | No | open | no | ? | ? |  |
+| [987](https://www.erdosproblems.com/987) | No | solved | no | ? | ? | Proof formalized |
+| [988](https://www.erdosproblems.com/988) | No | solved | no | ? | ? |  |
+| [989](https://www.erdosproblems.com/989) | No | solved | no | ? | ? |  |
+| [990](https://www.erdosproblems.com/990) | No | open | no | ? | ? |  |
+| [991](https://www.erdosproblems.com/991) | No | open | no | ? | ? |  |
+| [992](https://www.erdosproblems.com/992) | No | open | no | ? | ? |  |
 <!-- TABLE:END -->
 
 ---
