@@ -1,5 +1,5 @@
 # erdosproblems
-A community database for the problems on the erdosproblems.com site.
+A community database for the problems on the [erdosproblems.com](https://www.erdosproblems.com/) site.
 
 The canonical source of truth for this data is the YAML file [data/problems.yaml](data/problems.yaml). The table below is auto-generated from this file.
 

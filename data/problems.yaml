@@ -44,7 +44,7 @@
 - number: "5"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -53,7 +53,7 @@
 - number: "6"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -62,7 +62,7 @@
 - number: "7"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -71,7 +71,7 @@
 - number: "8"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -80,7 +80,7 @@
 - number: "9"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A006286"]
   formalized:
@@ -90,7 +90,7 @@
 - number: "10"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -99,7 +99,7 @@
 - number: "11"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -108,7 +108,7 @@
 - number: "12"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -117,7 +117,7 @@
 - number: "13"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -126,7 +126,7 @@
 - number: "14"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -135,7 +135,7 @@
 - number: "15"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -144,7 +144,7 @@
 - number: "16"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -153,7 +153,7 @@
 - number: "17"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A038133"]
   formalized:
@@ -163,7 +163,7 @@
 - number: "18"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A005153"]
   formalized:
@@ -173,7 +173,7 @@
 - number: "19"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -182,7 +182,7 @@
 - number: "20"
   prize: "$1000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -191,7 +191,7 @@
 - number: "21"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -200,7 +200,7 @@
 - number: "22"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -209,7 +209,7 @@
 - number: "23"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -218,7 +218,7 @@
 - number: "24"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -227,7 +227,7 @@
 - number: "25"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -236,7 +236,7 @@
 - number: "26"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -245,7 +245,7 @@
 - number: "27"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -254,7 +254,7 @@
 - number: "28"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -263,7 +263,7 @@
 - number: "29"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -272,7 +272,7 @@
 - number: "30"
   prize: "$1000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -281,7 +281,7 @@
 - number: "31"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -290,7 +290,7 @@
 - number: "32"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -299,7 +299,7 @@
 - number: "33"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -308,7 +308,7 @@
 - number: "34"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -317,7 +317,7 @@
 - number: "35"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -326,7 +326,7 @@
 - number: "36"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -335,7 +335,7 @@
 - number: "37"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -344,7 +344,7 @@
 - number: "38"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -353,7 +353,7 @@
 - number: "39"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -362,7 +362,7 @@
 - number: "40"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -371,7 +371,7 @@
 - number: "41"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -380,7 +380,7 @@
 - number: "42"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -389,7 +389,7 @@
 - number: "43"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -398,7 +398,7 @@
 - number: "44"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -407,7 +407,7 @@
 - number: "45"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -416,7 +416,7 @@
 - number: "46"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -425,7 +425,7 @@
 - number: "47"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -434,7 +434,7 @@
 - number: "48"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -443,7 +443,7 @@
 - number: "49"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -452,7 +452,7 @@
 - number: "50"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -461,7 +461,7 @@
 - number: "51"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -470,7 +470,7 @@
 - number: "52"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -479,7 +479,7 @@
 - number: "53"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -488,7 +488,7 @@
 - number: "54"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -497,7 +497,7 @@
 - number: "55"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -506,7 +506,7 @@
 - number: "56"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -515,7 +515,7 @@
 - number: "57"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -524,7 +524,7 @@
 - number: "58"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -533,7 +533,7 @@
 - number: "59"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -542,7 +542,7 @@
 - number: "60"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -551,7 +551,7 @@
 - number: "61"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -560,7 +560,7 @@
 - number: "62"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -569,7 +569,7 @@
 - number: "63"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -578,7 +578,7 @@
 - number: "64"
   prize: "$1000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -587,7 +587,7 @@
 - number: "65"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -596,7 +596,7 @@
 - number: "66"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -605,7 +605,7 @@
 - number: "67"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -614,7 +614,7 @@
 - number: "68"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A331373"]
   formalized:
@@ -624,7 +624,7 @@
 - number: "69"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -633,7 +633,7 @@
 - number: "70"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -642,7 +642,7 @@
 - number: "71"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -651,7 +651,7 @@
 - number: "72"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -660,7 +660,7 @@
 - number: "73"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -669,7 +669,7 @@
 - number: "74"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -678,7 +678,7 @@
 - number: "75"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -687,7 +687,7 @@
 - number: "76"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -696,7 +696,7 @@
 - number: "77"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -705,7 +705,7 @@
 - number: "78"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -714,7 +714,7 @@
 - number: "79"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -723,7 +723,7 @@
 - number: "80"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -732,7 +732,7 @@
 - number: "81"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -741,7 +741,7 @@
 - number: "82"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -750,7 +750,7 @@
 - number: "83"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -759,7 +759,7 @@
 - number: "84"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -768,7 +768,7 @@
 - number: "85"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -777,7 +777,7 @@
 - number: "86"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -786,7 +786,7 @@
 - number: "87"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -795,7 +795,7 @@
 - number: "88"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -804,7 +804,7 @@
 - number: "89"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -813,7 +813,7 @@
 - number: "90"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -822,7 +822,7 @@
 - number: "91"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -831,7 +831,7 @@
 - number: "92"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -840,7 +840,7 @@
 - number: "93"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -849,7 +849,7 @@
 - number: "94"
   prize: "£25"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -858,7 +858,7 @@
 - number: "95"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -867,7 +867,7 @@
 - number: "96"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -876,7 +876,7 @@
 - number: "97"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -885,7 +885,7 @@
 - number: "98"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -894,7 +894,7 @@
 - number: "99"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -903,7 +903,7 @@
 - number: "100"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -912,7 +912,7 @@
 - number: "101"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -921,7 +921,7 @@
 - number: "102"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -930,7 +930,7 @@
 - number: "103"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -939,7 +939,7 @@
 - number: "104"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A003829"]
   formalized:
@@ -949,7 +949,7 @@
 - number: "105"
   prize: "$50"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -958,7 +958,7 @@
 - number: "106"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -967,7 +967,7 @@
 - number: "107"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -976,7 +976,7 @@
 - number: "108"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -985,7 +985,7 @@
 - number: "109"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -994,7 +994,7 @@
 - number: "110"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1003,7 +1003,7 @@
 - number: "111"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1012,7 +1012,7 @@
 - number: "112"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1021,7 +1021,7 @@
 - number: "113"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1030,7 +1030,7 @@
 - number: "114"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1039,7 +1039,7 @@
 - number: "115"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1048,7 +1048,7 @@
 - number: "116"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1057,7 +1057,7 @@
 - number: "117"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1066,7 +1066,7 @@
 - number: "118"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1075,7 +1075,7 @@
 - number: "119"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1084,7 +1084,7 @@
 - number: "120"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1093,7 +1093,7 @@
 - number: "121"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1102,7 +1102,7 @@
 - number: "122"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1111,7 +1111,7 @@
 - number: "123"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1120,7 +1120,7 @@
 - number: "124"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1129,7 +1129,7 @@
 - number: "125"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1138,7 +1138,7 @@
 - number: "126"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1147,7 +1147,7 @@
 - number: "127"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1156,7 +1156,7 @@
 - number: "128"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1165,7 +1165,7 @@
 - number: "129"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1174,7 +1174,7 @@
 - number: "130"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1183,7 +1183,7 @@
 - number: "131"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1192,7 +1192,7 @@
 - number: "132"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1201,7 +1201,7 @@
 - number: "133"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1210,7 +1210,7 @@
 - number: "134"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1219,7 +1219,7 @@
 - number: "135"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1228,7 +1228,7 @@
 - number: "136"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1237,7 +1237,7 @@
 - number: "137"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1246,7 +1246,7 @@
 - number: "138"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1255,7 +1255,7 @@
 - number: "139"
   prize: "$1000"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1264,7 +1264,7 @@
 - number: "140"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1273,7 +1273,7 @@
 - number: "141"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1282,7 +1282,7 @@
 - number: "142"
   prize: "$10000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1291,7 +1291,7 @@
 - number: "143"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1300,7 +1300,7 @@
 - number: "144"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1309,7 +1309,7 @@
 - number: "145"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1318,7 +1318,7 @@
 - number: "146"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1327,7 +1327,7 @@
 - number: "147"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1336,7 +1336,7 @@
 - number: "148"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1345,7 +1345,7 @@
 - number: "149"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1354,7 +1354,7 @@
 - number: "150"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1363,7 +1363,7 @@
 - number: "151"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1372,7 +1372,7 @@
 - number: "152"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1381,7 +1381,7 @@
 - number: "153"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1390,7 +1390,7 @@
 - number: "154"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1399,7 +1399,7 @@
 - number: "155"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1408,7 +1408,7 @@
 - number: "156"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1417,7 +1417,7 @@
 - number: "157"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1426,7 +1426,7 @@
 - number: "158"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1435,7 +1435,7 @@
 - number: "159"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1444,7 +1444,7 @@
 - number: "160"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1453,7 +1453,7 @@
 - number: "161"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1462,7 +1462,7 @@
 - number: "162"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1471,7 +1471,7 @@
 - number: "163"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1480,7 +1480,7 @@
 - number: "164"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1489,7 +1489,7 @@
 - number: "165"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1498,7 +1498,7 @@
 - number: "166"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1507,7 +1507,7 @@
 - number: "167"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1516,7 +1516,7 @@
 - number: "168"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1525,7 +1525,7 @@
 - number: "169"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1534,7 +1534,7 @@
 - number: "170"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1543,7 +1543,7 @@
 - number: "171"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1552,7 +1552,7 @@
 - number: "172"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1561,7 +1561,7 @@
 - number: "173"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1570,7 +1570,7 @@
 - number: "174"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1579,7 +1579,7 @@
 - number: "175"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1588,7 +1588,7 @@
 - number: "176"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1597,7 +1597,7 @@
 - number: "177"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1606,7 +1606,7 @@
 - number: "178"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1615,7 +1615,7 @@
 - number: "179"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1624,7 +1624,7 @@
 - number: "180"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1633,7 +1633,7 @@
 - number: "181"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1642,7 +1642,7 @@
 - number: "182"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1651,7 +1651,7 @@
 - number: "183"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1660,7 +1660,7 @@
 - number: "184"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1669,7 +1669,7 @@
 - number: "185"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1678,7 +1678,7 @@
 - number: "186"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1687,7 +1687,7 @@
 - number: "187"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1696,7 +1696,7 @@
 - number: "188"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1705,7 +1705,7 @@
 - number: "189"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1714,7 +1714,7 @@
 - number: "190"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1723,7 +1723,7 @@
 - number: "191"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1732,7 +1732,7 @@
 - number: "192"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1741,7 +1741,7 @@
 - number: "193"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1750,7 +1750,7 @@
 - number: "194"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1759,7 +1759,7 @@
 - number: "195"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1768,7 +1768,7 @@
 - number: "196"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1777,7 +1777,7 @@
 - number: "197"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1786,7 +1786,7 @@
 - number: "198"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1795,7 +1795,7 @@
 - number: "199"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1804,7 +1804,7 @@
 - number: "200"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1813,7 +1813,7 @@
 - number: "201"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1822,7 +1822,7 @@
 - number: "202"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1831,7 +1831,7 @@
 - number: "203"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1840,7 +1840,7 @@
 - number: "204"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1849,7 +1849,7 @@
 - number: "205"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1858,7 +1858,7 @@
 - number: "206"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1867,7 +1867,7 @@
 - number: "207"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1876,7 +1876,7 @@
 - number: "208"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1885,7 +1885,7 @@
 - number: "209"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1894,7 +1894,7 @@
 - number: "210"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1903,7 +1903,7 @@
 - number: "211"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1912,7 +1912,7 @@
 - number: "212"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1921,7 +1921,7 @@
 - number: "213"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1930,7 +1930,7 @@
 - number: "214"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1939,7 +1939,7 @@
 - number: "215"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1948,7 +1948,7 @@
 - number: "216"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1957,7 +1957,7 @@
 - number: "217"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1966,7 +1966,7 @@
 - number: "218"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1975,7 +1975,7 @@
 - number: "219"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -1984,7 +1984,7 @@
 - number: "220"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -1993,7 +1993,7 @@
 - number: "221"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2002,7 +2002,7 @@
 - number: "222"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A256435"]
   formalized:
@@ -2012,7 +2012,7 @@
 - number: "223"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2021,7 +2021,7 @@
 - number: "224"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2030,7 +2030,7 @@
 - number: "225"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2039,7 +2039,7 @@
 - number: "226"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2048,7 +2048,7 @@
 - number: "227"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2057,7 +2057,7 @@
 - number: "228"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2066,7 +2066,7 @@
 - number: "229"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2075,7 +2075,7 @@
 - number: "230"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2084,7 +2084,7 @@
 - number: "231"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2093,7 +2093,7 @@
 - number: "232"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2102,7 +2102,7 @@
 - number: "233"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A074741"]
   formalized:
@@ -2112,7 +2112,7 @@
 - number: "234"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2121,7 +2121,7 @@
 - number: "235"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2130,7 +2130,7 @@
 - number: "236"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A109925"]
   formalized:
@@ -2140,7 +2140,7 @@
 - number: "237"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2149,7 +2149,7 @@
 - number: "238"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2158,7 +2158,7 @@
 - number: "239"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2167,7 +2167,7 @@
 - number: "240"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2176,7 +2176,7 @@
 - number: "241"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2185,7 +2185,7 @@
 - number: "242"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2194,7 +2194,7 @@
 - number: "243"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2203,7 +2203,7 @@
 - number: "244"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2212,7 +2212,7 @@
 - number: "245"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2221,7 +2221,7 @@
 - number: "246"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2230,7 +2230,7 @@
 - number: "247"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2239,7 +2239,7 @@
 - number: "248"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2248,7 +2248,7 @@
 - number: "249"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A256936"]
   formalized:
@@ -2258,7 +2258,7 @@
 - number: "250"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2267,7 +2267,7 @@
 - number: "251"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A098990"]
   formalized:
@@ -2277,7 +2277,7 @@
 - number: "252"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2286,7 +2286,7 @@
 - number: "253"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2295,7 +2295,7 @@
 - number: "254"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2304,7 +2304,7 @@
 - number: "255"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2313,7 +2313,7 @@
 - number: "256"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2322,7 +2322,7 @@
 - number: "257"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2331,7 +2331,7 @@
 - number: "258"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2340,7 +2340,7 @@
 - number: "259"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2349,7 +2349,7 @@
 - number: "260"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2358,7 +2358,7 @@
 - number: "261"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2367,7 +2367,7 @@
 - number: "262"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2376,7 +2376,7 @@
 - number: "263"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2385,7 +2385,7 @@
 - number: "264"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2394,7 +2394,7 @@
 - number: "265"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2403,7 +2403,7 @@
 - number: "266"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2412,7 +2412,7 @@
 - number: "267"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2421,7 +2421,7 @@
 - number: "268"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2430,7 +2430,7 @@
 - number: "269"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2439,7 +2439,7 @@
 - number: "270"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2448,7 +2448,7 @@
 - number: "271"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A005487"]
   formalized:
@@ -2458,7 +2458,7 @@
 - number: "272"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2467,7 +2467,7 @@
 - number: "273"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2476,7 +2476,7 @@
 - number: "274"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2485,7 +2485,7 @@
 - number: "275"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2494,7 +2494,7 @@
 - number: "276"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2503,7 +2503,7 @@
 - number: "277"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2512,7 +2512,7 @@
 - number: "278"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2521,7 +2521,7 @@
 - number: "279"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2530,7 +2530,7 @@
 - number: "280"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2539,7 +2539,7 @@
 - number: "281"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2548,7 +2548,7 @@
 - number: "282"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2557,7 +2557,7 @@
 - number: "283"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2566,7 +2566,7 @@
 - number: "284"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2575,7 +2575,7 @@
 - number: "285"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2584,7 +2584,7 @@
 - number: "286"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2593,7 +2593,7 @@
 - number: "287"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2602,7 +2602,7 @@
 - number: "288"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2611,7 +2611,7 @@
 - number: "289"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2620,7 +2620,7 @@
 - number: "290"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["A375081"]
   formalized:
@@ -2630,7 +2630,7 @@
 - number: "291"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2639,7 +2639,7 @@
 - number: "292"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2648,7 +2648,7 @@
 - number: "293"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2657,7 +2657,7 @@
 - number: "294"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2666,7 +2666,7 @@
 - number: "295"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2675,7 +2675,7 @@
 - number: "296"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2684,7 +2684,7 @@
 - number: "297"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2693,7 +2693,7 @@
 - number: "298"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2702,7 +2702,7 @@
 - number: "299"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2711,7 +2711,7 @@
 - number: "300"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2720,7 +2720,7 @@
 - number: "301"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2729,7 +2729,7 @@
 - number: "302"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2738,7 +2738,7 @@
 - number: "303"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2747,7 +2747,7 @@
 - number: "304"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2756,7 +2756,7 @@
 - number: "305"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2765,7 +2765,7 @@
 - number: "306"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2774,7 +2774,7 @@
 - number: "307"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2783,7 +2783,7 @@
 - number: "308"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2792,7 +2792,7 @@
 - number: "309"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2801,7 +2801,7 @@
 - number: "310"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2810,7 +2810,7 @@
 - number: "311"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2819,7 +2819,7 @@
 - number: "312"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2828,7 +2828,7 @@
 - number: "313"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A054377"]
   formalized:
@@ -2838,7 +2838,7 @@
 - number: "314"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2847,7 +2847,7 @@
 - number: "315"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2856,7 +2856,7 @@
 - number: "316"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2865,7 +2865,7 @@
 - number: "317"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2874,7 +2874,7 @@
 - number: "318"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2883,7 +2883,7 @@
 - number: "319"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2892,7 +2892,7 @@
 - number: "320"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2901,7 +2901,7 @@
 - number: "321"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2910,7 +2910,7 @@
 - number: "322"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2919,7 +2919,7 @@
 - number: "323"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2928,7 +2928,7 @@
 - number: "324"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2937,7 +2937,7 @@
 - number: "325"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2946,7 +2946,7 @@
 - number: "326"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2955,7 +2955,7 @@
 - number: "327"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2964,7 +2964,7 @@
 - number: "328"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2973,7 +2973,7 @@
 - number: "329"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -2982,7 +2982,7 @@
 - number: "330"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -2991,7 +2991,7 @@
 - number: "331"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3000,7 +3000,7 @@
 - number: "332"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3009,7 +3009,7 @@
 - number: "333"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3018,7 +3018,7 @@
 - number: "334"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3027,7 +3027,7 @@
 - number: "335"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3036,7 +3036,7 @@
 - number: "336"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3045,7 +3045,7 @@
 - number: "337"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3054,7 +3054,7 @@
 - number: "338"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3063,7 +3063,7 @@
 - number: "339"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3072,7 +3072,7 @@
 - number: "340"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A080200", "A005282"]
   formalized:
@@ -3082,7 +3082,7 @@
 - number: "341"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3091,7 +3091,7 @@
 - number: "342"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A002858"]
   formalized:
@@ -3101,7 +3101,7 @@
 - number: "343"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3110,7 +3110,7 @@
 - number: "344"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3119,7 +3119,7 @@
 - number: "345"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3128,7 +3128,7 @@
 - number: "346"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3137,7 +3137,7 @@
 - number: "347"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3146,7 +3146,7 @@
 - number: "348"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3155,7 +3155,7 @@
 - number: "349"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3164,7 +3164,7 @@
 - number: "350"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3173,7 +3173,7 @@
 - number: "351"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3182,7 +3182,7 @@
 - number: "352"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3191,7 +3191,7 @@
 - number: "353"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3200,7 +3200,7 @@
 - number: "354"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3209,7 +3209,7 @@
 - number: "355"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3218,7 +3218,7 @@
 - number: "356"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3227,7 +3227,7 @@
 - number: "357"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3236,7 +3236,7 @@
 - number: "358"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3245,7 +3245,7 @@
 - number: "359"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A002048"]
   formalized:
@@ -3255,7 +3255,7 @@
 - number: "360"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3264,7 +3264,7 @@
 - number: "361"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3273,7 +3273,7 @@
 - number: "362"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3282,7 +3282,7 @@
 - number: "363"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3291,7 +3291,7 @@
 - number: "364"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A060355"]
   formalized:
@@ -3301,7 +3301,7 @@
 - number: "365"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A060355"]
   formalized:
@@ -3311,7 +3311,7 @@
 - number: "366"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A060355"]
   formalized:
@@ -3321,7 +3321,7 @@
 - number: "367"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3330,7 +3330,7 @@
 - number: "368"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A074399"]
   formalized:
@@ -3340,7 +3340,7 @@
 - number: "369"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3349,7 +3349,7 @@
 - number: "370"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3358,7 +3358,7 @@
 - number: "371"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A070089"]
   formalized:
@@ -3368,7 +3368,7 @@
 - number: "372"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3377,7 +3377,7 @@
 - number: "373"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3386,7 +3386,7 @@
 - number: "374"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3395,7 +3395,7 @@
 - number: "375"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3404,7 +3404,7 @@
 - number: "376"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A030979"]
   formalized:
@@ -3414,7 +3414,7 @@
 - number: "377"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3423,7 +3423,7 @@
 - number: "378"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3432,7 +3432,7 @@
 - number: "379"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3441,7 +3441,7 @@
 - number: "380"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3450,7 +3450,7 @@
 - number: "381"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3459,7 +3459,7 @@
 - number: "382"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3468,7 +3468,7 @@
 - number: "383"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3477,7 +3477,7 @@
 - number: "384"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3486,7 +3486,7 @@
 - number: "385"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3495,7 +3495,7 @@
 - number: "386"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A280992"]
   formalized:
@@ -3505,7 +3505,7 @@
 - number: "387"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3514,7 +3514,7 @@
 - number: "388"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3523,7 +3523,7 @@
 - number: "389"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A375071"]
   formalized:
@@ -3533,7 +3533,7 @@
 - number: "390"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3542,7 +3542,7 @@
 - number: "391"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3551,7 +3551,7 @@
 - number: "392"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3560,7 +3560,7 @@
 - number: "393"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3569,7 +3569,7 @@
 - number: "394"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3578,7 +3578,7 @@
 - number: "395"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3587,7 +3587,7 @@
 - number: "396"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A375077"]
   formalized:
@@ -3597,7 +3597,7 @@
 - number: "397"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3606,7 +3606,7 @@
 - number: "398"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A146968"]
   formalized:
@@ -3616,7 +3616,7 @@
 - number: "399"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3625,7 +3625,7 @@
 - number: "400"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3634,7 +3634,7 @@
 - number: "401"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3643,7 +3643,7 @@
 - number: "402"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3652,7 +3652,7 @@
 - number: "403"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3661,7 +3661,7 @@
 - number: "404"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3670,7 +3670,7 @@
 - number: "405"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3679,7 +3679,7 @@
 - number: "406"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3688,7 +3688,7 @@
 - number: "407"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3697,7 +3697,7 @@
 - number: "408"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3706,7 +3706,7 @@
 - number: "409"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A039651"]
   formalized:
@@ -3716,7 +3716,7 @@
 - number: "410"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3725,7 +3725,7 @@
 - number: "411"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3734,7 +3734,7 @@
 - number: "412"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3743,7 +3743,7 @@
 - number: "413"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3752,7 +3752,7 @@
 - number: "414"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3761,7 +3761,7 @@
 - number: "415"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3770,7 +3770,7 @@
 - number: "416"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3779,7 +3779,7 @@
 - number: "417"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3788,7 +3788,7 @@
 - number: "418"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3797,7 +3797,7 @@
 - number: "419"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3806,7 +3806,7 @@
 - number: "420"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3815,7 +3815,7 @@
 - number: "421"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3824,7 +3824,7 @@
 - number: "422"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A005185"]
   formalized:
@@ -3834,7 +3834,7 @@
 - number: "423"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A005243"]
   formalized:
@@ -3844,7 +3844,7 @@
 - number: "424"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A005244"]
   formalized:
@@ -3854,7 +3854,7 @@
 - number: "425"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3863,7 +3863,7 @@
 - number: "426"
   prize: "$25"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3872,7 +3872,7 @@
 - number: "427"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3881,7 +3881,7 @@
 - number: "428"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3890,7 +3890,7 @@
 - number: "429"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3899,7 +3899,7 @@
 - number: "430"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3908,7 +3908,7 @@
 - number: "431"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3917,7 +3917,7 @@
 - number: "432"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3926,7 +3926,7 @@
 - number: "433"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3935,7 +3935,7 @@
 - number: "434"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -3944,7 +3944,7 @@
 - number: "435"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3953,7 +3953,7 @@
 - number: "436"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3962,7 +3962,7 @@
 - number: "437"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3971,7 +3971,7 @@
 - number: "438"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3980,7 +3980,7 @@
 - number: "439"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3989,7 +3989,7 @@
 - number: "440"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -3998,7 +3998,7 @@
 - number: "441"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4007,7 +4007,7 @@
 - number: "442"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4016,7 +4016,7 @@
 - number: "443"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4025,7 +4025,7 @@
 - number: "444"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4034,7 +4034,7 @@
 - number: "445"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4043,7 +4043,7 @@
 - number: "446"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4052,7 +4052,7 @@
 - number: "447"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4061,7 +4061,7 @@
 - number: "448"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4070,7 +4070,7 @@
 - number: "449"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4079,7 +4079,7 @@
 - number: "450"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4088,7 +4088,7 @@
 - number: "451"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4097,7 +4097,7 @@
 - number: "452"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4106,7 +4106,7 @@
 - number: "453"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4115,7 +4115,7 @@
 - number: "454"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4124,7 +4124,7 @@
 - number: "455"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4133,7 +4133,7 @@
 - number: "456"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4142,7 +4142,7 @@
 - number: "457"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4151,7 +4151,7 @@
 - number: "458"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4160,7 +4160,7 @@
 - number: "459"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4169,7 +4169,7 @@
 - number: "460"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4178,7 +4178,7 @@
 - number: "461"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4187,7 +4187,7 @@
 - number: "462"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4196,7 +4196,7 @@
 - number: "463"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4205,7 +4205,7 @@
 - number: "464"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4214,7 +4214,7 @@
 - number: "465"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4223,7 +4223,7 @@
 - number: "466"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4232,7 +4232,7 @@
 - number: "467"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4241,7 +4241,7 @@
 - number: "468"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4250,7 +4250,7 @@
 - number: "469"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A006036"]
   formalized:
@@ -4260,7 +4260,7 @@
 - number: "470"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A006037"]
   formalized:
@@ -4270,7 +4270,7 @@
 - number: "471"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4279,7 +4279,7 @@
 - number: "472"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4288,7 +4288,7 @@
 - number: "473"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4297,7 +4297,7 @@
 - number: "474"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4306,7 +4306,7 @@
 - number: "475"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4315,7 +4315,7 @@
 - number: "476"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4324,7 +4324,7 @@
 - number: "477"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4333,7 +4333,7 @@
 - number: "478"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4342,7 +4342,7 @@
 - number: "479"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A036236"]
   formalized:
@@ -4352,7 +4352,7 @@
 - number: "480"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4361,7 +4361,7 @@
 - number: "481"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4370,7 +4370,7 @@
 - number: "482"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4379,7 +4379,7 @@
 - number: "483"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A030126"]
   formalized:
@@ -4389,7 +4389,7 @@
 - number: "484"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4398,7 +4398,7 @@
 - number: "485"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4407,7 +4407,7 @@
 - number: "486"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4416,7 +4416,7 @@
 - number: "487"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4425,7 +4425,7 @@
 - number: "488"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4434,7 +4434,7 @@
 - number: "489"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4443,7 +4443,7 @@
 - number: "490"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4452,7 +4452,7 @@
 - number: "491"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4461,7 +4461,7 @@
 - number: "492"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4470,7 +4470,7 @@
 - number: "493"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4479,7 +4479,7 @@
 - number: "494"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4488,7 +4488,7 @@
 - number: "495"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4497,7 +4497,7 @@
 - number: "496"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4506,7 +4506,7 @@
 - number: "497"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4515,7 +4515,7 @@
 - number: "498"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4524,7 +4524,7 @@
 - number: "499"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4533,7 +4533,7 @@
 - number: "500"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4542,7 +4542,7 @@
 - number: "501"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4551,7 +4551,7 @@
 - number: "502"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4560,7 +4560,7 @@
 - number: "503"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4569,7 +4569,7 @@
 - number: "504"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4578,7 +4578,7 @@
 - number: "505"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4587,7 +4587,7 @@
 - number: "506"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4596,7 +4596,7 @@
 - number: "507"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4605,7 +4605,7 @@
 - number: "508"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4614,7 +4614,7 @@
 - number: "509"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4623,7 +4623,7 @@
 - number: "510"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4632,7 +4632,7 @@
 - number: "511"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4641,7 +4641,7 @@
 - number: "512"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4650,7 +4650,7 @@
 - number: "513"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4659,7 +4659,7 @@
 - number: "514"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4668,7 +4668,7 @@
 - number: "515"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4677,7 +4677,7 @@
 - number: "516"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4686,7 +4686,7 @@
 - number: "517"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4695,7 +4695,7 @@
 - number: "518"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4704,7 +4704,7 @@
 - number: "519"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4713,7 +4713,7 @@
 - number: "520"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4722,7 +4722,7 @@
 - number: "521"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4731,7 +4731,7 @@
 - number: "522"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4740,7 +4740,7 @@
 - number: "523"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4749,7 +4749,7 @@
 - number: "524"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4758,7 +4758,7 @@
 - number: "525"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4767,7 +4767,7 @@
 - number: "526"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4776,7 +4776,7 @@
 - number: "527"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4785,7 +4785,7 @@
 - number: "528"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4794,7 +4794,7 @@
 - number: "529"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4803,7 +4803,7 @@
 - number: "530"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4812,7 +4812,7 @@
 - number: "531"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4821,7 +4821,7 @@
 - number: "532"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4830,7 +4830,7 @@
 - number: "533"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4839,7 +4839,7 @@
 - number: "534"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4848,7 +4848,7 @@
 - number: "535"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4857,7 +4857,7 @@
 - number: "536"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4866,7 +4866,7 @@
 - number: "537"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4875,7 +4875,7 @@
 - number: "538"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4884,7 +4884,7 @@
 - number: "539"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4893,7 +4893,7 @@
 - number: "540"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4902,7 +4902,7 @@
 - number: "541"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -4911,7 +4911,7 @@
 - number: "542"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4920,7 +4920,7 @@
 - number: "543"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4929,7 +4929,7 @@
 - number: "544"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4938,7 +4938,7 @@
 - number: "545"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4947,7 +4947,7 @@
 - number: "546"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4956,7 +4956,7 @@
 - number: "547"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4965,7 +4965,7 @@
 - number: "548"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4974,7 +4974,7 @@
 - number: "549"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4983,7 +4983,7 @@
 - number: "550"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -4992,7 +4992,7 @@
 - number: "551"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5001,7 +5001,7 @@
 - number: "552"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5010,7 +5010,7 @@
 - number: "553"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5019,7 +5019,7 @@
 - number: "554"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5028,7 +5028,7 @@
 - number: "555"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5037,7 +5037,7 @@
 - number: "556"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5046,7 +5046,7 @@
 - number: "557"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5055,7 +5055,7 @@
 - number: "558"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5064,7 +5064,7 @@
 - number: "559"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5073,7 +5073,7 @@
 - number: "560"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5082,7 +5082,7 @@
 - number: "561"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5091,7 +5091,7 @@
 - number: "562"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5100,7 +5100,7 @@
 - number: "563"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5109,7 +5109,7 @@
 - number: "564"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5118,7 +5118,7 @@
 - number: "565"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5127,7 +5127,7 @@
 - number: "566"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5136,7 +5136,7 @@
 - number: "567"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5145,7 +5145,7 @@
 - number: "568"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5154,7 +5154,7 @@
 - number: "569"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5163,7 +5163,7 @@
 - number: "570"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5172,7 +5172,7 @@
 - number: "571"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5181,7 +5181,7 @@
 - number: "572"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5190,7 +5190,7 @@
 - number: "573"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5199,7 +5199,7 @@
 - number: "574"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5208,7 +5208,7 @@
 - number: "575"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5217,7 +5217,7 @@
 - number: "576"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5226,7 +5226,7 @@
 - number: "577"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5235,7 +5235,7 @@
 - number: "578"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5244,7 +5244,7 @@
 - number: "579"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5253,7 +5253,7 @@
 - number: "580"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5262,7 +5262,7 @@
 - number: "581"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5271,7 +5271,7 @@
 - number: "582"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5280,7 +5280,7 @@
 - number: "583"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5289,7 +5289,7 @@
 - number: "584"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5298,7 +5298,7 @@
 - number: "585"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5307,7 +5307,7 @@
 - number: "586"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5316,7 +5316,7 @@
 - number: "587"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -5325,7 +5325,7 @@
 - number: "588"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5334,7 +5334,7 @@
 - number: "589"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5343,7 +5343,7 @@
 - number: "590"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -5352,7 +5352,7 @@
 - number: "591"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -5361,7 +5361,7 @@
 - number: "592"
   prize: "$1000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -5370,7 +5370,7 @@
 - number: "593"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5379,7 +5379,7 @@
 - number: "594"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5388,7 +5388,7 @@
 - number: "595"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5397,7 +5397,7 @@
 - number: "596"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5406,7 +5406,7 @@
 - number: "597"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5415,7 +5415,7 @@
 - number: "598"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5424,7 +5424,7 @@
 - number: "599"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5433,7 +5433,7 @@
 - number: "600"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5442,7 +5442,7 @@
 - number: "601"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5451,7 +5451,7 @@
 - number: "602"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5460,7 +5460,7 @@
 - number: "603"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5469,7 +5469,7 @@
 - number: "604"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5478,7 +5478,7 @@
 - number: "605"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5487,7 +5487,7 @@
 - number: "606"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5496,7 +5496,7 @@
 - number: "607"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5505,7 +5505,7 @@
 - number: "608"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5514,7 +5514,7 @@
 - number: "609"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5523,7 +5523,7 @@
 - number: "610"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5532,7 +5532,7 @@
 - number: "611"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5541,7 +5541,7 @@
 - number: "612"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5550,7 +5550,7 @@
 - number: "613"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5559,7 +5559,7 @@
 - number: "614"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5568,7 +5568,7 @@
 - number: "615"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5577,7 +5577,7 @@
 - number: "616"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5586,7 +5586,7 @@
 - number: "617"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5595,7 +5595,7 @@
 - number: "618"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5604,7 +5604,7 @@
 - number: "619"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5613,7 +5613,7 @@
 - number: "620"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5622,7 +5622,7 @@
 - number: "621"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5631,7 +5631,7 @@
 - number: "622"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5640,7 +5640,7 @@
 - number: "623"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5649,7 +5649,7 @@
 - number: "624"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5658,7 +5658,7 @@
 - number: "625"
   prize: "$1000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5667,7 +5667,7 @@
 - number: "626"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5676,7 +5676,7 @@
 - number: "627"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5685,7 +5685,7 @@
 - number: "628"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5694,7 +5694,7 @@
 - number: "629"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5703,7 +5703,7 @@
 - number: "630"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5712,7 +5712,7 @@
 - number: "631"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5721,7 +5721,7 @@
 - number: "632"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5730,7 +5730,7 @@
 - number: "633"
   prize: "$25"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5739,7 +5739,7 @@
 - number: "634"
   prize: "$25"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5748,7 +5748,7 @@
 - number: "635"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5757,7 +5757,7 @@
 - number: "636"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5766,7 +5766,7 @@
 - number: "637"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5775,7 +5775,7 @@
 - number: "638"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5784,7 +5784,7 @@
 - number: "639"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5793,7 +5793,7 @@
 - number: "640"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5802,7 +5802,7 @@
 - number: "641"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5811,7 +5811,7 @@
 - number: "642"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5820,7 +5820,7 @@
 - number: "643"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5829,7 +5829,7 @@
 - number: "644"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5838,7 +5838,7 @@
 - number: "645"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -5847,7 +5847,7 @@
 - number: "646"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5856,7 +5856,7 @@
 - number: "647"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5865,7 +5865,7 @@
 - number: "648"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5874,7 +5874,7 @@
 - number: "649"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5883,7 +5883,7 @@
 - number: "650"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5892,7 +5892,7 @@
 - number: "651"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5901,7 +5901,7 @@
 - number: "652"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5910,7 +5910,7 @@
 - number: "653"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5919,7 +5919,7 @@
 - number: "654"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5928,7 +5928,7 @@
 - number: "655"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5937,7 +5937,7 @@
 - number: "656"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5946,7 +5946,7 @@
 - number: "657"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5955,7 +5955,7 @@
 - number: "658"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5964,7 +5964,7 @@
 - number: "659"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5973,7 +5973,7 @@
 - number: "660"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5982,7 +5982,7 @@
 - number: "661"
   prize: "$50"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -5991,7 +5991,7 @@
 - number: "662"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6000,7 +6000,7 @@
 - number: "663"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6009,7 +6009,7 @@
 - number: "664"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6018,7 +6018,7 @@
 - number: "665"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6027,7 +6027,7 @@
 - number: "666"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6036,7 +6036,7 @@
 - number: "667"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6045,7 +6045,7 @@
 - number: "668"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6054,7 +6054,7 @@
 - number: "669"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6063,7 +6063,7 @@
 - number: "670"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6072,7 +6072,7 @@
 - number: "671"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6081,7 +6081,7 @@
 - number: "672"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6090,7 +6090,7 @@
 - number: "673"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6099,7 +6099,7 @@
 - number: "674"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6108,7 +6108,7 @@
 - number: "675"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6117,7 +6117,7 @@
 - number: "676"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6126,7 +6126,7 @@
 - number: "677"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6135,7 +6135,7 @@
 - number: "678"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6144,7 +6144,7 @@
 - number: "679"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6153,7 +6153,7 @@
 - number: "680"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6162,7 +6162,7 @@
 - number: "681"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6171,7 +6171,7 @@
 - number: "682"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6180,7 +6180,7 @@
 - number: "683"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6189,7 +6189,7 @@
 - number: "684"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6198,7 +6198,7 @@
 - number: "685"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6207,7 +6207,7 @@
 - number: "686"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6216,7 +6216,7 @@
 - number: "687"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6225,7 +6225,7 @@
 - number: "688"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6234,7 +6234,7 @@
 - number: "689"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6243,7 +6243,7 @@
 - number: "690"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6252,7 +6252,7 @@
 - number: "691"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6261,7 +6261,7 @@
 - number: "692"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6270,7 +6270,7 @@
 - number: "693"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6279,7 +6279,7 @@
 - number: "694"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6288,7 +6288,7 @@
 - number: "695"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6297,7 +6297,7 @@
 - number: "696"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6306,7 +6306,7 @@
 - number: "697"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6315,7 +6315,7 @@
 - number: "698"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6324,7 +6324,7 @@
 - number: "699"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6333,7 +6333,7 @@
 - number: "700"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6342,7 +6342,7 @@
 - number: "701"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6351,7 +6351,7 @@
 - number: "702"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6360,7 +6360,7 @@
 - number: "703"
   prize: "$250"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6369,7 +6369,7 @@
 - number: "704"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6378,7 +6378,7 @@
 - number: "705"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6387,7 +6387,7 @@
 - number: "706"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6396,7 +6396,7 @@
 - number: "707"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6405,7 +6405,7 @@
 - number: "708"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6414,7 +6414,7 @@
 - number: "709"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6423,7 +6423,7 @@
 - number: "710"
   prize: "₹2000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6432,7 +6432,7 @@
 - number: "711"
   prize: "₹1000"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6441,7 +6441,7 @@
 - number: "712"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6450,7 +6450,7 @@
 - number: "713"
   prize: "$500"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6459,7 +6459,7 @@
 - number: "714"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6468,7 +6468,7 @@
 - number: "715"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6477,7 +6477,7 @@
 - number: "716"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6486,7 +6486,7 @@
 - number: "717"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6495,7 +6495,7 @@
 - number: "718"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6504,7 +6504,7 @@
 - number: "719"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6513,7 +6513,7 @@
 - number: "720"
   prize: "$100"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6522,7 +6522,7 @@
 - number: "721"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6531,7 +6531,7 @@
 - number: "722"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6540,7 +6540,7 @@
 - number: "723"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6549,7 +6549,7 @@
 - number: "724"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A001438"]
   formalized:
@@ -6559,7 +6559,7 @@
 - number: "725"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A001009"]
   formalized:
@@ -6569,7 +6569,7 @@
 - number: "726"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6578,7 +6578,7 @@
 - number: "727"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -6587,7 +6587,7 @@
 - number: "728"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6596,7 +6596,7 @@
 - number: "729"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6605,7 +6605,7 @@
 - number: "730"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A129515"]
   formalized:
@@ -6615,7 +6615,7 @@
 - number: "731"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6624,7 +6624,7 @@
 - number: "732"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6633,7 +6633,7 @@
 - number: "733"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6642,7 +6642,7 @@
 - number: "734"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6651,7 +6651,7 @@
 - number: "735"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6660,7 +6660,7 @@
 - number: "736"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6669,7 +6669,7 @@
 - number: "737"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6678,7 +6678,7 @@
 - number: "738"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6687,7 +6687,7 @@
 - number: "739"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6696,7 +6696,7 @@
 - number: "740"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6705,7 +6705,7 @@
 - number: "741"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6714,7 +6714,7 @@
 - number: "742"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6723,7 +6723,7 @@
 - number: "743"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6732,7 +6732,7 @@
 - number: "744"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6741,7 +6741,7 @@
 - number: "745"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6750,7 +6750,7 @@
 - number: "746"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6759,7 +6759,7 @@
 - number: "747"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6768,7 +6768,7 @@
 - number: "748"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6777,7 +6777,7 @@
 - number: "749"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6786,7 +6786,7 @@
 - number: "750"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6795,7 +6795,7 @@
 - number: "751"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6804,7 +6804,7 @@
 - number: "752"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6813,7 +6813,7 @@
 - number: "753"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6822,7 +6822,7 @@
 - number: "754"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6831,7 +6831,7 @@
 - number: "755"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6840,7 +6840,7 @@
 - number: "756"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6849,7 +6849,7 @@
 - number: "757"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6858,7 +6858,7 @@
 - number: "758"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6867,7 +6867,7 @@
 - number: "759"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6876,7 +6876,7 @@
 - number: "760"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6885,7 +6885,7 @@
 - number: "761"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6894,7 +6894,7 @@
 - number: "762"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6903,7 +6903,7 @@
 - number: "763"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6912,7 +6912,7 @@
 - number: "764"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6921,7 +6921,7 @@
 - number: "765"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6930,7 +6930,7 @@
 - number: "766"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6939,7 +6939,7 @@
 - number: "767"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6948,7 +6948,7 @@
 - number: "768"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6957,7 +6957,7 @@
 - number: "769"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6966,7 +6966,7 @@
 - number: "770"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6975,7 +6975,7 @@
 - number: "771"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6984,7 +6984,7 @@
 - number: "772"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -6993,7 +6993,7 @@
 - number: "773"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7002,7 +7002,7 @@
 - number: "774"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7011,7 +7011,7 @@
 - number: "775"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7020,7 +7020,7 @@
 - number: "776"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7029,7 +7029,7 @@
 - number: "777"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7038,7 +7038,7 @@
 - number: "778"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7047,7 +7047,7 @@
 - number: "779"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7056,7 +7056,7 @@
 - number: "780"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7065,7 +7065,7 @@
 - number: "781"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7074,7 +7074,7 @@
 - number: "782"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7083,7 +7083,7 @@
 - number: "783"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7092,7 +7092,7 @@
 - number: "784"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7101,7 +7101,7 @@
 - number: "785"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7110,7 +7110,7 @@
 - number: "786"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7119,7 +7119,7 @@
 - number: "787"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7128,7 +7128,7 @@
 - number: "788"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7137,7 +7137,7 @@
 - number: "789"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7146,7 +7146,7 @@
 - number: "790"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7155,7 +7155,7 @@
 - number: "791"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7164,7 +7164,7 @@
 - number: "792"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7173,7 +7173,7 @@
 - number: "793"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7182,7 +7182,7 @@
 - number: "794"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7191,7 +7191,7 @@
 - number: "795"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7200,7 +7200,7 @@
 - number: "796"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7209,7 +7209,7 @@
 - number: "797"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7218,7 +7218,7 @@
 - number: "798"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7227,7 +7227,7 @@
 - number: "799"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7236,7 +7236,7 @@
 - number: "800"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7245,7 +7245,7 @@
 - number: "801"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7254,7 +7254,7 @@
 - number: "802"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7263,7 +7263,7 @@
 - number: "803"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7272,7 +7272,7 @@
 - number: "804"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7281,7 +7281,7 @@
 - number: "805"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7290,7 +7290,7 @@
 - number: "806"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7299,7 +7299,7 @@
 - number: "807"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7308,7 +7308,7 @@
 - number: "808"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7317,7 +7317,7 @@
 - number: "809"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7326,7 +7326,7 @@
 - number: "810"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7335,7 +7335,7 @@
 - number: "811"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7344,7 +7344,7 @@
 - number: "812"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7353,7 +7353,7 @@
 - number: "813"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7362,7 +7362,7 @@
 - number: "814"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7371,7 +7371,7 @@
 - number: "815"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7380,7 +7380,7 @@
 - number: "816"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7389,7 +7389,7 @@
 - number: "817"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7398,7 +7398,7 @@
 - number: "818"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7407,7 +7407,7 @@
 - number: "819"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7416,7 +7416,7 @@
 - number: "820"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A263647"]
   formalized:
@@ -7426,7 +7426,7 @@
 - number: "821"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7435,7 +7435,7 @@
 - number: "822"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7444,7 +7444,7 @@
 - number: "823"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7453,7 +7453,7 @@
 - number: "824"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7462,7 +7462,7 @@
 - number: "825"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7471,7 +7471,7 @@
 - number: "826"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7480,7 +7480,7 @@
 - number: "827"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7489,7 +7489,7 @@
 - number: "828"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7498,7 +7498,7 @@
 - number: "829"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7507,7 +7507,7 @@
 - number: "830"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7516,7 +7516,7 @@
 - number: "831"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7525,7 +7525,7 @@
 - number: "832"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7534,7 +7534,7 @@
 - number: "833"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7543,7 +7543,7 @@
 - number: "834"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7552,7 +7552,7 @@
 - number: "835"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7561,7 +7561,7 @@
 - number: "836"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7570,7 +7570,7 @@
 - number: "837"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7579,7 +7579,7 @@
 - number: "838"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7588,7 +7588,7 @@
 - number: "839"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7597,7 +7597,7 @@
 - number: "840"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7606,7 +7606,7 @@
 - number: "841"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7615,7 +7615,7 @@
 - number: "842"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7624,7 +7624,7 @@
 - number: "843"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7633,7 +7633,7 @@
 - number: "844"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7642,7 +7642,7 @@
 - number: "845"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7651,7 +7651,7 @@
 - number: "846"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7660,7 +7660,7 @@
 - number: "847"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7669,7 +7669,7 @@
 - number: "848"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7678,7 +7678,7 @@
 - number: "849"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7687,7 +7687,7 @@
 - number: "850"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A343101"]
   formalized:
@@ -7697,7 +7697,7 @@
 - number: "851"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7706,7 +7706,7 @@
 - number: "852"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7715,7 +7715,7 @@
 - number: "853"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7724,7 +7724,7 @@
 - number: "854"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7733,7 +7733,7 @@
 - number: "855"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7742,7 +7742,7 @@
 - number: "856"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7751,7 +7751,7 @@
 - number: "857"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7760,7 +7760,7 @@
 - number: "858"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7769,7 +7769,7 @@
 - number: "859"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7778,7 +7778,7 @@
 - number: "860"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7787,7 +7787,7 @@
 - number: "861"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7796,7 +7796,7 @@
 - number: "862"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7805,7 +7805,7 @@
 - number: "863"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7814,7 +7814,7 @@
 - number: "864"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7823,7 +7823,7 @@
 - number: "865"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7832,7 +7832,7 @@
 - number: "866"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7841,7 +7841,7 @@
 - number: "867"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7850,7 +7850,7 @@
 - number: "868"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7859,7 +7859,7 @@
 - number: "869"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7868,7 +7868,7 @@
 - number: "870"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7877,7 +7877,7 @@
 - number: "871"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7886,7 +7886,7 @@
 - number: "872"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7895,7 +7895,7 @@
 - number: "873"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -7904,7 +7904,7 @@
 - number: "874"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7913,7 +7913,7 @@
 - number: "875"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7922,7 +7922,7 @@
 - number: "876"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7931,7 +7931,7 @@
 - number: "877"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7940,7 +7940,7 @@
 - number: "878"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7949,7 +7949,7 @@
 - number: "879"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7958,7 +7958,7 @@
 - number: "880"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7967,7 +7967,7 @@
 - number: "881"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7976,7 +7976,7 @@
 - number: "882"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7985,7 +7985,7 @@
 - number: "883"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -7994,7 +7994,7 @@
 - number: "884"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8003,7 +8003,7 @@
 - number: "885"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8012,7 +8012,7 @@
 - number: "886"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8021,7 +8021,7 @@
 - number: "887"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8030,7 +8030,7 @@
 - number: "888"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8039,7 +8039,7 @@
 - number: "889"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8048,7 +8048,7 @@
 - number: "890"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8057,7 +8057,7 @@
 - number: "891"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8066,7 +8066,7 @@
 - number: "892"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8075,7 +8075,7 @@
 - number: "893"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8084,7 +8084,7 @@
 - number: "894"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8093,7 +8093,7 @@
 - number: "895"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8102,7 +8102,7 @@
 - number: "896"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8111,7 +8111,7 @@
 - number: "897"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8120,7 +8120,7 @@
 - number: "898"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8129,7 +8129,7 @@
 - number: "899"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8138,7 +8138,7 @@
 - number: "900"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8147,7 +8147,7 @@
 - number: "901"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8156,7 +8156,7 @@
 - number: "902"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8165,7 +8165,7 @@
 - number: "903"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8174,7 +8174,7 @@
 - number: "904"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8183,7 +8183,7 @@
 - number: "905"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8192,7 +8192,7 @@
 - number: "906"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8201,7 +8201,7 @@
 - number: "907"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8210,7 +8210,7 @@
 - number: "908"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8219,7 +8219,7 @@
 - number: "909"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8228,7 +8228,7 @@
 - number: "910"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8237,7 +8237,7 @@
 - number: "911"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8246,8 +8246,9 @@
 - number: "912"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
+  oeis: ["A071626"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8255,7 +8256,7 @@
 - number: "913"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8264,7 +8265,7 @@
 - number: "914"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8273,7 +8274,7 @@
 - number: "915"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8282,7 +8283,7 @@
 - number: "916"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8291,7 +8292,7 @@
 - number: "917"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8300,7 +8301,7 @@
 - number: "918"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8309,7 +8310,7 @@
 - number: "919"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8318,7 +8319,7 @@
 - number: "920"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8327,7 +8328,7 @@
 - number: "921"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8336,7 +8337,7 @@
 - number: "922"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8345,7 +8346,7 @@
 - number: "923"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8354,7 +8355,7 @@
 - number: "924"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8363,7 +8364,7 @@
 - number: "925"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8372,7 +8373,7 @@
 - number: "926"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8381,7 +8382,7 @@
 - number: "927"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8390,7 +8391,7 @@
 - number: "928"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8399,7 +8400,7 @@
 - number: "929"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8408,7 +8409,7 @@
 - number: "930"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8417,7 +8418,7 @@
 - number: "931"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8426,7 +8427,7 @@
 - number: "932"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8435,7 +8436,7 @@
 - number: "933"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8444,7 +8445,7 @@
 - number: "934"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8453,7 +8454,7 @@
 - number: "935"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8462,7 +8463,7 @@
 - number: "936"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8471,7 +8472,7 @@
 - number: "937"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8480,7 +8481,7 @@
 - number: "938"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8489,7 +8490,7 @@
 - number: "939"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8498,7 +8499,7 @@
 - number: "940"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8507,7 +8508,7 @@
 - number: "941"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8516,7 +8517,7 @@
 - number: "942"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8525,7 +8526,7 @@
 - number: "943"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8534,7 +8535,7 @@
 - number: "944"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8543,7 +8544,7 @@
 - number: "945"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8552,7 +8553,7 @@
 - number: "946"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8561,7 +8562,7 @@
 - number: "947"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8570,7 +8571,7 @@
 - number: "948"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8579,7 +8580,7 @@
 - number: "949"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "yes"
@@ -8588,7 +8589,7 @@
 - number: "950"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8597,7 +8598,7 @@
 - number: "951"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8606,7 +8607,7 @@
 - number: "952"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8615,7 +8616,7 @@
 - number: "953"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8624,7 +8625,7 @@
 - number: "954"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8633,7 +8634,7 @@
 - number: "955"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8642,7 +8643,7 @@
 - number: "956"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8651,7 +8652,7 @@
 - number: "957"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8660,7 +8661,7 @@
 - number: "958"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8669,7 +8670,7 @@
 - number: "959"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8678,7 +8679,7 @@
 - number: "960"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8687,7 +8688,7 @@
 - number: "961"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8696,7 +8697,7 @@
 - number: "962"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8705,7 +8706,7 @@
 - number: "963"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8714,7 +8715,7 @@
 - number: "964"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8723,7 +8724,7 @@
 - number: "965"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8732,7 +8733,7 @@
 - number: "966"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8741,7 +8742,7 @@
 - number: "967"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8750,7 +8751,7 @@
 - number: "968"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8759,7 +8760,7 @@
 - number: "969"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8768,7 +8769,7 @@
 - number: "970"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8777,7 +8778,7 @@
 - number: "971"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8786,7 +8787,7 @@
 - number: "972"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8795,7 +8796,7 @@
 - number: "973"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8804,7 +8805,7 @@
 - number: "974"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8813,7 +8814,7 @@
 - number: "975"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8822,7 +8823,7 @@
 - number: "976"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8831,7 +8832,7 @@
 - number: "977"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8840,7 +8841,7 @@
 - number: "978"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8849,7 +8850,7 @@
 - number: "979"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8858,7 +8859,7 @@
 - number: "980"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8867,7 +8868,7 @@
 - number: "981"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8876,7 +8877,7 @@
 - number: "982"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8885,7 +8886,7 @@
 - number: "983"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8894,7 +8895,7 @@
 - number: "984"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8903,7 +8904,7 @@
 - number: "985"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8912,7 +8913,7 @@
 - number: "986"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8921,7 +8922,7 @@
 - number: "987"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8930,7 +8931,7 @@
 - number: "988"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8939,7 +8940,7 @@
 - number: "989"
   prize: "No"
   status:
-    state: "unknown"
+    state: "solved"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8948,7 +8949,7 @@
 - number: "990"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8957,7 +8958,7 @@
 - number: "991"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"
@@ -8966,7 +8967,7 @@
 - number: "992"
   prize: "No"
   status:
-    state: "unknown"
+    state: "open"
     last_update: "2025-08-31"
   formalized:
     state: "no"

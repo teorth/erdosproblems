@@ -21,6 +21,8 @@ Thanks for helping improve the table!
                         # "Possible" if there is potentially a sequence for this problem that
                         # is in the OEIS (but it needs to be checked)
                         # "Missing" if there is a sequence, but it is not in the OEIS
+                        # If multiple OEIS sequences are related to this problem, separate
+                        # the strings by commas
   formalized:
     state: "yes"        # "yes" if the problem has been formalized in
                         # https://github.com/google-deepmind/formal-conjectures
