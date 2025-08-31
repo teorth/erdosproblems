@@ -18,6 +18,8 @@ Thanks for helping improve the table!
     last_update: "2025-08-31"
   oeis: ["A276661"]     # "N/A" if you are *sure* there is no obvious sequence to attach
                         # to this problem
+                        # "Possible" if there is potentially a sequence for this problem that
+                        # is in the OEIS (but it needs to be checked)
                         # "Missing" if there is a sequence, but it is not in the OEIS
   formalized:
     state: "yes"        # "yes" if the problem has been formalized in

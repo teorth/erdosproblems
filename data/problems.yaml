@@ -82,6 +82,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A006286"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -154,6 +155,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A038133"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -163,6 +165,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A005153"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -613,6 +616,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A331373"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -937,6 +941,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A003829"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1999,6 +2004,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A256435"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -2098,6 +2104,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A074741"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2125,6 +2132,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A109925"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2242,6 +2250,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A256936"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2260,6 +2269,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A098990"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2440,6 +2450,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A005487"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -2611,6 +2622,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A375081"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -2818,6 +2830,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A054377"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3061,6 +3074,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A080200", "A005282"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3079,6 +3093,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A002858"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3232,6 +3247,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A002048"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3277,6 +3293,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A060355"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3286,6 +3303,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A060355"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3295,6 +3313,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A060355"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3313,6 +3332,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A074399"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3340,6 +3360,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A070089"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3385,6 +3406,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A030979"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3475,6 +3497,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A280992"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3502,6 +3525,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A375071"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3565,6 +3589,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A375077"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3583,6 +3608,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A146968"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3682,6 +3708,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A039651"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3799,6 +3826,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A005185"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3808,6 +3836,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A005243"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3817,6 +3846,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A005244"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -4222,6 +4252,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A006036"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -4231,6 +4262,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A006037"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -4312,6 +4344,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A036236"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -4348,6 +4381,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A030126"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -6517,6 +6551,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A001438"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -6526,6 +6561,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A001009"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -6571,6 +6607,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A129515"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -7381,6 +7418,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A263647"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -7651,6 +7689,7 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  oeis: ["A343101"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
