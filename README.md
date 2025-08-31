@@ -1,8 +1,7 @@
 # erdosproblems
-A community database for the problems on the erdosproblems.com site
+A community database for the problems on the erdosproblems.com site.
 
-**Canonical data:** `data/problems.yaml` (YAML)
-**Rendered view:** table below (auto-generated)
+The canonical source of truth for this data is the YAML file [data/problems.yaml](data/problems.yaml). The table below is auto-generated from this file.
 
 - To propose changes, open a PR editing `data/problems.yaml`.
 - See **CONTRIBUTING.md** for guidelines and field definitions.

@@ -33,7 +33,7 @@ def build_table(rows):
     lines = [header]
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"
-        tags = ", ".join(s for s in r.get("tags", [])) or "—"
+        tags = ", ".join(s for s in r.get("tags", [])) or "?"
         status = r["status"]["state"]
         rid = num_link(r["number"])
         prize = r.get("prize", "?")

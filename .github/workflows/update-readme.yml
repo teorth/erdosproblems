@@ -1,6 +1,10 @@
 name: Update README
+
 on:
-  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - "data/**"
 
 permissions:
   contents: write

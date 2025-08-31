@@ -5,24 +5,22 @@ Thanks for helping improve the table!
 ## Quickstart (editing via GitHub UI)
 
 1. Open `data/problems.yaml`.
-2. Click **Edit** and add an entry. Use the template below.
-3. Run checks locally if you can (`scripts/validate.py`), or rely on CI.
-4. Open a Pull Request. CI will validate the format and the README freshness.
+2. Click **Edit** and add an entry. Use the template below.  Only the "number" field is required; delete any field for which you have no information.
+3. Open a Pull Request.
 
 ### Entry template
 
 ```yaml
-- id: "kissing-number-3d"          # lowercase, hyphens
-  name: "Kissing Number in 3D"
-  area: "Discrete geometry"
+- number: "1"
+  prize: "$500"         # use "No" if no prize given
   status:
-    state: "solved"
+    state: "open"       # use "open", "solved", "partial", or "unknown"
     last_update: "2025-08-31"
-    note: "24 spheres; solved historically by Schütte–van der Waerden."
-  statements:
-    short: "Max number of unit spheres tangent to a given one in ℝ^3."
-  references:
-    oeis: []
-    urls:
-      - "https://en.wikipedia.org/wiki/Kissing_number_problem"
-  tags: ["sphere packing", "geometry"]
+  oeis: ["A276661"]     # use "N/A" if there is no obvious sequence to attach to this problem
+                        # "Missing" if there is a sequence, but it is not in the OEIS
+  formalized:
+    state: "yes"        # "yes" if the problem has been formalized in
+                        # https://github.com/google-deepmind/formal-conjectures
+                        # or "no" otherwise
+    last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
