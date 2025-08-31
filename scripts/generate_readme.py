@@ -32,12 +32,12 @@ def build_table(rows):
     header = "| # | Prize | Status | Formalized | OEIS | Tags |\n|---|---|---|---|---|---|"
     lines = [header]
     for r in rows:
-        oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "—"
+        oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"
         tags = ", ".join(s for s in r.get("tags", [])) or "—"
         status = r["status"]["state"]
         rid = num_link(r["number"])
-        prize = r.get("prize", "—")
-        formalized = formalized_link(r["number"], r.get("formalized", {}).get("state", "N/A"))
+        prize = r.get("prize", "?")
+        formalized = formalized_link(r["number"], r.get("formalized", {}).get("state", "?"))
         lines.append(f"| {rid} | {prize} | {status} | {formalized} | {oeis} | {tags} |")
     return "\n".join(lines)
 
@@ -50,7 +50,6 @@ def insert_between_markers(content, payload):
     return re.sub(pattern, repl, content)
 
 rows = yaml.safe_load(data_path.read_text(encoding="utf-8"))
-rows = sorted(rows, key=lambda r: r["number"].lower())
 table_md = build_table(rows)
 
 readme = readme_path.read_text(encoding="utf-8")
