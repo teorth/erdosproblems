@@ -15,7 +15,7 @@
     state: "solved"
     last_update: "2025-08-31"
   formalized:
-    state: "yes"
+    state: "no"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   tags: ["number theory", "covering systems"]
@@ -37,11 +37,17 @@
     state: "solved"
     last_update: "2025-08-31"
   tags: ["number theory", "primes"]
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "5"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "6"
@@ -49,11 +55,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "7"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "8"
@@ -61,11 +73,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "9"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "10"
@@ -73,11 +91,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "11"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "12"
@@ -85,11 +109,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "13"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "14"
@@ -97,11 +127,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "15"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "16"
@@ -109,11 +145,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "17"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "18"
@@ -121,11 +163,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "19"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "20"
@@ -133,11 +181,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "21"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "22"
@@ -145,11 +199,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "23"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "24"
@@ -157,11 +217,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "25"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "26"
@@ -169,11 +235,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "27"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "28"
@@ -181,11 +253,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "29"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "30"
@@ -193,11 +271,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "31"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "32"
@@ -205,11 +289,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "33"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "34"
@@ -217,11 +307,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "35"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "36"
@@ -229,11 +325,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "37"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "38"
@@ -241,11 +343,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "39"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "40"
@@ -253,11 +361,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "41"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "42"
@@ -265,11 +379,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "43"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "44"
@@ -277,11 +397,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "45"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "46"
@@ -289,11 +415,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "47"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "48"
@@ -301,11 +433,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "49"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "50"
@@ -313,11 +451,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "51"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "52"
@@ -325,11 +469,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "53"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "54"
@@ -337,11 +487,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "55"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "56"
@@ -349,11 +505,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "57"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "58"
@@ -361,11 +523,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "59"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "60"
@@ -373,11 +541,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "61"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "62"
@@ -385,11 +559,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "63"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "64"
@@ -397,11 +577,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "65"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "66"
@@ -409,11 +595,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "67"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "68"
@@ -421,11 +613,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "69"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "70"
@@ -433,11 +631,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "71"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "72"
@@ -445,11 +649,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "73"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "74"
@@ -457,11 +667,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "75"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "76"
@@ -469,11 +685,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "77"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "78"
@@ -481,11 +703,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "79"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "80"
@@ -493,11 +721,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "81"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "82"
@@ -505,11 +739,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "83"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "84"
@@ -517,11 +757,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "85"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "86"
@@ -529,11 +775,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "87"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "88"
@@ -541,11 +793,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "89"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "90"
@@ -553,11 +811,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "91"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "92"
@@ -565,11 +829,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "93"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "94"
@@ -577,11 +847,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "95"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "96"
@@ -589,11 +865,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "97"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "98"
@@ -601,11 +883,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "99"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "100"
@@ -613,11 +901,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "101"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "102"
@@ -625,11 +919,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "103"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "104"
@@ -637,11 +937,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "105"
   prize: "$50"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "106"
@@ -649,11 +955,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "107"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "108"
@@ -661,11 +973,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "109"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "110"
@@ -673,11 +991,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "111"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "112"
@@ -685,11 +1009,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "113"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "114"
@@ -697,11 +1027,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "115"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "116"
@@ -709,11 +1045,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "117"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "118"
@@ -721,11 +1063,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "119"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "120"
@@ -733,11 +1081,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "121"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "122"
@@ -745,11 +1099,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "123"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "124"
@@ -757,11 +1117,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "125"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "126"
@@ -769,11 +1135,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "127"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "128"
@@ -781,11 +1153,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "129"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "130"
@@ -793,11 +1171,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "131"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "132"
@@ -805,11 +1189,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "133"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "134"
@@ -817,11 +1207,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "135"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "136"
@@ -829,11 +1225,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "137"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "138"
@@ -841,11 +1243,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "139"
   prize: "$1000"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "140"
@@ -853,11 +1261,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "141"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "142"
@@ -865,11 +1279,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "143"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "144"
@@ -877,11 +1297,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "145"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "146"
@@ -889,11 +1315,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "147"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "148"
@@ -901,11 +1333,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "149"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "150"
@@ -913,11 +1351,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "151"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "152"
@@ -925,11 +1369,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "153"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "154"
@@ -937,11 +1387,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "155"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "156"
@@ -949,11 +1405,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "157"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "158"
@@ -961,11 +1423,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "159"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "160"
@@ -973,11 +1441,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "161"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "162"
@@ -985,11 +1459,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "163"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "164"
@@ -997,11 +1477,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "165"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "166"
@@ -1009,11 +1495,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "167"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "168"
@@ -1021,11 +1513,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "169"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "170"
@@ -1033,11 +1531,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "171"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "172"
@@ -1045,11 +1549,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "173"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "174"
@@ -1057,11 +1567,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "175"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "176"
@@ -1069,11 +1585,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "177"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "178"
@@ -1081,11 +1603,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "179"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "180"
@@ -1093,11 +1621,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "181"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "182"
@@ -1105,11 +1639,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "183"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "184"
@@ -1117,11 +1657,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "185"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "186"
@@ -1129,11 +1675,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "187"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "188"
@@ -1141,11 +1693,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "189"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "190"
@@ -1153,11 +1711,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "191"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "192"
@@ -1165,11 +1729,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "193"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "194"
@@ -1177,11 +1747,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "195"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "196"
@@ -1189,11 +1765,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "197"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "198"
@@ -1201,11 +1783,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "199"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "200"
@@ -1213,11 +1801,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "201"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "202"
@@ -1225,11 +1819,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "203"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "204"
@@ -1237,11 +1837,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "205"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "206"
@@ -1249,11 +1855,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "207"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "208"
@@ -1261,11 +1873,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "209"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "210"
@@ -1273,11 +1891,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "211"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "212"
@@ -1285,11 +1909,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "213"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "214"
@@ -1297,11 +1927,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "215"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "216"
@@ -1309,11 +1945,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "217"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "218"
@@ -1321,11 +1963,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "219"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "220"
@@ -1333,11 +1981,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "221"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "222"
@@ -1345,11 +1999,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "223"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "224"
@@ -1357,11 +2017,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "225"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "226"
@@ -1369,11 +2035,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "227"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "228"
@@ -1381,11 +2053,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "229"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "230"
@@ -1393,11 +2071,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "231"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "232"
@@ -1405,11 +2089,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "233"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "234"
@@ -1417,11 +2107,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "235"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "236"
@@ -1429,11 +2125,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "237"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "238"
@@ -1441,11 +2143,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "239"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "240"
@@ -1453,11 +2161,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "241"
   prize: "$100"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "242"
@@ -1465,11 +2179,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "243"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "244"
@@ -1477,11 +2197,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "245"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "246"
@@ -1489,11 +2215,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "247"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "248"
@@ -1501,11 +2233,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "249"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "250"
@@ -1513,11 +2251,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "251"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "252"
@@ -1525,11 +2269,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "253"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "254"
@@ -1537,11 +2287,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "255"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "256"
@@ -1549,11 +2305,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "257"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "258"
@@ -1561,11 +2323,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "259"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "260"
@@ -1573,11 +2341,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "261"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "262"
@@ -1585,11 +2359,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "263"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "264"
@@ -1597,11 +2377,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "265"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "266"
@@ -1609,11 +2395,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "267"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "268"
@@ -1621,11 +2413,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "269"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "270"
@@ -1633,11 +2431,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "271"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "272"
@@ -1645,11 +2449,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "273"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "274"
@@ -1657,11 +2467,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "275"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "276"
@@ -1669,11 +2485,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "277"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "278"
@@ -1681,11 +2503,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "279"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "280"
@@ -1693,11 +2521,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "281"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "282"
@@ -1705,11 +2539,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "283"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "284"
@@ -1717,11 +2557,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "285"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "286"
@@ -1729,11 +2575,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "287"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "288"
@@ -1741,11 +2593,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "289"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "290"
@@ -1753,11 +2611,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "291"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "292"
@@ -1765,11 +2629,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "293"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "294"
@@ -1777,11 +2647,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "295"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "296"
@@ -1789,11 +2665,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "297"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "298"
@@ -1801,11 +2683,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "299"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "300"
@@ -1813,11 +2701,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "301"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "302"
@@ -1825,11 +2719,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "303"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "304"
@@ -1837,11 +2737,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "305"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "306"
@@ -1849,11 +2755,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "307"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "308"
@@ -1861,11 +2773,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "309"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "310"
@@ -1873,11 +2791,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "311"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "312"
@@ -1885,11 +2809,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "313"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "314"
@@ -1897,11 +2827,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "315"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "316"
@@ -1909,11 +2845,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "317"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "318"
@@ -1921,11 +2863,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "319"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "320"
@@ -1933,11 +2881,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "321"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "322"
@@ -1945,11 +2899,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "323"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "324"
@@ -1957,11 +2917,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "325"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "326"
@@ -1969,11 +2935,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "327"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "328"
@@ -1981,11 +2953,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "329"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "330"
@@ -1993,11 +2971,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "331"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "332"
@@ -2005,11 +2989,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "333"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "334"
@@ -2017,11 +3007,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "335"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "336"
@@ -2029,11 +3025,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "337"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "338"
@@ -2041,11 +3043,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "339"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "340"
@@ -2053,11 +3061,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "341"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "342"
@@ -2065,11 +3079,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "343"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "344"
@@ -2077,11 +3097,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "345"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "346"
@@ -2089,11 +3115,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "347"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "348"
@@ -2101,11 +3133,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "349"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "350"
@@ -2113,11 +3151,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "351"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "352"
@@ -2125,11 +3169,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "353"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "354"
@@ -2137,11 +3187,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "355"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "356"
@@ -2149,11 +3205,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "357"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "358"
@@ -2161,11 +3223,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "359"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "360"
@@ -2173,11 +3241,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "361"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "362"
@@ -2185,11 +3259,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "363"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "364"
@@ -2197,11 +3277,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "365"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "366"
@@ -2209,11 +3295,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "367"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "368"
@@ -2221,11 +3313,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "369"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "370"
@@ -2233,11 +3331,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "371"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "372"
@@ -2245,11 +3349,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "373"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "374"
@@ -2257,11 +3367,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "375"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "376"
@@ -2269,11 +3385,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "377"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "378"
@@ -2281,11 +3403,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "379"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "380"
@@ -2293,11 +3421,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "381"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "382"
@@ -2305,11 +3439,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "383"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "384"
@@ -2317,11 +3457,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "385"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "386"
@@ -2329,11 +3475,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "387"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "388"
@@ -2341,11 +3493,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "389"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "390"
@@ -2353,11 +3511,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "391"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "392"
@@ -2365,11 +3529,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "393"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "394"
@@ -2377,11 +3547,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "395"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "396"
@@ -2389,11 +3565,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "397"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "398"
@@ -2401,11 +3583,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "399"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "400"
@@ -2413,11 +3601,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "401"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "402"
@@ -2425,11 +3619,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "403"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "404"
@@ -2437,11 +3637,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "405"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "406"
@@ -2449,11 +3655,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "407"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "408"
@@ -2461,11 +3673,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "409"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "410"
@@ -2473,11 +3691,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "411"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "412"
@@ -2485,11 +3709,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "413"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "414"
@@ -2497,11 +3727,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "415"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "416"
@@ -2509,11 +3745,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "417"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "418"
@@ -2521,11 +3763,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "419"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "420"
@@ -2533,11 +3781,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "421"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "422"
@@ -2545,11 +3799,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "423"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "424"
@@ -2557,11 +3817,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "425"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "426"
@@ -2569,11 +3835,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "427"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "428"
@@ -2581,11 +3853,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "429"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "430"
@@ -2593,11 +3871,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "431"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "432"
@@ -2605,11 +3889,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "433"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "434"
@@ -2617,11 +3907,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "435"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "436"
@@ -2629,11 +3925,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "437"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "438"
@@ -2641,11 +3943,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "439"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "440"
@@ -2653,11 +3961,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "441"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "442"
@@ -2665,11 +3979,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "443"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "444"
@@ -2677,11 +3997,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "445"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "446"
@@ -2689,11 +4015,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "447"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "448"
@@ -2701,11 +4033,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "449"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "450"
@@ -2713,11 +4051,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "451"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "452"
@@ -2725,11 +4069,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "453"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "454"
@@ -2737,11 +4087,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "455"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "456"
@@ -2749,11 +4105,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "457"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "458"
@@ -2761,11 +4123,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "459"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "460"
@@ -2773,11 +4141,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "461"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "462"
@@ -2785,11 +4159,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "463"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "464"
@@ -2797,11 +4177,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "465"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "466"
@@ -2809,11 +4195,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "467"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "468"
@@ -2821,11 +4213,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "469"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "470"
@@ -2833,11 +4231,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "471"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "472"
@@ -2845,11 +4249,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "473"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "474"
@@ -2857,11 +4267,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "475"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "476"
@@ -2869,11 +4285,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "477"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "478"
@@ -2881,11 +4303,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "479"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "480"
@@ -2893,11 +4321,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "481"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "482"
@@ -2905,11 +4339,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "483"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "484"
@@ -2917,11 +4357,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "485"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "486"
@@ -2929,11 +4375,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "487"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "488"
@@ -2941,11 +4393,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "489"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "490"
@@ -2953,11 +4411,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "491"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "492"
@@ -2965,11 +4429,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "493"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "494"
@@ -2977,11 +4447,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "495"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "496"
@@ -2989,11 +4465,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "497"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "498"
@@ -3001,11 +4483,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "499"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "500"
@@ -3013,11 +4501,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "501"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "502"
@@ -3025,11 +4519,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "503"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "504"
@@ -3037,11 +4537,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "505"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "506"
@@ -3049,11 +4555,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "507"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "508"
@@ -3061,11 +4573,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "509"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "510"
@@ -3073,11 +4591,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "511"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "512"
@@ -3085,11 +4609,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "513"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "514"
@@ -3097,11 +4627,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "515"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "516"
@@ -3109,11 +4645,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "517"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "518"
@@ -3121,11 +4663,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "519"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "520"
@@ -3133,11 +4681,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "521"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "522"
@@ -3145,11 +4699,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "523"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "524"
@@ -3157,11 +4717,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "525"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "526"
@@ -3169,11 +4735,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "527"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "528"
@@ -3181,11 +4753,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "529"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "530"
@@ -3193,11 +4771,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "531"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "532"
@@ -3205,11 +4789,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "533"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "534"
@@ -3217,11 +4807,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "535"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "536"
@@ -3229,11 +4825,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "537"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "538"
@@ -3241,11 +4843,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "539"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "540"
@@ -3253,11 +4861,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "541"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "542"
@@ -3265,11 +4879,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "543"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "544"
@@ -3277,11 +4897,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "545"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "546"
@@ -3289,11 +4915,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "547"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "548"
@@ -3301,11 +4933,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "549"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "550"
@@ -3313,11 +4951,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "551"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "552"
@@ -3325,11 +4969,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "553"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "554"
@@ -3337,11 +4987,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "555"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "556"
@@ -3349,11 +5005,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "557"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "558"
@@ -3361,11 +5023,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "559"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "560"
@@ -3373,11 +5041,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "561"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "562"
@@ -3385,11 +5059,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "563"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "564"
@@ -3397,11 +5077,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "565"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "566"
@@ -3409,11 +5095,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "567"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "568"
@@ -3421,11 +5113,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "569"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "570"
@@ -3433,11 +5131,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "571"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "572"
@@ -3445,11 +5149,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "573"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "574"
@@ -3457,11 +5167,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "575"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "576"
@@ -3469,11 +5185,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "577"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "578"
@@ -3481,11 +5203,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "579"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "580"
@@ -3493,11 +5221,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "581"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "582"
@@ -3505,11 +5239,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "583"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "584"
@@ -3517,11 +5257,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "585"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "586"
@@ -3529,11 +5275,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "587"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "588"
@@ -3541,11 +5293,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "589"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "590"
@@ -3553,11 +5311,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "591"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "592"
@@ -3565,11 +5329,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "593"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "594"
@@ -3577,11 +5347,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "595"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "596"
@@ -3589,11 +5365,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "597"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "598"
@@ -3601,11 +5383,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "599"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "600"
@@ -3613,11 +5401,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "601"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "602"
@@ -3625,11 +5419,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "603"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "604"
@@ -3637,11 +5437,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "605"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "606"
@@ -3649,11 +5455,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "607"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "608"
@@ -3661,11 +5473,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "609"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "610"
@@ -3673,11 +5491,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "611"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "612"
@@ -3685,11 +5509,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "613"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "614"
@@ -3697,11 +5527,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "615"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "616"
@@ -3709,11 +5545,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "617"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "618"
@@ -3721,11 +5563,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "619"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "620"
@@ -3733,11 +5581,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "621"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "622"
@@ -3745,11 +5599,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "623"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "624"
@@ -3757,11 +5617,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "625"
   prize: "$1000"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "626"
@@ -3769,11 +5635,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "627"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "628"
@@ -3781,11 +5653,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "629"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "630"
@@ -3793,11 +5671,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "631"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "632"
@@ -3805,11 +5689,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "633"
   prize: "$25"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "634"
@@ -3817,11 +5707,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "635"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "636"
@@ -3829,11 +5725,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "637"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "638"
@@ -3841,11 +5743,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "639"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "640"
@@ -3853,11 +5761,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "641"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "642"
@@ -3865,11 +5779,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "643"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "644"
@@ -3877,11 +5797,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "645"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "646"
@@ -3889,11 +5815,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "647"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "648"
@@ -3901,11 +5833,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "649"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "650"
@@ -3913,11 +5851,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "651"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "652"
@@ -3925,11 +5869,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "653"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "654"
@@ -3937,11 +5887,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "655"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "656"
@@ -3949,11 +5905,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "657"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "658"
@@ -3961,11 +5923,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "659"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "660"
@@ -3973,11 +5941,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "661"
   prize: "$50"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "662"
@@ -3985,11 +5959,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "663"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "664"
@@ -3997,11 +5977,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "665"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "666"
@@ -4009,11 +5995,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "667"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "668"
@@ -4021,11 +6013,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "669"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "670"
@@ -4033,11 +6031,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "671"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "672"
@@ -4045,11 +6049,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "673"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "674"
@@ -4057,11 +6067,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "675"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "676"
@@ -4069,11 +6085,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "677"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "678"
@@ -4081,11 +6103,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "679"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "680"
@@ -4093,11 +6121,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "681"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "682"
@@ -4105,11 +6139,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "683"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "684"
@@ -4117,11 +6157,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "685"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "686"
@@ -4129,11 +6175,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "687"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "688"
@@ -4141,11 +6193,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "689"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "690"
@@ -4153,11 +6211,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "691"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "692"
@@ -4165,11 +6229,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "693"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "694"
@@ -4177,11 +6247,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "695"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "696"
@@ -4189,11 +6265,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "697"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "698"
@@ -4201,11 +6283,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "699"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "700"
@@ -4213,11 +6301,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "701"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "702"
@@ -4225,11 +6319,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "703"
   prize: "$250"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "704"
@@ -4237,11 +6337,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "705"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "706"
@@ -4249,11 +6355,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "707"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "708"
@@ -4261,11 +6373,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "709"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "710"
@@ -4273,11 +6391,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "711"
   prize: "₹1000"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "712"
@@ -4285,11 +6409,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "713"
   prize: "$500"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "714"
@@ -4297,11 +6427,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "715"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "716"
@@ -4309,11 +6445,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "717"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "718"
@@ -4321,11 +6463,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "719"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "720"
@@ -4333,11 +6481,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "721"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "722"
@@ -4345,11 +6499,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "723"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "724"
@@ -4357,11 +6517,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "725"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "726"
@@ -4369,11 +6535,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "727"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "728"
@@ -4381,11 +6553,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "729"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "730"
@@ -4393,11 +6571,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "731"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "732"
@@ -4405,11 +6589,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "733"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "734"
@@ -4417,11 +6607,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "735"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "736"
@@ -4429,11 +6625,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "737"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "738"
@@ -4441,11 +6643,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "739"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "740"
@@ -4453,11 +6661,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "741"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "742"
@@ -4465,11 +6679,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "743"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "744"
@@ -4477,11 +6697,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "745"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "746"
@@ -4489,11 +6715,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "747"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "748"
@@ -4501,11 +6733,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "749"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "750"
@@ -4513,11 +6751,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "751"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "752"
@@ -4525,11 +6769,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "753"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "754"
@@ -4537,11 +6787,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "755"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "756"
@@ -4549,11 +6805,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "757"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "758"
@@ -4561,11 +6823,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "759"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "760"
@@ -4573,11 +6841,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "761"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "762"
@@ -4585,11 +6859,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "763"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "764"
@@ -4597,11 +6877,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "765"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "766"
@@ -4609,11 +6895,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "767"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "768"
@@ -4621,11 +6913,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "769"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "770"
@@ -4633,11 +6931,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "771"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "772"
@@ -4645,11 +6949,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "773"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "774"
@@ -4657,11 +6967,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "775"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "776"
@@ -4669,11 +6985,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "777"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "778"
@@ -4681,11 +7003,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "779"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "780"
@@ -4693,11 +7021,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "781"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "782"
@@ -4705,11 +7039,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "783"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "784"
@@ -4717,11 +7057,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "785"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "786"
@@ -4729,11 +7075,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "787"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "788"
@@ -4741,11 +7093,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "789"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "790"
@@ -4753,11 +7111,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "791"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "792"
@@ -4765,11 +7129,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "793"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "794"
@@ -4777,11 +7147,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "795"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "796"
@@ -4789,11 +7165,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "797"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "798"
@@ -4801,11 +7183,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "799"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "800"
@@ -4813,11 +7201,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "801"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "802"
@@ -4825,11 +7219,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "803"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "804"
@@ -4837,11 +7237,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "805"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "806"
@@ -4849,11 +7255,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "807"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "808"
@@ -4861,11 +7273,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "809"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "810"
@@ -4873,11 +7291,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "811"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "812"
@@ -4885,11 +7309,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "813"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "814"
@@ -4897,11 +7327,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "815"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "816"
@@ -4909,11 +7345,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "817"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "818"
@@ -4921,11 +7363,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "819"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "820"
@@ -4933,11 +7381,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "821"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "822"
@@ -4945,11 +7399,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "823"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "824"
@@ -4957,11 +7417,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "825"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "826"
@@ -4969,11 +7435,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "827"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "828"
@@ -4981,11 +7453,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "829"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "830"
@@ -4993,11 +7471,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "831"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "832"
@@ -5005,11 +7489,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "833"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "834"
@@ -5017,11 +7507,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "835"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "836"
@@ -5029,11 +7525,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "837"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "838"
@@ -5041,11 +7543,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "839"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "840"
@@ -5053,11 +7561,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "841"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "842"
@@ -5065,11 +7579,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "843"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "844"
@@ -5077,11 +7597,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "845"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "846"
@@ -5089,11 +7615,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "847"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "848"
@@ -5101,11 +7633,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "849"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "850"
@@ -5113,11 +7651,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "851"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "852"
@@ -5125,11 +7669,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "853"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "854"
@@ -5137,11 +7687,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "855"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "856"
@@ -5149,11 +7705,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "857"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "858"
@@ -5161,11 +7723,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "859"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "860"
@@ -5173,11 +7741,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "861"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "862"
@@ -5185,11 +7759,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "863"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "864"
@@ -5197,11 +7777,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "865"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "866"
@@ -5209,11 +7795,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "867"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "868"
@@ -5221,11 +7813,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "869"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "870"
@@ -5233,11 +7831,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "871"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "872"
@@ -5245,11 +7849,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "873"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "874"
@@ -5257,11 +7867,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "875"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "876"
@@ -5269,11 +7885,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "877"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "878"
@@ -5281,11 +7903,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "879"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "880"
@@ -5293,11 +7921,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "881"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "882"
@@ -5305,11 +7939,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "883"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "884"
@@ -5317,11 +7957,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "885"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "886"
@@ -5329,11 +7975,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "887"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "888"
@@ -5341,11 +7993,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "889"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "890"
@@ -5353,11 +8011,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "891"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "892"
@@ -5365,11 +8029,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "893"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "894"
@@ -5377,11 +8047,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "895"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "896"
@@ -5389,11 +8065,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "897"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "898"
@@ -5401,11 +8083,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "899"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "900"
@@ -5413,11 +8101,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "901"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "902"
@@ -5425,11 +8119,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "903"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "904"
@@ -5437,11 +8137,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "905"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "906"
@@ -5449,11 +8155,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "907"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "908"
@@ -5461,11 +8173,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "909"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "910"
@@ -5473,11 +8191,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "911"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "912"
@@ -5485,11 +8209,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "913"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "914"
@@ -5497,11 +8227,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "915"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "916"
@@ -5509,11 +8245,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "917"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "918"
@@ -5521,11 +8263,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "919"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "920"
@@ -5533,11 +8281,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "921"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "922"
@@ -5545,11 +8299,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "923"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "924"
@@ -5557,11 +8317,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "925"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "926"
@@ -5569,11 +8335,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "927"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "928"
@@ -5581,11 +8353,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "929"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "930"
@@ -5593,11 +8371,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "931"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "932"
@@ -5605,11 +8389,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "933"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "934"
@@ -5617,11 +8407,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "935"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "936"
@@ -5629,11 +8425,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "937"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "938"
@@ -5641,11 +8443,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "939"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "940"
@@ -5653,11 +8461,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "941"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "942"
@@ -5665,11 +8479,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "yes"
+    last_update: "2025-08-31"
 
 - number: "943"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "944"
@@ -5677,11 +8497,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "945"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "946"
@@ -5689,11 +8515,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "947"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "948"
@@ -5701,11 +8533,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "949"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "yes"
     last_update: "2025-08-31"
 
 - number: "950"
@@ -5713,11 +8551,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "951"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "952"
@@ -5725,11 +8569,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "953"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "954"
@@ -5737,11 +8587,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "955"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "956"
@@ -5749,11 +8605,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "957"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "958"
@@ -5761,11 +8623,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "959"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "960"
@@ -5773,11 +8641,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "961"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "962"
@@ -5785,11 +8659,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "963"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "964"
@@ -5797,11 +8677,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "965"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "966"
@@ -5809,11 +8695,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "967"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "968"
@@ -5821,11 +8713,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "969"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "970"
@@ -5833,11 +8731,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "971"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "972"
@@ -5845,11 +8749,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "973"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "974"
@@ -5857,11 +8767,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "975"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "976"
@@ -5869,11 +8785,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "977"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "978"
@@ -5881,11 +8803,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "979"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "980"
@@ -5893,11 +8821,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "981"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "982"
@@ -5905,11 +8839,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "983"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "984"
@@ -5917,11 +8857,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "985"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "986"
@@ -5929,11 +8875,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "987"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "988"
@@ -5941,11 +8893,17 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "989"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
 
 - number: "990"
@@ -5953,15 +8911,24 @@
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "991"
   prize: "No"
   status:
     state: "unknown"
     last_update: "2025-08-31"
+  formalized:
+    state: "no"
+    last_update: "2025-08-31"
 
 - number: "992"
   prize: "No"
   status:
     state: "unknown"
+    last_update: "2025-08-31"
+  formalized:
+    state: "no"
     last_update: "2025-08-31"
