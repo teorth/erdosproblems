@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Erdos problems table",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["number", "status"],
+    "properties": {
+      "number": { "type": "string", "pattern": "^[0-9\\-]+$" },
+      "prize": { "type": "string" },
+      "status": {
+        "type": "object",
+        "required": ["state"],
+        "properties": {
+          "state": { "type": "string", "enum": ["open", "solved", "partial", "retired"] },
+          "last_update": { "type": "string", "format": "date" },
+          "note": { "type": "string" }
+        }
+      },
+      "oeis": {
+        "type": "array",
+        "items": { "type": "string" }
+       },
+      "tags": {
+        "type": "array",
+        "items": { "type": "string" },
+        "uniqueItems": true
+      }
+    },
+    "additionalProperties": false
+  },
+  "uniqueItems": true
+}

@@ -1,0 +1,14 @@
+- number: "1"
+  prize: "$500"
+  status:
+    state: "open"           # open | solved | partial | retired
+    last_update: "2025-08-31"
+  oeis: ["A276661"]
+  tags: ["number theory", "additive combinatorics"]
+
+- number: "2"
+  status:
+    state: "solved"
+    last_update: "2025-08-31"
+  oeis: ["N/A"]
+  tags: ["number theory", "covering systems"]
