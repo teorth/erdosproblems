@@ -25,7 +25,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible (r_k(N))"]
+  oeis: ["possible (e.g., r_3(N))"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1015,6 +1015,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1024,6 +1025,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1033,6 +1035,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1052,6 +1055,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1061,6 +1065,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1070,6 +1075,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1080,6 +1086,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1089,6 +1096,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1099,6 +1107,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1108,6 +1117,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1117,6 +1127,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1126,6 +1137,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1135,6 +1147,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1144,6 +1157,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1153,6 +1167,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1162,6 +1177,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1171,6 +1187,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1180,6 +1197,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1189,6 +1207,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1199,6 +1218,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["A028391", "A013928", "A372306", "A373319", "A372306", "A373178", "A360659", "A373114", "A143301"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1208,6 +1228,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1217,6 +1238,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1226,6 +1248,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1235,6 +1258,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1244,6 +1268,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1253,6 +1278,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1262,6 +1288,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1271,6 +1298,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1280,6 +1308,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1289,6 +1318,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1298,6 +1328,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1307,6 +1338,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1316,6 +1348,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1325,6 +1358,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1334,6 +1368,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1343,6 +1378,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1352,6 +1388,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+    oeis: ["A005346"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1361,6 +1398,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1370,6 +1408,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1379,6 +1418,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+    oeis: ["A006560"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1388,6 +1428,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1397,6 +1438,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1406,6 +1448,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1415,6 +1458,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["A005117"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1424,6 +1468,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1433,6 +1478,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1442,6 +1488,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["A076393","possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1451,6 +1498,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1460,6 +1508,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1469,6 +1518,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1478,6 +1528,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1487,6 +1538,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1496,6 +1548,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1505,6 +1558,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1514,6 +1568,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1523,6 +1578,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1532,6 +1588,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1541,6 +1598,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1550,6 +1608,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1559,6 +1618,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1568,6 +1628,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1577,16 +1638,18 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "Burr-Erdős conjecture."
+  comments: "Burr-Erdős conjecture"
 
 - number: "164"
   prize: "No"
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1596,6 +1659,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1605,6 +1669,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1614,6 +1679,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1623,6 +1689,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1632,6 +1699,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1641,16 +1709,18 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "Sparse Ruler problem"
+  comments: "sparse ruler problem"
 
 - number: "171"
   prize: "No"
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1661,6 +1731,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1670,6 +1741,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1679,6 +1751,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1688,6 +1761,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1697,6 +1771,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1706,6 +1781,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1715,6 +1791,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1724,6 +1801,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1733,6 +1811,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1742,6 +1821,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1751,6 +1831,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1760,6 +1841,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1769,6 +1851,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1778,6 +1861,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1787,6 +1871,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1796,6 +1881,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1805,6 +1891,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1814,6 +1901,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1823,6 +1911,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1832,6 +1921,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1841,6 +1931,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1850,6 +1941,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1859,6 +1951,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1868,6 +1961,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1877,6 +1971,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1886,6 +1981,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1895,6 +1991,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -1904,6 +2001,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1913,6 +2011,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
