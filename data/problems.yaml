@@ -41,6 +41,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "5"
   prize: "No"
@@ -51,6 +52,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "6"
   prize: "$100"
@@ -61,6 +63,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "7"
   prize: "No"
@@ -71,6 +74,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "8"
   prize: "No"
@@ -81,6 +85,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "9"
   prize: "No"
@@ -91,6 +96,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis", "primes"]
 
 - number: "10"
   prize: "No"
@@ -101,6 +107,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis", "primes"]
 
 - number: "11"
   prize: "No"
@@ -111,6 +118,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "12"
   prize: "No"
@@ -121,6 +129,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "13"
   prize: "$100"
@@ -131,6 +140,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "14"
   prize: "No"
@@ -141,6 +151,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "15"
   prize: "No"
@@ -151,6 +162,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "16"
   prize: "No"
@@ -161,6 +173,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis", "primes"]
 
 - number: "17"
   prize: "No"
@@ -172,6 +185,7 @@
     state: "yes"
     last_update: "2025-08-31"
   comments: "cluster primes"
+  tags: ["number theory", "primes"]
 
 - number: "18"
   prize: "No"
@@ -183,6 +197,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "practical numbers"
+  tags: ["number theory", "divisors", "factorials"]
 
 - number: "19"
   prize: "$500"
@@ -193,6 +208,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "20"
   prize: "$1000"
@@ -203,6 +219,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "21"
   prize: "$500"
@@ -213,6 +230,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "intersecting family"]
 
 - number: "22"
   prize: "No"
@@ -223,6 +241,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "23"
   prize: "No"
@@ -233,6 +252,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "24"
   prize: "No"
@@ -243,6 +263,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "25"
   prize: "No"
@@ -253,6 +274,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "26"
   prize: "No"
@@ -263,6 +285,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "27"
   prize: "$100"
@@ -273,6 +296,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "28"
   prize: "$500"
@@ -283,6 +307,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "29"
   prize: "$100"
@@ -293,6 +318,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "30"
   prize: "$1000"
@@ -303,6 +329,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "31"
   prize: "No"
@@ -313,6 +340,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "32"
   prize: "No"
@@ -323,6 +351,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "33"
   prize: "No"
@@ -333,6 +362,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "34"
   prize: "No"
@@ -343,6 +373,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "35"
   prize: "No"
@@ -353,6 +384,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "36"
   prize: "No"
@@ -364,6 +396,7 @@
     state: "yes"
     last_update: "2025-08-31"
   comments: "minimum overlap problem"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "37"
   prize: "No"
@@ -374,6 +407,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "38"
   prize: "No"
@@ -384,6 +418,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "39"
   prize: "$500"
@@ -394,6 +429,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "40"
   prize: "$500"
@@ -404,6 +440,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "41"
   prize: "$500"
@@ -414,6 +451,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "42"
   prize: "No"
@@ -424,6 +462,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "43"
   prize: "$100"
@@ -434,6 +473,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "44"
   prize: "No"
@@ -444,6 +484,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "45"
   prize: "No"
@@ -454,6 +495,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions", "ramsey theory"]
 
 - number: "46"
   prize: "No"
@@ -464,6 +506,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions", "ramsey theory"]
 
 - number: "47"
   prize: "$100"
@@ -474,6 +517,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "48"
   prize: "No"
@@ -484,6 +528,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "49"
   prize: "No"
@@ -494,6 +539,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "50"
   prize: "$250"
@@ -504,6 +550,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "51"
   prize: "No"
@@ -514,6 +561,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "52"
   prize: "$250"
@@ -525,6 +573,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "sum-product problem"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "53"
   prize: "No"
@@ -535,6 +584,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "54"
   prize: "$100"
@@ -545,6 +595,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "ramsey theory"]
 
 - number: "55"
   prize: "$250"
@@ -555,6 +606,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "ramsey theory"]
 
 - number: "56"
   prize: "No"
@@ -565,6 +617,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "intersecting family"]
 
 - number: "57"
   prize: "No"
@@ -575,6 +628,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "58"
   prize: "No"
@@ -585,6 +639,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "59"
   prize: "No"
@@ -595,6 +650,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "60"
   prize: "No"
@@ -605,6 +661,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "61"
   prize: "No"
@@ -615,6 +672,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "62"
   prize: "No"
@@ -625,6 +683,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "63"
   prize: "No"
@@ -635,6 +694,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "64"
   prize: "$1000"
@@ -645,6 +705,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "65"
   prize: "No"
@@ -655,6 +716,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "66"
   prize: "$500"
@@ -665,6 +727,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "67"
   prize: "$500"
@@ -676,6 +739,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Erdős discrepancy problem"
+  tags: ["discrepancy"]
 
 
 - number: "68"
@@ -687,6 +751,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "irrationality"]
 
 - number: "69"
   prize: "No"
@@ -697,6 +762,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "irrationality"]
 
 - number: "70"
   prize: "No"
@@ -707,6 +773,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory", "set theory"]
 
 - number: "71"
   prize: "No"
@@ -717,6 +784,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "72"
   prize: "$100"
@@ -727,6 +795,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "73"
   prize: "No"
@@ -737,6 +806,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "74"
   prize: "$500"
@@ -747,6 +817,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "75"
   prize: "No"
@@ -757,6 +828,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "76"
   prize: "No"
@@ -767,6 +839,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "77"
   prize: "$250"
@@ -777,6 +850,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "78"
   prize: "$100"
@@ -787,6 +861,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "79"
   prize: "No"
@@ -797,6 +872,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "80"
   prize: "No"
@@ -807,6 +883,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "81"
   prize: "No"
@@ -817,6 +894,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "82"
   prize: "No"
@@ -827,6 +905,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "83"
   prize: "$500"
@@ -837,6 +916,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "84"
   prize: "No"
@@ -847,6 +927,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "85"
   prize: "No"
@@ -857,6 +938,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "86"
   prize: "$100"
@@ -867,6 +949,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "87"
   prize: "No"
@@ -877,6 +960,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "88"
   prize: "$100"
@@ -887,6 +971,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "89"
   prize: "$500"
@@ -898,6 +983,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Erdős distance problem"
+  tags: ["geometry", "distances"]
 
 - number: "90"
   prize: "$500"
@@ -909,6 +995,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "unit distance problem"
+  tags: ["geometry", "distances"]
 
 - number: "91"
   prize: "No"
@@ -919,6 +1006,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "92"
   prize: "$500"
@@ -929,6 +1017,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "93"
   prize: "No"
@@ -939,6 +1028,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "convex"]
 
 - number: "94"
   prize: "£25"
@@ -949,6 +1039,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "convex"]
 
 - number: "95"
   prize: "$500"
@@ -959,6 +1050,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "convex", "distances"]
 
 - number: "96"
   prize: "No"
@@ -969,6 +1061,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances", "convex"]
 
 - number: "97"
   prize: "$100"
@@ -979,6 +1072,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances", "convex"]
 
 - number: "98"
   prize: "No"
@@ -989,6 +1083,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "99"
   prize: "$100"
@@ -999,6 +1094,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "100"
   prize: "No"
@@ -1009,6 +1105,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "101"
   prize: "$100"
@@ -1019,6 +1116,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "102"
   prize: "No"
@@ -1029,6 +1127,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "103"
   prize: "No"
@@ -1039,6 +1138,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "104"
   prize: "$100"
@@ -1049,6 +1149,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "105"
   prize: "$50"
@@ -1059,6 +1160,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "106"
   prize: "No"
@@ -1069,6 +1171,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "107"
   prize: "$500"
@@ -1080,6 +1183,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "'Happy Ending' problem"
+  tags: ["geometry", "convex"]
 
 - number: "108"
   prize: "No"
@@ -1090,6 +1194,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "109"
   prize: "No"
@@ -1101,6 +1206,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Erdős sumset conjecture"
+  tags: ["additive combinatorics"]
 
 - number: "110"
   prize: "No"
@@ -1111,6 +1217,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "111"
   prize: "No"
@@ -1121,6 +1228,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "set theory"]
 
 - number: "112"
   prize: "No"
@@ -1131,6 +1239,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "113"
   prize: "$500"
@@ -1141,6 +1250,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "114"
   prize: "No"
@@ -1151,6 +1261,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["polynomials", "analysis"]
 
 - number: "115"
   prize: "No"
@@ -1161,6 +1272,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["polynomials", "analysis"]
 
 - number: "116"
   prize: "No"
@@ -1171,6 +1283,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["polynomials", "analysis"]
 
 - number: "117"
   prize: "No"
@@ -1181,6 +1294,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["group theory"]
 
 - number: "118"
   prize: "No"
@@ -1191,6 +1305,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["set theory", "ramsey theory"]
 
 - number: "119"
   prize: "$100"
@@ -1201,6 +1316,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "polynomials"]
 
 - number: "120"
   prize: "$100"
@@ -1212,6 +1328,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Erdős similarity problem"
+  tags: ["combinatorics"]
 
 - number: "121"
   prize: "No"
@@ -1222,6 +1339,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "squares"]
 
 - number: "122"
   prize: "No"
@@ -1232,6 +1350,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "123"
   prize: "$250"
@@ -1242,6 +1361,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "124"
   prize: "No"
@@ -1252,6 +1372,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "base representations"]
 
 - number: "125"
   prize: "No"
@@ -1262,6 +1383,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "base representations"]
 
 - number: "126"
   prize: "$250"
@@ -1272,6 +1394,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "127"
   prize: "No"
@@ -1282,6 +1405,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "128"
   prize: "$250"
@@ -1292,6 +1416,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "129"
   prize: "No"
@@ -1302,6 +1427,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "130"
   prize: "No"
@@ -1312,6 +1438,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "131"
   prize: "No"
@@ -1322,6 +1449,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "132"
   prize: "$100"
@@ -1332,6 +1460,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["distances"]
 
 - number: "133"
   prize: "No"
@@ -1342,6 +1471,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "134"
   prize: "No"
@@ -1352,6 +1482,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "135"
   prize: "$250"
@@ -1362,6 +1493,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["distances", "geometry"]
 
 - number: "136"
   prize: "No"
@@ -1372,6 +1504,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "137"
   prize: "No"
@@ -1382,6 +1515,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "138"
   prize: "$500"
@@ -1392,6 +1526,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "139"
   prize: "$1000"
@@ -1402,6 +1537,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "140"
   prize: "$500"
@@ -1412,6 +1548,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "141"
   prize: "No"
@@ -1422,6 +1559,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "primes", "arithmetic progressions"]
 
 - number: "142"
   prize: "$10000"
@@ -1432,6 +1570,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "143"
   prize: "$500"
@@ -1442,6 +1581,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["primitive sets"]
 
 - number: "144"
   prize: "$250"
@@ -1452,6 +1592,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "145"
   prize: "No"
@@ -1462,6 +1603,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "146"
   prize: "$500"
@@ -1472,6 +1614,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "147"
   prize: "$500"
@@ -1482,6 +1625,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "148"
   prize: "No"
@@ -1492,6 +1636,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "149"
   prize: "No"
@@ -1502,6 +1647,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "150"
   prize: "No"
@@ -1512,6 +1658,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "151"
   prize: "No"
@@ -1522,6 +1669,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "152"
   prize: "No"
@@ -1532,6 +1680,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["sidon sets"]
 
 - number: "153"
   prize: "No"
@@ -1542,6 +1691,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["sidon sets"]
 
 - number: "154"
   prize: "No"
@@ -1552,6 +1702,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["sidon sets"]
 
 - number: "155"
   prize: "No"
@@ -1562,6 +1713,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "sidon sets"]
 
 - number: "156"
   prize: "No"
@@ -1572,6 +1724,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["sidon sets"]
 
 - number: "157"
   prize: "No"
@@ -1582,6 +1735,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["sidon sets"]
 
 - number: "158"
   prize: "No"
@@ -1592,6 +1746,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["sidon sets"]
 
 - number: "159"
   prize: "No"
@@ -1602,6 +1757,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "160"
   prize: "No"
@@ -1612,6 +1768,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "161"
   prize: "$500"
@@ -1622,6 +1779,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "ramsey theory", "discrepancy"]
 
 - number: "162"
   prize: "No"
@@ -1632,6 +1790,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "ramsey theory", "discrepancy"]
 
 - number: "163"
   prize: "No"
@@ -1643,6 +1802,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Burr-Erdős conjecture"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "164"
   prize: "No"
@@ -1653,6 +1813,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primitive sets"]
 
 - number: "165"
   prize: "$250"
@@ -1663,6 +1824,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "166"
   prize: "$250"
@@ -1673,6 +1835,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "167"
   prize: "No"
@@ -1683,6 +1846,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "168"
   prize: "No"
@@ -1693,6 +1857,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "169"
   prize: "No"
@@ -1703,6 +1868,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "170"
   prize: "No"
@@ -1714,6 +1880,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "sparse ruler problem"
+  tags: ["additive combinatorics"]
 
 - number: "171"
   prize: "No"
@@ -1725,6 +1892,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "density Hales-Jewett"
+  tags: ["additive combinatorics", "combinatorics"]
 
 - number: "172"
   prize: "No"
@@ -1735,6 +1903,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "ramsey theory"]
 
 - number: "173"
   prize: "No"
@@ -1745,6 +1914,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "ramsey theory"]
 
 - number: "174"
   prize: "No"
@@ -1755,6 +1925,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "ramsey theory"]
 
 - number: "175"
   prize: "No"
@@ -1765,6 +1936,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "176"
   prize: "No"
@@ -1775,6 +1947,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions", "discrepancy"]
 
 - number: "177"
   prize: "No"
@@ -1785,6 +1958,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["discrepancy", "arithmetic progressions"]
 
 - number: "178"
   prize: "No"
@@ -1795,6 +1969,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["discrepancy"]
 
 - number: "179"
   prize: "No"
@@ -1805,6 +1980,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "180"
   prize: "No"
@@ -1815,6 +1991,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "181"
   prize: "No"
@@ -1825,6 +2002,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "182"
   prize: "No"
@@ -1835,6 +2013,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "183"
   prize: "$250"
@@ -1845,6 +2024,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "184"
   prize: "No"
@@ -1855,6 +2035,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "185"
   prize: "No"
@@ -1865,6 +2046,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "186"
   prize: "No"
@@ -1875,6 +2057,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "187"
   prize: "No"
@@ -1885,6 +2068,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "ramsey theory"]
 
 - number: "188"
   prize: "No"
@@ -1895,6 +2079,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "ramsey theory"]
 
 - number: "189"
   prize: "No"
@@ -1905,6 +2090,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["geometry", "ramsey theory"]
 
 - number: "190"
   prize: "No"
@@ -1915,6 +2101,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "191"
   prize: "No"
@@ -1925,6 +2112,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "ramsey theory"]
 
 - number: "192"
   prize: "No"
@@ -1935,6 +2123,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["arithmetic progressions", "combinatorics"]
 
 - number: "193"
   prize: "No"
@@ -1945,6 +2134,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "194"
   prize: "No"
@@ -1955,6 +2145,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["arithmetic progressions"]
 
 - number: "195"
   prize: "No"
@@ -1965,6 +2156,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["arithmetic progressions"]
 
 - number: "196"
   prize: "No"
@@ -1975,6 +2167,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["arithmetic progressions"]
 
 - number: "197"
   prize: "No"
@@ -1985,6 +2178,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["arithmetic progressions"]
 
 - number: "198"
   prize: "No"
@@ -1995,6 +2189,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "sidon sets", "arithmetic progressions"]
 
 - number: "199"
   prize: "No"
@@ -2005,6 +2200,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["arithmetic progressions"]
 
 - number: "200"
   prize: "No"
@@ -2015,6 +2211,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["primes", "arithmetic progressions"]
 
 - number: "201"
   prize: "No"
@@ -2024,6 +2221,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "202"
   prize: "No"
@@ -2033,6 +2231,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["covering systems"]
 
 - number: "203"
   prize: "No"
@@ -2042,6 +2241,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["primes", "covering systems"]
 
 - number: "204"
   prize: "No"
@@ -2051,6 +2251,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["covering systems"]
 
 - number: "205"
   prize: "No"
@@ -2060,6 +2261,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "206"
   prize: "No"
@@ -2069,6 +2271,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "207"
   prize: "No"
@@ -2078,6 +2281,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "hypergraphs"]
 
 - number: "208"
   prize: "No"
@@ -2087,6 +2291,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "209"
   prize: "No"
@@ -2096,6 +2301,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "210"
   prize: "No"
@@ -2105,6 +2311,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "211"
   prize: "$100"
@@ -2114,6 +2321,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "212"
   prize: "No"
@@ -2123,6 +2331,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "213"
   prize: "No"
@@ -2132,6 +2341,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "214"
   prize: "No"
@@ -2141,6 +2351,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "215"
   prize: "No"
@@ -2150,6 +2361,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "216"
   prize: "No"
@@ -2159,6 +2371,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "convex"]
 
 - number: "217"
   prize: "No"
@@ -2168,6 +2381,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "218"
   prize: "No"
@@ -2177,6 +2391,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "219"
   prize: "No"
@@ -2186,6 +2401,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "primes", "arithmetic progressions"]
 
 - number: "220"
   prize: "$500"
@@ -2195,6 +2411,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "221"
   prize: "No"
@@ -2204,6 +2421,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "222"
   prize: "No"
@@ -2214,6 +2432,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "squares"]
 
 - number: "223"
   prize: "No"
@@ -2223,6 +2442,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "224"
   prize: "No"
@@ -2232,6 +2452,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "225"
   prize: "No"
@@ -2241,6 +2462,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "226"
   prize: "No"
@@ -2250,6 +2472,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "227"
   prize: "No"
@@ -2259,6 +2482,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "228"
   prize: "No"
@@ -2268,6 +2492,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["analysis", "polynomials"]
 
 - number: "229"
   prize: "No"
@@ -2277,6 +2502,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["analysis", "iterated functions"]
 
 - number: "230"
   prize: "No"
@@ -2286,6 +2512,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "polynomials"]
 
 - number: "231"
   prize: "No"
@@ -2295,6 +2522,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "232"
   prize: "No"
@@ -2304,6 +2532,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "233"
   prize: "No"
@@ -2314,6 +2543,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "234"
   prize: "No"
@@ -2323,6 +2553,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "235"
   prize: "No"
@@ -2332,6 +2563,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "236"
   prize: "No"
@@ -2342,6 +2574,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "237"
   prize: "No"
@@ -2351,6 +2584,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "238"
   prize: "No"
@@ -2360,6 +2594,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "239"
   prize: "No"
@@ -2369,6 +2604,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "240"
   prize: "No"
@@ -2378,6 +2614,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "241"
   prize: "$100"
@@ -2387,6 +2624,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "sidon sets"]
 
 - number: "242"
   prize: "No"
@@ -2397,6 +2635,7 @@
     state: "yes"
     last_update: "2025-08-31"
   comments: "Erdős-Straus conjecture"
+  tags: ["number theory", "unit fractions"]
 
 - number: "243"
   prize: "No"
@@ -2407,6 +2646,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "244"
   prize: "No"
@@ -2416,6 +2656,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "245"
   prize: "No"
@@ -2425,6 +2666,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "246"
   prize: "No"
@@ -2434,6 +2676,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "247"
   prize: "No"
@@ -2443,6 +2686,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "irrationality"]
 
 - number: "248"
   prize: "No"
@@ -2452,6 +2696,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "249"
   prize: "No"
@@ -2462,6 +2707,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "irrationality"]
 
 - number: "250"
   prize: "No"
@@ -2471,6 +2717,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "irrationality"]
 
 - number: "251"
   prize: "No"
@@ -2481,6 +2728,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "irrationality"]
 
 - number: "252"
   prize: "No"
@@ -2490,6 +2738,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "irrationality"]
 
 - number: "253"
   prize: "No"
@@ -2499,6 +2748,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "254"
   prize: "No"
@@ -2508,6 +2758,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "255"
   prize: "No"
@@ -2517,6 +2768,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["discrepancy"]
 
 - number: "256"
   prize: "No"
@@ -2526,6 +2778,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "257"
   prize: "No"
@@ -2535,6 +2788,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "258"
   prize: "No"
@@ -2544,6 +2798,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "259"
   prize: "No"
@@ -2553,6 +2808,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "260"
   prize: "No"
@@ -2562,6 +2818,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "261"
   prize: "No"
@@ -2571,6 +2828,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "262"
   prize: "No"
@@ -2580,6 +2838,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "263"
   prize: "No"
@@ -2589,6 +2848,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "264"
   prize: "No"
@@ -2598,6 +2858,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "265"
   prize: "No"
@@ -2607,6 +2868,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "266"
   prize: "No"
@@ -2616,6 +2878,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "267"
   prize: "No"
@@ -2625,6 +2888,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "268"
   prize: "No"
@@ -2634,6 +2898,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "269"
   prize: "No"
@@ -2643,6 +2908,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "270"
   prize: "No"
@@ -2652,6 +2918,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["irrationality"]
 
 - number: "271"
   prize: "No"
@@ -2662,6 +2929,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "272"
   prize: "No"
@@ -2671,6 +2939,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "273"
   prize: "No"
@@ -2680,6 +2949,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "274"
   prize: "No"
@@ -2689,6 +2959,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["group theory", "covering systems"]
 
 - number: "275"
   prize: "No"
@@ -2698,6 +2969,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "276"
   prize: "No"
@@ -2707,6 +2979,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "277"
   prize: "No"
@@ -2716,6 +2989,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "278"
   prize: "No"
@@ -2725,6 +2999,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "279"
   prize: "No"
@@ -2734,6 +3009,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems", "primes"]
 
 - number: "280"
   prize: "No"
@@ -2743,6 +3019,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "281"
   prize: "No"
@@ -2752,6 +3029,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "282"
   prize: "No"
@@ -2761,6 +3039,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "283"
   prize: "No"
@@ -2770,6 +3049,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "284"
   prize: "No"
@@ -2779,6 +3059,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "285"
   prize: "No"
@@ -2788,6 +3069,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "286"
   prize: "No"
@@ -2797,6 +3079,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "287"
   prize: "No"
@@ -2806,6 +3089,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "288"
   prize: "No"
@@ -2815,6 +3099,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "289"
   prize: "No"
@@ -2824,6 +3109,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "290"
   prize: "No"
@@ -2834,6 +3120,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "291"
   prize: "No"
@@ -2843,6 +3130,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "292"
   prize: "No"
@@ -2852,6 +3140,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "293"
   prize: "No"
@@ -2861,6 +3150,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "294"
   prize: "No"
@@ -2870,6 +3160,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "295"
   prize: "No"
@@ -2879,6 +3170,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "296"
   prize: "No"
@@ -2888,6 +3180,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "297"
   prize: "No"
@@ -2897,6 +3190,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "298"
   prize: "No"
@@ -2906,6 +3200,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "299"
   prize: "No"
@@ -2915,6 +3210,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "300"
   prize: "No"
@@ -2924,6 +3220,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "301"
   prize: "No"
@@ -2933,6 +3230,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "302"
   prize: "No"
@@ -2942,6 +3240,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "303"
   prize: "No"
@@ -2951,6 +3250,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "304"
   prize: "No"
@@ -2960,6 +3260,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "305"
   prize: "No"
@@ -2969,6 +3270,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "306"
   prize: "No"
@@ -2978,6 +3280,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "307"
   prize: "No"
@@ -2987,6 +3290,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "308"
   prize: "No"
@@ -2996,6 +3300,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "309"
   prize: "No"
@@ -3005,6 +3310,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "310"
   prize: "No"
@@ -3014,6 +3320,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "311"
   prize: "No"
@@ -3023,6 +3330,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "312"
   prize: "No"
@@ -3032,6 +3340,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "313"
   prize: "No"
@@ -3042,6 +3351,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "314"
   prize: "No"
@@ -3051,6 +3361,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "315"
   prize: "No"
@@ -3061,6 +3372,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "316"
   prize: "No"
@@ -3070,6 +3382,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "317"
   prize: "No"
@@ -3079,6 +3392,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "318"
   prize: "No"
@@ -3088,6 +3402,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "319"
   prize: "No"
@@ -3097,6 +3412,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "320"
   prize: "No"
@@ -3106,6 +3422,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "321"
   prize: "No"
@@ -3115,6 +3432,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "322"
   prize: "No"
@@ -3124,6 +3442,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "powers"]
 
 - number: "323"
   prize: "No"
@@ -3133,6 +3452,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "powers"]
 
 - number: "324"
   prize: "No"
@@ -3142,6 +3462,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "powers"]
 
 - number: "325"
   prize: "No"
@@ -3151,6 +3472,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "powers"]
 
 - number: "326"
   prize: "No"
@@ -3160,6 +3482,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "327"
   prize: "No"
@@ -3169,6 +3492,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "328"
   prize: "No"
@@ -3178,6 +3502,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "329"
   prize: "No"
@@ -3187,6 +3512,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "330"
   prize: "No"
@@ -3196,6 +3522,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "331"
   prize: "No"
@@ -3205,6 +3532,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "332"
   prize: "No"
@@ -3214,6 +3542,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "333"
   prize: "No"
@@ -3223,6 +3552,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "334"
   prize: "No"
@@ -3232,6 +3562,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "335"
   prize: "No"
@@ -3241,6 +3572,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "336"
   prize: "No"
@@ -3250,6 +3582,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "337"
   prize: "No"
@@ -3259,6 +3592,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "additive basis"]
 
 - number: "338"
   prize: "No"
@@ -3268,6 +3602,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "339"
   prize: "No"
@@ -3277,6 +3612,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "340"
   prize: "No"
@@ -3287,6 +3623,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "sidon sets"]
 
 - number: "341"
   prize: "No"
@@ -3296,6 +3633,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "342"
   prize: "No"
@@ -3306,6 +3644,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "343"
   prize: "No"
@@ -3315,6 +3654,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "344"
   prize: "No"
@@ -3324,6 +3664,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "345"
   prize: "No"
@@ -3333,6 +3674,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "346"
   prize: "No"
@@ -3342,6 +3684,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "347"
   prize: "No"
@@ -3351,6 +3694,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "348"
   prize: "No"
@@ -3360,6 +3704,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "349"
   prize: "No"
@@ -3369,6 +3714,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "350"
   prize: "No"
@@ -3378,6 +3724,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "351"
   prize: "No"
@@ -3387,6 +3734,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "complete sequences"]
 
 - number: "352"
   prize: "No"
@@ -3396,6 +3744,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "353"
   prize: "No"
@@ -3405,6 +3754,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "354"
   prize: "No"
@@ -3414,6 +3764,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "355"
   prize: "No"
@@ -3423,6 +3774,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "unit fractions"]
 
 - number: "356"
   prize: "No"
@@ -3432,6 +3784,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "357"
   prize: "No"
@@ -3441,6 +3794,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "358"
   prize: "No"
@@ -3450,6 +3804,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis", "primes"]
 
 - number: "359"
   prize: "No"
@@ -3460,6 +3815,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "360"
   prize: "No"
@@ -3469,6 +3825,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "361"
   prize: "No"
@@ -3478,6 +3835,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "362"
   prize: "No"
@@ -3487,6 +3845,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "363"
   prize: "No"
@@ -3496,6 +3855,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "364"
   prize: "No"
@@ -3506,6 +3866,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "365"
   prize: "No"
@@ -3516,6 +3877,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "366"
   prize: "No"
@@ -3526,6 +3888,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "367"
   prize: "No"
@@ -3535,6 +3898,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "368"
   prize: "No"
@@ -3545,6 +3909,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "369"
   prize: "No"
@@ -3554,6 +3919,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "370"
   prize: "No"
@@ -3563,6 +3929,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "371"
   prize: "No"
@@ -3573,6 +3940,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "372"
   prize: "No"
@@ -3582,6 +3950,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "373"
   prize: "No"
@@ -3591,6 +3960,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "374"
   prize: "No"
@@ -3600,6 +3970,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "375"
   prize: "No"
@@ -3609,6 +3980,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "376"
   prize: "No"
@@ -3619,6 +3991,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients", "base representations"]
 
 - number: "377"
   prize: "No"
@@ -3628,6 +4001,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "378"
   prize: "No"
@@ -3637,6 +4011,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "379"
   prize: "No"
@@ -3647,6 +4022,7 @@
     state: "yes"
     last_update: "2025-08-31"
   comments: "Proof formalized"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "380"
   prize: "No"
@@ -3656,6 +4032,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "381"
   prize: "No"
@@ -3665,6 +4042,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "382"
   prize: "No"
@@ -3674,6 +4052,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "383"
   prize: "No"
@@ -3683,6 +4062,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "384"
   prize: "No"
@@ -3692,6 +4072,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "385"
   prize: "No"
@@ -3701,6 +4082,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "386"
   prize: "No"
@@ -3711,6 +4093,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "387"
   prize: "No"
@@ -3720,6 +4103,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "388"
   prize: "No"
@@ -3729,6 +4113,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "389"
   prize: "No"
@@ -3739,6 +4124,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "390"
   prize: "No"
@@ -3748,6 +4134,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "391"
   prize: "No"
@@ -3757,6 +4144,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "392"
   prize: "No"
@@ -3766,6 +4154,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "393"
   prize: "No"
@@ -3775,6 +4164,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "394"
   prize: "No"
@@ -3784,6 +4174,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "395"
   prize: "No"
@@ -3794,6 +4185,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "reverse Littlewood-Offord problem"
+  tags: ["analysis"]
 
 - number: "396"
   prize: "No"
@@ -3804,6 +4196,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "397"
   prize: "No"
@@ -3813,6 +4206,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "398"
   prize: "No"
@@ -3824,6 +4218,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Brocard-Ramanujan conjecture"
+  tags: ["number theory", "factorials"]
 
 - number: "399"
   prize: "No"
@@ -3833,6 +4228,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "400"
   prize: "No"
@@ -3842,6 +4238,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "401"
   prize: "No"
@@ -3851,6 +4248,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "402"
   prize: "No"
@@ -3860,6 +4258,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "403"
   prize: "No"
@@ -3869,6 +4268,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "404"
   prize: "No"
@@ -3878,6 +4278,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "405"
   prize: "No"
@@ -3887,6 +4288,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "406"
   prize: "No"
@@ -3896,6 +4298,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "base representations"]
 
 - number: "407"
   prize: "No"
@@ -3905,6 +4308,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "408"
   prize: "No"
@@ -3914,6 +4318,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "iterated functions"]
 
 - number: "409"
   prize: "No"
@@ -3924,6 +4329,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "iterated functions"]
 
 - number: "410"
   prize: "No"
@@ -3933,6 +4339,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "iterated functions"]
 
 - number: "411"
   prize: "No"
@@ -3942,6 +4349,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "iterated functions"]
 
 - number: "412"
   prize: "No"
@@ -3951,6 +4359,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "iterated functions"]
 
 - number: "413"
   prize: "No"
@@ -3960,6 +4369,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "iterated functions"]
 
 - number: "414"
   prize: "No"
@@ -3969,6 +4379,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "iterated functions"]
 
 - number: "415"
   prize: "No"
@@ -3978,6 +4389,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "416"
   prize: "No"
@@ -3987,6 +4399,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "417"
   prize: "No"
@@ -3996,6 +4409,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "418"
   prize: "No"
@@ -4005,6 +4419,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "419"
   prize: "No"
@@ -4014,6 +4429,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "420"
   prize: "No"
@@ -4023,6 +4439,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "421"
   prize: "No"
@@ -4032,6 +4449,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "422"
   prize: "No"
@@ -4042,6 +4460,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "423"
   prize: "No"
@@ -4052,6 +4471,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "424"
   prize: "No"
@@ -4062,6 +4482,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "425"
   prize: "No"
@@ -4071,6 +4492,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets"]
 
 - number: "426"
   prize: "$25"
@@ -4080,6 +4502,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "427"
   prize: "No"
@@ -4089,6 +4512,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "428"
   prize: "No"
@@ -4098,6 +4522,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "429"
   prize: "No"
@@ -4107,6 +4532,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "430"
   prize: "No"
@@ -4116,6 +4542,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "431"
   prize: "No"
@@ -4126,6 +4553,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "inverse Goldbach problem"
+  tags: ["number theory", "primes"]
 
 - number: "432"
   prize: "No"
@@ -4135,6 +4563,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "433"
   prize: "No"
@@ -4144,6 +4573,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "434"
   prize: "No"
@@ -4153,6 +4583,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "435"
   prize: "No"
@@ -4162,6 +4593,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "436"
   prize: "No"
@@ -4171,6 +4603,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "437"
   prize: "No"
@@ -4180,6 +4613,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "438"
   prize: "No"
@@ -4189,6 +4623,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "439"
   prize: "No"
@@ -4198,6 +4633,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "ramsey theory"]
 
 - number: "440"
   prize: "No"
@@ -4207,6 +4643,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "441"
   prize: "No"
@@ -4216,6 +4653,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "442"
   prize: "No"
@@ -4225,6 +4663,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "443"
   prize: "No"
@@ -4234,6 +4673,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "444"
   prize: "No"
@@ -4243,6 +4683,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "445"
   prize: "No"
@@ -4252,6 +4693,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "446"
   prize: "No"
@@ -4261,6 +4703,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "447"
   prize: "No"
@@ -4270,6 +4713,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "448"
   prize: "No"
@@ -4279,6 +4723,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "449"
   prize: "No"
@@ -4288,6 +4733,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "450"
   prize: "No"
@@ -4297,6 +4743,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "451"
   prize: "No"
@@ -4306,6 +4753,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "452"
   prize: "No"
@@ -4315,6 +4763,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "453"
   prize: "No"
@@ -4324,6 +4773,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "454"
   prize: "No"
@@ -4333,6 +4783,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "455"
   prize: "No"
@@ -4342,6 +4793,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "456"
   prize: "No"
@@ -4351,6 +4803,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "457"
   prize: "No"
@@ -4360,6 +4813,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "458"
   prize: "No"
@@ -4369,6 +4823,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "459"
   prize: "No"
@@ -4378,6 +4833,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "460"
   prize: "No"
@@ -4387,6 +4843,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "461"
   prize: "No"
@@ -4396,6 +4853,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "462"
   prize: "No"
@@ -4405,6 +4863,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "463"
   prize: "No"
@@ -4414,6 +4873,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "464"
   prize: "No"
@@ -4423,6 +4883,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "465"
   prize: "No"
@@ -4432,6 +4893,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "466"
   prize: "No"
@@ -4441,6 +4903,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "467"
   prize: "No"
@@ -4450,6 +4913,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "468"
   prize: "No"
@@ -4459,6 +4923,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "469"
   prize: "No"
@@ -4469,6 +4934,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "470"
   prize: "No"
@@ -4479,6 +4945,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "471"
   prize: "No"
@@ -4488,6 +4955,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "472"
   prize: "No"
@@ -4497,6 +4965,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "473"
   prize: "No"
@@ -4506,6 +4975,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "474"
   prize: "$100"
@@ -4515,6 +4985,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["set theory", "ramsey theory"]
 
 - number: "475"
   prize: "No"
@@ -4524,6 +4995,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "476"
   prize: "No"
@@ -4533,6 +5005,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "477"
   prize: "No"
@@ -4542,6 +5015,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "478"
   prize: "No"
@@ -4551,6 +5025,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "479"
   prize: "No"
@@ -4561,6 +5036,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "480"
   prize: "No"
@@ -4570,6 +5046,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "481"
   prize: "No"
@@ -4579,6 +5056,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "482"
   prize: "No"
@@ -4588,6 +5066,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "483"
   prize: "No"
@@ -4598,6 +5077,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "ramsey theory"]
 
 - number: "484"
   prize: "No"
@@ -4607,6 +5087,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "ramsey theory"]
 
 - number: "485"
   prize: "No"
@@ -4616,6 +5097,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "polynomials"]
 
 - number: "486"
   prize: "No"
@@ -4625,6 +5107,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primitive sets"]
 
 - number: "487"
   prize: "No"
@@ -4634,6 +5117,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "488"
   prize: "No"
@@ -4643,6 +5127,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "489"
   prize: "No"
@@ -4652,6 +5137,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "490"
   prize: "No"
@@ -4661,6 +5147,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "491"
   prize: "No"
@@ -4670,6 +5157,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "492"
   prize: "No"
@@ -4679,6 +5167,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "493"
   prize: "No"
@@ -4688,6 +5177,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "494"
   prize: "No"
@@ -4697,6 +5187,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "additive combinatorics"]
 
 - number: "495"
   prize: "No"
@@ -4707,6 +5198,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Littlewood conjecture"
+  tags: ["diophantine approximation", "number theory"]
 
 - number: "496"
   prize: "No"
@@ -4716,6 +5208,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "diophantine approximation"]
 
 - number: "497"
   prize: "No"
@@ -4726,6 +5219,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Dedekind's problem"
+  tags: ["combinatorics"]
 
 - number: "498"
   prize: "No"
@@ -4736,6 +5230,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "strong Littlewood-Offord problem"
+  tags: ["combinatorics", "analysis"]
 
 - number: "499"
   prize: "No"
@@ -4745,6 +5240,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "500"
   prize: "$500"
@@ -4754,6 +5250,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs", "turan number"]
 
 - number: "501"
   prize: "No"
@@ -4763,6 +5260,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "set theory"]
 
 - number: "502"
   prize: "No"
@@ -4772,6 +5270,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "503"
   prize: "No"
@@ -4781,6 +5280,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "504"
   prize: "No"
@@ -4791,6 +5291,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Blumenthal's problem"
+  tags: ["geometry"]
 
 - number: "505"
   prize: "No"
@@ -4801,6 +5302,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Borsuk's problem"
+  tags: ["geometry"]
 
 - number: "506"
   prize: "No"
@@ -4810,6 +5312,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "507"
   prize: "No"
@@ -4820,6 +5323,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Heilbronn's triangle problem"
+  tags: ["geometry"]
 
 - number: "508"
   prize: "No"
@@ -4830,6 +5334,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Hadwiger-Nelson problem"
+  tags: ["geometry", "ramsey theory"]
 
 - number: "509"
   prize: "No"
@@ -4839,6 +5344,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "510"
   prize: "No"
@@ -4849,6 +5355,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Chowla's cosine problem"
+  tags: ["analysis"]
 
 - number: "511"
   prize: "No"
@@ -4858,6 +5365,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "512"
   prize: "No"
@@ -4868,6 +5376,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Littlewood's conjecture"
+  tags: ["analysis"]
 
 - number: "513"
   prize: "No"
@@ -4877,6 +5386,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "514"
   prize: "No"
@@ -4886,6 +5396,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "515"
   prize: "No"
@@ -4895,6 +5406,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "516"
   prize: "No"
@@ -4904,6 +5416,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "517"
   prize: "No"
@@ -4913,6 +5426,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "518"
   prize: "No"
@@ -4922,6 +5436,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "519"
   prize: "No"
@@ -4931,6 +5446,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "520"
   prize: "No"
@@ -4940,6 +5456,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "probability"]
 
 - number: "521"
   prize: "No"
@@ -4949,6 +5466,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "polynomials"]
 
 - number: "522"
   prize: "No"
@@ -4958,6 +5476,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["analysis", "polynomials", "probability"]
 
 - number: "523"
   prize: "No"
@@ -4967,6 +5486,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "probability", "polynomials"]
 
 - number: "524"
   prize: "No"
@@ -4976,6 +5496,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "probability", "polynomials"]
 
 - number: "525"
   prize: "No"
@@ -4985,6 +5506,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "probability", "polynomials"]
 
 - number: "526"
   prize: "No"
@@ -4994,6 +5516,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["probability", "geometry"]
 
 - number: "527"
   prize: "No"
@@ -5003,6 +5526,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "probability"]
 
 - number: "528"
   prize: "No"
@@ -5012,6 +5536,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "529"
   prize: "No"
@@ -5021,6 +5546,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "probability"]
 
 - number: "530"
   prize: "No"
@@ -5030,6 +5556,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets"]
 
 - number: "531"
   prize: "No"
@@ -5039,6 +5566,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "ramsey theory"]
 
 - number: "532"
   prize: "No"
@@ -5048,6 +5576,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "ramsey theory"]
 
 - number: "533"
   prize: "No"
@@ -5057,6 +5586,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "534"
   prize: "No"
@@ -5066,6 +5596,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "intersecting family"]
 
 - number: "535"
   prize: "No"
@@ -5075,6 +5606,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "536"
   prize: "No"
@@ -5084,6 +5616,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "537"
   prize: "No"
@@ -5093,6 +5626,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "538"
   prize: "No"
@@ -5102,6 +5636,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "539"
   prize: "No"
@@ -5111,6 +5646,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "540"
   prize: "No"
@@ -5120,6 +5656,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "541"
   prize: "No"
@@ -5129,6 +5666,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "542"
   prize: "No"
@@ -5138,6 +5676,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "543"
   prize: "No"
@@ -5147,6 +5686,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "group theory"]
 
 - number: "544"
   prize: "No"
@@ -5156,6 +5696,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "545"
   prize: "No"
@@ -5165,6 +5706,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "546"
   prize: "No"
@@ -5174,6 +5716,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "547"
   prize: "No"
@@ -5183,6 +5726,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "548"
   prize: "No"
@@ -5192,6 +5736,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "549"
   prize: "No"
@@ -5201,6 +5746,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "550"
   prize: "No"
@@ -5210,6 +5756,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "551"
   prize: "No"
@@ -5219,6 +5766,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "552"
   prize: "No"
@@ -5228,6 +5776,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "553"
   prize: "No"
@@ -5237,6 +5786,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "554"
   prize: "No"
@@ -5246,6 +5796,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "555"
   prize: "No"
@@ -5255,6 +5806,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "556"
   prize: "No"
@@ -5264,6 +5816,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "557"
   prize: "No"
@@ -5273,6 +5826,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "558"
   prize: "No"
@@ -5282,6 +5836,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "559"
   prize: "No"
@@ -5291,6 +5846,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "560"
   prize: "No"
@@ -5300,6 +5856,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "561"
   prize: "No"
@@ -5309,6 +5866,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "562"
   prize: "No"
@@ -5318,6 +5876,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory", "hypergraphs"]
 
 - number: "563"
   prize: "No"
@@ -5327,6 +5886,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory", "hypergraphs"]
 
 - number: "564"
   prize: "$500"
@@ -5336,6 +5896,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory", "hypergraphs"]
 
 - number: "565"
   prize: "No"
@@ -5345,6 +5906,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "566"
   prize: "No"
@@ -5354,6 +5916,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "567"
   prize: "No"
@@ -5363,6 +5926,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "568"
   prize: "No"
@@ -5372,6 +5936,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "569"
   prize: "No"
@@ -5381,6 +5946,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "570"
   prize: "No"
@@ -5390,6 +5956,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "571"
   prize: "No"
@@ -5399,6 +5966,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "572"
   prize: "No"
@@ -5408,6 +5976,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "573"
   prize: "No"
@@ -5417,6 +5986,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "574"
   prize: "No"
@@ -5426,6 +5996,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "575"
   prize: "No"
@@ -5435,6 +6006,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "576"
   prize: "No"
@@ -5444,6 +6016,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "577"
   prize: "No"
@@ -5453,6 +6026,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "578"
   prize: "No"
@@ -5462,6 +6036,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "579"
   prize: "No"
@@ -5471,6 +6046,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "580"
   prize: "No"
@@ -5480,6 +6056,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "581"
   prize: "No"
@@ -5489,6 +6066,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "582"
   prize: "$100"
@@ -5498,6 +6076,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "583"
   prize: "No"
@@ -5507,6 +6086,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "584"
   prize: "No"
@@ -5516,6 +6096,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "585"
   prize: "No"
@@ -5525,6 +6106,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "586"
   prize: "No"
@@ -5534,6 +6116,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "587"
   prize: "No"
@@ -5543,6 +6126,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "588"
   prize: "$100"
@@ -5552,6 +6136,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "589"
   prize: "No"
@@ -5561,6 +6146,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "590"
   prize: "$250"
@@ -5570,6 +6156,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["set theory", "ramsey theory"]
 
 - number: "591"
   prize: "$250"
@@ -5579,6 +6166,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["set theory", "ramsey theory"]
 
 - number: "592"
   prize: "$1000"
@@ -5588,6 +6176,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["set theory", "ramsey theory"]
 
 - number: "593"
   prize: "$500"
@@ -5597,6 +6186,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["set theory", "graph theory", "hypergraphs", "chromatic number"]
 
 - number: "594"
   prize: "No"
@@ -5606,6 +6196,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "set theory"]
 
 - number: "595"
   prize: "$250"
@@ -5615,6 +6206,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "set theory"]
 
 - number: "596"
   prize: "No"
@@ -5624,6 +6216,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory", "set theory"]
 
 - number: "597"
   prize: "No"
@@ -5633,6 +6226,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory", "set theory"]
 
 - number: "598"
   prize: "No"
@@ -5642,6 +6236,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["set theory", "ramsey theory"]
 
 - number: "599"
   prize: "No"
@@ -5651,6 +6246,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "set theory"]
 
 - number: "600"
   prize: "No"
@@ -5660,6 +6256,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "601"
   prize: "$500"
@@ -5669,6 +6266,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "set theory"]
 
 - number: "602"
   prize: "No"
@@ -5679,6 +6277,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Property B"
+  tags: ["combinatorics", "set theory"]
 
 - number: "603"
   prize: "No"
@@ -5688,6 +6287,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "set theory"]
 
 - number: "604"
   prize: "$500"
@@ -5698,6 +6298,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "pinned distance problem"
+  tags: ["geometry", "distances"]
 
 - number: "605"
   prize: "No"
@@ -5707,6 +6308,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "606"
   prize: "No"
@@ -5716,6 +6318,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "607"
   prize: "$250"
@@ -5725,6 +6328,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "608"
   prize: "No"
@@ -5734,6 +6338,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "609"
   prize: "No"
@@ -5743,6 +6348,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "610"
   prize: "No"
@@ -5752,6 +6358,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "611"
   prize: "No"
@@ -5761,6 +6368,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "612"
   prize: "No"
@@ -5770,6 +6378,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "613"
   prize: "No"
@@ -5779,6 +6388,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "614"
   prize: "No"
@@ -5788,6 +6398,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "615"
   prize: "No"
@@ -5797,6 +6408,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "616"
   prize: "No"
@@ -5806,6 +6418,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "617"
   prize: "No"
@@ -5815,6 +6428,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "618"
   prize: "No"
@@ -5824,6 +6438,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "619"
   prize: "No"
@@ -5833,6 +6448,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "620"
   prize: "No"
@@ -5842,6 +6458,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "621"
   prize: "No"
@@ -5851,6 +6468,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "622"
   prize: "No"
@@ -5860,6 +6478,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "623"
   prize: "No"
@@ -5869,6 +6488,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["set theory"]
 
 - number: "624"
   prize: "No"
@@ -5878,6 +6498,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "625"
   prize: "$1000"
@@ -5887,6 +6508,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "626"
   prize: "No"
@@ -5896,6 +6518,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "627"
   prize: "No"
@@ -5905,6 +6528,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "628"
   prize: "No"
@@ -5914,6 +6538,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "629"
   prize: "No"
@@ -5923,6 +6548,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "630"
   prize: "No"
@@ -5932,6 +6558,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "631"
   prize: "No"
@@ -5941,6 +6568,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "632"
   prize: "No"
@@ -5950,6 +6578,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "633"
   prize: "$25"
@@ -5959,6 +6588,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "634"
   prize: "$25"
@@ -5968,6 +6598,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "635"
   prize: "No"
@@ -5977,6 +6608,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "636"
   prize: "No"
@@ -5986,6 +6618,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "637"
   prize: "No"
@@ -5995,6 +6628,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "638"
   prize: "No"
@@ -6004,6 +6638,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "639"
   prize: "No"
@@ -6013,6 +6648,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "640"
   prize: "No"
@@ -6022,6 +6658,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "641"
   prize: "No"
@@ -6031,6 +6668,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "642"
   prize: "No"
@@ -6040,6 +6678,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "643"
   prize: "No"
@@ -6049,6 +6688,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs"]
 
 - number: "644"
   prize: "No"
@@ -6058,6 +6698,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "645"
   prize: "No"
@@ -6067,6 +6708,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "ramsey theory"]
 
 - number: "646"
   prize: "No"
@@ -6076,6 +6718,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "647"
   prize: "No"
@@ -6085,6 +6728,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "648"
   prize: "No"
@@ -6094,6 +6738,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "649"
   prize: "No"
@@ -6103,6 +6748,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "650"
   prize: "No"
@@ -6112,6 +6758,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "651"
   prize: "No"
@@ -6121,6 +6768,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "convex"]
 
 - number: "652"
   prize: "No"
@@ -6130,6 +6778,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "653"
   prize: "No"
@@ -6139,6 +6788,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "654"
   prize: "No"
@@ -6148,6 +6798,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "655"
   prize: "No"
@@ -6157,6 +6808,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "656"
   prize: "No"
@@ -6166,6 +6818,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "657"
   prize: "No"
@@ -6175,6 +6828,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "658"
   prize: "No"
@@ -6184,6 +6838,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "659"
   prize: "No"
@@ -6193,6 +6848,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "660"
   prize: "No"
@@ -6202,6 +6858,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances", "convex"]
 
 - number: "661"
   prize: "$50"
@@ -6211,6 +6868,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "662"
   prize: "No"
@@ -6220,6 +6878,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "663"
   prize: "No"
@@ -6229,6 +6888,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "664"
   prize: "No"
@@ -6238,6 +6898,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "665"
   prize: "No"
@@ -6247,6 +6908,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "666"
   prize: "No"
@@ -6256,6 +6918,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "667"
   prize: "No"
@@ -6265,6 +6928,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "668"
   prize: "No"
@@ -6274,6 +6938,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "669"
   prize: "No"
@@ -6283,6 +6948,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "670"
   prize: "No"
@@ -6292,6 +6958,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "671"
   prize: "$250"
@@ -6301,6 +6968,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "672"
   prize: "No"
@@ -6310,6 +6978,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "673"
   prize: "No"
@@ -6319,6 +6988,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "674"
   prize: "No"
@@ -6328,6 +6998,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "675"
   prize: "No"
@@ -6337,6 +7008,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "676"
   prize: "No"
@@ -6346,6 +7018,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "677"
   prize: "No"
@@ -6355,6 +7028,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "678"
   prize: "No"
@@ -6364,6 +7038,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "679"
   prize: "No"
@@ -6373,6 +7048,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "680"
   prize: "No"
@@ -6382,6 +7058,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "681"
   prize: "No"
@@ -6391,6 +7068,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "682"
   prize: "No"
@@ -6400,6 +7078,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "683"
   prize: "No"
@@ -6409,6 +7088,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes", "binomial coefficients"]
 
 - number: "684"
   prize: "No"
@@ -6418,6 +7098,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes", "binomial coefficients"]
 
 - number: "685"
   prize: "No"
@@ -6427,6 +7108,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes", "binomial coefficients"]
 
 - number: "686"
   prize: "No"
@@ -6436,6 +7118,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "687"
   prize: "No"
@@ -6445,6 +7128,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "688"
   prize: "No"
@@ -6454,6 +7138,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "689"
   prize: "No"
@@ -6463,6 +7148,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "690"
   prize: "No"
@@ -6472,6 +7158,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "691"
   prize: "No"
@@ -6481,6 +7168,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "692"
   prize: "No"
@@ -6490,6 +7178,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "693"
   prize: "No"
@@ -6499,6 +7188,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "694"
   prize: "No"
@@ -6508,6 +7198,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "695"
   prize: "No"
@@ -6517,6 +7208,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "696"
   prize: "No"
@@ -6526,6 +7218,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "697"
   prize: "No"
@@ -6535,6 +7228,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "698"
   prize: "No"
@@ -6544,6 +7238,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "699"
   prize: "No"
@@ -6553,6 +7248,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "700"
   prize: "No"
@@ -6562,6 +7258,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "701"
   prize: "No"
@@ -6571,6 +7268,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "intersecting family"]
 
 - number: "702"
   prize: "No"
@@ -6580,6 +7278,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "703"
   prize: "$250"
@@ -6589,6 +7288,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "704"
   prize: "No"
@@ -6598,6 +7298,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "geometry", "chromatic number"]
 
 - number: "705"
   prize: "No"
@@ -6607,6 +7308,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "706"
   prize: "No"
@@ -6616,6 +7318,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "707"
   prize: "$500"
@@ -6625,6 +7328,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "sidon sets"]
 
 - number: "708"
   prize: "$100"
@@ -6634,6 +7338,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "709"
   prize: "No"
@@ -6643,6 +7348,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "710"
   prize: "₹2000"
@@ -6652,6 +7358,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "711"
   prize: "₹1000"
@@ -6661,6 +7368,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "712"
   prize: "$500"
@@ -6670,6 +7378,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number", "hypergraphs"]
 
 - number: "713"
   prize: "$500"
@@ -6679,6 +7388,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "714"
   prize: "No"
@@ -6688,6 +7398,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "715"
   prize: "No"
@@ -6697,6 +7408,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "716"
   prize: "No"
@@ -6707,6 +7419,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Ruzsa-Szemerédi problem"
+  tags: ["graph theory", "hypergraphs"]
 
 - number: "717"
   prize: "No"
@@ -6716,6 +7429,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "718"
   prize: "No"
@@ -6725,6 +7439,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "719"
   prize: "No"
@@ -6734,6 +7449,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs"]
 
 - number: "720"
   prize: "$100"
@@ -6743,6 +7459,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "721"
   prize: "No"
@@ -6752,6 +7469,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "ramsey theory"]
 
 - number: "722"
   prize: "No"
@@ -6761,6 +7479,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "723"
   prize: "No"
@@ -6770,6 +7489,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "724"
   prize: "No"
@@ -6780,6 +7500,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "725"
   prize: "No"
@@ -6790,6 +7511,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "726"
   prize: "No"
@@ -6799,6 +7521,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "727"
   prize: "No"
@@ -6808,6 +7531,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "728"
   prize: "No"
@@ -6817,6 +7541,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "729"
   prize: "No"
@@ -6826,6 +7551,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "730"
   prize: "No"
@@ -6836,6 +7562,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients", "base representations"]
 
 - number: "731"
   prize: "No"
@@ -6845,6 +7572,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "732"
   prize: "No"
@@ -6854,6 +7582,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "733"
   prize: "No"
@@ -6863,6 +7592,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "geometry"]
 
 - number: "734"
   prize: "No"
@@ -6872,6 +7602,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "735"
   prize: "No"
@@ -6881,6 +7612,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "736"
   prize: "No"
@@ -6890,6 +7622,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "737"
   prize: "No"
@@ -6899,6 +7632,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "738"
   prize: "No"
@@ -6908,6 +7642,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "739"
   prize: "No"
@@ -6917,6 +7652,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "740"
   prize: "No"
@@ -6926,6 +7662,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "741"
   prize: "No"
@@ -6935,6 +7672,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "742"
   prize: "No"
@@ -6944,6 +7682,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "743"
   prize: "No"
@@ -6953,6 +7692,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "744"
   prize: "No"
@@ -6962,6 +7702,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "745"
   prize: "No"
@@ -6971,6 +7712,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "746"
   prize: "No"
@@ -6980,6 +7722,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "747"
   prize: "No"
@@ -6989,6 +7732,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "hypergraphs"]
 
 - number: "748"
   prize: "No"
@@ -6999,6 +7743,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Cameron-Erdős conjecture"
+  tags: ["number theory"]
 
 - number: "749"
   prize: "No"
@@ -7008,6 +7753,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "750"
   prize: "No"
@@ -7017,6 +7763,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "751"
   prize: "No"
@@ -7026,6 +7773,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "752"
   prize: "No"
@@ -7035,6 +7783,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "753"
   prize: "No"
@@ -7044,6 +7793,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "754"
   prize: "No"
@@ -7053,6 +7803,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "755"
   prize: "No"
@@ -7062,6 +7813,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "756"
   prize: "No"
@@ -7071,6 +7823,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "757"
   prize: "No"
@@ -7080,6 +7833,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances", "sidon sets"]
 
 - number: "758"
   prize: "No"
@@ -7089,6 +7843,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "759"
   prize: "No"
@@ -7098,6 +7853,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "760"
   prize: "No"
@@ -7107,6 +7863,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "761"
   prize: "No"
@@ -7116,6 +7873,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "762"
   prize: "No"
@@ -7125,6 +7883,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "763"
   prize: "No"
@@ -7134,6 +7893,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "764"
   prize: "No"
@@ -7143,6 +7903,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "765"
   prize: "No"
@@ -7152,6 +7913,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "766"
   prize: "No"
@@ -7161,6 +7923,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "767"
   prize: "No"
@@ -7170,6 +7933,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "turan number"]
 
 - number: "768"
   prize: "No"
@@ -7179,6 +7943,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "769"
   prize: "No"
@@ -7188,6 +7953,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "geometry"]
 
 - number: "770"
   prize: "No"
@@ -7197,6 +7963,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "771"
   prize: "No"
@@ -7206,6 +7973,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "772"
   prize: "No"
@@ -7215,6 +7983,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "773"
   prize: "No"
@@ -7224,6 +7993,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "squares"]
 
 - number: "774"
   prize: "No"
@@ -7233,6 +8003,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "775"
   prize: "No"
@@ -7242,6 +8013,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs"]
 
 - number: "776"
   prize: "No"
@@ -7251,6 +8023,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "777"
   prize: "No"
@@ -7260,6 +8033,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "combinatorics"]
 
 - number: "778"
   prize: "No"
@@ -7269,6 +8043,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "779"
   prize: "No"
@@ -7278,6 +8053,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "780"
   prize: "No"
@@ -7287,6 +8063,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "hypergraphs", "chromatic number"]
 
 - number: "781"
   prize: "No"
@@ -7296,6 +8073,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "782"
   prize: "No"
@@ -7305,6 +8083,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "783"
   prize: "No"
@@ -7314,6 +8093,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "784"
   prize: "No"
@@ -7323,6 +8103,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "785"
   prize: "No"
@@ -7332,6 +8113,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "786"
   prize: "No"
@@ -7341,6 +8123,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "787"
   prize: "No"
@@ -7350,6 +8133,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "788"
   prize: "No"
@@ -7359,6 +8143,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "789"
   prize: "No"
@@ -7368,6 +8153,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "790"
   prize: "No"
@@ -7377,6 +8163,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "791"
   prize: "No"
@@ -7386,6 +8173,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "792"
   prize: "No"
@@ -7395,6 +8183,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "793"
   prize: "No"
@@ -7404,6 +8193,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "794"
   prize: "No"
@@ -7413,6 +8203,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs", "turan number"]
 
 - number: "795"
   prize: "No"
@@ -7422,6 +8213,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "796"
   prize: "No"
@@ -7431,6 +8223,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "797"
   prize: "No"
@@ -7440,6 +8233,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "798"
   prize: "No"
@@ -7449,6 +8243,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "799"
   prize: "No"
@@ -7458,6 +8253,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "800"
   prize: "No"
@@ -7467,6 +8263,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "801"
   prize: "No"
@@ -7476,6 +8273,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "802"
   prize: "No"
@@ -7485,6 +8283,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "803"
   prize: "No"
@@ -7494,6 +8293,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "804"
   prize: "No"
@@ -7503,6 +8303,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "805"
   prize: "No"
@@ -7512,6 +8313,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "806"
   prize: "No"
@@ -7521,6 +8323,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "807"
   prize: "No"
@@ -7530,6 +8333,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "808"
   prize: "No"
@@ -7539,6 +8343,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "graph theory"]
 
 - number: "809"
   prize: "No"
@@ -7548,6 +8353,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "810"
   prize: "No"
@@ -7557,6 +8363,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "811"
   prize: "No"
@@ -7566,6 +8373,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "812"
   prize: "No"
@@ -7575,6 +8383,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "813"
   prize: "No"
@@ -7584,6 +8393,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "814"
   prize: "No"
@@ -7593,6 +8403,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "815"
   prize: "No"
@@ -7602,6 +8413,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "816"
   prize: "No"
@@ -7611,6 +8423,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "817"
   prize: "No"
@@ -7620,6 +8433,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "818"
   prize: "No"
@@ -7629,6 +8443,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "819"
   prize: "No"
@@ -7638,6 +8453,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "820"
   prize: "No"
@@ -7648,6 +8464,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "821"
   prize: "No"
@@ -7657,6 +8474,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "822"
   prize: "No"
@@ -7666,6 +8484,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "823"
   prize: "No"
@@ -7675,6 +8494,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "824"
   prize: "No"
@@ -7684,6 +8504,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "825"
   prize: "No"
@@ -7693,6 +8514,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "826"
   prize: "No"
@@ -7702,6 +8524,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "827"
   prize: "No"
@@ -7711,6 +8534,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "828"
   prize: "No"
@@ -7720,6 +8544,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "829"
   prize: "No"
@@ -7729,6 +8554,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "830"
   prize: "No"
@@ -7738,6 +8564,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "831"
   prize: "No"
@@ -7747,6 +8574,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "832"
   prize: "No"
@@ -7756,6 +8584,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs", "chromatic number"]
 
 - number: "833"
   prize: "No"
@@ -7765,6 +8594,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs", "chromatic number"]
 
 - number: "834"
   prize: "No"
@@ -7774,6 +8604,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs"]
 
 - number: "835"
   prize: "No"
@@ -7783,6 +8614,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs"]
 
 - number: "836"
   prize: "No"
@@ -7792,6 +8624,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs", "chromatic number"]
 
 - number: "837"
   prize: "No"
@@ -7801,6 +8634,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "hypergraphs"]
 
 - number: "838"
   prize: "No"
@@ -7810,6 +8644,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "convex"]
 
 - number: "839"
   prize: "No"
@@ -7819,6 +8654,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "840"
   prize: "No"
@@ -7828,6 +8664,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "sidon sets"]
 
 - number: "841"
   prize: "No"
@@ -7837,6 +8674,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "842"
   prize: "No"
@@ -7846,6 +8684,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "843"
   prize: "No"
@@ -7855,6 +8694,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "844"
   prize: "No"
@@ -7864,6 +8704,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "intersecting family"]
 
 - number: "845"
   prize: "No"
@@ -7873,6 +8714,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "846"
   prize: "No"
@@ -7882,6 +8724,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "847"
   prize: "No"
@@ -7891,6 +8734,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "848"
   prize: "No"
@@ -7900,6 +8744,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "849"
   prize: "No"
@@ -7909,6 +8754,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "850"
   prize: "No"
@@ -7920,6 +8766,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Erdős-Woods conjecture"
+  tags: ["number theory", "primes"]
 
 - number: "851"
   prize: "No"
@@ -7929,6 +8776,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "852"
   prize: "No"
@@ -7938,6 +8786,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "853"
   prize: "No"
@@ -7947,6 +8796,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "854"
   prize: "No"
@@ -7956,6 +8806,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "855"
   prize: "No"
@@ -7966,6 +8817,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "second Hardy-Littlewood conjecture"
+  tags: ["number theory", "primes"]
 
 - number: "856"
   prize: "No"
@@ -7975,6 +8827,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "857"
   prize: "No"
@@ -7984,6 +8837,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "858"
   prize: "No"
@@ -7993,6 +8847,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primitive sets"]
 
 - number: "859"
   prize: "No"
@@ -8002,6 +8857,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "860"
   prize: "No"
@@ -8011,6 +8867,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "861"
   prize: "No"
@@ -8020,6 +8877,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets"]
 
 - number: "862"
   prize: "No"
@@ -8029,6 +8887,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets"]
 
 - number: "863"
   prize: "No"
@@ -8038,6 +8897,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "864"
   prize: "No"
@@ -8047,6 +8907,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "865"
   prize: "No"
@@ -8056,6 +8917,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "866"
   prize: "No"
@@ -8065,6 +8927,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "867"
   prize: "No"
@@ -8074,6 +8937,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "868"
   prize: "No"
@@ -8083,6 +8947,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "869"
   prize: "No"
@@ -8092,6 +8957,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "870"
   prize: "No"
@@ -8101,6 +8967,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "871"
   prize: "No"
@@ -8110,6 +8977,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "872"
   prize: "No"
@@ -8119,6 +8987,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primitive sets"]
 
 - number: "873"
   prize: "No"
@@ -8128,6 +8997,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "874"
   prize: "No"
@@ -8137,6 +9007,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "875"
   prize: "No"
@@ -8146,6 +9017,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "876"
   prize: "No"
@@ -8155,6 +9027,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "877"
   prize: "No"
@@ -8164,6 +9037,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "878"
   prize: "No"
@@ -8173,6 +9047,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "879"
   prize: "No"
@@ -8182,6 +9057,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "880"
   prize: "No"
@@ -8191,6 +9067,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "881"
   prize: "No"
@@ -8200,6 +9077,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive basis"]
 
 - number: "882"
   prize: "No"
@@ -8209,6 +9087,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primitive sets"]
 
 - number: "883"
   prize: "No"
@@ -8218,6 +9097,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "graph theory"]
 
 - number: "884"
   prize: "No"
@@ -8227,6 +9107,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "885"
   prize: "No"
@@ -8236,6 +9117,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "886"
   prize: "No"
@@ -8245,6 +9127,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "887"
   prize: "No"
@@ -8254,6 +9137,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "888"
   prize: "No"
@@ -8263,6 +9147,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "squares"]
 
 - number: "889"
   prize: "No"
@@ -8272,6 +9157,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "890"
   prize: "No"
@@ -8281,6 +9167,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "891"
   prize: "No"
@@ -8290,6 +9177,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "892"
   prize: "No"
@@ -8299,6 +9187,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primitive sets"]
 
 - number: "893"
   prize: "No"
@@ -8308,6 +9197,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "894"
   prize: "No"
@@ -8317,6 +9207,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "ramsey theory"]
 
 - number: "895"
   prize: "No"
@@ -8326,6 +9217,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics", "graph theory"]
 
 - number: "896"
   prize: "No"
@@ -8335,6 +9227,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "897"
   prize: "No"
@@ -8344,6 +9237,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "898"
   prize: "No"
@@ -8353,6 +9247,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "899"
   prize: "No"
@@ -8362,6 +9257,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["additive combinatorics"]
 
 - number: "900"
   prize: "No"
@@ -8371,6 +9267,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "901"
   prize: "No"
@@ -8380,6 +9277,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics", "hypergraphs"]
 
 - number: "902"
   prize: "No"
@@ -8389,6 +9287,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "903"
   prize: "No"
@@ -8398,6 +9297,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["combinatorics"]
 
 - number: "904"
   prize: "No"
@@ -8407,6 +9307,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "905"
   prize: "No"
@@ -8416,6 +9317,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "906"
   prize: "No"
@@ -8425,6 +9327,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "iterated functions"]
 
 - number: "907"
   prize: "No"
@@ -8434,6 +9337,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "908"
   prize: "No"
@@ -8443,6 +9347,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "909"
   prize: "No"
@@ -8452,6 +9357,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis", "topology"]
 
 - number: "910"
   prize: "No"
@@ -8461,6 +9367,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["topology"]
 
 - number: "911"
   prize: "No"
@@ -8470,6 +9377,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "912"
   prize: "No"
@@ -8480,6 +9388,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "factorials"]
 
 - number: "913"
   prize: "No"
@@ -8489,6 +9398,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "914"
   prize: "No"
@@ -8498,6 +9408,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "915"
   prize: "No"
@@ -8507,6 +9418,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "916"
   prize: "No"
@@ -8516,6 +9428,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "cycles"]
 
 - number: "917"
   prize: "No"
@@ -8525,6 +9438,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "918"
   prize: "No"
@@ -8534,6 +9448,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "919"
   prize: "No"
@@ -8543,6 +9458,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "920"
   prize: "No"
@@ -8552,6 +9468,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "921"
   prize: "No"
@@ -8561,6 +9478,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number", "cycles"]
 
 - number: "922"
   prize: "No"
@@ -8570,6 +9488,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "923"
   prize: "No"
@@ -8579,6 +9498,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "924"
   prize: "No"
@@ -8588,6 +9508,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "925"
   prize: "No"
@@ -8597,6 +9518,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "926"
   prize: "No"
@@ -8606,6 +9528,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "927"
   prize: "No"
@@ -8615,6 +9538,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "928"
   prize: "No"
@@ -8624,6 +9548,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "929"
   prize: "No"
@@ -8633,6 +9558,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "930"
   prize: "No"
@@ -8642,6 +9568,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "931"
   prize: "No"
@@ -8651,6 +9578,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "932"
   prize: "No"
@@ -8660,6 +9588,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "933"
   prize: "No"
@@ -8669,6 +9598,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "934"
   prize: "No"
@@ -8678,6 +9608,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory"]
 
 - number: "935"
   prize: "No"
@@ -8687,6 +9618,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "936"
   prize: "No"
@@ -8696,6 +9628,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "937"
   prize: "No"
@@ -8705,6 +9638,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "938"
   prize: "No"
@@ -8714,6 +9648,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "939"
   prize: "No"
@@ -8723,6 +9658,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "940"
   prize: "No"
@@ -8732,6 +9668,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "941"
   prize: "No"
@@ -8741,6 +9678,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "942"
   prize: "No"
@@ -8750,6 +9688,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "943"
   prize: "No"
@@ -8759,6 +9698,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "944"
   prize: "No"
@@ -8768,6 +9708,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "chromatic number"]
 
 - number: "945"
   prize: "No"
@@ -8777,6 +9718,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "946"
   prize: "No"
@@ -8786,6 +9728,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "947"
   prize: "No"
@@ -8795,6 +9738,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "covering systems"]
 
 - number: "948"
   prize: "No"
@@ -8804,6 +9748,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "ramsey theory"]
 
 - number: "949"
   prize: "No"
@@ -8813,6 +9758,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  tags: ["ramsey theory"]
 
 - number: "950"
   prize: "No"
@@ -8822,6 +9768,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "primes"]
 
 - number: "951"
   prize: "No"
@@ -8831,6 +9778,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "952"
   prize: "No"
@@ -8841,6 +9789,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Gaussian moat problem"
+  tags: ["number theory"]
 
 - number: "953"
   prize: "No"
@@ -8850,6 +9799,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "954"
   prize: "No"
@@ -8859,6 +9809,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "955"
   prize: "No"
@@ -8868,6 +9819,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "956"
   prize: "No"
@@ -8877,6 +9829,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances", "convex"]
 
 - number: "957"
   prize: "No"
@@ -8886,6 +9839,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "958"
   prize: "No"
@@ -8895,6 +9849,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["distances", "geometry"]
 
 - number: "959"
   prize: "No"
@@ -8904,6 +9859,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "distances"]
 
 - number: "960"
   prize: "No"
@@ -8913,6 +9869,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry"]
 
 - number: "961"
   prize: "No"
@@ -8922,6 +9879,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "962"
   prize: "No"
@@ -8931,6 +9889,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "963"
   prize: "No"
@@ -8940,6 +9899,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "964"
   prize: "No"
@@ -8949,6 +9909,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "965"
   prize: "No"
@@ -8958,6 +9919,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["ramsey theory"]
 
 - number: "966"
   prize: "No"
@@ -8967,6 +9929,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "additive combinatorics", "ramsey theory"]
 
 - number: "967"
   prize: "No"
@@ -8976,6 +9939,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "analysis"]
 
 - number: "968"
   prize: "No"
@@ -8985,6 +9949,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "969"
   prize: "No"
@@ -8994,6 +9959,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "970"
   prize: "No"
@@ -9003,6 +9969,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "971"
   prize: "No"
@@ -9012,6 +9979,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "972"
   prize: "No"
@@ -9021,6 +9989,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "973"
   prize: "No"
@@ -9030,6 +9999,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "974"
   prize: "No"
@@ -9039,6 +10009,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "975"
   prize: "No"
@@ -9048,6 +10019,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory", "divisors"]
 
 - number: "976"
   prize: "No"
@@ -9057,6 +10029,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "977"
   prize: "No"
@@ -9066,6 +10039,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "978"
   prize: "No"
@@ -9075,6 +10049,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "979"
   prize: "No"
@@ -9084,6 +10059,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "980"
   prize: "No"
@@ -9093,6 +10069,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "981"
   prize: "No"
@@ -9102,6 +10079,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "982"
   prize: "No"
@@ -9111,6 +10089,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["geometry", "convex"]
 
 - number: "983"
   prize: "No"
@@ -9120,6 +10099,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "984"
   prize: "No"
@@ -9129,6 +10109,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["arithmetic progressions", "additive combinatorics"]
 
 - number: "985"
   prize: "No"
@@ -9138,6 +10119,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["number theory"]
 
 - number: "986"
   prize: "No"
@@ -9147,6 +10129,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "987"
   prize: "No"
@@ -9157,6 +10140,7 @@
     state: "no"
     last_update: "2025-08-31"
   comments: "Proof formalized"
+  tags: ["analysis", "discrepancy"]
 
 - number: "988"
   prize: "No"
@@ -9166,6 +10150,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["discrepancy"]
 
 - number: "989"
   prize: "No"
@@ -9175,6 +10160,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["discrepancy"]
 
 - number: "990"
   prize: "No"
@@ -9184,6 +10170,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["analysis"]
 
 - number: "991"
   prize: "No"
@@ -9193,6 +10180,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["discrepancy"]
 
 - number: "992"
   prize: "No"
@@ -9202,3 +10190,4 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  tags: ["discrepancy"]
