@@ -29,7 +29,7 @@ def formalized_link(number:str, code: str) -> str:
         return code
 
 def build_table(rows):
-    header = "| # | Prize | Status | Formalized | OEIS | Tags |\n|---|---|---|---|---|---|"
+    header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
     lines = [header]
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"
@@ -38,7 +38,8 @@ def build_table(rows):
         rid = num_link(r["number"])
         prize = r.get("prize", "?")
         formalized = formalized_link(r["number"], r.get("formalized", {}).get("state", "?"))
-        lines.append(f"| {rid} | {prize} | {status} | {formalized} | {oeis} | {tags} |")
+        comments = r.get("comments", "")
+        lines.append(f"| {rid} | {prize} | {status} | {formalized} | {oeis} | {tags} | {comments} |")
     return "\n".join(lines)
 
 def insert_between_markers(content, payload):

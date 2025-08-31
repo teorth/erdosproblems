@@ -159,6 +159,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "cluster primes"
 
 - number: "18"
   prize: "No"
@@ -331,6 +332,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "minimum overlap problem"
 
 - number: "37"
   prize: "No"
@@ -475,6 +477,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "sum-product problem"
 
 - number: "53"
   prize: "No"
@@ -610,6 +613,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Erdős discrepancy problem"
+
 
 - number: "68"
   prize: "No"
@@ -818,6 +823,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "unit distance problem"
 
 - number: "91"
   prize: "No"
@@ -972,6 +978,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "'Happy Ending' problem"
 
 - number: "108"
   prize: "No"
@@ -990,6 +997,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Erdős sumset conjecture"
 
 - number: "110"
   prize: "No"
@@ -1089,6 +1097,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Erdős similarity problem"
 
 - number: "121"
   prize: "No"
@@ -1476,6 +1485,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Burr-Erdős conjecture."
 
 - number: "164"
   prize: "No"
@@ -1539,6 +1549,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Sparse Ruler problem"
 
 - number: "171"
   prize: "No"
@@ -1548,6 +1559,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "density Hales-Jewett"
 
 - number: "172"
   prize: "No"
@@ -2190,12 +2202,14 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "Erdős-Straus conjecture"
 
 - number: "243"
   prize: "No"
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["A000058"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2849,6 +2863,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["A000058", "A076393"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3437,6 +3452,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "Proof formalized"
 
 - number: "380"
   prize: "No"
@@ -3583,6 +3599,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "reverse Littlewood-Offord problem"
 
 - number: "396"
   prize: "No"
@@ -3612,6 +3629,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Brocard-Ramanujan conjecture"
 
 - number: "399"
   prize: "No"
@@ -3913,6 +3931,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "inverse Goldbach problem"
 
 - number: "432"
   prize: "No"
@@ -4493,6 +4512,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Littlewood conjecture"
 
 - number: "496"
   prize: "No"
@@ -4511,6 +4531,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Dedekind's problem"
 
 - number: "498"
   prize: "No"
@@ -4520,6 +4541,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "strong Littlewood-Offord problem"
 
 - number: "499"
   prize: "No"
@@ -4574,6 +4596,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Blumenthal's problem"
 
 - number: "505"
   prize: "No"
@@ -4583,6 +4606,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Borsuk's problem"
 
 - number: "506"
   prize: "No"
@@ -4601,6 +4625,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Heilbronn's triangle problem"
 
 - number: "508"
   prize: "No"
@@ -4610,6 +4635,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Hadwiger-Nelson problem"
 
 - number: "509"
   prize: "No"
@@ -4628,6 +4654,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Chowla's cosine problem"
 
 - number: "511"
   prize: "No"
@@ -4646,6 +4673,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Littlewood's conjecture"
 
 - number: "513"
   prize: "No"
@@ -5456,6 +5484,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Property B"
 
 - number: "603"
   prize: "No"
@@ -5474,6 +5503,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "pinned distance problem"
 
 - number: "605"
   prize: "No"
@@ -6482,6 +6512,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Ruzsa-Szemerédi problem"
 
 - number: "717"
   prize: "No"
@@ -6773,6 +6804,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Cameron-Erdős conjecture"
 
 - number: "749"
   prize: "No"
@@ -7693,6 +7725,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Erdős-Woods conjecture"
 
 - number: "851"
   prize: "No"
@@ -7738,6 +7771,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "second Hardy-Littlewood conjecture"
 
 - number: "856"
   prize: "No"
@@ -8612,6 +8646,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Gaussian moat problem"
 
 - number: "953"
   prize: "No"
@@ -8927,6 +8962,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Proof formalized"
 
 - number: "988"
   prize: "No"

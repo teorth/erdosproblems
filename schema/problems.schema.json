@@ -33,7 +33,8 @@
         "type": "array",
         "items": { "type": "string" },
         "uniqueItems": true
-      }
+      },
+      "comments": { "type": "string" }
     },
     "additionalProperties": false
   },
