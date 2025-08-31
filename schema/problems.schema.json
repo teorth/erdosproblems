@@ -21,6 +21,14 @@
         "type": "array",
         "items": { "type": "string" }
        },
+      "formalized": {
+        "type": "object",
+        "properties": {
+          "state": { "type": "string", "enum": ["yes", "no"] },
+          "last_update": { "type": "string", "format": "date" },
+          "note": { "type": "string" }
+        }
+      },
       "tags": {
         "type": "array",
         "items": { "type": "string" },

@@ -22,8 +22,14 @@ def oeis_link(code: str) -> str:
     else:
         return code   # e.g. "N/A" or any other placeholder
 
+def formalized_link(number:str, code: str) -> str:
+    if code == "yes":
+        return md_link("yes", f"https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/{number}.lean")
+    else:
+        return code
+
 def build_table(rows):
-    header = "| ID | Prize | Status | OEIS | Tags |\n|---|---|---|---|---|"
+    header = "| # | Prize | Status | Formalized | OEIS | Tags |\n|---|---|---|---|---|---|"
     lines = [header]
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "—"
@@ -31,7 +37,8 @@ def build_table(rows):
         status = r["status"]["state"]
         rid = num_link(r["number"])
         prize = r.get("prize", "—")
-        lines.append(f"| {rid} | {prize} | {status} | {oeis} | {tags} |")
+        formalized = formalized_link(r["number"], r.get("formalized", {}).get("state", "N/A"))
+        lines.append(f"| {rid} | {prize} | {status} | {formalized} | {oeis} | {tags} |")
     return "\n".join(lines)
 
 def insert_between_markers(content, payload):

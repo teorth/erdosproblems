@@ -10,10 +10,10 @@ A community database for the problems on the erdosproblems.com site
 ## Table
 
 <!-- TABLE:START -->
-| ID | Prize | Status | OEIS | Tags |
-|---|---|---|---|---|
-| [1](https://www.erdosproblems.com/1) | $500 | open | [A276661](https://oeis.org/A276661) | number theory, additive combinatorics |
-| [2](https://www.erdosproblems.com/2) | — | solved | N/A | number theory, covering systems |
+| # | Prize | Status | Formalized | OEIS | Tags |
+|---|---|---|---|---|---|
+| [1](https://www.erdosproblems.com/1) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1.lean) | [A276661](https://oeis.org/A276661) | number theory, additive combinatorics |
+| [2](https://www.erdosproblems.com/2) | — | solved | N/A | N/A | number theory, covering systems |
 <!-- TABLE:END -->
 
 ---
