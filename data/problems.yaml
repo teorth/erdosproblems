@@ -25,7 +25,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible (e.g., r_3(N))"]
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -4021,13 +4021,12 @@
 - number: "365"
   prize: "no"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["A060355"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["number theory"]
 
 - number: "366"
