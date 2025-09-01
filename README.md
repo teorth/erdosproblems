@@ -834,7 +834,7 @@ The table below is auto-generated from the YAML file [data/problems.yaml](data/p
 | [817](https://www.erdosproblems.com/817) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/817.lean) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [818](https://www.erdosproblems.com/818) | no | solved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [819](https://www.erdosproblems.com/819) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [820](https://www.erdosproblems.com/820) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [820](https://www.erdosproblems.com/820) | no | open | no | [A263647](https://oeis.org/A263647) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [821](https://www.erdosproblems.com/821) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [822](https://www.erdosproblems.com/822) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [823](https://www.erdosproblems.com/823) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
