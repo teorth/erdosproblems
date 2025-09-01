@@ -311,106 +311,106 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [298](https://www.erdosproblems.com/298) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/298.lean) | N/A | number theory, unit fractions |  |
 | [299](https://www.erdosproblems.com/299) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/299.lean) | N/A | number theory, unit fractions |  |
 | [300](https://www.erdosproblems.com/300) | No | solved | no | possible | number theory, unit fractions |  |
-| [301](https://www.erdosproblems.com/301) | No | open | no | ? | number theory, unit fractions |  |
-| [302](https://www.erdosproblems.com/302) | No | open | no | ? | number theory, unit fractions |  |
-| [303](https://www.erdosproblems.com/303) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/303.lean) | ? | number theory, unit fractions |  |
-| [304](https://www.erdosproblems.com/304) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/304.lean) | ? | number theory, unit fractions |  |
-| [305](https://www.erdosproblems.com/305) | No | solved | no | ? | number theory, unit fractions |  |
-| [306](https://www.erdosproblems.com/306) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/306.lean) | ? | number theory, unit fractions |  |
-| [307](https://www.erdosproblems.com/307) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | ? | number theory, unit fractions |  |
-| [308](https://www.erdosproblems.com/308) | No | solved | no | ? | number theory, unit fractions |  |
-| [309](https://www.erdosproblems.com/309) | No | solved | no | ? | number theory, unit fractions |  |
-| [310](https://www.erdosproblems.com/310) | No | solved | no | ? | number theory, unit fractions |  |
-| [311](https://www.erdosproblems.com/311) | No | open | no | ? | number theory, unit fractions |  |
-| [312](https://www.erdosproblems.com/312) | No | open | no | ? | number theory, unit fractions |  |
+| [301](https://www.erdosproblems.com/301) | No | open | no | possible | number theory, unit fractions |  |
+| [302](https://www.erdosproblems.com/302) | No | open | no | possible | number theory, unit fractions |  |
+| [303](https://www.erdosproblems.com/303) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/303.lean) | N/A | number theory, unit fractions |  |
+| [304](https://www.erdosproblems.com/304) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/304.lean) | possible | number theory, unit fractions |  |
+| [305](https://www.erdosproblems.com/305) | No | solved | no | possible | number theory, unit fractions |  |
+| [306](https://www.erdosproblems.com/306) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/306.lean) | N/A | number theory, unit fractions |  |
+| [307](https://www.erdosproblems.com/307) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | N/A | number theory, unit fractions | falsifiable |
+| [308](https://www.erdosproblems.com/308) | No | solved | no | possible | number theory, unit fractions |  |
+| [309](https://www.erdosproblems.com/309) | No | solved | no | possible | number theory, unit fractions |  |
+| [310](https://www.erdosproblems.com/310) | No | solved | no | N/A | number theory, unit fractions |  |
+| [311](https://www.erdosproblems.com/311) | No | open | no | N/A | number theory, unit fractions |  |
+| [312](https://www.erdosproblems.com/312) | No | open | no | N/A | number theory, unit fractions |  |
 | [313](https://www.erdosproblems.com/313) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/313.lean) | [A054377](https://oeis.org/A054377) | number theory, unit fractions |  |
-| [314](https://www.erdosproblems.com/314) | No | solved | no | ? | number theory, unit fractions |  |
+| [314](https://www.erdosproblems.com/314) | No | solved | no | N/A | number theory, unit fractions |  |
 | [315](https://www.erdosproblems.com/315) | No | solved | no | [A000058](https://oeis.org/A000058), [A076393](https://oeis.org/A076393) | number theory, unit fractions |  |
-| [316](https://www.erdosproblems.com/316) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/316.lean) | ? | number theory, unit fractions |  |
-| [317](https://www.erdosproblems.com/317) | No | open | no | ? | number theory, unit fractions |  |
-| [318](https://www.erdosproblems.com/318) | No | open | no | ? | number theory, unit fractions |  |
-| [319](https://www.erdosproblems.com/319) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/319.lean) | ? | number theory, unit fractions |  |
-| [320](https://www.erdosproblems.com/320) | No | open | no | ? | number theory, unit fractions |  |
-| [321](https://www.erdosproblems.com/321) | No | open | no | ? | number theory, unit fractions |  |
-| [322](https://www.erdosproblems.com/322) | No | open | no | ? | number theory, powers |  |
-| [323](https://www.erdosproblems.com/323) | No | open | no | ? | number theory, powers |  |
-| [324](https://www.erdosproblems.com/324) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/324.lean) | ? | number theory, powers |  |
-| [325](https://www.erdosproblems.com/325) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/325.lean) | ? | number theory, powers |  |
-| [326](https://www.erdosproblems.com/326) | No | open | no | ? | number theory, additive basis |  |
-| [327](https://www.erdosproblems.com/327) | No | open | no | ? | number theory, unit fractions |  |
-| [328](https://www.erdosproblems.com/328) | No | solved | no | ? | number theory, additive combinatorics |  |
-| [329](https://www.erdosproblems.com/329) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/329.lean) | ? | number theory |  |
-| [330](https://www.erdosproblems.com/330) | No | open | no | ? | number theory, additive basis |  |
-| [331](https://www.erdosproblems.com/331) | No | solved | no | ? | number theory, additive combinatorics |  |
-| [332](https://www.erdosproblems.com/332) | No | open | no | ? | number theory |  |
-| [333](https://www.erdosproblems.com/333) | No | open | no | ? | number theory, additive basis |  |
-| [334](https://www.erdosproblems.com/334) | No | open | no | ? | number theory |  |
-| [335](https://www.erdosproblems.com/335) | No | open | no | ? | number theory, additive combinatorics |  |
-| [336](https://www.erdosproblems.com/336) | No | open | no | ? | number theory, additive basis |  |
-| [337](https://www.erdosproblems.com/337) | No | solved | no | ? | number theory, additive combinatorics, additive basis |  |
-| [338](https://www.erdosproblems.com/338) | No | open | no | ? | number theory, additive basis |  |
-| [339](https://www.erdosproblems.com/339) | No | open | no | ? | number theory, additive basis |  |
+| [316](https://www.erdosproblems.com/316) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/316.lean) | N/A | number theory, unit fractions |  |
+| [317](https://www.erdosproblems.com/317) | No | open | no | N/A | number theory, unit fractions |  |
+| [318](https://www.erdosproblems.com/318) | No | open | no | N/A | number theory, unit fractions |  |
+| [319](https://www.erdosproblems.com/319) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/319.lean) | possible | number theory, unit fractions |  |
+| [320](https://www.erdosproblems.com/320) | No | open | no | possible | number theory, unit fractions |  |
+| [321](https://www.erdosproblems.com/321) | No | open | no | possible | number theory, unit fractions |  |
+| [322](https://www.erdosproblems.com/322) | No | open | no | possible | number theory, powers |  |
+| [323](https://www.erdosproblems.com/323) | No | open | no | possible | number theory, powers |  |
+| [324](https://www.erdosproblems.com/324) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/324.lean) | N/A | number theory, powers |  |
+| [325](https://www.erdosproblems.com/325) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/325.lean) | possible | number theory, powers |  |
+| [326](https://www.erdosproblems.com/326) | No | open | no | N/A | number theory, additive basis |  |
+| [327](https://www.erdosproblems.com/327) | No | open | no | possible | number theory, unit fractions |  |
+| [328](https://www.erdosproblems.com/328) | No | solved | no | N/A | number theory, additive combinatorics |  |
+| [329](https://www.erdosproblems.com/329) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/329.lean) | possible | number theory |  |
+| [330](https://www.erdosproblems.com/330) | No | open | no | N/A | number theory, additive basis |  |
+| [331](https://www.erdosproblems.com/331) | No | solved | no | N/A | number theory, additive combinatorics |  |
+| [332](https://www.erdosproblems.com/332) | No | open | no | N/A | number theory |  |
+| [333](https://www.erdosproblems.com/333) | No | open | no | N/A | number theory, additive basis |  |
+| [334](https://www.erdosproblems.com/334) | No | open | no | possible | number theory |  |
+| [335](https://www.erdosproblems.com/335) | No | open | no | N/A | number theory, additive combinatorics |  |
+| [336](https://www.erdosproblems.com/336) | No | open | no | possible | number theory, additive basis |  |
+| [337](https://www.erdosproblems.com/337) | No | solved | no | N/A | number theory, additive combinatorics, additive basis |  |
+| [338](https://www.erdosproblems.com/338) | No | open | no | N/A | number theory, additive basis |  |
+| [339](https://www.erdosproblems.com/339) | No | open | no | N/A | number theory, additive basis |  |
 | [340](https://www.erdosproblems.com/340) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/340.lean) | [A080200](https://oeis.org/A080200), [A005282](https://oeis.org/A005282) | number theory, additive combinatorics, sidon sets |  |
-| [341](https://www.erdosproblems.com/341) | No | open | no | ? | number theory |  |
+| [341](https://www.erdosproblems.com/341) | No | open | no | N/A | number theory |  |
 | [342](https://www.erdosproblems.com/342) | No | open | no | [A002858](https://oeis.org/A002858) | number theory |  |
-| [343](https://www.erdosproblems.com/343) | No | solved | no | ? | number theory, complete sequences |  |
-| [344](https://www.erdosproblems.com/344) | No | solved | no | ? | number theory, complete sequences |  |
-| [345](https://www.erdosproblems.com/345) | No | open | no | ? | number theory, complete sequences |  |
-| [346](https://www.erdosproblems.com/346) | No | open | no | ? | number theory, complete sequences |  |
-| [347](https://www.erdosproblems.com/347) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/347.lean) | ? | number theory, complete sequences |  |
-| [348](https://www.erdosproblems.com/348) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/348.lean) | ? | number theory, complete sequences |  |
-| [349](https://www.erdosproblems.com/349) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/349.lean) | ? | number theory, complete sequences |  |
-| [350](https://www.erdosproblems.com/350) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/350.lean) | ? | number theory, additive combinatorics |  |
-| [351](https://www.erdosproblems.com/351) | No | open | no | ? | number theory, complete sequences |  |
-| [352](https://www.erdosproblems.com/352) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/352.lean) | ? | geometry |  |
-| [353](https://www.erdosproblems.com/353) | No | solved | no | ? | geometry |  |
-| [354](https://www.erdosproblems.com/354) | No | open | no | ? | number theory |  |
-| [355](https://www.erdosproblems.com/355) | No | solved | no | ? | number theory, unit fractions |  |
-| [356](https://www.erdosproblems.com/356) | No | solved | no | ? | number theory |  |
-| [357](https://www.erdosproblems.com/357) | No | open | no | ? | number theory |  |
-| [358](https://www.erdosproblems.com/358) | No | open | no | ? | number theory, additive basis, primes |  |
+| [343](https://www.erdosproblems.com/343) | No | solved | no | N/A | number theory, complete sequences |  |
+| [344](https://www.erdosproblems.com/344) | No | solved | no | N/A | number theory, complete sequences |  |
+| [345](https://www.erdosproblems.com/345) | No | open | no | possible | number theory, complete sequences |  |
+| [346](https://www.erdosproblems.com/346) | No | open | no | N/A | number theory, complete sequences |  |
+| [347](https://www.erdosproblems.com/347) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/347.lean) | N/A | number theory, complete sequences |  |
+| [348](https://www.erdosproblems.com/348) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/348.lean) | N/A | number theory, complete sequences |  |
+| [349](https://www.erdosproblems.com/349) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/349.lean) | N/A | number theory, complete sequences |  |
+| [350](https://www.erdosproblems.com/350) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/350.lean) | N/A | number theory, additive combinatorics |  |
+| [351](https://www.erdosproblems.com/351) | No | open | no | N/A | number theory, complete sequences |  |
+| [352](https://www.erdosproblems.com/352) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/352.lean) | N/A | geometry |  |
+| [353](https://www.erdosproblems.com/353) | No | solved | no | N/A | geometry |  |
+| [354](https://www.erdosproblems.com/354) | No | open | no | N/A | number theory |  |
+| [355](https://www.erdosproblems.com/355) | No | solved | no | N/A | number theory, unit fractions |  |
+| [356](https://www.erdosproblems.com/356) | No | solved | no | possible | number theory |  |
+| [357](https://www.erdosproblems.com/357) | No | open | no | possible | number theory |  |
+| [358](https://www.erdosproblems.com/358) | No | open | no | possible | number theory, additive basis, primes |  |
 | [359](https://www.erdosproblems.com/359) | No | open | no | [A002048](https://oeis.org/A002048) | number theory |  |
-| [360](https://www.erdosproblems.com/360) | No | solved | no | ? | number theory |  |
-| [361](https://www.erdosproblems.com/361) | No | open | no | ? | number theory |  |
-| [362](https://www.erdosproblems.com/362) | No | solved | no | ? | number theory |  |
-| [363](https://www.erdosproblems.com/363) | No | solved | no | ? | number theory |  |
+| [360](https://www.erdosproblems.com/360) | No | solved | no | possible | number theory |  |
+| [361](https://www.erdosproblems.com/361) | No | open | no | possible | number theory |  |
+| [362](https://www.erdosproblems.com/362) | No | solved | no | possible | number theory |  |
+| [363](https://www.erdosproblems.com/363) | No | solved | no | N/A | number theory |  |
 | [364](https://www.erdosproblems.com/364) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
 | [365](https://www.erdosproblems.com/365) | No | open | no | [A060355](https://oeis.org/A060355) | number theory |  |
 | [366](https://www.erdosproblems.com/366) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
-| [367](https://www.erdosproblems.com/367) | No | open | no | ? | number theory |  |
+| [367](https://www.erdosproblems.com/367) | No | open | no | possible | number theory |  |
 | [368](https://www.erdosproblems.com/368) | No | open | no | [A074399](https://oeis.org/A074399) | number theory |  |
-| [369](https://www.erdosproblems.com/369) | No | open | no | ? | number theory |  |
-| [370](https://www.erdosproblems.com/370) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | ? | number theory |  |
+| [369](https://www.erdosproblems.com/369) | No | open | no | N/A | number theory |  |
+| [370](https://www.erdosproblems.com/370) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | N/A | number theory |  |
 | [371](https://www.erdosproblems.com/371) | No | open | no | [A070089](https://oeis.org/A070089) | number theory |  |
-| [372](https://www.erdosproblems.com/372) | No | solved | no | ? | number theory |  |
-| [373](https://www.erdosproblems.com/373) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | ? | number theory, factorials |  |
-| [374](https://www.erdosproblems.com/374) | No | open | no | ? | number theory |  |
-| [375](https://www.erdosproblems.com/375) | No | open | no | ? | number theory |  |
+| [372](https://www.erdosproblems.com/372) | No | solved | no | possible | number theory |  |
+| [373](https://www.erdosproblems.com/373) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | N/A | number theory, factorials |  |
+| [374](https://www.erdosproblems.com/374) | No | open | no | possible | number theory |  |
+| [375](https://www.erdosproblems.com/375) | No | open | no | N/A | number theory | falsifiable |
 | [376](https://www.erdosproblems.com/376) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/376.lean) | [A030979](https://oeis.org/A030979) | number theory, binomial coefficients, base representations |  |
-| [377](https://www.erdosproblems.com/377) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/377.lean) | ? | number theory, binomial coefficients |  |
-| [378](https://www.erdosproblems.com/378) | No | solved | no | ? | number theory, binomial coefficients |  |
-| [379](https://www.erdosproblems.com/379) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/379.lean) | ? | number theory, binomial coefficients | Proof formalized |
-| [380](https://www.erdosproblems.com/380) | No | open | no | ? | number theory |  |
-| [381](https://www.erdosproblems.com/381) | No | solved | no | ? | number theory, divisors |  |
-| [382](https://www.erdosproblems.com/382) | No | open | no | ? | number theory |  |
-| [383](https://www.erdosproblems.com/383) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/383.lean) | ? | number theory |  |
-| [384](https://www.erdosproblems.com/384) | No | solved | no | ? | number theory, binomial coefficients |  |
-| [385](https://www.erdosproblems.com/385) | No | open | no | ? | number theory |  |
+| [377](https://www.erdosproblems.com/377) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/377.lean) | N/A | number theory, binomial coefficients |  |
+| [378](https://www.erdosproblems.com/378) | No | solved | no | N/A | number theory, binomial coefficients |  |
+| [379](https://www.erdosproblems.com/379) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/379.lean) | possible | number theory, binomial coefficients | Proof formalized |
+| [380](https://www.erdosproblems.com/380) | No | open | no | possible | number theory |  |
+| [381](https://www.erdosproblems.com/381) | No | solved | no | possible | number theory, divisors |  |
+| [382](https://www.erdosproblems.com/382) | No | open | no | N/A | number theory |  |
+| [383](https://www.erdosproblems.com/383) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/383.lean) | N/A | number theory |  |
+| [384](https://www.erdosproblems.com/384) | No | solved | no | N/A | number theory, binomial coefficients |  |
+| [385](https://www.erdosproblems.com/385) | No | open | no | possible | number theory |  |
 | [386](https://www.erdosproblems.com/386) | No | open | no | [A280992](https://oeis.org/A280992) | number theory, binomial coefficients |  |
-| [387](https://www.erdosproblems.com/387) | No | open | no | ? | number theory, binomial coefficients |  |
-| [388](https://www.erdosproblems.com/388) | No | open | no | ? | number theory |  |
+| [387](https://www.erdosproblems.com/387) | No | open | no | N/A | number theory, binomial coefficients |  |
+| [388](https://www.erdosproblems.com/388) | No | open | no | N/A | number theory |  |
 | [389](https://www.erdosproblems.com/389) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/389.lean) | [A375071](https://oeis.org/A375071) | number theory |  |
-| [390](https://www.erdosproblems.com/390) | No | open | no | ? | number theory, factorials |  |
-| [391](https://www.erdosproblems.com/391) | No | solved | no | ? | number theory, factorials |  |
-| [392](https://www.erdosproblems.com/392) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/392.lean) | ? | number theory, factorials |  |
-| [393](https://www.erdosproblems.com/393) | No | open | no | ? | number theory, factorials |  |
-| [394](https://www.erdosproblems.com/394) | No | solved | no | ? | number theory |  |
-| [395](https://www.erdosproblems.com/395) | No | solved | no | ? | analysis | reverse Littlewood-Offord problem |
+| [390](https://www.erdosproblems.com/390) | No | open | no | possible | number theory, factorials |  |
+| [391](https://www.erdosproblems.com/391) | No | solved | no | [A034258](https://oeis.org/A034258), [A034259](https://oeis.org/A034259) | number theory, factorials |  |
+| [392](https://www.erdosproblems.com/392) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/392.lean) | possible | number theory, factorials |  |
+| [393](https://www.erdosproblems.com/393) | No | open | no | possible | number theory, factorials |  |
+| [394](https://www.erdosproblems.com/394) | No | solved | no | possible | number theory |  |
+| [395](https://www.erdosproblems.com/395) | No | solved | no | N/A | analysis | reverse Littlewood-Offord problem |
 | [396](https://www.erdosproblems.com/396) | No | open | no | [A375077](https://oeis.org/A375077) | number theory, binomial coefficients |  |
-| [397](https://www.erdosproblems.com/397) | No | open | no | ? | number theory, binomial coefficients |  |
-| [398](https://www.erdosproblems.com/398) | No | open | no | [A146968](https://oeis.org/A146968) | number theory, factorials | Brocard-Ramanujan conjecture |
-| [399](https://www.erdosproblems.com/399) | No | solved | no | ? | number theory, factorials |  |
-| [400](https://www.erdosproblems.com/400) | No | open | no | ? | number theory, factorials |  |
+| [397](https://www.erdosproblems.com/397) | No | open | no | N/A | number theory, binomial coefficients |  |
+| [398](https://www.erdosproblems.com/398) | No | open | no | [A146968](https://oeis.org/A146968) | number theory, factorials | Brocard-Ramanujan conjecture, falsifiable |
+| [399](https://www.erdosproblems.com/399) | No | solved | no | N/A | number theory, factorials |  |
+| [400](https://www.erdosproblems.com/400) | No | open | no | possible | number theory, factorials |  |
 | [401](https://www.erdosproblems.com/401) | No | open | no | ? | number theory, factorials |  |
 | [402](https://www.erdosproblems.com/402) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/402.lean) | ? | number theory |  |
 | [403](https://www.erdosproblems.com/403) | No | solved | no | ? | number theory, factorials |  |
