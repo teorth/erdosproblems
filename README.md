@@ -16,13 +16,13 @@ There are 992 problems in total, of which
 - 232 have been proved (with 2 of these proofs formalized in Lean).
 - 79 have been disproved.
 - 38 have been otherwise solved.
-- 5 are open, but have been reduced to a finite computation.
-- 35 are open, but can be disproven by a finite computation if false.
-- 7 are open, but can be proven by a finite computation if true.
+- 5 are open, but have been reduced to a finite computation. (decidable)
+- 35 are open, but can be disproven by a finite computation if false. (falsifiable)
+- 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 595 are completely open.
 - 152 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 60 are known to be related to at least one OEIS sequence.
-- 389 are potentially related to an OEIS sequence not already listed.
+- 61 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 388 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -526,7 +526,7 @@ There are 992 problems in total, of which
 | [497](https://www.erdosproblems.com/497) | no | solved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | Dedekind's problem |
 | [498](https://www.erdosproblems.com/498) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [analysis](https://www.erdosproblems.com/tags/analysis) | strong Littlewood-Offord problem |
 | [499](https://www.erdosproblems.com/499) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [500](https://www.erdosproblems.com/500) | $500 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
+| [500](https://www.erdosproblems.com/500) | $500 | open | no | [A140462](https://oeis.org/A140462) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [501](https://www.erdosproblems.com/501) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [502](https://www.erdosproblems.com/502) | no | solved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [503](https://www.erdosproblems.com/503) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
