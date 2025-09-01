@@ -4,7 +4,7 @@ A community database for the problems on the [erdosproblems.com](https://www.erd
 The canonical source of truth for this data is the YAML file [data/problems.yaml](data/problems.yaml). The table below is auto-generated from this file.
 
 - To propose changes, open a PR editing `data/problems.yaml`.
-- See **CONTRIBUTING.md** for guidelines and field definitions.
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and field definitions.
 
 ## Table
 
@@ -1004,10 +1004,3 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [991](https://www.erdosproblems.com/991) | No | open | no | ? | discrepancy |  |
 | [992](https://www.erdosproblems.com/992) | No | open | no | ? | discrepancy |  |
 <!-- TABLE:END -->
-
----
-
-### Notes
-
-- **Status** values: `open`, `solved`, `partial`, `retired`.
-- OEIS codes must look like `A123456` and will auto-link.

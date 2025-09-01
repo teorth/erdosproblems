@@ -1255,13 +1255,12 @@
 - number: "114"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["polynomials", "analysis"]
 
 - number: "115"
@@ -3384,13 +3383,12 @@
 - number: "307"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["number theory", "unit fractions"]
 
 - number: "308"
@@ -4012,13 +4010,12 @@
 - number: "364"
   prize: "No"
   status:
-    state: "open"
+    state: "verifiable"
     last_update: "2025-08-31"
   oeis: ["A060355"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  comments: "verifiable"
   tags: ["number theory"]
 
 - number: "365"
@@ -4036,13 +4033,12 @@
 - number: "366"
   prize: "No"
   status:
-    state: "open"
+    state: "verifiable"
     last_update: "2025-08-31"
   oeis: ["A060355"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  comments: "verifiable"
   tags: ["number theory"]
 
 - number: "367"
@@ -4136,13 +4132,12 @@
 - number: "375"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["number theory"]
 
 - number: "376"
@@ -4392,13 +4387,13 @@
 - number: "398"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["A146968"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "Brocard-Ramanujan conjecture, falsifiable"
+  comments: "Brocard-Ramanujan conjecture"
   tags: ["number theory", "factorials"]
 
 - number: "399"
@@ -5054,13 +5049,12 @@
 - number: "458"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["number theory", "primes"]
 
 - number: "459"
@@ -5242,13 +5236,12 @@
 - number: "475"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["number theory", "additive combinatorics"]
 
 - number: "476"
@@ -6022,13 +6015,12 @@
 - number: "545"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "546"
@@ -6045,24 +6037,22 @@
 - number: "547"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "548"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory"]
 
 - number: "549"
@@ -6299,13 +6289,12 @@
 - number: "570"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "571"
@@ -6410,13 +6399,12 @@
 - number: "580"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory"]
 
 - number: "581"
@@ -6444,13 +6432,12 @@
 - number: "583"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory"]
 
 - number: "584"
@@ -6723,13 +6710,12 @@
 - number: "608"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory"]
 
 - number: "609"
@@ -6779,13 +6765,12 @@
 - number: "613"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory"]
 
 - number: "614"
@@ -6824,13 +6809,12 @@
 - number: "617"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory"]
 
 - number: "618"
@@ -6870,13 +6854,12 @@
 - number: "621"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory"]
 
 - number: "622"
@@ -6948,13 +6931,12 @@
 - number: "628"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["graph theory", "chromatic number"]
 
 - number: "629"
@@ -7158,13 +7140,12 @@
 - number: "647"
   prize: "£25"
   status:
-    state: "open"
+    state: "verifiable"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "verifiable"
   tags: ["number theory"]
 
 - number: "648"
@@ -7434,13 +7415,12 @@
 - number: "672"
   prize: "No"
   status:
-    state: "open"
+    state: "verifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  comments: "verifiable"
   tags: ["number theory"]
 
 - number: "673"
@@ -7732,13 +7712,12 @@
 - number: "699"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["number theory", "binomial coefficients"]
 
 - number: "700"
@@ -7821,13 +7800,12 @@
 - number: "707"
   prize: "$500"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["additive combinatorics", "sidon sets"]
 
 - number: "708"
@@ -7999,13 +7977,12 @@
 - number: "723"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["combinatorics"]
 
 - number: "724"
@@ -8220,13 +8197,13 @@
 - number: "743"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "tree packing conjecture, falsifiable"
+  comments: "tree packing conjecture"
   tags: ["graph theory"]
 
 - number: "744"
@@ -8618,13 +8595,12 @@
 - number: "779"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["number theory", "primes"]
 
 - number: "780"
@@ -8636,7 +8612,6 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "falsifiable"
   tags: ["combinatorics", "hypergraphs", "chromatic number"]
 
 - number: "781"
@@ -8865,6 +8840,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8875,6 +8851,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8885,6 +8862,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8895,6 +8873,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8905,6 +8884,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8915,6 +8895,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8925,6 +8906,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8935,6 +8917,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8945,6 +8928,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8955,6 +8939,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8965,6 +8950,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8975,6 +8961,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8985,6 +8972,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -8995,6 +8983,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9005,6 +8994,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9015,6 +9005,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9025,6 +9016,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9035,6 +9027,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9045,6 +9038,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9056,6 +9050,7 @@
     state: "open"
     last_update: "2025-08-31"
   oeis: ["A263647"]
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9066,6 +9061,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9076,6 +9072,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9086,6 +9083,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9096,6 +9094,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9106,6 +9105,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9116,6 +9116,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9126,6 +9127,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9136,6 +9138,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9146,6 +9149,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9156,6 +9160,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9166,6 +9171,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9176,6 +9182,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9186,6 +9193,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9194,8 +9202,9 @@
 - number: "834"
   prize: "No"
   status:
-    state: "open"
+    state: "verifiable"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9204,8 +9213,9 @@
 - number: "835"
   prize: "No"
   status:
-    state: "open"
+    state: "verifiable"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9216,6 +9226,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9226,6 +9237,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9236,6 +9248,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9246,6 +9259,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9256,6 +9270,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9266,6 +9281,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9276,6 +9292,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9286,6 +9303,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9296,6 +9314,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9306,6 +9325,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9316,6 +9336,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9326,6 +9347,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9334,8 +9356,9 @@
 - number: "848"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9346,9 +9369,11 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Singmaster's conjecture"
   tags: ["number theory", "binomial coefficients"]
 
 - number: "850"
@@ -9368,6 +9393,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9378,6 +9404,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9388,6 +9415,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9398,6 +9426,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9406,8 +9435,9 @@
 - number: "855"
   prize: "No"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9419,6 +9449,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9429,6 +9460,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9439,6 +9471,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9449,6 +9482,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9459,6 +9493,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9469,6 +9504,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9479,6 +9515,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9489,6 +9526,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9499,6 +9537,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9509,6 +9548,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9519,6 +9559,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9529,6 +9570,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9539,6 +9581,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9549,6 +9592,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9559,6 +9603,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9569,6 +9614,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9579,6 +9625,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9589,6 +9636,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9599,6 +9647,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9609,6 +9658,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9619,6 +9669,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9629,6 +9680,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9639,6 +9691,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9649,6 +9702,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9659,6 +9713,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9669,6 +9724,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9679,6 +9735,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9689,6 +9746,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9699,6 +9757,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9709,6 +9768,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9719,6 +9779,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9729,6 +9790,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9739,6 +9801,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9749,6 +9812,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9759,6 +9823,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9769,6 +9834,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9779,6 +9845,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9789,6 +9856,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9799,6 +9867,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9809,6 +9878,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9819,6 +9889,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9829,6 +9900,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9839,9 +9911,11 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Erdős-Mordell inequality"
   tags: ["geometry"]
 
 - number: "899"
@@ -9849,6 +9923,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -9859,6 +9934,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
+  oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9869,6 +9945,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"

@@ -4,15 +4,14 @@
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["number", "status"],
+    "required": ["number"],
     "properties": {
       "number": { "type": "string", "pattern": "^[0-9\\-]+$" },
       "prize": { "type": "string" },
       "status": {
         "type": "object",
-        "required": ["state"],
         "properties": {
-          "state": { "type": "string", "enum": ["open", "solved", "partial", "retired", "unknown"] },
+          "state": { "type": "string" },
           "last_update": { "type": "string", "format": "date" },
           "note": { "type": "string" }
         }
@@ -24,17 +23,17 @@
       "formalized": {
         "type": "object",
         "properties": {
-          "state": { "type": "string", "enum": ["yes", "no"] },
+          "state": { "type": "string" },
           "last_update": { "type": "string", "format": "date" },
           "note": { "type": "string" }
         }
       },
+      "comments": { "type": "string" },
       "tags": {
         "type": "array",
         "items": { "type": "string" },
         "uniqueItems": true
-      },
-      "comments": { "type": "string" }
+      }
     },
     "additionalProperties": false
   },
