@@ -1,9 +1,9 @@
 # erdosproblems
 A community database for the problems on the [erdosproblems.com](https://www.erdosproblems.com/) site.  We are particularly [seeking community contributions regarding the integer sequences associated with these problems](CONTRIBUTING.md#linking-with-the-oeis), and linking them to the [OEIS](https://oeis.org).
 
-The canonical source of truth for this data is the YAML file [data/problems.yaml](data/problems.yaml). The table below is auto-generated from this file.
+The table below is auto-generated from the YAML file [data/problems.yaml](data/problems.yaml), which is the "ground truth" for this data as far as this repository is concerned.
 
-- To propose changes, open a PR editing `data/problems.yaml`.
+- To propose changes, open a PR editing [data/problems.yaml](data/problems.yaml).
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and field definitions.
 
 
