@@ -17,11 +17,11 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [4](https://www.erdosproblems.com/4) | $10000 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/4.lean) | [A002386](https://oeis.org/A002386) | number theory, primes |  |
 | [5](https://www.erdosproblems.com/5) | no | open | no | N/A | number theory, primes |  |
 | [6](https://www.erdosproblems.com/6) | $100 | solved | no | N/A | number theory, primes |  |
-| [7](https://www.erdosproblems.com/7) | no | open | no | N/A | number theory, covering systems |  |
+| [7](https://www.erdosproblems.com/7) | no | verifiable | no | N/A | number theory, covering systems |  |
 | [8](https://www.erdosproblems.com/8) | no | solved | no | N/A | number theory, covering systems |  |
 | [9](https://www.erdosproblems.com/9) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/9.lean) | [A006286](https://oeis.org/A006286) | number theory, additive basis, primes |  |
 | [10](https://www.erdosproblems.com/10) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/10.lean) | N/A | number theory, additive basis, primes |  |
-| [11](https://www.erdosproblems.com/11) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/11.lean) | [A001220](https://oeis.org/A001220) | number theory, additive basis |  |
+| [11](https://www.erdosproblems.com/11) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/11.lean) | [A001220](https://oeis.org/A001220) | number theory, additive basis |  |
 | [12](https://www.erdosproblems.com/12) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/12.lean) | possible | number theory |  |
 | [13](https://www.erdosproblems.com/13) | $100 | solved | no | possible | number theory |  |
 | [14](https://www.erdosproblems.com/14) | no | open | no | N/A | number theory, sidon sets, additive combinatorics |  |
@@ -33,7 +33,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [20](https://www.erdosproblems.com/20) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/20.lean) | possible | combinatorics |  |
 | [21](https://www.erdosproblems.com/21) | $500 | solved | no | possible | combinatorics, intersecting family |  |
 | [22](https://www.erdosproblems.com/22) | no | solved | no | possible | graph theory |  |
-| [23](https://www.erdosproblems.com/23) | no | open | no | possible | graph theory |  |
+| [23](https://www.erdosproblems.com/23) | no | falsifiable | no | possible | graph theory |  |
 | [24](https://www.erdosproblems.com/24) | no | solved | no | possible | graph theory |  |
 | [25](https://www.erdosproblems.com/25) | no | open | no | N/A | number theory |  |
 | [26](https://www.erdosproblems.com/26) | no | solved | no | N/A | number theory, divisors |  |
@@ -74,7 +74,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [61](https://www.erdosproblems.com/61) | no | open | no | N/A | graph theory |  |
 | [62](https://www.erdosproblems.com/62) | no | open | no | N/A | graph theory |  |
 | [63](https://www.erdosproblems.com/63) | no | solved | no | N/A | graph theory, chromatic number, cycles |  |
-| [64](https://www.erdosproblems.com/64) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/64.lean) | N/A | graph theory, cycles |  |
+| [64](https://www.erdosproblems.com/64) | $1000 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/64.lean) | N/A | graph theory, cycles |  |
 | [65](https://www.erdosproblems.com/65) | no | open | no | N/A | graph theory, cycles |  |
 | [66](https://www.erdosproblems.com/66) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/66.lean) | N/A | number theory, additive basis |  |
 | [67](https://www.erdosproblems.com/67) | $500 | solved | no | possible | discrepancy | Erdős discrepancy problem |
@@ -95,7 +95,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [82](https://www.erdosproblems.com/82) | no | open | no | possible | graph theory |  |
 | [83](https://www.erdosproblems.com/83) | $500 | solved | no | possible | combinatorics |  |
 | [84](https://www.erdosproblems.com/84) | no | open | no | possible | graph theory, cycles |  |
-| [85](https://www.erdosproblems.com/85) | no | open | no | possible | graph theory |  |
+| [85](https://www.erdosproblems.com/85) | no | falsifiable | no | possible | graph theory |  |
 | [86](https://www.erdosproblems.com/86) | $100 | open | no | possible | graph theory |  |
 | [87](https://www.erdosproblems.com/87) | no | open | no | N/A | graph theory, ramsey theory |  |
 | [88](https://www.erdosproblems.com/88) | $100 | solved | no | N/A | graph theory, ramsey theory |  |
@@ -107,7 +107,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [94](https://www.erdosproblems.com/94) | £25 | open | no | possible | geometry, convex |  |
 | [95](https://www.erdosproblems.com/95) | $500 | solved | no | possible | geometry, convex, distances |  |
 | [96](https://www.erdosproblems.com/96) | no | open | no | possible | geometry, distances, convex |  |
-| [97](https://www.erdosproblems.com/97) | $100 | open | no | N/A | geometry, distances, convex |  |
+| [97](https://www.erdosproblems.com/97) | $100 | falsifiable | no | N/A | geometry, distances, convex |  |
 | [98](https://www.erdosproblems.com/98) | no | open | no | possible | geometry, distances |  |
 | [99](https://www.erdosproblems.com/99) | $100 | open | no | N/A | geometry, distances |  |
 | [100](https://www.erdosproblems.com/100) | no | open | no | N/A | geometry, distances |  |
@@ -115,9 +115,9 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [102](https://www.erdosproblems.com/102) | no | open | no | N/A | geometry |  |
 | [103](https://www.erdosproblems.com/103) | no | open | no | possible | geometry, distances |  |
 | [104](https://www.erdosproblems.com/104) | $100 | open | no | [A003829](https://oeis.org/A003829) | geometry |  |
-| [105](https://www.erdosproblems.com/105) | $50 | open | no | N/A | geometry |  |
-| [106](https://www.erdosproblems.com/106) | no | open | no | N/A | geometry |  |
-| [107](https://www.erdosproblems.com/107) | $500 | open | no | possible | geometry, convex | 'Happy Ending' problem |
+| [105](https://www.erdosproblems.com/105) | $50 | falsifiable | no | N/A | geometry |  |
+| [106](https://www.erdosproblems.com/106) | no | falsifiable | no | N/A | geometry |  |
+| [107](https://www.erdosproblems.com/107) | $500 | falsifiable | no | possible | geometry, convex | 'Happy Ending' problem |
 | [108](https://www.erdosproblems.com/108) | no | open | no | possible | graph theory, chromatic number, cycles |  |
 | [109](https://www.erdosproblems.com/109) | no | solved | no | N/A | additive combinatorics | Erdős sumset conjecture |
 | [110](https://www.erdosproblems.com/110) | no | open | no | N/A | graph theory, chromatic number, cycles |  |
