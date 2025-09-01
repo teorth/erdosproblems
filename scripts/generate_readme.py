@@ -136,7 +136,7 @@ def build_table(rows):
     lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved (with {count_proved_lean(rows)} of these proofs formalized in Lean).")
     lines.append(f"- {count_disproved(rows)} have been disproved.")
     lines.append(f"- {count_solved(rows)} have been otherwise solved.")
-    lines.append(f"- {count_decidable(rows)} have been reduced to a finite computation.")
+    lines.append(f"- {count_decidable(rows)} are open, but have been reduced to a finite computation.")
     lines.append(f"- {count_falsifiable(rows)} are open, but can be disproven by a finite computation if false.")
     lines.append(f"- {count_verifiable(rows)} are open, but can be proven by a finite computation if true.")
     lines.append(f"- {count_open(rows)} are completely open.")
