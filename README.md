@@ -124,7 +124,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [111](https://www.erdosproblems.com/111) | No | open | no | N/A | graph theory, chromatic number, set theory |  |
 | [112](https://www.erdosproblems.com/112) | No | open | no | possible | graph theory, ramsey theory |  |
 | [113](https://www.erdosproblems.com/113) | $500 | solved | no | N/A | graph theory, turan number |  |
-| [114](https://www.erdosproblems.com/114) | No | open | no | N/A | polynomials, analysis | falsifiable |
+| [114](https://www.erdosproblems.com/114) | No | falsifiable | no | N/A | polynomials, analysis |  |
 | [115](https://www.erdosproblems.com/115) | No | solved | no | N/A | polynomials, analysis |  |
 | [116](https://www.erdosproblems.com/116) | No | solved | no | N/A | polynomials, analysis |  |
 | [117](https://www.erdosproblems.com/117) | No | open | no | possible | group theory |  |
@@ -317,7 +317,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [304](https://www.erdosproblems.com/304) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/304.lean) | possible | number theory, unit fractions |  |
 | [305](https://www.erdosproblems.com/305) | No | solved | no | possible | number theory, unit fractions |  |
 | [306](https://www.erdosproblems.com/306) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/306.lean) | N/A | number theory, unit fractions |  |
-| [307](https://www.erdosproblems.com/307) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | N/A | number theory, unit fractions | falsifiable |
+| [307](https://www.erdosproblems.com/307) | No | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | N/A | number theory, unit fractions |  |
 | [308](https://www.erdosproblems.com/308) | No | solved | no | possible | number theory, unit fractions |  |
 | [309](https://www.erdosproblems.com/309) | No | solved | no | possible | number theory, unit fractions |  |
 | [310](https://www.erdosproblems.com/310) | No | solved | no | N/A | number theory, unit fractions |  |
@@ -374,9 +374,9 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [361](https://www.erdosproblems.com/361) | No | open | no | possible | number theory |  |
 | [362](https://www.erdosproblems.com/362) | No | solved | no | possible | number theory |  |
 | [363](https://www.erdosproblems.com/363) | No | solved | no | N/A | number theory |  |
-| [364](https://www.erdosproblems.com/364) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | number theory | verifiable |
+| [364](https://www.erdosproblems.com/364) | No | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
 | [365](https://www.erdosproblems.com/365) | No | open | no | [A060355](https://oeis.org/A060355) | number theory | falsifiable |
-| [366](https://www.erdosproblems.com/366) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | number theory | verifiable |
+| [366](https://www.erdosproblems.com/366) | No | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
 | [367](https://www.erdosproblems.com/367) | No | open | no | possible | number theory |  |
 | [368](https://www.erdosproblems.com/368) | No | open | no | [A074399](https://oeis.org/A074399) | number theory |  |
 | [369](https://www.erdosproblems.com/369) | No | open | no | N/A | number theory |  |
@@ -385,7 +385,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [372](https://www.erdosproblems.com/372) | No | solved | no | possible | number theory |  |
 | [373](https://www.erdosproblems.com/373) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | N/A | number theory, factorials |  |
 | [374](https://www.erdosproblems.com/374) | No | open | no | possible | number theory |  |
-| [375](https://www.erdosproblems.com/375) | No | open | no | N/A | number theory | falsifiable |
+| [375](https://www.erdosproblems.com/375) | No | falsifiable | no | N/A | number theory |  |
 | [376](https://www.erdosproblems.com/376) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/376.lean) | [A030979](https://oeis.org/A030979) | number theory, binomial coefficients, base representations |  |
 | [377](https://www.erdosproblems.com/377) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/377.lean) | N/A | number theory, binomial coefficients |  |
 | [378](https://www.erdosproblems.com/378) | No | solved | no | N/A | number theory, binomial coefficients |  |
@@ -408,7 +408,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [395](https://www.erdosproblems.com/395) | No | solved | no | N/A | analysis | reverse Littlewood-Offord problem |
 | [396](https://www.erdosproblems.com/396) | No | open | no | [A375077](https://oeis.org/A375077) | number theory, binomial coefficients |  |
 | [397](https://www.erdosproblems.com/397) | No | open | no | N/A | number theory, binomial coefficients |  |
-| [398](https://www.erdosproblems.com/398) | No | open | no | [A146968](https://oeis.org/A146968) | number theory, factorials | Brocard-Ramanujan conjecture, falsifiable |
+| [398](https://www.erdosproblems.com/398) | No | falsifiable | no | [A146968](https://oeis.org/A146968) | number theory, factorials | Brocard-Ramanujan conjecture |
 | [399](https://www.erdosproblems.com/399) | No | solved | no | N/A | number theory, factorials |  |
 | [400](https://www.erdosproblems.com/400) | No | open | no | possible | number theory, factorials |  |
 | [401](https://www.erdosproblems.com/401) | No | open | no | N/A | number theory, factorials |  |
@@ -468,7 +468,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [455](https://www.erdosproblems.com/455) | No | open | no | N/A | number theory |  |
 | [456](https://www.erdosproblems.com/456) | No | open | no | possible | number theory |  |
 | [457](https://www.erdosproblems.com/457) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | N/A | number theory |  |
-| [458](https://www.erdosproblems.com/458) | No | open | no | possible | number theory, primes | falsifiable |
+| [458](https://www.erdosproblems.com/458) | No | falsifiable | no | possible | number theory, primes |  |
 | [459](https://www.erdosproblems.com/459) | No | solved | no | possible | number theory, primes |  |
 | [460](https://www.erdosproblems.com/460) | No | open | no | N/A | number theory |  |
 | [461](https://www.erdosproblems.com/461) | No | open | no | possible | number theory, primes |  |
@@ -485,7 +485,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [472](https://www.erdosproblems.com/472) | No | open | no | possible | number theory |  |
 | [473](https://www.erdosproblems.com/473) | No | solved | no | possible | number theory |  |
 | [474](https://www.erdosproblems.com/474) | $100 | solved | no | N/A | set theory, ramsey theory |  |
-| [475](https://www.erdosproblems.com/475) | No | open | no | N/A | number theory, additive combinatorics | falsifiable |
+| [475](https://www.erdosproblems.com/475) | No | falsifiable | no | N/A | number theory, additive combinatorics |  |
 | [476](https://www.erdosproblems.com/476) | No | solved | no | N/A | number theory, additive combinatorics |  |
 | [477](https://www.erdosproblems.com/477) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | N/A | number theory |  |
 | [478](https://www.erdosproblems.com/478) | No | open | no | possible | number theory, factorials |  |
@@ -555,10 +555,10 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [542](https://www.erdosproblems.com/542) | No | solved | no | N/A | number theory |  |
 | [543](https://www.erdosproblems.com/543) | No | open | no | possible | number theory, group theory |  |
 | [544](https://www.erdosproblems.com/544) | No | open | no | possible | graph theory, ramsey theory |  |
-| [545](https://www.erdosproblems.com/545) | No | open | no | N/A | graph theory, ramsey theory | falsifiable |
+| [545](https://www.erdosproblems.com/545) | No | falsifiable | no | N/A | graph theory, ramsey theory |  |
 | [546](https://www.erdosproblems.com/546) | No | solved | no | possible | graph theory, ramsey theory |  |
-| [547](https://www.erdosproblems.com/547) | No | open | no | ? | graph theory, ramsey theory | falsifiable |
-| [548](https://www.erdosproblems.com/548) | No | open | no | N/A | graph theory | falsifiable |
+| [547](https://www.erdosproblems.com/547) | No | falsifiable | no | ? | graph theory, ramsey theory |  |
+| [548](https://www.erdosproblems.com/548) | No | falsifiable | no | N/A | graph theory |  |
 | [549](https://www.erdosproblems.com/549) | No | solved | no | N/A | graph theory, ramsey theory |  |
 | [550](https://www.erdosproblems.com/550) | No | open | no | N/A | graph theory, ramsey theory |  |
 | [551](https://www.erdosproblems.com/551) | No | solved | no | N/A | graph theory, ramsey theory |  |
@@ -580,7 +580,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [567](https://www.erdosproblems.com/567) | No | open | no | N/A | graph theory, ramsey theory |  |
 | [568](https://www.erdosproblems.com/568) | No | open | no | N/A | graph theory, ramsey theory |  |
 | [569](https://www.erdosproblems.com/569) | No | open | no | N/A | graph theory, ramsey theory |  |
-| [570](https://www.erdosproblems.com/570) | No | open | no | N/A | graph theory, ramsey theory | falsifiable |
+| [570](https://www.erdosproblems.com/570) | No | falsifiable | no | N/A | graph theory, ramsey theory |  |
 | [571](https://www.erdosproblems.com/571) | No | open | no | N/A | graph theory, turan number |  |
 | [572](https://www.erdosproblems.com/572) | No | open | no | possible | graph theory, turan number |  |
 | [573](https://www.erdosproblems.com/573) | No | open | no | possible | graph theory, turan number |  |
@@ -590,10 +590,10 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [577](https://www.erdosproblems.com/577) | No | solved | no | N/A | graph theory |  |
 | [578](https://www.erdosproblems.com/578) | No | solved | no | N/A | graph theory |  |
 | [579](https://www.erdosproblems.com/579) | No | open | no | N/A | graph theory, turan number |  |
-| [580](https://www.erdosproblems.com/580) | No | open | no | N/A | graph theory | falsifiable |
+| [580](https://www.erdosproblems.com/580) | No | falsifiable | no | N/A | graph theory |  |
 | [581](https://www.erdosproblems.com/581) | No | solved | no | possible | graph theory |  |
 | [582](https://www.erdosproblems.com/582) | $100 | solved | no | N/A | graph theory, ramsey theory |  |
-| [583](https://www.erdosproblems.com/583) | No | open | no | N/A | graph theory | falsifiable |
+| [583](https://www.erdosproblems.com/583) | No | falsifiable | no | N/A | graph theory |  |
 | [584](https://www.erdosproblems.com/584) | No | open | no | N/A | graph theory, cycles |  |
 | [585](https://www.erdosproblems.com/585) | No | open | no | possible | graph theory, cycles |  |
 | [586](https://www.erdosproblems.com/586) | No | solved | no | N/A | number theory, covering systems |  |
@@ -618,27 +618,27 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [605](https://www.erdosproblems.com/605) | No | solved | no | possible | geometry, distances |  |
 | [606](https://www.erdosproblems.com/606) | No | solved | no | N/A | geometry |  |
 | [607](https://www.erdosproblems.com/607) | $250 | solved | no | possible | geometry |  |
-| [608](https://www.erdosproblems.com/608) | No | open | no | N/A | graph theory | falsifiable |
+| [608](https://www.erdosproblems.com/608) | No | falsifiable | no | N/A | graph theory |  |
 | [609](https://www.erdosproblems.com/609) | No | open | no | possible | graph theory, ramsey theory |  |
 | [610](https://www.erdosproblems.com/610) | No | open | no | possible | graph theory |  |
 | [611](https://www.erdosproblems.com/611) | No | open | no | N/A | graph theory |  |
 | [612](https://www.erdosproblems.com/612) | No | open | no | N/A | graph theory |  |
-| [613](https://www.erdosproblems.com/613) | No | open | no | N/A | graph theory | falsifiable |
+| [613](https://www.erdosproblems.com/613) | No | falsifiable | no | N/A | graph theory |  |
 | [614](https://www.erdosproblems.com/614) | No | open | no | possible | graph theory |  |
 | [615](https://www.erdosproblems.com/615) | No | solved | no | possible | graph theory, ramsey theory |  |
 | [616](https://www.erdosproblems.com/616) | No | open | no | N/A | graph theory |  |
-| [617](https://www.erdosproblems.com/617) | No | open | no | N/A | graph theory | falsifiable |
+| [617](https://www.erdosproblems.com/617) | No | falsifiable | no | N/A | graph theory |  |
 | [618](https://www.erdosproblems.com/618) | No | solved | no | N/A | graph theory |  |
 | [619](https://www.erdosproblems.com/619) | No | open | no | N/A | graph theory |  |
 | [620](https://www.erdosproblems.com/620) | No | open | no | possible | graph theory | Erdős-Rogers problem |
-| [621](https://www.erdosproblems.com/621) | No | open | no | N/A | graph theory | falsifiable |
+| [621](https://www.erdosproblems.com/621) | No | falsifiable | no | N/A | graph theory |  |
 | [622](https://www.erdosproblems.com/622) | No | solved | no | possible | graph theory |  |
 | [623](https://www.erdosproblems.com/623) | No | open | no | N/A | set theory |  |
 | [624](https://www.erdosproblems.com/624) | No | open | no | possible | combinatorics |  |
 | [625](https://www.erdosproblems.com/625) | $1000 | open | no | N/A | graph theory, chromatic number |  |
 | [626](https://www.erdosproblems.com/626) | No | open | no | possible | graph theory, chromatic number, cycles |  |
 | [627](https://www.erdosproblems.com/627) | No | open | no | possible | graph theory, chromatic number |  |
-| [628](https://www.erdosproblems.com/628) | No | open | no | N/A | graph theory, chromatic number | falsifiable |
+| [628](https://www.erdosproblems.com/628) | No | falsifiable | no | N/A | graph theory, chromatic number |  |
 | [629](https://www.erdosproblems.com/629) | No | open | no | possible | graph theory, chromatic number |  |
 | [630](https://www.erdosproblems.com/630) | No | solved | no | N/A | graph theory, chromatic number |  |
 | [631](https://www.erdosproblems.com/631) | No | solved | no | N/A | graph theory, chromatic number |  |
@@ -657,7 +657,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [644](https://www.erdosproblems.com/644) | No | open | no | possible | combinatorics |  |
 | [645](https://www.erdosproblems.com/645) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | N/A | number theory, additive combinatorics, ramsey theory |  |
 | [646](https://www.erdosproblems.com/646) | No | solved | no | N/A | number theory, factorials |  |
-| [647](https://www.erdosproblems.com/647) | £25 | open | no | possible | number theory | verifiable |
+| [647](https://www.erdosproblems.com/647) | £25 | verifiable | no | possible | number theory |  |
 | [648](https://www.erdosproblems.com/648) | No | solved | no | possible | number theory |  |
 | [649](https://www.erdosproblems.com/649) | No | solved | no | possible | number theory |  |
 | [650](https://www.erdosproblems.com/650) | No | open | no | possible | number theory |  |
@@ -682,7 +682,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [669](https://www.erdosproblems.com/669) | No | open | no | possible | geometry |  |
 | [670](https://www.erdosproblems.com/670) | No | open | no | N/A | geometry, distances |  |
 | [671](https://www.erdosproblems.com/671) | $250 | open | no | N/A | analysis |  |
-| [672](https://www.erdosproblems.com/672) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | N/A | number theory | verifiable |
+| [672](https://www.erdosproblems.com/672) | No | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | N/A | number theory |  |
 | [673](https://www.erdosproblems.com/673) | No | solved | no | N/A | number theory, divisors |  |
 | [674](https://www.erdosproblems.com/674) | No | solved | no | N/A | number theory |  |
 | [675](https://www.erdosproblems.com/675) | No | open | no | N/A | number theory |  |
@@ -709,7 +709,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [696](https://www.erdosproblems.com/696) | No | open | no | possible | number theory, divisors |  |
 | [697](https://www.erdosproblems.com/697) | No | open | no | N/A | number theory, divisors |  |
 | [698](https://www.erdosproblems.com/698) | No | solved | no | possible | number theory, binomial coefficients |  |
-| [699](https://www.erdosproblems.com/699) | No | open | no | N/A | number theory, binomial coefficients | falsifiable |
+| [699](https://www.erdosproblems.com/699) | No | falsifiable | no | N/A | number theory, binomial coefficients |  |
 | [700](https://www.erdosproblems.com/700) | No | open | no | possible | number theory, binomial coefficients |  |
 | [701](https://www.erdosproblems.com/701) | No | open | no | N/A | combinatorics, intersecting family |  |
 | [702](https://www.erdosproblems.com/702) | No | solved | no | N/A | combinatorics |  |
@@ -717,7 +717,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [704](https://www.erdosproblems.com/704) | No | open | no | N/A | graph theory, geometry, chromatic number |  |
 | [705](https://www.erdosproblems.com/705) | No | open | no | N/A | graph theory, chromatic number |  |
 | [706](https://www.erdosproblems.com/706) | No | open | no | possible | graph theory, chromatic number |  |
-| [707](https://www.erdosproblems.com/707) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | N/A | additive combinatorics, sidon sets | falsifiable |
+| [707](https://www.erdosproblems.com/707) | $500 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | N/A | additive combinatorics, sidon sets |  |
 | [708](https://www.erdosproblems.com/708) | $100 | open | no | possible | number theory |  |
 | [709](https://www.erdosproblems.com/709) | No | open | no | possible | number theory |  |
 | [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | possible | number theory |  |
@@ -733,7 +733,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [720](https://www.erdosproblems.com/720) | $100 | solved | no | possible | graph theory, ramsey theory |  |
 | [721](https://www.erdosproblems.com/721) | No | solved | no | possible | number theory, additive combinatorics, ramsey theory |  |
 | [722](https://www.erdosproblems.com/722) | No | solved | no | N/A | combinatorics |  |
-| [723](https://www.erdosproblems.com/723) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/723.lean) | N/A | combinatorics | falsifiable |
+| [723](https://www.erdosproblems.com/723) | No | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/723.lean) | N/A | combinatorics |  |
 | [724](https://www.erdosproblems.com/724) | No | open | no | [A001438](https://oeis.org/A001438) | combinatorics |  |
 | [725](https://www.erdosproblems.com/725) | No | open | no | [A001009](https://oeis.org/A001009) | combinatorics |  |
 | [726](https://www.erdosproblems.com/726) | No | open | no | N/A | number theory |  |
@@ -753,7 +753,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [740](https://www.erdosproblems.com/740) | No | open | no | N/A | graph theory, chromatic number |  |
 | [741](https://www.erdosproblems.com/741) | No | open | no | N/A | additive combinatorics |  |
 | [742](https://www.erdosproblems.com/742) | No | solved | no | N/A | graph theory |  |
-| [743](https://www.erdosproblems.com/743) | No | open | no | N/A | graph theory | tree packing conjecture, falsifiable |
+| [743](https://www.erdosproblems.com/743) | No | falsifiable | no | N/A | graph theory | tree packing conjecture |
 | [744](https://www.erdosproblems.com/744) | No | solved | no | possible | graph theory, chromatic number |  |
 | [745](https://www.erdosproblems.com/745) | No | solved | no | N/A | graph theory |  |
 | [746](https://www.erdosproblems.com/746) | No | solved | no | N/A | graph theory |  |
@@ -789,8 +789,8 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [776](https://www.erdosproblems.com/776) | No | open | no | N/A | combinatorics |  |
 | [777](https://www.erdosproblems.com/777) | No | solved | no | N/A | graph theory, combinatorics |  |
 | [778](https://www.erdosproblems.com/778) | No | open | no | N/A | graph theory |  |
-| [779](https://www.erdosproblems.com/779) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | N/A | number theory, primes | falsifiable |
-| [780](https://www.erdosproblems.com/780) | No | solved | no | N/A | combinatorics, hypergraphs, chromatic number | falsifiable |
+| [779](https://www.erdosproblems.com/779) | No | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | N/A | number theory, primes |  |
+| [780](https://www.erdosproblems.com/780) | No | solved | no | N/A | combinatorics, hypergraphs, chromatic number |  |
 | [781](https://www.erdosproblems.com/781) | No | solved | no | possible | additive combinatorics |  |
 | [782](https://www.erdosproblems.com/782) | No | open | no | N/A | number theory |  |
 | [783](https://www.erdosproblems.com/783) | No | open | no | N/A | number theory |  |
@@ -811,107 +811,107 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [798](https://www.erdosproblems.com/798) | No | solved | no | possible | geometry |  |
 | [799](https://www.erdosproblems.com/799) | No | solved | no | N/A | graph theory, chromatic number |  |
 | [800](https://www.erdosproblems.com/800) | No | solved | no | N/A | graph theory, ramsey theory |  |
-| [801](https://www.erdosproblems.com/801) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [802](https://www.erdosproblems.com/802) | No | open | no | ? | graph theory |  |
-| [803](https://www.erdosproblems.com/803) | No | solved | no | ? | graph theory |  |
-| [804](https://www.erdosproblems.com/804) | No | solved | no | ? | graph theory |  |
-| [805](https://www.erdosproblems.com/805) | No | open | no | ? | graph theory |  |
-| [806](https://www.erdosproblems.com/806) | No | solved | no | ? | additive combinatorics |  |
-| [807](https://www.erdosproblems.com/807) | No | solved | no | ? | graph theory |  |
-| [808](https://www.erdosproblems.com/808) | No | solved | no | ? | additive combinatorics, graph theory |  |
-| [809](https://www.erdosproblems.com/809) | No | open | no | ? | graph theory, ramsey theory |  |
-| [810](https://www.erdosproblems.com/810) | No | open | no | ? | graph theory, ramsey theory |  |
-| [811](https://www.erdosproblems.com/811) | No | open | no | ? | graph theory, ramsey theory |  |
-| [812](https://www.erdosproblems.com/812) | No | open | no | ? | graph theory, ramsey theory |  |
-| [813](https://www.erdosproblems.com/813) | No | open | no | ? | graph theory |  |
-| [814](https://www.erdosproblems.com/814) | No | solved | no | ? | graph theory |  |
-| [815](https://www.erdosproblems.com/815) | No | solved | no | ? | graph theory |  |
-| [816](https://www.erdosproblems.com/816) | No | solved | no | ? | graph theory |  |
-| [817](https://www.erdosproblems.com/817) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/817.lean) | ? | additive combinatorics |  |
-| [818](https://www.erdosproblems.com/818) | No | solved | no | ? | additive combinatorics |  |
-| [819](https://www.erdosproblems.com/819) | No | open | no | ? | additive combinatorics |  |
-| [820](https://www.erdosproblems.com/820) | No | open | no | [A263647](https://oeis.org/A263647) | number theory |  |
-| [821](https://www.erdosproblems.com/821) | No | open | no | ? | number theory |  |
-| [822](https://www.erdosproblems.com/822) | No | open | no | ? | number theory |  |
-| [823](https://www.erdosproblems.com/823) | No | solved | no | ? | number theory |  |
-| [824](https://www.erdosproblems.com/824) | No | open | no | ? | number theory |  |
-| [825](https://www.erdosproblems.com/825) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/825.lean) | ? | number theory |  |
-| [826](https://www.erdosproblems.com/826) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/826.lean) | ? | number theory |  |
-| [827](https://www.erdosproblems.com/827) | No | open | no | ? | geometry |  |
-| [828](https://www.erdosproblems.com/828) | No | open | no | ? | number theory |  |
-| [829](https://www.erdosproblems.com/829) | No | open | no | ? | number theory |  |
-| [830](https://www.erdosproblems.com/830) | No | open | no | ? | number theory |  |
-| [831](https://www.erdosproblems.com/831) | No | open | no | ? | geometry |  |
-| [832](https://www.erdosproblems.com/832) | No | solved | no | ? | graph theory, hypergraphs, chromatic number |  |
-| [833](https://www.erdosproblems.com/833) | No | solved | no | ? | graph theory, hypergraphs, chromatic number |  |
-| [834](https://www.erdosproblems.com/834) | No | open | no | ? | graph theory, hypergraphs |  |
-| [835](https://www.erdosproblems.com/835) | No | open | no | ? | graph theory, hypergraphs |  |
-| [836](https://www.erdosproblems.com/836) | No | open | no | ? | graph theory, hypergraphs, chromatic number |  |
-| [837](https://www.erdosproblems.com/837) | No | open | no | ? | graph theory, hypergraphs |  |
-| [838](https://www.erdosproblems.com/838) | No | open | no | ? | geometry, convex |  |
-| [839](https://www.erdosproblems.com/839) | No | open | no | ? | number theory |  |
-| [840](https://www.erdosproblems.com/840) | No | open | no | ? | additive combinatorics, sidon sets |  |
-| [841](https://www.erdosproblems.com/841) | No | solved | no | ? | number theory |  |
-| [842](https://www.erdosproblems.com/842) | No | solved | no | ? | graph theory, chromatic number |  |
-| [843](https://www.erdosproblems.com/843) | No | solved | no | ? | number theory |  |
-| [844](https://www.erdosproblems.com/844) | No | solved | no | ? | number theory, intersecting family |  |
-| [845](https://www.erdosproblems.com/845) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | ? | number theory |  |
-| [846](https://www.erdosproblems.com/846) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | ? | geometry |  |
-| [847](https://www.erdosproblems.com/847) | No | open | no | ? | additive combinatorics |  |
-| [848](https://www.erdosproblems.com/848) | No | open | no | ? | number theory |  |
-| [849](https://www.erdosproblems.com/849) | No | open | no | ? | number theory, binomial coefficients |  |
+| [801](https://www.erdosproblems.com/801) | No | solved | no | N/A | graph theory, ramsey theory |  |
+| [802](https://www.erdosproblems.com/802) | No | open | no | N/A | graph theory |  |
+| [803](https://www.erdosproblems.com/803) | No | solved | no | N/A | graph theory |  |
+| [804](https://www.erdosproblems.com/804) | No | solved | no | possible | graph theory |  |
+| [805](https://www.erdosproblems.com/805) | No | open | no | possible | graph theory |  |
+| [806](https://www.erdosproblems.com/806) | No | solved | no | possible | additive combinatorics |  |
+| [807](https://www.erdosproblems.com/807) | No | solved | no | N/A | graph theory |  |
+| [808](https://www.erdosproblems.com/808) | No | solved | no | N/A | additive combinatorics, graph theory |  |
+| [809](https://www.erdosproblems.com/809) | No | open | no | possible | graph theory, ramsey theory |  |
+| [810](https://www.erdosproblems.com/810) | No | open | no | possible | graph theory, ramsey theory |  |
+| [811](https://www.erdosproblems.com/811) | No | open | no | possible | graph theory, ramsey theory |  |
+| [812](https://www.erdosproblems.com/812) | No | open | no | possible | graph theory, ramsey theory |  |
+| [813](https://www.erdosproblems.com/813) | No | open | no | possible | graph theory |  |
+| [814](https://www.erdosproblems.com/814) | No | solved | no | possible | graph theory |  |
+| [815](https://www.erdosproblems.com/815) | No | solved | no | N/A | graph theory |  |
+| [816](https://www.erdosproblems.com/816) | No | solved | no | N/A | graph theory |  |
+| [817](https://www.erdosproblems.com/817) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/817.lean) | possible | additive combinatorics |  |
+| [818](https://www.erdosproblems.com/818) | No | solved | no | N/A | additive combinatorics |  |
+| [819](https://www.erdosproblems.com/819) | No | open | no | possible | additive combinatorics |  |
+| [820](https://www.erdosproblems.com/820) | No | open | no | possible | number theory |  |
+| [821](https://www.erdosproblems.com/821) | No | open | no | possible | number theory |  |
+| [822](https://www.erdosproblems.com/822) | No | open | no | possible | number theory |  |
+| [823](https://www.erdosproblems.com/823) | No | solved | no | N/A | number theory |  |
+| [824](https://www.erdosproblems.com/824) | No | open | no | possible | number theory |  |
+| [825](https://www.erdosproblems.com/825) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/825.lean) | possible | number theory |  |
+| [826](https://www.erdosproblems.com/826) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/826.lean) | N/A | number theory |  |
+| [827](https://www.erdosproblems.com/827) | No | open | no | possible | geometry |  |
+| [828](https://www.erdosproblems.com/828) | No | open | no | N/A | number theory |  |
+| [829](https://www.erdosproblems.com/829) | No | open | no | possible | number theory |  |
+| [830](https://www.erdosproblems.com/830) | No | open | no | possible | number theory |  |
+| [831](https://www.erdosproblems.com/831) | No | open | no | possible | geometry |  |
+| [832](https://www.erdosproblems.com/832) | No | solved | no | N/A | graph theory, hypergraphs, chromatic number |  |
+| [833](https://www.erdosproblems.com/833) | No | solved | no | possible | graph theory, hypergraphs, chromatic number |  |
+| [834](https://www.erdosproblems.com/834) | No | verifiable | no | N/A | graph theory, hypergraphs |  |
+| [835](https://www.erdosproblems.com/835) | No | verifiable | no | N/A | graph theory, hypergraphs |  |
+| [836](https://www.erdosproblems.com/836) | No | open | no | N/A | graph theory, hypergraphs, chromatic number |  |
+| [837](https://www.erdosproblems.com/837) | No | open | no | N/A | graph theory, hypergraphs |  |
+| [838](https://www.erdosproblems.com/838) | No | open | no | possible | geometry, convex |  |
+| [839](https://www.erdosproblems.com/839) | No | open | no | N/A | number theory |  |
+| [840](https://www.erdosproblems.com/840) | No | open | no | N/A | additive combinatorics, sidon sets |  |
+| [841](https://www.erdosproblems.com/841) | No | solved | no | possible | number theory |  |
+| [842](https://www.erdosproblems.com/842) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [843](https://www.erdosproblems.com/843) | No | solved | no | N/A | number theory |  |
+| [844](https://www.erdosproblems.com/844) | No | solved | no | N/A | number theory, intersecting family |  |
+| [845](https://www.erdosproblems.com/845) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | N/A | number theory |  |
+| [846](https://www.erdosproblems.com/846) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | N/A | geometry |  |
+| [847](https://www.erdosproblems.com/847) | No | open | no | N/A | additive combinatorics |  |
+| [848](https://www.erdosproblems.com/848) | No | falsifiable | no | N/A | number theory |  |
+| [849](https://www.erdosproblems.com/849) | No | open | no | N/A | number theory, binomial coefficients | Singmaster's conjecture |
 | [850](https://www.erdosproblems.com/850) | No | open | no | [A343101](https://oeis.org/A343101) | number theory, primes | Erdős-Woods conjecture |
-| [851](https://www.erdosproblems.com/851) | No | open | no | ? | number theory |  |
-| [852](https://www.erdosproblems.com/852) | No | open | no | ? | number theory, primes |  |
-| [853](https://www.erdosproblems.com/853) | No | open | no | ? | number theory, primes |  |
-| [854](https://www.erdosproblems.com/854) | No | open | no | ? | number theory |  |
-| [855](https://www.erdosproblems.com/855) | No | open | no | ? | number theory, primes | second Hardy-Littlewood conjecture |
-| [856](https://www.erdosproblems.com/856) | No | open | no | ? | number theory |  |
-| [857](https://www.erdosproblems.com/857) | No | open | no | ? | combinatorics |  |
-| [858](https://www.erdosproblems.com/858) | No | open | no | ? | number theory, primitive sets |  |
-| [859](https://www.erdosproblems.com/859) | No | open | no | ? | number theory, divisors |  |
-| [860](https://www.erdosproblems.com/860) | No | open | no | ? | number theory, primes |  |
-| [861](https://www.erdosproblems.com/861) | No | solved | no | ? | number theory, sidon sets |  |
-| [862](https://www.erdosproblems.com/862) | No | open | no | ? | number theory, sidon sets |  |
-| [863](https://www.erdosproblems.com/863) | No | open | no | ? | number theory, sidon sets, additive combinatorics |  |
-| [864](https://www.erdosproblems.com/864) | No | open | no | ? | number theory, sidon sets, additive combinatorics |  |
-| [865](https://www.erdosproblems.com/865) | No | open | no | ? | number theory, additive combinatorics |  |
-| [866](https://www.erdosproblems.com/866) | No | open | no | ? | number theory, additive combinatorics |  |
-| [867](https://www.erdosproblems.com/867) | No | open | no | ? | additive combinatorics |  |
-| [868](https://www.erdosproblems.com/868) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/868.lean) | ? | number theory, additive basis |  |
-| [869](https://www.erdosproblems.com/869) | No | open | no | ? | number theory, additive basis |  |
-| [870](https://www.erdosproblems.com/870) | No | open | no | ? | number theory, additive basis |  |
-| [871](https://www.erdosproblems.com/871) | No | open | no | ? | number theory, additive basis |  |
-| [872](https://www.erdosproblems.com/872) | No | open | no | ? | number theory, primitive sets |  |
-| [873](https://www.erdosproblems.com/873) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/873.lean) | ? | number theory |  |
-| [874](https://www.erdosproblems.com/874) | No | solved | no | ? | number theory, additive combinatorics |  |
-| [875](https://www.erdosproblems.com/875) | No | open | no | ? | additive combinatorics |  |
-| [876](https://www.erdosproblems.com/876) | No | open | no | ? | additive combinatorics |  |
-| [877](https://www.erdosproblems.com/877) | No | solved | no | ? | additive combinatorics |  |
-| [878](https://www.erdosproblems.com/878) | No | open | no | ? | number theory |  |
-| [879](https://www.erdosproblems.com/879) | No | open | no | ? | number theory |  |
-| [880](https://www.erdosproblems.com/880) | No | solved | no | ? | number theory, additive basis |  |
-| [881](https://www.erdosproblems.com/881) | No | open | no | ? | number theory, additive basis |  |
-| [882](https://www.erdosproblems.com/882) | No | solved | no | ? | number theory, primitive sets |  |
-| [883](https://www.erdosproblems.com/883) | No | open | no | ? | number theory, graph theory |  |
-| [884](https://www.erdosproblems.com/884) | No | open | no | ? | number theory, divisors |  |
-| [885](https://www.erdosproblems.com/885) | No | open | no | ? | number theory, divisors |  |
-| [886](https://www.erdosproblems.com/886) | No | open | no | ? | number theory, divisors |  |
-| [887](https://www.erdosproblems.com/887) | No | open | no | ? | number theory, divisors |  |
-| [888](https://www.erdosproblems.com/888) | No | open | no | ? | number theory, squares |  |
-| [889](https://www.erdosproblems.com/889) | No | open | no | ? | number theory |  |
-| [890](https://www.erdosproblems.com/890) | No | open | no | ? | number theory, primes |  |
-| [891](https://www.erdosproblems.com/891) | No | open | no | ? | number theory |  |
-| [892](https://www.erdosproblems.com/892) | No | open | no | ? | number theory, primitive sets |  |
-| [893](https://www.erdosproblems.com/893) | No | open | no | ? | number theory, divisors |  |
-| [894](https://www.erdosproblems.com/894) | No | solved | no | ? | number theory, ramsey theory |  |
-| [895](https://www.erdosproblems.com/895) | No | solved | no | ? | additive combinatorics, graph theory |  |
-| [896](https://www.erdosproblems.com/896) | No | open | no | ? | number theory |  |
-| [897](https://www.erdosproblems.com/897) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/897.lean) | ? | number theory |  |
-| [898](https://www.erdosproblems.com/898) | No | solved | no | ? | geometry |  |
-| [899](https://www.erdosproblems.com/899) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/899.lean) | ? | additive combinatorics |  |
-| [900](https://www.erdosproblems.com/900) | No | solved | no | ? | graph theory |  |
-| [901](https://www.erdosproblems.com/901) | No | open | no | ? | combinatorics, hypergraphs |  |
+| [851](https://www.erdosproblems.com/851) | No | open | no | N/A | number theory |  |
+| [852](https://www.erdosproblems.com/852) | No | open | no | possible | number theory, primes |  |
+| [853](https://www.erdosproblems.com/853) | No | open | no | possible | number theory, primes |  |
+| [854](https://www.erdosproblems.com/854) | No | open | no | possible | number theory |  |
+| [855](https://www.erdosproblems.com/855) | No | falsifiable | no | N/A | number theory, primes | second Hardy-Littlewood conjecture |
+| [856](https://www.erdosproblems.com/856) | No | open | no | possible | number theory |  |
+| [857](https://www.erdosproblems.com/857) | No | open | no | possible | combinatorics |  |
+| [858](https://www.erdosproblems.com/858) | No | open | no | N/A | number theory, primitive sets |  |
+| [859](https://www.erdosproblems.com/859) | No | open | no | N/A | number theory, divisors |  |
+| [860](https://www.erdosproblems.com/860) | No | open | no | possible | number theory, primes |  |
+| [861](https://www.erdosproblems.com/861) | No | solved | no | possible | number theory, sidon sets |  |
+| [862](https://www.erdosproblems.com/862) | No | open | no | possible | number theory, sidon sets |  |
+| [863](https://www.erdosproblems.com/863) | No | open | no | N/A | number theory, sidon sets, additive combinatorics |  |
+| [864](https://www.erdosproblems.com/864) | No | open | no | possible | number theory, sidon sets, additive combinatorics |  |
+| [865](https://www.erdosproblems.com/865) | No | open | no | possible | number theory, additive combinatorics |  |
+| [866](https://www.erdosproblems.com/866) | No | open | no | possible | number theory, additive combinatorics |  |
+| [867](https://www.erdosproblems.com/867) | No | open | no | possible | additive combinatorics |  |
+| [868](https://www.erdosproblems.com/868) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/868.lean) | N/A | number theory, additive basis |  |
+| [869](https://www.erdosproblems.com/869) | No | open | no | N/A | number theory, additive basis |  |
+| [870](https://www.erdosproblems.com/870) | No | open | no | N/A | number theory, additive basis |  |
+| [871](https://www.erdosproblems.com/871) | No | open | no | N/A | number theory, additive basis |  |
+| [872](https://www.erdosproblems.com/872) | No | open | no | possible | number theory, primitive sets |  |
+| [873](https://www.erdosproblems.com/873) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/873.lean) | N/A | number theory |  |
+| [874](https://www.erdosproblems.com/874) | No | solved | no | possible | number theory, additive combinatorics |  |
+| [875](https://www.erdosproblems.com/875) | No | open | no | N/A | additive combinatorics |  |
+| [876](https://www.erdosproblems.com/876) | No | open | no | N/A | additive combinatorics |  |
+| [877](https://www.erdosproblems.com/877) | No | solved | no | possible | additive combinatorics |  |
+| [878](https://www.erdosproblems.com/878) | No | open | no | possible | number theory |  |
+| [879](https://www.erdosproblems.com/879) | No | open | no | possible | number theory |  |
+| [880](https://www.erdosproblems.com/880) | No | solved | no | N/A | number theory, additive basis |  |
+| [881](https://www.erdosproblems.com/881) | No | open | no | N/A | number theory, additive basis |  |
+| [882](https://www.erdosproblems.com/882) | No | solved | no | possible | number theory, primitive sets |  |
+| [883](https://www.erdosproblems.com/883) | No | open | no | N/A | number theory, graph theory |  |
+| [884](https://www.erdosproblems.com/884) | No | open | no | N/A | number theory, divisors |  |
+| [885](https://www.erdosproblems.com/885) | No | open | no | N/A | number theory, divisors |  |
+| [886](https://www.erdosproblems.com/886) | No | open | no | N/A | number theory, divisors |  |
+| [887](https://www.erdosproblems.com/887) | No | open | no | N/A | number theory, divisors |  |
+| [888](https://www.erdosproblems.com/888) | No | open | no | possible | number theory, squares |  |
+| [889](https://www.erdosproblems.com/889) | No | open | no | possible | number theory |  |
+| [890](https://www.erdosproblems.com/890) | No | open | no | N/A | number theory, primes |  |
+| [891](https://www.erdosproblems.com/891) | No | open | no | N/A | number theory |  |
+| [892](https://www.erdosproblems.com/892) | No | open | no | N/A | number theory, primitive sets |  |
+| [893](https://www.erdosproblems.com/893) | No | open | no | possible | number theory, divisors |  |
+| [894](https://www.erdosproblems.com/894) | No | solved | no | N/A | number theory, ramsey theory |  |
+| [895](https://www.erdosproblems.com/895) | No | solved | no | N/A | additive combinatorics, graph theory |  |
+| [896](https://www.erdosproblems.com/896) | No | open | no | possible | number theory |  |
+| [897](https://www.erdosproblems.com/897) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/897.lean) | N/A | number theory |  |
+| [898](https://www.erdosproblems.com/898) | No | solved | no | N/A | geometry | Erdős-Mordell inequality |
+| [899](https://www.erdosproblems.com/899) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/899.lean) | N/A | additive combinatorics |  |
+| [900](https://www.erdosproblems.com/900) | No | solved | no | N/A | graph theory |  |
+| [901](https://www.erdosproblems.com/901) | No | open | no | possible | combinatorics, hypergraphs |  |
 | [902](https://www.erdosproblems.com/902) | No | open | no | ? | graph theory |  |
 | [903](https://www.erdosproblems.com/903) | No | open | no | ? | combinatorics |  |
 | [904](https://www.erdosproblems.com/904) | No | solved | no | ? | graph theory |  |
