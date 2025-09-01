@@ -129,10 +129,21 @@ def count_open(rows):
         if r.get("status", {}).get("state", "").lower() == "open"
     )
 
+def count_prize(rows):
+    """
+    Count how many rows have a prize.
+    """
+    return sum(
+        1 for r in rows
+        if r.get("prize", "no") != "no"
+    )
+
+
 def build_table(rows):
     header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
     lines = []
     lines.append(f"There are {len(rows)} problems in total, of which")
+    lines.append(f"- {count_prize(rows)} are attached to a monetary prize.")
     lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved (with {count_proved_lean(rows)} of these proofs formalized in Lean).")
     lines.append(f"- {count_disproved(rows)} have been disproved.")
     lines.append(f"- {count_solved(rows)} have been otherwise solved.")

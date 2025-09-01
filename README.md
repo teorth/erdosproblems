@@ -10,10 +10,11 @@ The table below is auto-generated from the YAML file [data/problems.yaml](data/p
 
 <!-- TABLE:START -->
 There are 992 problems in total, of which
+- 94 are attached to a monetary prize.
 - 232 have been proved (with 2 of these proofs formalized in Lean).
 - 79 have been disproved.
 - 38 have been otherwise solved.
-- 5 have been reduced to a finite computation.
+- 5 are open, but have been reduced to a finite computation.
 - 35 are open, but can be disproven by a finite computation if false.
 - 7 are open, but can be proven by a finite computation if true.
 - 595 are completely open.
