@@ -1,14 +1,14 @@
 # Contributing
 
-Edits and contributions to this table are very welcome, particularly with regards to the OEIS column, as [discussed below](#linking-with-the-oeis).
+Edits and contributions to the [main table](README.md#table) are very welcome, particularly with regards to the OEIS column, as [discussed below](#linking-with-the-oeis).
 
 ## Quickstart (editing via GitHub UI)
 
-To make an edit to the main table of this repository:
+To make an edit to the [main table](README.md#table) of this repository:
 
 1. Open [data/problems.yaml](data/problems.yaml).
 2. Click **Edit** (or the edit icon ✏️) and add or modify an entry, as per the sample template below.  Only the **number** field is mandatory; omit any field for which you have no information.
-3. Open a Pull Request.
+3. Open a Pull Request.  (Once the request is accepted, this will automatically regenerate the [main table](README.md#table).)
 4. If there is additional mathematical context that you could give concerning your edit, consider also adding a comment to the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
 
 If you are uncertain as to whether an edit is appropriate, or are unable to make a pull request, you are welcome to open an issue on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
@@ -31,7 +31,7 @@ If you are uncertain as to whether an edit is appropriate, or are unable to make
 
 ## Notes on template fields
 
-- **number**: The number of the problem in the [erdosproblems.com](https://www.erdosproblems.com) database. Stored as a string.
+- **number**: The number of the problem in the [erdosproblems.com](https://www.erdosproblems.com) website. Stored as a string.
 - **prize**: use "no" if no prize given, or the currency amount otherwise. Stored as a string.
 - **status**: the known status of the problem, as of the **last_update**, stored as a string.  The main values of **state** are:
   - "solved": the problem is proved, disproved, or otherwise satisfactorily resolved.
@@ -40,7 +40,7 @@ If you are uncertain as to whether an edit is appropriate, or are unable to make
   - "decidable": the problem is both falsifiable and verifiable, but not yet solved.
   - "open": the problem is open and is not known to be either falsifiable or verifiable.
 - **formalized**: the formalization status of the problem (in a formal proof assistant such as Lean), as of the **last_update**.  The main values of **state** are:
-  - "yes": the problem has been formalized in the [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures)
+  - "yes": the problem has been formalized in the [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures).
   - "no": if no formalization exists.
   - "other": the problem is formalized, but in another location than the formal conjectures repository.  Details should appear in **comments** or in the [erdosproblems.com](https://www.erdosproblems.com) page.
 - **oeis**: a list of integer sequences (stored as strings of [OEIS numbers](https://oeis.org/)) relevant to the problem, ignoring extremely well known sequences (such as the sequence of primes).  Additional strings include
