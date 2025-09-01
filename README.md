@@ -711,106 +711,106 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [698](https://www.erdosproblems.com/698) | No | solved | no | possible | number theory, binomial coefficients |  |
 | [699](https://www.erdosproblems.com/699) | No | open | no | N/A | number theory, binomial coefficients | falsifiable |
 | [700](https://www.erdosproblems.com/700) | No | open | no | possible | number theory, binomial coefficients |  |
-| [701](https://www.erdosproblems.com/701) | No | open | no | ? | combinatorics, intersecting family |  |
-| [702](https://www.erdosproblems.com/702) | No | solved | no | ? | combinatorics |  |
-| [703](https://www.erdosproblems.com/703) | $250 | solved | no | ? | combinatorics |  |
-| [704](https://www.erdosproblems.com/704) | No | open | no | ? | graph theory, geometry, chromatic number |  |
-| [705](https://www.erdosproblems.com/705) | No | open | no | ? | graph theory, chromatic number |  |
-| [706](https://www.erdosproblems.com/706) | No | open | no | ? | graph theory, chromatic number |  |
-| [707](https://www.erdosproblems.com/707) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | ? | additive combinatorics, sidon sets |  |
-| [708](https://www.erdosproblems.com/708) | $100 | open | no | ? | number theory |  |
-| [709](https://www.erdosproblems.com/709) | No | open | no | ? | number theory |  |
-| [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | ? | number theory |  |
-| [711](https://www.erdosproblems.com/711) | ₹1000 | open | no | ? | number theory |  |
-| [712](https://www.erdosproblems.com/712) | $500 | open | no | ? | graph theory, turan number, hypergraphs |  |
-| [713](https://www.erdosproblems.com/713) | $500 | open | no | ? | graph theory, turan number |  |
-| [714](https://www.erdosproblems.com/714) | No | open | no | ? | graph theory, turan number |  |
-| [715](https://www.erdosproblems.com/715) | No | solved | no | ? | graph theory |  |
-| [716](https://www.erdosproblems.com/716) | No | solved | no | ? | graph theory, hypergraphs | Ruzsa-Szemerédi problem |
-| [717](https://www.erdosproblems.com/717) | No | solved | no | ? | graph theory |  |
-| [718](https://www.erdosproblems.com/718) | No | solved | no | ? | graph theory |  |
-| [719](https://www.erdosproblems.com/719) | No | open | no | ? | graph theory, hypergraphs |  |
-| [720](https://www.erdosproblems.com/720) | $100 | solved | no | ? | graph theory, ramsey theory |  |
-| [721](https://www.erdosproblems.com/721) | No | solved | no | ? | number theory, additive combinatorics, ramsey theory |  |
-| [722](https://www.erdosproblems.com/722) | No | solved | no | ? | combinatorics |  |
-| [723](https://www.erdosproblems.com/723) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/723.lean) | ? | combinatorics |  |
+| [701](https://www.erdosproblems.com/701) | No | open | no | N/A | combinatorics, intersecting family |  |
+| [702](https://www.erdosproblems.com/702) | No | solved | no | N/A | combinatorics |  |
+| [703](https://www.erdosproblems.com/703) | $250 | solved | no | possible | combinatorics |  |
+| [704](https://www.erdosproblems.com/704) | No | open | no | N/A | graph theory, geometry, chromatic number |  |
+| [705](https://www.erdosproblems.com/705) | No | open | no | N/A | graph theory, chromatic number |  |
+| [706](https://www.erdosproblems.com/706) | No | open | no | possible | graph theory, chromatic number |  |
+| [707](https://www.erdosproblems.com/707) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | N/A | additive combinatorics, sidon sets | falsifiable |
+| [708](https://www.erdosproblems.com/708) | $100 | open | no | possible | number theory |  |
+| [709](https://www.erdosproblems.com/709) | No | open | no | possible | number theory |  |
+| [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | possible | number theory |  |
+| [711](https://www.erdosproblems.com/711) | ₹1000 | open | no | possible | number theory |  |
+| [712](https://www.erdosproblems.com/712) | $500 | open | no | possible | graph theory, turan number, hypergraphs |  |
+| [713](https://www.erdosproblems.com/713) | $500 | open | no | N/A | graph theory, turan number |  |
+| [714](https://www.erdosproblems.com/714) | No | open | no | possible | graph theory, turan number |  |
+| [715](https://www.erdosproblems.com/715) | No | solved | no | N/A | graph theory |  |
+| [716](https://www.erdosproblems.com/716) | No | solved | no | possible | graph theory, hypergraphs | Ruzsa-Szemerédi problem |
+| [717](https://www.erdosproblems.com/717) | No | solved | no | N/A | graph theory |  |
+| [718](https://www.erdosproblems.com/718) | No | solved | no | N/A | graph theory |  |
+| [719](https://www.erdosproblems.com/719) | No | open | no | possible | graph theory, hypergraphs |  |
+| [720](https://www.erdosproblems.com/720) | $100 | solved | no | possible | graph theory, ramsey theory |  |
+| [721](https://www.erdosproblems.com/721) | No | solved | no | possible | number theory, additive combinatorics, ramsey theory |  |
+| [722](https://www.erdosproblems.com/722) | No | solved | no | N/A | combinatorics |  |
+| [723](https://www.erdosproblems.com/723) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/723.lean) | N/A | combinatorics | falsifiable |
 | [724](https://www.erdosproblems.com/724) | No | open | no | [A001438](https://oeis.org/A001438) | combinatorics |  |
 | [725](https://www.erdosproblems.com/725) | No | open | no | [A001009](https://oeis.org/A001009) | combinatorics |  |
-| [726](https://www.erdosproblems.com/726) | No | open | no | ? | number theory |  |
-| [727](https://www.erdosproblems.com/727) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | ? | number theory, factorials |  |
-| [728](https://www.erdosproblems.com/728) | No | open | no | ? | number theory, factorials |  |
-| [729](https://www.erdosproblems.com/729) | No | open | no | ? | number theory, factorials |  |
+| [726](https://www.erdosproblems.com/726) | No | open | no | N/A | number theory |  |
+| [727](https://www.erdosproblems.com/727) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | possible | number theory, factorials |  |
+| [728](https://www.erdosproblems.com/728) | No | open | no | N/A | number theory, factorials |  |
+| [729](https://www.erdosproblems.com/729) | No | open | no | N/A | number theory, factorials |  |
 | [730](https://www.erdosproblems.com/730) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | number theory, binomial coefficients, base representations |  |
-| [731](https://www.erdosproblems.com/731) | No | open | no | ? | number theory, factorials |  |
-| [732](https://www.erdosproblems.com/732) | No | solved | no | ? | combinatorics |  |
-| [733](https://www.erdosproblems.com/733) | No | solved | no | ? | combinatorics, geometry |  |
-| [734](https://www.erdosproblems.com/734) | No | open | no | ? | combinatorics |  |
-| [735](https://www.erdosproblems.com/735) | No | solved | no | ? | geometry |  |
-| [736](https://www.erdosproblems.com/736) | No | open | no | ? | graph theory, chromatic number |  |
-| [737](https://www.erdosproblems.com/737) | No | open | no | ? | graph theory, chromatic number |  |
-| [738](https://www.erdosproblems.com/738) | No | open | no | ? | graph theory, chromatic number |  |
-| [739](https://www.erdosproblems.com/739) | No | open | no | ? | graph theory, chromatic number |  |
-| [740](https://www.erdosproblems.com/740) | No | open | no | ? | graph theory, chromatic number |  |
-| [741](https://www.erdosproblems.com/741) | No | open | no | ? | additive combinatorics |  |
-| [742](https://www.erdosproblems.com/742) | No | solved | no | ? | graph theory |  |
-| [743](https://www.erdosproblems.com/743) | No | open | no | ? | graph theory |  |
-| [744](https://www.erdosproblems.com/744) | No | solved | no | ? | graph theory, chromatic number |  |
-| [745](https://www.erdosproblems.com/745) | No | solved | no | ? | graph theory |  |
-| [746](https://www.erdosproblems.com/746) | No | solved | no | ? | graph theory |  |
-| [747](https://www.erdosproblems.com/747) | No | solved | no | ? | combinatorics, hypergraphs |  |
-| [748](https://www.erdosproblems.com/748) | No | solved | no | ? | number theory | Cameron-Erdős conjecture |
-| [749](https://www.erdosproblems.com/749) | No | open | no | ? | additive combinatorics |  |
-| [750](https://www.erdosproblems.com/750) | No | open | no | ? | graph theory, chromatic number |  |
-| [751](https://www.erdosproblems.com/751) | No | solved | no | ? | graph theory, chromatic number |  |
-| [752](https://www.erdosproblems.com/752) | No | solved | no | ? | graph theory, cycles |  |
-| [753](https://www.erdosproblems.com/753) | No | solved | no | ? | graph theory, chromatic number |  |
-| [754](https://www.erdosproblems.com/754) | No | solved | no | ? | geometry, distances |  |
-| [755](https://www.erdosproblems.com/755) | No | solved | no | ? | geometry |  |
-| [756](https://www.erdosproblems.com/756) | No | solved | no | ? | geometry, distances |  |
-| [757](https://www.erdosproblems.com/757) | No | open | no | ? | geometry, distances, sidon sets |  |
-| [758](https://www.erdosproblems.com/758) | No | solved | no | ? | graph theory, chromatic number |  |
-| [759](https://www.erdosproblems.com/759) | No | solved | no | ? | graph theory, chromatic number |  |
-| [760](https://www.erdosproblems.com/760) | No | solved | no | ? | graph theory, chromatic number |  |
-| [761](https://www.erdosproblems.com/761) | No | open | no | ? | graph theory, chromatic number |  |
-| [762](https://www.erdosproblems.com/762) | No | solved | no | ? | graph theory, chromatic number |  |
-| [763](https://www.erdosproblems.com/763) | No | solved | no | ? | number theory, additive combinatorics |  |
-| [764](https://www.erdosproblems.com/764) | No | solved | no | ? | number theory, additive combinatorics |  |
-| [765](https://www.erdosproblems.com/765) | No | solved | no | ? | graph theory, turan number |  |
-| [766](https://www.erdosproblems.com/766) | No | open | no | ? | graph theory, turan number |  |
-| [767](https://www.erdosproblems.com/767) | No | solved | no | ? | graph theory, turan number |  |
-| [768](https://www.erdosproblems.com/768) | No | open | no | ? | number theory |  |
-| [769](https://www.erdosproblems.com/769) | No | open | no | ? | number theory, geometry |  |
-| [770](https://www.erdosproblems.com/770) | No | open | no | ? | number theory |  |
-| [771](https://www.erdosproblems.com/771) | No | solved | no | ? | number theory |  |
-| [772](https://www.erdosproblems.com/772) | No | solved | no | ? | number theory, sidon sets, additive combinatorics |  |
-| [773](https://www.erdosproblems.com/773) | No | open | no | ? | number theory, sidon sets, squares |  |
-| [774](https://www.erdosproblems.com/774) | No | open | no | ? | number theory |  |
-| [775](https://www.erdosproblems.com/775) | No | open | no | ? | graph theory, hypergraphs |  |
-| [776](https://www.erdosproblems.com/776) | No | open | no | ? | combinatorics |  |
-| [777](https://www.erdosproblems.com/777) | No | solved | no | ? | graph theory, combinatorics |  |
-| [778](https://www.erdosproblems.com/778) | No | open | no | ? | graph theory |  |
-| [779](https://www.erdosproblems.com/779) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | ? | number theory, primes |  |
-| [780](https://www.erdosproblems.com/780) | No | solved | no | ? | combinatorics, hypergraphs, chromatic number |  |
-| [781](https://www.erdosproblems.com/781) | No | solved | no | ? | additive combinatorics |  |
-| [782](https://www.erdosproblems.com/782) | No | open | no | ? | number theory |  |
-| [783](https://www.erdosproblems.com/783) | No | open | no | ? | number theory |  |
-| [784](https://www.erdosproblems.com/784) | No | open | no | ? | number theory |  |
-| [785](https://www.erdosproblems.com/785) | No | solved | no | ? | additive combinatorics |  |
-| [786](https://www.erdosproblems.com/786) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | ? | number theory |  |
-| [787](https://www.erdosproblems.com/787) | No | open | no | ? | additive combinatorics |  |
-| [788](https://www.erdosproblems.com/788) | No | open | no | ? | additive combinatorics |  |
-| [789](https://www.erdosproblems.com/789) | No | open | no | ? | additive combinatorics |  |
-| [790](https://www.erdosproblems.com/790) | No | open | no | ? | additive combinatorics |  |
-| [791](https://www.erdosproblems.com/791) | No | open | no | ? | additive combinatorics |  |
-| [792](https://www.erdosproblems.com/792) | No | open | no | ? | additive combinatorics |  |
-| [793](https://www.erdosproblems.com/793) | No | open | no | ? | number theory |  |
-| [794](https://www.erdosproblems.com/794) | No | solved | no | ? | graph theory, hypergraphs, turan number |  |
-| [795](https://www.erdosproblems.com/795) | No | solved | no | ? | number theory |  |
-| [796](https://www.erdosproblems.com/796) | No | open | no | ? | number theory |  |
-| [797](https://www.erdosproblems.com/797) | No | solved | no | ? | graph theory, chromatic number |  |
-| [798](https://www.erdosproblems.com/798) | No | solved | no | ? | geometry |  |
-| [799](https://www.erdosproblems.com/799) | No | solved | no | ? | graph theory, chromatic number |  |
-| [800](https://www.erdosproblems.com/800) | No | solved | no | ? | graph theory, ramsey theory |  |
+| [731](https://www.erdosproblems.com/731) | No | open | no | possible | number theory, factorials |  |
+| [732](https://www.erdosproblems.com/732) | No | solved | no | N/A | combinatorics |  |
+| [733](https://www.erdosproblems.com/733) | No | solved | no | possible | combinatorics, geometry |  |
+| [734](https://www.erdosproblems.com/734) | No | open | no | possible | combinatorics |  |
+| [735](https://www.erdosproblems.com/735) | No | solved | no | N/A | geometry |  |
+| [736](https://www.erdosproblems.com/736) | No | open | no | N/A | graph theory, chromatic number |  |
+| [737](https://www.erdosproblems.com/737) | No | open | no | N/A | graph theory, chromatic number |  |
+| [738](https://www.erdosproblems.com/738) | No | open | no | N/A | graph theory, chromatic number |  |
+| [739](https://www.erdosproblems.com/739) | No | open | no | N/A | graph theory, chromatic number |  |
+| [740](https://www.erdosproblems.com/740) | No | open | no | N/A | graph theory, chromatic number |  |
+| [741](https://www.erdosproblems.com/741) | No | open | no | N/A | additive combinatorics |  |
+| [742](https://www.erdosproblems.com/742) | No | solved | no | N/A | graph theory |  |
+| [743](https://www.erdosproblems.com/743) | No | open | no | N/A | graph theory | tree packing conjecture, falsifiable |
+| [744](https://www.erdosproblems.com/744) | No | solved | no | possible | graph theory, chromatic number |  |
+| [745](https://www.erdosproblems.com/745) | No | solved | no | N/A | graph theory |  |
+| [746](https://www.erdosproblems.com/746) | No | solved | no | N/A | graph theory |  |
+| [747](https://www.erdosproblems.com/747) | No | solved | no | N/A | combinatorics, hypergraphs |  |
+| [748](https://www.erdosproblems.com/748) | No | solved | no | possible | number theory | Cameron-Erdős conjecture |
+| [749](https://www.erdosproblems.com/749) | No | open | no | N/A | additive combinatorics |  |
+| [750](https://www.erdosproblems.com/750) | No | open | no | N/A | graph theory, chromatic number |  |
+| [751](https://www.erdosproblems.com/751) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [752](https://www.erdosproblems.com/752) | No | solved | no | N/A | graph theory, cycles |  |
+| [753](https://www.erdosproblems.com/753) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [754](https://www.erdosproblems.com/754) | No | solved | no | possible | geometry, distances |  |
+| [755](https://www.erdosproblems.com/755) | No | solved | no | possible | geometry |  |
+| [756](https://www.erdosproblems.com/756) | No | solved | no | possible | geometry, distances |  |
+| [757](https://www.erdosproblems.com/757) | No | open | no | possible | geometry, distances, sidon sets |  |
+| [758](https://www.erdosproblems.com/758) | No | solved | no | possible | graph theory, chromatic number |  |
+| [759](https://www.erdosproblems.com/759) | No | solved | no | possible | graph theory, chromatic number |  |
+| [760](https://www.erdosproblems.com/760) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [761](https://www.erdosproblems.com/761) | No | open | no | N/A | graph theory, chromatic number |  |
+| [762](https://www.erdosproblems.com/762) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [763](https://www.erdosproblems.com/763) | No | solved | no | N/A | number theory, additive combinatorics |  |
+| [764](https://www.erdosproblems.com/764) | No | solved | no | N/A | number theory, additive combinatorics |  |
+| [765](https://www.erdosproblems.com/765) | No | solved | no | possible | graph theory, turan number |  |
+| [766](https://www.erdosproblems.com/766) | No | open | no | possible | graph theory, turan number |  |
+| [767](https://www.erdosproblems.com/767) | No | solved | no | possible | graph theory, turan number |  |
+| [768](https://www.erdosproblems.com/768) | No | open | no | possible | number theory |  |
+| [769](https://www.erdosproblems.com/769) | No | open | no | possible | number theory, geometry |  |
+| [770](https://www.erdosproblems.com/770) | No | open | no | possible | number theory |  |
+| [771](https://www.erdosproblems.com/771) | No | solved | no | possible | number theory |  |
+| [772](https://www.erdosproblems.com/772) | No | solved | no | possible | number theory, sidon sets, additive combinatorics |  |
+| [773](https://www.erdosproblems.com/773) | No | open | no | possible | number theory, sidon sets, squares |  |
+| [774](https://www.erdosproblems.com/774) | No | open | no | N/A | number theory |  |
+| [775](https://www.erdosproblems.com/775) | No | open | no | N/A | graph theory, hypergraphs |  |
+| [776](https://www.erdosproblems.com/776) | No | open | no | N/A | combinatorics |  |
+| [777](https://www.erdosproblems.com/777) | No | solved | no | N/A | graph theory, combinatorics |  |
+| [778](https://www.erdosproblems.com/778) | No | open | no | N/A | graph theory |  |
+| [779](https://www.erdosproblems.com/779) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | N/A | number theory, primes | falsifiable |
+| [780](https://www.erdosproblems.com/780) | No | solved | no | N/A | combinatorics, hypergraphs, chromatic number | falsifiable |
+| [781](https://www.erdosproblems.com/781) | No | solved | no | possible | additive combinatorics |  |
+| [782](https://www.erdosproblems.com/782) | No | open | no | N/A | number theory |  |
+| [783](https://www.erdosproblems.com/783) | No | open | no | N/A | number theory |  |
+| [784](https://www.erdosproblems.com/784) | No | open | no | N/A | number theory |  |
+| [785](https://www.erdosproblems.com/785) | No | solved | no | N/A | additive combinatorics | exact additive complements |
+| [786](https://www.erdosproblems.com/786) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | N/A | number theory |  |
+| [787](https://www.erdosproblems.com/787) | No | open | no | possible | additive combinatorics |  |
+| [788](https://www.erdosproblems.com/788) | No | open | no | possible | additive combinatorics |  |
+| [789](https://www.erdosproblems.com/789) | No | open | no | possible | additive combinatorics |  |
+| [790](https://www.erdosproblems.com/790) | No | open | no | possible | additive combinatorics |  |
+| [791](https://www.erdosproblems.com/791) | No | open | no | possible | additive combinatorics |  |
+| [792](https://www.erdosproblems.com/792) | No | open | no | possible | additive combinatorics |  |
+| [793](https://www.erdosproblems.com/793) | No | open | no | possible | number theory |  |
+| [794](https://www.erdosproblems.com/794) | No | solved | no | N/A | graph theory, hypergraphs, turan number |  |
+| [795](https://www.erdosproblems.com/795) | No | solved | no | possible | number theory |  |
+| [796](https://www.erdosproblems.com/796) | No | open | no | possible | number theory |  |
+| [797](https://www.erdosproblems.com/797) | No | solved | no | possible | graph theory, chromatic number |  |
+| [798](https://www.erdosproblems.com/798) | No | solved | no | possible | geometry |  |
+| [799](https://www.erdosproblems.com/799) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [800](https://www.erdosproblems.com/800) | No | solved | no | N/A | graph theory, ramsey theory |  |
 | [801](https://www.erdosproblems.com/801) | No | solved | no | ? | graph theory, ramsey theory |  |
 | [802](https://www.erdosproblems.com/802) | No | open | no | ? | graph theory |  |
 | [803](https://www.erdosproblems.com/803) | No | solved | no | ? | graph theory |  |
