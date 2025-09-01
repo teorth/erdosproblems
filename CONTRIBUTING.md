@@ -8,7 +8,7 @@ To make an edit to the [main table](README.md#table) of this repository:
 
 1. Open [data/problems.yaml](data/problems.yaml).
 2. Click **Edit** (or the edit icon ✏️) and add or modify an entry, as per the sample template below.  Only the **number** field is mandatory; omit any field for which you have no information.
-3. Open a Pull Request.  (Once the request is accepted, this will automatically regenerate the [main table](README.md#table).)
+3. Open a Pull Request.  (Once the request is accepted, this will automatically regenerate the [main table](README.md#table).  Do not edit the table directly - any such edits will be overridden by this automatic regeneration.)
 4. If there is additional mathematical context that you could give concerning your edit, consider also adding a comment to the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
 
 If you are uncertain as to whether an edit is appropriate, or are unable to make a pull request, you are welcome to open an issue on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
