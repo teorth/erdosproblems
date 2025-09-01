@@ -120,7 +120,14 @@ def count_verifiable(rows):
         if r.get("status", {}).get("state", "").lower() == "verifiable"
     )
 
-
+def count_open(rows):
+    """
+    Count how many rows have status == "open".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "open"
+    )
 
 def build_table(rows):
     header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
@@ -132,6 +139,7 @@ def build_table(rows):
     lines.append(f"- {count_decidable(rows)} have been reduced to a finite computation.")
     lines.append(f"- {count_falsifiable(rows)} are open, but can be disproven by a finite computation if false.")
     lines.append(f"- {count_verifiable(rows)} are open, but can be proven by a finite computation if true.")
+    lines.append(f"- {count_open(rows)} are completely open.")
     lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
     lines.append(f"- {count_rows_with_oeis_id(rows)} are known to be related to at least one OEIS sequence.")
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an OEIS sequence not already listed.")

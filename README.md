@@ -16,6 +16,7 @@ There are 992 problems in total, of which
 - 5 have been reduced to a finite computation.
 - 35 are open, but can be disproven by a finite computation if false.
 - 7 are open, but can be proven by a finite computation if true.
+- 595 are completely open.
 - 152 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 59 are known to be related to at least one OEIS sequence.
 - 390 are potentially related to an OEIS sequence not already listed.
