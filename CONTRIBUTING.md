@@ -7,12 +7,15 @@ Thanks for helping improve the table!
 1. Open `data/problems.yaml`.
 2. Click **Edit** and add or modify an entry, as per the sample template below.  Only the **number** field is mandatory; omit any field for which you have no information.
 3. Open a Pull Request.
+4. If there is additional mathematical context that you could give concerning your edit, consider also adding a comment to the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
+
+If you are uncertain as to whether an edit is appropriate, you are welcome to open an issue on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
 
 ### Sample template
 
 ```yaml
 - number: "17"
-  prize: "No"
+  prize: "no"
   status:
     state: "open"
     last_update: "2025-08-31"
@@ -37,12 +40,12 @@ Thanks for helping improve the table!
 - **formalized**: the formalization status of the problem (in a formal proof assistant such as Lean), as of the **last_update**.  The main values of **state** are:
   - "yes": the problem has been formalized in the [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures)
   - "no": if no formalization exists.
-  - other: the problem is formalized, but in another location than the formal conjectures repository.
+  - "other": the problem is formalized, but in another location than the formal conjectures repository.  Details should appear in **comments** or in the [erdosproblems.com](https://www.erdosproblems.com) page.
 - **oeis**: a list of integer sequences (stored as OEIS strings) relevant to the problem, ignoring extremely well known sequences (such as the sequence of primes).  Additional strings include
-  - "possible": There may be a sequence associated to the problem that is in the OEIS, but it needs enough values computed that one can cross-check with that database.
-  - "submitted": A sequence associated to the problem has been generated to a satisfactory length; it was not in the OEIS, but has been submitted.
+  - "possible": There may be a theoretically computable sequence associated to the problem that is in the OEIS, but it needs enough values actually computed that one can cross-check with that database.
+  - "submitted": A sequence associated to the problem has been generated to a satisfactory length; it was not in the OEIS, but has been submitted.  **Important note**: please adhere to all the OEIS guidelines when considering submitting a new sequence there.  For instance, one should avoid submissions that are primarily AI-generated and not reviewed carefully by a human.
   - "N/A": it does not appear that there is an obvious sequence to attach to this problem.  (This status may be updated if new developments create a previously unknown connection to an integer sequence.)
 
-  Note that it is possible for multiple sequences to be associated to a single problem.  For instance, if the problem involves a function $r_k(N)$ of two parameters $k,N$, it may be of interest to use specific choices of one parameter, e.g., $k=1,2,3$, as examples of sequences associated to the problem.
+  Note that it is possible for multiple sequences to be associated to a single problem.  For instance, if the problem involves a function $r_k(N)$ of two parameters $k,N$, it may be of interest to use specific choices of one parameter, e.g., $k=1,2,3$, as examples of sequences associated to the problem.  Note also that the classification of a problem as having a "possible" OEIS sequence or not may be based on a cursory reading of the problem, and can be subject to revision.
 - **comments**: Miscellaneous comments on the problem, for instance describing other names given to the problem.
 - **tags**: the tags associated to the problem from the  [erdosproblems.com](https://www.erdosproblems.com) database. Stored as a list of strings.
