@@ -611,106 +611,106 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [598](https://www.erdosproblems.com/598) | No | open | no | N/A | set theory, ramsey theory |  |
 | [599](https://www.erdosproblems.com/599) | No | solved | no | N/A | graph theory, set theory | Erdős-Menger conjecture |
 | [600](https://www.erdosproblems.com/600) | No | open | no | possible | graph theory |  |
-| [601](https://www.erdosproblems.com/601) | $500 | open | no | ? | graph theory, set theory |  |
-| [602](https://www.erdosproblems.com/602) | No | open | no | ? | combinatorics, set theory | Property B |
-| [603](https://www.erdosproblems.com/603) | No | open | no | ? | combinatorics, set theory |  |
-| [604](https://www.erdosproblems.com/604) | $500 | open | no | ? | geometry, distances | pinned distance problem |
-| [605](https://www.erdosproblems.com/605) | No | solved | no | ? | geometry, distances |  |
-| [606](https://www.erdosproblems.com/606) | No | solved | no | ? | geometry |  |
-| [607](https://www.erdosproblems.com/607) | $250 | solved | no | ? | geometry |  |
-| [608](https://www.erdosproblems.com/608) | No | open | no | ? | graph theory |  |
-| [609](https://www.erdosproblems.com/609) | No | open | no | ? | graph theory, ramsey theory |  |
-| [610](https://www.erdosproblems.com/610) | No | open | no | ? | graph theory |  |
-| [611](https://www.erdosproblems.com/611) | No | open | no | ? | graph theory |  |
-| [612](https://www.erdosproblems.com/612) | No | open | no | ? | graph theory |  |
-| [613](https://www.erdosproblems.com/613) | No | open | no | ? | graph theory |  |
-| [614](https://www.erdosproblems.com/614) | No | open | no | ? | graph theory |  |
-| [615](https://www.erdosproblems.com/615) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [616](https://www.erdosproblems.com/616) | No | open | no | ? | graph theory |  |
-| [617](https://www.erdosproblems.com/617) | No | open | no | ? | graph theory |  |
-| [618](https://www.erdosproblems.com/618) | No | solved | no | ? | graph theory |  |
-| [619](https://www.erdosproblems.com/619) | No | open | no | ? | graph theory |  |
-| [620](https://www.erdosproblems.com/620) | No | open | no | ? | graph theory |  |
-| [621](https://www.erdosproblems.com/621) | No | open | no | ? | graph theory |  |
-| [622](https://www.erdosproblems.com/622) | No | solved | no | ? | graph theory |  |
-| [623](https://www.erdosproblems.com/623) | No | open | no | ? | set theory |  |
-| [624](https://www.erdosproblems.com/624) | No | open | no | ? | combinatorics |  |
-| [625](https://www.erdosproblems.com/625) | $1000 | open | no | ? | graph theory, chromatic number |  |
-| [626](https://www.erdosproblems.com/626) | No | open | no | ? | graph theory, chromatic number, cycles |  |
-| [627](https://www.erdosproblems.com/627) | No | open | no | ? | graph theory, chromatic number |  |
-| [628](https://www.erdosproblems.com/628) | No | open | no | ? | graph theory, chromatic number |  |
-| [629](https://www.erdosproblems.com/629) | No | open | no | ? | graph theory, chromatic number |  |
-| [630](https://www.erdosproblems.com/630) | No | solved | no | ? | graph theory, chromatic number |  |
-| [631](https://www.erdosproblems.com/631) | No | solved | no | ? | graph theory, chromatic number |  |
-| [632](https://www.erdosproblems.com/632) | No | solved | no | ? | graph theory, chromatic number |  |
-| [633](https://www.erdosproblems.com/633) | $25 | open | no | ? | geometry |  |
-| [634](https://www.erdosproblems.com/634) | $25 | open | no | ? | geometry |  |
-| [635](https://www.erdosproblems.com/635) | No | open | no | ? | number theory |  |
-| [636](https://www.erdosproblems.com/636) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [637](https://www.erdosproblems.com/637) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [638](https://www.erdosproblems.com/638) | No | open | no | ? | graph theory, ramsey theory |  |
-| [639](https://www.erdosproblems.com/639) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [640](https://www.erdosproblems.com/640) | No | open | no | ? | graph theory, chromatic number |  |
-| [641](https://www.erdosproblems.com/641) | No | solved | no | ? | graph theory |  |
-| [642](https://www.erdosproblems.com/642) | No | open | no | ? | graph theory, cycles |  |
-| [643](https://www.erdosproblems.com/643) | No | open | no | ? | graph theory, hypergraphs |  |
-| [644](https://www.erdosproblems.com/644) | No | open | no | ? | combinatorics |  |
-| [645](https://www.erdosproblems.com/645) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | ? | number theory, additive combinatorics, ramsey theory |  |
-| [646](https://www.erdosproblems.com/646) | No | solved | no | ? | number theory, factorials |  |
-| [647](https://www.erdosproblems.com/647) | No | open | no | ? | number theory |  |
-| [648](https://www.erdosproblems.com/648) | No | solved | no | ? | number theory |  |
-| [649](https://www.erdosproblems.com/649) | No | solved | no | ? | number theory |  |
-| [650](https://www.erdosproblems.com/650) | No | open | no | ? | number theory |  |
-| [651](https://www.erdosproblems.com/651) | No | solved | no | ? | geometry, convex |  |
-| [652](https://www.erdosproblems.com/652) | No | open | no | ? | geometry, distances |  |
-| [653](https://www.erdosproblems.com/653) | No | open | no | ? | geometry, distances |  |
-| [654](https://www.erdosproblems.com/654) | No | open | no | ? | geometry, distances |  |
-| [655](https://www.erdosproblems.com/655) | No | open | no | ? | geometry, distances |  |
-| [656](https://www.erdosproblems.com/656) | No | solved | no | ? | number theory, additive combinatorics |  |
-| [657](https://www.erdosproblems.com/657) | No | open | no | ? | geometry, distances |  |
-| [658](https://www.erdosproblems.com/658) | No | solved | no | ? | additive combinatorics |  |
-| [659](https://www.erdosproblems.com/659) | No | open | no | ? | geometry, distances |  |
-| [660](https://www.erdosproblems.com/660) | No | open | no | ? | geometry, distances, convex |  |
-| [661](https://www.erdosproblems.com/661) | $50 | open | no | ? | geometry, distances |  |
-| [662](https://www.erdosproblems.com/662) | No | open | no | ? | geometry, distances |  |
-| [663](https://www.erdosproblems.com/663) | No | open | no | ? | number theory |  |
-| [664](https://www.erdosproblems.com/664) | No | solved | no | ? | combinatorics |  |
-| [665](https://www.erdosproblems.com/665) | No | open | no | ? | combinatorics |  |
-| [666](https://www.erdosproblems.com/666) | No | solved | no | ? | graph theory |  |
-| [667](https://www.erdosproblems.com/667) | No | open | no | ? | graph theory, ramsey theory |  |
-| [668](https://www.erdosproblems.com/668) | No | open | no | ? | geometry, distances |  |
-| [669](https://www.erdosproblems.com/669) | No | open | no | ? | geometry |  |
-| [670](https://www.erdosproblems.com/670) | No | open | no | ? | geometry, distances |  |
-| [671](https://www.erdosproblems.com/671) | $250 | open | no | ? | analysis |  |
-| [672](https://www.erdosproblems.com/672) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | ? | number theory |  |
-| [673](https://www.erdosproblems.com/673) | No | solved | no | ? | number theory, divisors |  |
-| [674](https://www.erdosproblems.com/674) | No | solved | no | ? | number theory |  |
-| [675](https://www.erdosproblems.com/675) | No | open | no | ? | number theory |  |
-| [676](https://www.erdosproblems.com/676) | No | open | no | ? | number theory |  |
-| [677](https://www.erdosproblems.com/677) | No | open | no | ? | number theory |  |
-| [678](https://www.erdosproblems.com/678) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/678.lean) | ? | number theory |  |
-| [679](https://www.erdosproblems.com/679) | No | open | no | ? | number theory |  |
-| [680](https://www.erdosproblems.com/680) | No | open | no | ? | number theory, primes |  |
-| [681](https://www.erdosproblems.com/681) | No | open | no | ? | number theory, primes |  |
-| [682](https://www.erdosproblems.com/682) | No | solved | no | ? | number theory, primes |  |
-| [683](https://www.erdosproblems.com/683) | No | open | no | ? | number theory, primes, binomial coefficients |  |
-| [684](https://www.erdosproblems.com/684) | No | open | no | ? | number theory, primes, binomial coefficients |  |
-| [685](https://www.erdosproblems.com/685) | No | open | no | ? | number theory, primes, binomial coefficients |  |
-| [686](https://www.erdosproblems.com/686) | No | open | no | ? | number theory |  |
-| [687](https://www.erdosproblems.com/687) | No | open | no | ? | number theory |  |
-| [688](https://www.erdosproblems.com/688) | No | open | no | ? | number theory |  |
-| [689](https://www.erdosproblems.com/689) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/689.lean) | ? | number theory |  |
-| [690](https://www.erdosproblems.com/690) | No | open | no | ? | number theory |  |
-| [691](https://www.erdosproblems.com/691) | No | open | no | ? | number theory |  |
-| [692](https://www.erdosproblems.com/692) | No | solved | no | ? | number theory, divisors |  |
-| [693](https://www.erdosproblems.com/693) | No | open | no | ? | number theory, divisors |  |
-| [694](https://www.erdosproblems.com/694) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/694.lean) | ? | number theory |  |
-| [695](https://www.erdosproblems.com/695) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/695.lean) | ? | number theory |  |
-| [696](https://www.erdosproblems.com/696) | No | open | no | ? | number theory, divisors |  |
-| [697](https://www.erdosproblems.com/697) | No | open | no | ? | number theory, divisors |  |
-| [698](https://www.erdosproblems.com/698) | No | solved | no | ? | number theory, binomial coefficients |  |
-| [699](https://www.erdosproblems.com/699) | No | open | no | ? | number theory, binomial coefficients |  |
-| [700](https://www.erdosproblems.com/700) | No | open | no | ? | number theory, binomial coefficients |  |
+| [601](https://www.erdosproblems.com/601) | $500 | open | no | N/A | graph theory, set theory |  |
+| [602](https://www.erdosproblems.com/602) | No | open | no | N/A | combinatorics, set theory | Property B |
+| [603](https://www.erdosproblems.com/603) | No | open | no | N/A | combinatorics, set theory |  |
+| [604](https://www.erdosproblems.com/604) | $500 | open | no | possible | geometry, distances | pinned distance problem |
+| [605](https://www.erdosproblems.com/605) | No | solved | no | possible | geometry, distances |  |
+| [606](https://www.erdosproblems.com/606) | No | solved | no | N/A | geometry |  |
+| [607](https://www.erdosproblems.com/607) | $250 | solved | no | possible | geometry |  |
+| [608](https://www.erdosproblems.com/608) | No | open | no | N/A | graph theory | falsifiable |
+| [609](https://www.erdosproblems.com/609) | No | open | no | possible | graph theory, ramsey theory |  |
+| [610](https://www.erdosproblems.com/610) | No | open | no | possible | graph theory |  |
+| [611](https://www.erdosproblems.com/611) | No | open | no | N/A | graph theory |  |
+| [612](https://www.erdosproblems.com/612) | No | open | no | N/A | graph theory |  |
+| [613](https://www.erdosproblems.com/613) | No | open | no | N/A | graph theory | falsifiable |
+| [614](https://www.erdosproblems.com/614) | No | open | no | possible | graph theory |  |
+| [615](https://www.erdosproblems.com/615) | No | solved | no | possible | graph theory, ramsey theory |  |
+| [616](https://www.erdosproblems.com/616) | No | open | no | N/A | graph theory |  |
+| [617](https://www.erdosproblems.com/617) | No | open | no | N/A | graph theory | falsifiable |
+| [618](https://www.erdosproblems.com/618) | No | solved | no | N/A | graph theory |  |
+| [619](https://www.erdosproblems.com/619) | No | open | no | N/A | graph theory |  |
+| [620](https://www.erdosproblems.com/620) | No | open | no | possible | graph theory | Erdős-Rogers problem |
+| [621](https://www.erdosproblems.com/621) | No | open | no | N/A | graph theory | falsifiable |
+| [622](https://www.erdosproblems.com/622) | No | solved | no | possible | graph theory |  |
+| [623](https://www.erdosproblems.com/623) | No | open | no | N/A | set theory |  |
+| [624](https://www.erdosproblems.com/624) | No | open | no | possible | combinatorics |  |
+| [625](https://www.erdosproblems.com/625) | $1000 | open | no | N/A | graph theory, chromatic number |  |
+| [626](https://www.erdosproblems.com/626) | No | open | no | possible | graph theory, chromatic number, cycles |  |
+| [627](https://www.erdosproblems.com/627) | No | open | no | possible | graph theory, chromatic number |  |
+| [628](https://www.erdosproblems.com/628) | No | open | no | N/A | graph theory, chromatic number | falsifiable |
+| [629](https://www.erdosproblems.com/629) | No | open | no | possible | graph theory, chromatic number |  |
+| [630](https://www.erdosproblems.com/630) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [631](https://www.erdosproblems.com/631) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [632](https://www.erdosproblems.com/632) | No | solved | no | N/A | graph theory, chromatic number |  |
+| [633](https://www.erdosproblems.com/633) | $25 | open | no | N/A | geometry |  |
+| [634](https://www.erdosproblems.com/634) | $25 | open | no | possible | geometry |  |
+| [635](https://www.erdosproblems.com/635) | No | open | no | N/A | number theory |  |
+| [636](https://www.erdosproblems.com/636) | No | solved | no | N/A | graph theory, ramsey theory |  |
+| [637](https://www.erdosproblems.com/637) | No | solved | no | N/A | graph theory, ramsey theory |  |
+| [638](https://www.erdosproblems.com/638) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [639](https://www.erdosproblems.com/639) | No | solved | no | N/A | graph theory, ramsey theory |  |
+| [640](https://www.erdosproblems.com/640) | No | open | no | N/A | graph theory, chromatic number |  |
+| [641](https://www.erdosproblems.com/641) | No | solved | no | N/A | graph theory |  |
+| [642](https://www.erdosproblems.com/642) | No | open | no | possible | graph theory, cycles |  |
+| [643](https://www.erdosproblems.com/643) | No | open | no | possible | graph theory, hypergraphs |  |
+| [644](https://www.erdosproblems.com/644) | No | open | no | possible | combinatorics |  |
+| [645](https://www.erdosproblems.com/645) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | N/A | number theory, additive combinatorics, ramsey theory |  |
+| [646](https://www.erdosproblems.com/646) | No | solved | no | N/A | number theory, factorials |  |
+| [647](https://www.erdosproblems.com/647) | £25 | open | no | possible | number theory | verifiable |
+| [648](https://www.erdosproblems.com/648) | No | solved | no | possible | number theory |  |
+| [649](https://www.erdosproblems.com/649) | No | solved | no | possible | number theory |  |
+| [650](https://www.erdosproblems.com/650) | No | open | no | possible | number theory |  |
+| [651](https://www.erdosproblems.com/651) | No | solved | no | possible | geometry, convex |  |
+| [652](https://www.erdosproblems.com/652) | No | open | no | N/A | geometry, distances |  |
+| [653](https://www.erdosproblems.com/653) | No | open | no | possible | geometry, distances |  |
+| [654](https://www.erdosproblems.com/654) | No | open | no | possible | geometry, distances |  |
+| [655](https://www.erdosproblems.com/655) | No | open | no | possible | geometry, distances |  |
+| [656](https://www.erdosproblems.com/656) | No | solved | no | N/A | number theory, additive combinatorics |  |
+| [657](https://www.erdosproblems.com/657) | No | open | no | possible | geometry, distances |  |
+| [658](https://www.erdosproblems.com/658) | No | solved | no | possible | additive combinatorics |  |
+| [659](https://www.erdosproblems.com/659) | No | open | no | possible | geometry, distances |  |
+| [660](https://www.erdosproblems.com/660) | No | open | no | possible | geometry, distances, convex |  |
+| [661](https://www.erdosproblems.com/661) | $50 | open | no | possible | geometry, distances |  |
+| [662](https://www.erdosproblems.com/662) | No | open | no | N/A | geometry, distances |  |
+| [663](https://www.erdosproblems.com/663) | No | open | no | possible | number theory |  |
+| [664](https://www.erdosproblems.com/664) | No | solved | no | N/A | combinatorics |  |
+| [665](https://www.erdosproblems.com/665) | No | open | no | N/A | combinatorics |  |
+| [666](https://www.erdosproblems.com/666) | No | solved | no | possible | graph theory |  |
+| [667](https://www.erdosproblems.com/667) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [668](https://www.erdosproblems.com/668) | No | open | no | possible | geometry, distances |  |
+| [669](https://www.erdosproblems.com/669) | No | open | no | possible | geometry |  |
+| [670](https://www.erdosproblems.com/670) | No | open | no | N/A | geometry, distances |  |
+| [671](https://www.erdosproblems.com/671) | $250 | open | no | N/A | analysis |  |
+| [672](https://www.erdosproblems.com/672) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | N/A | number theory | verifiable |
+| [673](https://www.erdosproblems.com/673) | No | solved | no | N/A | number theory, divisors |  |
+| [674](https://www.erdosproblems.com/674) | No | solved | no | N/A | number theory |  |
+| [675](https://www.erdosproblems.com/675) | No | open | no | N/A | number theory |  |
+| [676](https://www.erdosproblems.com/676) | No | open | no | possible | number theory |  |
+| [677](https://www.erdosproblems.com/677) | No | open | no | possible | number theory |  |
+| [678](https://www.erdosproblems.com/678) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/678.lean) | possible | number theory |  |
+| [679](https://www.erdosproblems.com/679) | No | open | no | N/A | number theory |  |
+| [680](https://www.erdosproblems.com/680) | No | open | no | N/A | number theory, primes |  |
+| [681](https://www.erdosproblems.com/681) | No | open | no | N/A | number theory, primes |  |
+| [682](https://www.erdosproblems.com/682) | No | solved | no | [A386978](https://oeis.org/A386978) | number theory, primes |  |
+| [683](https://www.erdosproblems.com/683) | No | open | no | possible | number theory, primes, binomial coefficients |  |
+| [684](https://www.erdosproblems.com/684) | No | open | no | possible | number theory, primes, binomial coefficients |  |
+| [685](https://www.erdosproblems.com/685) | No | open | no | N/A | number theory, primes, binomial coefficients |  |
+| [686](https://www.erdosproblems.com/686) | No | open | no | N/A | number theory |  |
+| [687](https://www.erdosproblems.com/687) | No | open | no | [A048670](https://oeis.org/A048670) | number theory |  |
+| [688](https://www.erdosproblems.com/688) | No | open | no | N/A | number theory |  |
+| [689](https://www.erdosproblems.com/689) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/689.lean) | N/A | number theory |  |
+| [690](https://www.erdosproblems.com/690) | No | open | no | possible | number theory |  |
+| [691](https://www.erdosproblems.com/691) | No | open | no | N/A | number theory |  |
+| [692](https://www.erdosproblems.com/692) | No | solved | no | N/A | number theory, divisors |  |
+| [693](https://www.erdosproblems.com/693) | No | open | no | possible | number theory, divisors |  |
+| [694](https://www.erdosproblems.com/694) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/694.lean) | possible | number theory |  |
+| [695](https://www.erdosproblems.com/695) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/695.lean) | N/A | number theory |  |
+| [696](https://www.erdosproblems.com/696) | No | open | no | possible | number theory, divisors |  |
+| [697](https://www.erdosproblems.com/697) | No | open | no | N/A | number theory, divisors |  |
+| [698](https://www.erdosproblems.com/698) | No | solved | no | possible | number theory, binomial coefficients |  |
+| [699](https://www.erdosproblems.com/699) | No | open | no | N/A | number theory, binomial coefficients | falsifiable |
+| [700](https://www.erdosproblems.com/700) | No | open | no | possible | number theory, binomial coefficients |  |
 | [701](https://www.erdosproblems.com/701) | No | open | no | ? | combinatorics, intersecting family |  |
 | [702](https://www.erdosproblems.com/702) | No | solved | no | ? | combinatorics |  |
 | [703](https://www.erdosproblems.com/703) | $250 | solved | no | ? | combinatorics |  |
