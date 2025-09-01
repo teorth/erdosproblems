@@ -9,6 +9,8 @@ The table below is auto-generated from the YAML file [data/problems.yaml](data/p
 ## Table
 
 <!-- TABLE:START -->
+There are 992 problems in total, of which 390 are potentially related to an OEIS sequence not already listed.
+
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
 |---|---|---|---|---|---|---|
 | [1](https://www.erdosproblems.com/1) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1.lean) | [A276661](https://oeis.org/A276661) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |

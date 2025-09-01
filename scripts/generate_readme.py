@@ -31,9 +31,19 @@ def formalized_link(number:str, code: str) -> str:
     else:
         return code
 
+def count_possible_oeis(rows):
+    """Count how many rows contain an OEIS entry with 'possible'."""
+    return sum(
+        1 for r in rows
+        if any("possible" in entry for entry in r.get("oeis", []))
+    )
+
 def build_table(rows):
     header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
-    lines = [header]
+    lines = []
+    possible_count = count_possible_oeis(rows)
+    lines.append(f"There are {len(rows)} problems in total, of which {possible_count} are potentially related to an OEIS sequence not already listed.\n")
+    lines.append(header)
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"
         tags = ", ".join(tags_link(s) for s in r.get("tags", [])) or "?"
