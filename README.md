@@ -411,106 +411,106 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [398](https://www.erdosproblems.com/398) | No | open | no | [A146968](https://oeis.org/A146968) | number theory, factorials | Brocard-Ramanujan conjecture, falsifiable |
 | [399](https://www.erdosproblems.com/399) | No | solved | no | N/A | number theory, factorials |  |
 | [400](https://www.erdosproblems.com/400) | No | open | no | possible | number theory, factorials |  |
-| [401](https://www.erdosproblems.com/401) | No | open | no | ? | number theory, factorials |  |
-| [402](https://www.erdosproblems.com/402) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/402.lean) | ? | number theory |  |
-| [403](https://www.erdosproblems.com/403) | No | solved | no | ? | number theory, factorials |  |
-| [404](https://www.erdosproblems.com/404) | No | open | no | ? | number theory, factorials |  |
-| [405](https://www.erdosproblems.com/405) | No | solved | no | ? | number theory, factorials |  |
-| [406](https://www.erdosproblems.com/406) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/406.lean) | ? | number theory, base representations |  |
-| [407](https://www.erdosproblems.com/407) | No | solved | no | ? | number theory |  |
-| [408](https://www.erdosproblems.com/408) | No | open | no | ? | number theory, iterated functions |  |
+| [401](https://www.erdosproblems.com/401) | No | open | no | N/A | number theory, factorials |  |
+| [402](https://www.erdosproblems.com/402) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/402.lean) | N/A | number theory |  |
+| [403](https://www.erdosproblems.com/403) | No | solved | no | N/A | number theory, factorials |  |
+| [404](https://www.erdosproblems.com/404) | No | open | no | N/A | number theory, factorials |  |
+| [405](https://www.erdosproblems.com/405) | No | solved | no | N/A | number theory, factorials |  |
+| [406](https://www.erdosproblems.com/406) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/406.lean) | N/A | number theory, base representations |  |
+| [407](https://www.erdosproblems.com/407) | No | solved | no | possible | number theory |  |
+| [408](https://www.erdosproblems.com/408) | No | open | no | possible | number theory, iterated functions |  |
 | [409](https://www.erdosproblems.com/409) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/409.lean) | [A039651](https://oeis.org/A039651) | number theory, iterated functions |  |
-| [410](https://www.erdosproblems.com/410) | No | open | no | ? | number theory, iterated functions |  |
-| [411](https://www.erdosproblems.com/411) | No | open | no | ? | number theory, iterated functions |  |
-| [412](https://www.erdosproblems.com/412) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/412.lean) | ? | number theory, iterated functions |  |
-| [413](https://www.erdosproblems.com/413) | No | open | no | ? | number theory, iterated functions |  |
-| [414](https://www.erdosproblems.com/414) | No | open | no | ? | number theory, iterated functions |  |
-| [415](https://www.erdosproblems.com/415) | No | open | no | ? | number theory |  |
-| [416](https://www.erdosproblems.com/416) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/416.lean) | ? | number theory |  |
-| [417](https://www.erdosproblems.com/417) | No | open | no | ? | number theory |  |
-| [418](https://www.erdosproblems.com/418) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/418.lean) | ? | number theory |  |
-| [419](https://www.erdosproblems.com/419) | No | solved | no | ? | number theory, factorials |  |
-| [420](https://www.erdosproblems.com/420) | No | open | no | ? | number theory |  |
-| [421](https://www.erdosproblems.com/421) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | ? | number theory |  |
+| [410](https://www.erdosproblems.com/410) | No | open | no | possible | number theory, iterated functions |  |
+| [411](https://www.erdosproblems.com/411) | No | open | no | possible | number theory, iterated functions |  |
+| [412](https://www.erdosproblems.com/412) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/412.lean) | possible | number theory, iterated functions |  |
+| [413](https://www.erdosproblems.com/413) | No | open | no | possible | number theory, iterated functions |  |
+| [414](https://www.erdosproblems.com/414) | No | open | no | possible | number theory, iterated functions |  |
+| [415](https://www.erdosproblems.com/415) | No | open | no | possible | number theory |  |
+| [416](https://www.erdosproblems.com/416) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/416.lean) | possible | number theory |  |
+| [417](https://www.erdosproblems.com/417) | No | open | no | possible | number theory |  |
+| [418](https://www.erdosproblems.com/418) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/418.lean) | possible | number theory |  |
+| [419](https://www.erdosproblems.com/419) | No | solved | no | N/A | number theory, factorials |  |
+| [420](https://www.erdosproblems.com/420) | No | open | no | N/A | number theory |  |
+| [421](https://www.erdosproblems.com/421) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | N/A | number theory |  |
 | [422](https://www.erdosproblems.com/422) | No | open | no | [A005185](https://oeis.org/A005185) | number theory |  |
 | [423](https://www.erdosproblems.com/423) | No | open | no | [A005243](https://oeis.org/A005243) | number theory |  |
 | [424](https://www.erdosproblems.com/424) | No | open | no | [A005244](https://oeis.org/A005244) | number theory |  |
-| [425](https://www.erdosproblems.com/425) | No | open | no | ? | number theory, sidon sets |  |
-| [426](https://www.erdosproblems.com/426) | $25 | solved | no | ? | graph theory |  |
-| [427](https://www.erdosproblems.com/427) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/427.lean) | ? | number theory, primes |  |
-| [428](https://www.erdosproblems.com/428) | No | open | no | ? | number theory, primes |  |
-| [429](https://www.erdosproblems.com/429) | No | solved | no | ? | number theory |  |
-| [430](https://www.erdosproblems.com/430) | No | open | no | ? | number theory |  |
-| [431](https://www.erdosproblems.com/431) | No | open | no | ? | number theory, primes | inverse Goldbach problem |
-| [432](https://www.erdosproblems.com/432) | No | open | no | ? | number theory |  |
-| [433](https://www.erdosproblems.com/433) | No | open | no | ? | number theory |  |
-| [434](https://www.erdosproblems.com/434) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | ? | number theory |  |
-| [435](https://www.erdosproblems.com/435) | No | open | no | ? | number theory |  |
-| [436](https://www.erdosproblems.com/436) | No | open | no | ? | number theory |  |
-| [437](https://www.erdosproblems.com/437) | No | solved | no | ? | number theory |  |
-| [438](https://www.erdosproblems.com/438) | No | solved | no | ? | number theory |  |
-| [439](https://www.erdosproblems.com/439) | No | solved | no | ? | number theory, ramsey theory |  |
-| [440](https://www.erdosproblems.com/440) | No | open | no | ? | number theory |  |
-| [441](https://www.erdosproblems.com/441) | No | solved | no | ? | number theory |  |
-| [442](https://www.erdosproblems.com/442) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/442.lean) | ? | number theory |  |
-| [443](https://www.erdosproblems.com/443) | No | solved | no | ? | number theory |  |
-| [444](https://www.erdosproblems.com/444) | No | solved | no | ? | number theory, divisors |  |
-| [445](https://www.erdosproblems.com/445) | No | open | no | ? | number theory |  |
-| [446](https://www.erdosproblems.com/446) | No | solved | no | ? | number theory, divisors |  |
-| [447](https://www.erdosproblems.com/447) | No | solved | no | ? | combinatorics |  |
-| [448](https://www.erdosproblems.com/448) | No | solved | no | ? | number theory, divisors |  |
-| [449](https://www.erdosproblems.com/449) | No | solved | no | ? | number theory, divisors |  |
-| [450](https://www.erdosproblems.com/450) | No | open | no | ? | number theory, divisors |  |
-| [451](https://www.erdosproblems.com/451) | No | open | no | ? | number theory |  |
-| [452](https://www.erdosproblems.com/452) | No | open | no | ? | number theory |  |
-| [453](https://www.erdosproblems.com/453) | No | solved | no | ? | number theory |  |
-| [454](https://www.erdosproblems.com/454) | No | open | no | ? | number theory, primes |  |
-| [455](https://www.erdosproblems.com/455) | No | open | no | ? | number theory |  |
-| [456](https://www.erdosproblems.com/456) | No | open | no | ? | number theory |  |
-| [457](https://www.erdosproblems.com/457) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | ? | number theory |  |
-| [458](https://www.erdosproblems.com/458) | No | open | no | ? | number theory, primes |  |
-| [459](https://www.erdosproblems.com/459) | No | solved | no | ? | number theory, primes |  |
-| [460](https://www.erdosproblems.com/460) | No | open | no | ? | number theory |  |
-| [461](https://www.erdosproblems.com/461) | No | open | no | ? | number theory, primes |  |
-| [462](https://www.erdosproblems.com/462) | No | open | no | ? | number theory, primes |  |
-| [463](https://www.erdosproblems.com/463) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/463.lean) | ? | number theory, primes |  |
-| [464](https://www.erdosproblems.com/464) | No | solved | no | ? | number theory |  |
-| [465](https://www.erdosproblems.com/465) | No | solved | no | ? | number theory |  |
-| [466](https://www.erdosproblems.com/466) | No | solved | no | ? | number theory |  |
-| [467](https://www.erdosproblems.com/467) | No | open | no | ? | number theory |  |
-| [468](https://www.erdosproblems.com/468) | No | open | no | ? | number theory, divisors |  |
+| [425](https://www.erdosproblems.com/425) | No | open | no | possible | number theory, sidon sets |  |
+| [426](https://www.erdosproblems.com/426) | $25 | solved | no | possible | graph theory |  |
+| [427](https://www.erdosproblems.com/427) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/427.lean) | N/A | number theory, primes |  |
+| [428](https://www.erdosproblems.com/428) | No | open | no | N/A | number theory, primes |  |
+| [429](https://www.erdosproblems.com/429) | No | solved | no | N/A | number theory |  |
+| [430](https://www.erdosproblems.com/430) | No | open | no | possible | number theory |  |
+| [431](https://www.erdosproblems.com/431) | No | open | no | N/A | number theory, primes | inverse Goldbach problem |
+| [432](https://www.erdosproblems.com/432) | No | open | no | N/A | number theory |  |
+| [433](https://www.erdosproblems.com/433) | No | open | no | possible | number theory |  |
+| [434](https://www.erdosproblems.com/434) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | possible | number theory |  |
+| [435](https://www.erdosproblems.com/435) | No | open | no | possible | number theory |  |
+| [436](https://www.erdosproblems.com/436) | No | open | no | possible | number theory |  |
+| [437](https://www.erdosproblems.com/437) | No | solved | no | possible | number theory |  |
+| [438](https://www.erdosproblems.com/438) | No | solved | no | possible | number theory |  |
+| [439](https://www.erdosproblems.com/439) | No | solved | no | N/A | number theory, ramsey theory |  |
+| [440](https://www.erdosproblems.com/440) | No | open | no | N/A | number theory |  |
+| [441](https://www.erdosproblems.com/441) | No | solved | no | possible | number theory |  |
+| [442](https://www.erdosproblems.com/442) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/442.lean) | N/A | number theory |  |
+| [443](https://www.erdosproblems.com/443) | No | solved | no | N/A | number theory |  |
+| [444](https://www.erdosproblems.com/444) | No | solved | no | N/A | number theory, divisors |  |
+| [445](https://www.erdosproblems.com/445) | No | open | no | N/A | number theory |  |
+| [446](https://www.erdosproblems.com/446) | No | solved | no | N/A | number theory, divisors |  |
+| [447](https://www.erdosproblems.com/447) | No | solved | no | possible | combinatorics |  |
+| [448](https://www.erdosproblems.com/448) | No | solved | no | possible | number theory, divisors |  |
+| [449](https://www.erdosproblems.com/449) | No | solved | no | possible | number theory, divisors |  |
+| [450](https://www.erdosproblems.com/450) | No | open | no | N/A | number theory, divisors |  |
+| [451](https://www.erdosproblems.com/451) | No | open | no | possible | number theory |  |
+| [452](https://www.erdosproblems.com/452) | No | open | no | possible | number theory |  |
+| [453](https://www.erdosproblems.com/453) | No | solved | no | N/A | number theory |  |
+| [454](https://www.erdosproblems.com/454) | No | open | no | possible | number theory, primes |  |
+| [455](https://www.erdosproblems.com/455) | No | open | no | N/A | number theory |  |
+| [456](https://www.erdosproblems.com/456) | No | open | no | possible | number theory |  |
+| [457](https://www.erdosproblems.com/457) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | N/A | number theory |  |
+| [458](https://www.erdosproblems.com/458) | No | open | no | possible | number theory, primes | falsifiable |
+| [459](https://www.erdosproblems.com/459) | No | solved | no | possible | number theory, primes |  |
+| [460](https://www.erdosproblems.com/460) | No | open | no | N/A | number theory |  |
+| [461](https://www.erdosproblems.com/461) | No | open | no | possible | number theory, primes |  |
+| [462](https://www.erdosproblems.com/462) | No | open | no | possible | number theory, primes |  |
+| [463](https://www.erdosproblems.com/463) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/463.lean) | possible | number theory, primes |  |
+| [464](https://www.erdosproblems.com/464) | No | solved | no | N/A | number theory |  |
+| [465](https://www.erdosproblems.com/465) | No | solved | no | N/A | number theory |  |
+| [466](https://www.erdosproblems.com/466) | No | solved | no | N/A | number theory |  |
+| [467](https://www.erdosproblems.com/467) | No | open | no | N/A | number theory |  |
+| [468](https://www.erdosproblems.com/468) | No | open | no | possible | number theory, divisors |  |
 | [469](https://www.erdosproblems.com/469) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/469.lean) | [A006036](https://oeis.org/A006036) | number theory, divisors |  |
 | [470](https://www.erdosproblems.com/470) | No | open | no | [A006037](https://oeis.org/A006037) | number theory, divisors |  |
-| [471](https://www.erdosproblems.com/471) | No | solved | no | ? | number theory |  |
-| [472](https://www.erdosproblems.com/472) | No | open | no | ? | number theory |  |
-| [473](https://www.erdosproblems.com/473) | No | solved | no | ? | number theory |  |
-| [474](https://www.erdosproblems.com/474) | $100 | solved | no | ? | set theory, ramsey theory |  |
-| [475](https://www.erdosproblems.com/475) | No | open | no | ? | number theory, additive combinatorics |  |
-| [476](https://www.erdosproblems.com/476) | No | solved | no | ? | number theory, additive combinatorics |  |
-| [477](https://www.erdosproblems.com/477) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | ? | number theory |  |
-| [478](https://www.erdosproblems.com/478) | No | open | no | ? | number theory, factorials |  |
+| [471](https://www.erdosproblems.com/471) | No | solved | no | possible | number theory |  |
+| [472](https://www.erdosproblems.com/472) | No | open | no | possible | number theory |  |
+| [473](https://www.erdosproblems.com/473) | No | solved | no | possible | number theory |  |
+| [474](https://www.erdosproblems.com/474) | $100 | solved | no | N/A | set theory, ramsey theory |  |
+| [475](https://www.erdosproblems.com/475) | No | open | no | N/A | number theory, additive combinatorics |  |
+| [476](https://www.erdosproblems.com/476) | No | solved | no | N/A | number theory, additive combinatorics |  |
+| [477](https://www.erdosproblems.com/477) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | N/A | number theory |  |
+| [478](https://www.erdosproblems.com/478) | No | open | no | possible | number theory, factorials |  |
 | [479](https://www.erdosproblems.com/479) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236) | number theory |  |
-| [480](https://www.erdosproblems.com/480) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/480.lean) | ? | number theory |  |
-| [481](https://www.erdosproblems.com/481) | No | open | no | ? | number theory |  |
-| [482](https://www.erdosproblems.com/482) | No | solved | no | ? | number theory |  |
+| [480](https://www.erdosproblems.com/480) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/480.lean) | N/A | number theory |  |
+| [481](https://www.erdosproblems.com/481) | No | open | no | N/A | number theory |  |
+| [482](https://www.erdosproblems.com/482) | No | solved | no | possible | number theory |  |
 | [483](https://www.erdosproblems.com/483) | No | open | no | [A030126](https://oeis.org/A030126) | number theory, additive combinatorics, ramsey theory |  |
-| [484](https://www.erdosproblems.com/484) | No | solved | no | ? | number theory, additive combinatorics, ramsey theory |  |
-| [485](https://www.erdosproblems.com/485) | No | solved | no | ? | analysis, polynomials |  |
-| [486](https://www.erdosproblems.com/486) | No | open | no | ? | number theory, primitive sets |  |
-| [487](https://www.erdosproblems.com/487) | No | solved | no | ? | number theory |  |
-| [488](https://www.erdosproblems.com/488) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | ? | number theory |  |
-| [489](https://www.erdosproblems.com/489) | No | open | no | ? | number theory |  |
-| [490](https://www.erdosproblems.com/490) | No | solved | no | ? | number theory |  |
-| [491](https://www.erdosproblems.com/491) | No | solved | no | ? | number theory |  |
-| [492](https://www.erdosproblems.com/492) | No | solved | no | ? | number theory |  |
-| [493](https://www.erdosproblems.com/493) | No | solved | no | ? | number theory |  |
-| [494](https://www.erdosproblems.com/494) | No | open | no | ? | analysis, additive combinatorics |  |
-| [495](https://www.erdosproblems.com/495) | No | open | no | ? | diophantine approximation, number theory | Littlewood conjecture |
-| [496](https://www.erdosproblems.com/496) | No | solved | no | ? | number theory, diophantine approximation |  |
-| [497](https://www.erdosproblems.com/497) | No | solved | no | ? | combinatorics | Dedekind's problem |
-| [498](https://www.erdosproblems.com/498) | No | solved | no | ? | combinatorics, analysis | strong Littlewood-Offord problem |
-| [499](https://www.erdosproblems.com/499) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | ? | combinatorics |  |
-| [500](https://www.erdosproblems.com/500) | $500 | open | no | ? | graph theory, hypergraphs, turan number |  |
+| [484](https://www.erdosproblems.com/484) | No | solved | no | N/A | number theory, additive combinatorics, ramsey theory |  |
+| [485](https://www.erdosproblems.com/485) | No | solved | no | possible | analysis, polynomials |  |
+| [486](https://www.erdosproblems.com/486) | No | open | no | N/A | number theory, primitive sets |  |
+| [487](https://www.erdosproblems.com/487) | No | solved | no | N/A | number theory |  |
+| [488](https://www.erdosproblems.com/488) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | N/A | number theory |  |
+| [489](https://www.erdosproblems.com/489) | No | open | no | N/A | number theory |  |
+| [490](https://www.erdosproblems.com/490) | No | solved | no | N/A | number theory |  |
+| [491](https://www.erdosproblems.com/491) | No | solved | no | N/A | number theory |  |
+| [492](https://www.erdosproblems.com/492) | No | solved | no | N/A | number theory |  |
+| [493](https://www.erdosproblems.com/493) | No | solved | no | N/A | number theory |  |
+| [494](https://www.erdosproblems.com/494) | No | open | no | N/A | analysis, additive combinatorics |  |
+| [495](https://www.erdosproblems.com/495) | No | open | no | N/A | diophantine approximation, number theory | Littlewood conjecture |
+| [496](https://www.erdosproblems.com/496) | No | solved | no | N/A | number theory, diophantine approximation |  |
+| [497](https://www.erdosproblems.com/497) | No | solved | no | possible | combinatorics | Dedekind's problem |
+| [498](https://www.erdosproblems.com/498) | No | solved | no | N/A | combinatorics, analysis | strong Littlewood-Offord problem |
+| [499](https://www.erdosproblems.com/499) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | N/A | combinatorics |  |
+| [500](https://www.erdosproblems.com/500) | $500 | open | no | possible | graph theory, hypergraphs, turan number |  |
 | [501](https://www.erdosproblems.com/501) | No | open | no | ? | combinatorics, set theory |  |
 | [502](https://www.erdosproblems.com/502) | No | solved | no | ? | geometry, distances |  |
 | [503](https://www.erdosproblems.com/503) | No | open | no | ? | geometry, distances |  |
