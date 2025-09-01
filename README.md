@@ -1,5 +1,5 @@
 # erdosproblems
-A community database for the problems on the [erdosproblems.com](https://www.erdosproblems.com/) site.  We are particularly seeking community contributions regarding the integer sequences associated with these problems, and linking them to the [OEIS](https://oeis.org).
+A community database for the problems on the [erdosproblems.com](https://www.erdosproblems.com/) site.  We are particularly [seeking community contributions regarding the integer sequences associated with these problems](CONTRIBUTING.md#linking-with-the-oeis), and linking them to the [OEIS](https://oeis.org).
 
 The canonical source of truth for this data is the YAML file [data/problems.yaml](data/problems.yaml). The table below is auto-generated from this file.
 
