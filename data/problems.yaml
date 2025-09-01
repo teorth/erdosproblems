@@ -1589,10 +1589,10 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A005279"]
   formalized:
     state: "no"
-    last_update: "2025-08-31"
+    last_update: "2025-09-01"
   tags: ["number theory", "divisors"]
 
 - number: "145"
