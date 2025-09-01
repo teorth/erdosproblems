@@ -29,7 +29,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory", "additive combinatorics, arithmetic progressions"]
+  tags: ["number theory", "additive combinatorics", "arithmetic progressions"]
 
 - number: "4"
   prize: "$10000"

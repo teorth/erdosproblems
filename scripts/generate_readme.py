@@ -22,6 +22,9 @@ def oeis_link(code: str) -> str:
     else:
         return code   # e.g. "N/A" or any other placeholder
 
+def tags_link(code: str) -> str:
+    return f"[{code}](https://www.erdosproblems.com/tags/{code.replace(' ', '%20')})"
+
 def formalized_link(number:str, code: str) -> str:
     if code == "yes":
         return md_link("yes", f"https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/{number}.lean")
@@ -33,7 +36,7 @@ def build_table(rows):
     lines = [header]
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"
-        tags = ", ".join(s for s in r.get("tags", [])) or "?"
+        tags = ", ".join(tags_link(s) for s in r.get("tags", [])) or "?"
         status = r["status"]["state"]
         rid = num_link(r["number"])
         prize = r.get("prize", "?")
