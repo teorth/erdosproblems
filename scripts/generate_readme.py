@@ -38,6 +38,16 @@ def count_possible_oeis(rows):
         if any("possible" in entry for entry in r.get("oeis", []))
     )
 
+def count_rows_with_oeis_id(rows):
+    """
+    Count rows whose 'oeis' list contains at least one entry
+    that is exactly an OEIS ID of the form A\\d{6}.
+    """
+    return sum(
+        1 for r in rows
+        if any(re.fullmatch(r"A\d{6}", s) for s in r.get("oeis", []))
+    )
+
 def count_formalized_yes(rows):
     """
     Count how many rows have formalized.state == "yes".
@@ -122,7 +132,8 @@ def build_table(rows):
     lines.append(f"- {count_decidable(rows)} have been reduced to a finite computation.")
     lines.append(f"- {count_falsifiable(rows)} are open, but can be disproven by a finite computation if false.")
     lines.append(f"- {count_verifiable(rows)} are open, but can be proven by a finite computation if true.")
-    lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
+    lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
+    lines.append(f"- {count_rows_with_oeis_id(rows)} are known to be related to at least one OEIS sequence.")
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an OEIS sequence not already listed.")
     lines.append("\n")
     lines.append(header)
