@@ -13,7 +13,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 |---|---|---|---|---|---|---|
 | [1](https://www.erdosproblems.com/1) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1.lean) | [A276661](https://oeis.org/A276661) | number theory, additive combinatorics |  |
 | [2](https://www.erdosproblems.com/2) | $1000 | solved | no | N/A | number theory, covering systems |  |
-| [3](https://www.erdosproblems.com/3) | $5000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/3.lean) | possible (e.g., r_3(N)) | number theory, additive combinatorics, arithmetic progressions |  |
+| [3](https://www.erdosproblems.com/3) | $5000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/3.lean) | possible | number theory, additive combinatorics, arithmetic progressions |  |
 | [4](https://www.erdosproblems.com/4) | $10000 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/4.lean) | [A002386](https://oeis.org/A002386) | number theory, primes |  |
 | [5](https://www.erdosproblems.com/5) | no | open | no | N/A | number theory, primes |  |
 | [6](https://www.erdosproblems.com/6) | $100 | solved | no | N/A | number theory, primes |  |
@@ -375,7 +375,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [362](https://www.erdosproblems.com/362) | no | solved | no | possible | number theory |  |
 | [363](https://www.erdosproblems.com/363) | no | solved | no | N/A | number theory |  |
 | [364](https://www.erdosproblems.com/364) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
-| [365](https://www.erdosproblems.com/365) | no | open | no | [A060355](https://oeis.org/A060355) | number theory | falsifiable |
+| [365](https://www.erdosproblems.com/365) | no | falsifiable | no | [A060355](https://oeis.org/A060355) | number theory |  |
 | [366](https://www.erdosproblems.com/366) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
 | [367](https://www.erdosproblems.com/367) | no | open | no | possible | number theory |  |
 | [368](https://www.erdosproblems.com/368) | no | open | no | [A074399](https://oeis.org/A074399) | number theory |  |
