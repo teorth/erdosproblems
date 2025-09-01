@@ -5,6 +5,11 @@ on:
     branches: [ main ]
     paths:
       - "data/**"
+  workflow_run:
+    workflows: ["Update from Formal Conjectures"]
+    types:
+      - completed
+    branches: [main]
 
 permissions:
   contents: write
