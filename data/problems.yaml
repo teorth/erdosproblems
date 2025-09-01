@@ -1334,7 +1334,8 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
-  oeis: ["A028391", "A013928", "A372306", "A373319", "A372306", "A373178", "A360659", "A373114", "A143301"]
+  oeis: ["A028391", "A013928", "A372306", "A373319", "A372306", "A373178", "A360659",
+    "A373114", "A143301"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1631,7 +1632,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A076393","possible"]
+  oeis: ["A076393", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3595,8 +3596,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-01"
   tags: ["number theory", "additive basis"]
 
 - number: "327"
@@ -4389,8 +4390,8 @@
     last_update: "2025-08-31"
   oeis: ["A146968"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-01"
   comments: "Brocard-Ramanujan conjecture"
   tags: ["number theory", "factorials"]
 
@@ -4522,8 +4523,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-01"
   tags: ["number theory", "iterated functions"]
 
 - number: "411"
@@ -10362,8 +10363,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-01"
   tags: ["number theory"]
 
 - number: "940"
@@ -10891,8 +10892,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "other"
-    last_update: "2025-08-31"
+    state: "no"
+    last_update: "2025-09-01"
   comments: "Proof formalized"
   tags: ["analysis", "discrepancy"]
 
