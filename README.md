@@ -124,7 +124,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [111](https://www.erdosproblems.com/111) | No | open | no | N/A | graph theory, chromatic number, set theory |  |
 | [112](https://www.erdosproblems.com/112) | No | open | no | possible | graph theory, ramsey theory |  |
 | [113](https://www.erdosproblems.com/113) | $500 | solved | no | N/A | graph theory, turan number |  |
-| [114](https://www.erdosproblems.com/114) | No | open | no | N/A | polynomials, analysis |  |
+| [114](https://www.erdosproblems.com/114) | No | open | no | N/A | polynomials, analysis | falsifiable |
 | [115](https://www.erdosproblems.com/115) | No | solved | no | N/A | polynomials, analysis |  |
 | [116](https://www.erdosproblems.com/116) | No | solved | no | N/A | polynomials, analysis |  |
 | [117](https://www.erdosproblems.com/117) | No | open | no | possible | group theory |  |
@@ -374,9 +374,9 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [361](https://www.erdosproblems.com/361) | No | open | no | possible | number theory |  |
 | [362](https://www.erdosproblems.com/362) | No | solved | no | possible | number theory |  |
 | [363](https://www.erdosproblems.com/363) | No | solved | no | N/A | number theory |  |
-| [364](https://www.erdosproblems.com/364) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
-| [365](https://www.erdosproblems.com/365) | No | open | no | [A060355](https://oeis.org/A060355) | number theory |  |
-| [366](https://www.erdosproblems.com/366) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | number theory |  |
+| [364](https://www.erdosproblems.com/364) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | number theory | verifiable |
+| [365](https://www.erdosproblems.com/365) | No | open | no | [A060355](https://oeis.org/A060355) | number theory | falsifiable |
+| [366](https://www.erdosproblems.com/366) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | number theory | verifiable |
 | [367](https://www.erdosproblems.com/367) | No | open | no | possible | number theory |  |
 | [368](https://www.erdosproblems.com/368) | No | open | no | [A074399](https://oeis.org/A074399) | number theory |  |
 | [369](https://www.erdosproblems.com/369) | No | open | no | N/A | number theory |  |
@@ -485,7 +485,7 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [472](https://www.erdosproblems.com/472) | No | open | no | possible | number theory |  |
 | [473](https://www.erdosproblems.com/473) | No | solved | no | possible | number theory |  |
 | [474](https://www.erdosproblems.com/474) | $100 | solved | no | N/A | set theory, ramsey theory |  |
-| [475](https://www.erdosproblems.com/475) | No | open | no | N/A | number theory, additive combinatorics |  |
+| [475](https://www.erdosproblems.com/475) | No | open | no | N/A | number theory, additive combinatorics | falsifiable |
 | [476](https://www.erdosproblems.com/476) | No | solved | no | N/A | number theory, additive combinatorics |  |
 | [477](https://www.erdosproblems.com/477) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | N/A | number theory |  |
 | [478](https://www.erdosproblems.com/478) | No | open | no | possible | number theory, factorials |  |
@@ -511,106 +511,106 @@ The canonical source of truth for this data is the YAML file [data/problems.yaml
 | [498](https://www.erdosproblems.com/498) | No | solved | no | N/A | combinatorics, analysis | strong Littlewood-Offord problem |
 | [499](https://www.erdosproblems.com/499) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | N/A | combinatorics |  |
 | [500](https://www.erdosproblems.com/500) | $500 | open | no | possible | graph theory, hypergraphs, turan number |  |
-| [501](https://www.erdosproblems.com/501) | No | open | no | ? | combinatorics, set theory |  |
-| [502](https://www.erdosproblems.com/502) | No | solved | no | ? | geometry, distances |  |
-| [503](https://www.erdosproblems.com/503) | No | open | no | ? | geometry, distances |  |
-| [504](https://www.erdosproblems.com/504) | No | solved | no | ? | geometry | Blumenthal's problem |
-| [505](https://www.erdosproblems.com/505) | No | solved | no | ? | geometry | Borsuk's problem |
-| [506](https://www.erdosproblems.com/506) | No | solved | no | ? | geometry |  |
-| [507](https://www.erdosproblems.com/507) | No | open | no | ? | geometry | Heilbronn's triangle problem |
-| [508](https://www.erdosproblems.com/508) | No | open | no | ? | geometry, ramsey theory | Hadwiger-Nelson problem |
-| [509](https://www.erdosproblems.com/509) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/509.lean) | ? | analysis |  |
-| [510](https://www.erdosproblems.com/510) | No | open | no | ? | analysis | Chowla's cosine problem |
-| [511](https://www.erdosproblems.com/511) | No | open | no | ? | analysis |  |
-| [512](https://www.erdosproblems.com/512) | No | solved | no | ? | analysis | Littlewood's conjecture |
-| [513](https://www.erdosproblems.com/513) | No | open | no | ? | analysis |  |
-| [514](https://www.erdosproblems.com/514) | No | open | no | ? | analysis |  |
-| [515](https://www.erdosproblems.com/515) | No | open | no | ? | analysis |  |
-| [516](https://www.erdosproblems.com/516) | No | open | no | ? | analysis |  |
-| [517](https://www.erdosproblems.com/517) | No | open | no | ? | analysis |  |
-| [518](https://www.erdosproblems.com/518) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [519](https://www.erdosproblems.com/519) | No | solved | no | ? | analysis |  |
-| [520](https://www.erdosproblems.com/520) | No | open | no | ? | number theory, probability |  |
-| [521](https://www.erdosproblems.com/521) | No | open | no | ? | analysis, polynomials |  |
-| [522](https://www.erdosproblems.com/522) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/522.lean) | ? | analysis, polynomials, probability |  |
-| [523](https://www.erdosproblems.com/523) | No | solved | no | ? | analysis, probability, polynomials |  |
-| [524](https://www.erdosproblems.com/524) | No | open | no | ? | analysis, probability, polynomials |  |
-| [525](https://www.erdosproblems.com/525) | No | solved | no | ? | analysis, probability, polynomials |  |
-| [526](https://www.erdosproblems.com/526) | No | solved | no | ? | probability, geometry |  |
-| [527](https://www.erdosproblems.com/527) | No | open | no | ? | analysis, probability |  |
-| [528](https://www.erdosproblems.com/528) | No | open | no | ? | geometry |  |
-| [529](https://www.erdosproblems.com/529) | No | open | no | ? | geometry, probability |  |
-| [530](https://www.erdosproblems.com/530) | No | open | no | ? | number theory, sidon sets |  |
-| [531](https://www.erdosproblems.com/531) | No | open | no | ? | number theory, ramsey theory |  |
-| [532](https://www.erdosproblems.com/532) | No | solved | no | ? | number theory, ramsey theory |  |
-| [533](https://www.erdosproblems.com/533) | No | open | no | ? | graph theory |  |
-| [534](https://www.erdosproblems.com/534) | No | solved | no | ? | number theory, intersecting family |  |
-| [535](https://www.erdosproblems.com/535) | No | open | no | ? | number theory |  |
-| [536](https://www.erdosproblems.com/536) | No | open | no | ? | number theory |  |
-| [537](https://www.erdosproblems.com/537) | No | solved | no | ? | number theory |  |
-| [538](https://www.erdosproblems.com/538) | No | open | no | ? | number theory |  |
-| [539](https://www.erdosproblems.com/539) | No | open | no | ? | number theory |  |
-| [540](https://www.erdosproblems.com/540) | No | solved | no | ? | number theory |  |
-| [541](https://www.erdosproblems.com/541) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/541.lean) | ? | number theory |  |
-| [542](https://www.erdosproblems.com/542) | No | solved | no | ? | number theory |  |
-| [543](https://www.erdosproblems.com/543) | No | open | no | ? | number theory, group theory |  |
-| [544](https://www.erdosproblems.com/544) | No | open | no | ? | graph theory, ramsey theory |  |
-| [545](https://www.erdosproblems.com/545) | No | open | no | ? | graph theory, ramsey theory |  |
-| [546](https://www.erdosproblems.com/546) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [547](https://www.erdosproblems.com/547) | No | open | no | ? | graph theory, ramsey theory |  |
-| [548](https://www.erdosproblems.com/548) | No | open | no | ? | graph theory |  |
-| [549](https://www.erdosproblems.com/549) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [550](https://www.erdosproblems.com/550) | No | open | no | ? | graph theory, ramsey theory |  |
-| [551](https://www.erdosproblems.com/551) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [552](https://www.erdosproblems.com/552) | No | open | no | ? | graph theory, ramsey theory |  |
-| [553](https://www.erdosproblems.com/553) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [554](https://www.erdosproblems.com/554) | No | open | no | ? | graph theory, ramsey theory |  |
-| [555](https://www.erdosproblems.com/555) | No | open | no | ? | graph theory, ramsey theory |  |
-| [556](https://www.erdosproblems.com/556) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [557](https://www.erdosproblems.com/557) | No | open | no | ? | graph theory, ramsey theory |  |
-| [558](https://www.erdosproblems.com/558) | No | open | no | ? | graph theory, ramsey theory |  |
-| [559](https://www.erdosproblems.com/559) | No | solved | no | ? | graph theory, ramsey theory |  |
-| [560](https://www.erdosproblems.com/560) | No | open | no | ? | graph theory, ramsey theory |  |
-| [561](https://www.erdosproblems.com/561) | No | open | no | ? | graph theory, ramsey theory |  |
-| [562](https://www.erdosproblems.com/562) | No | open | no | ? | graph theory, ramsey theory, hypergraphs |  |
-| [563](https://www.erdosproblems.com/563) | No | open | no | ? | graph theory, ramsey theory, hypergraphs |  |
-| [564](https://www.erdosproblems.com/564) | $500 | open | no | ? | graph theory, ramsey theory, hypergraphs |  |
-| [565](https://www.erdosproblems.com/565) | No | open | no | ? | graph theory, ramsey theory |  |
-| [566](https://www.erdosproblems.com/566) | No | open | no | ? | graph theory, ramsey theory |  |
-| [567](https://www.erdosproblems.com/567) | No | open | no | ? | graph theory, ramsey theory |  |
-| [568](https://www.erdosproblems.com/568) | No | open | no | ? | graph theory, ramsey theory |  |
-| [569](https://www.erdosproblems.com/569) | No | open | no | ? | graph theory, ramsey theory |  |
-| [570](https://www.erdosproblems.com/570) | No | open | no | ? | graph theory, ramsey theory |  |
-| [571](https://www.erdosproblems.com/571) | No | open | no | ? | graph theory, turan number |  |
-| [572](https://www.erdosproblems.com/572) | No | open | no | ? | graph theory, turan number |  |
-| [573](https://www.erdosproblems.com/573) | No | open | no | ? | graph theory, turan number |  |
-| [574](https://www.erdosproblems.com/574) | No | open | no | ? | graph theory, turan number |  |
-| [575](https://www.erdosproblems.com/575) | No | open | no | ? | graph theory, turan number |  |
-| [576](https://www.erdosproblems.com/576) | No | open | no | ? | graph theory, turan number |  |
-| [577](https://www.erdosproblems.com/577) | No | solved | no | ? | graph theory |  |
-| [578](https://www.erdosproblems.com/578) | No | solved | no | ? | graph theory |  |
-| [579](https://www.erdosproblems.com/579) | No | open | no | ? | graph theory, turan number |  |
-| [580](https://www.erdosproblems.com/580) | No | open | no | ? | graph theory |  |
-| [581](https://www.erdosproblems.com/581) | No | solved | no | ? | graph theory |  |
-| [582](https://www.erdosproblems.com/582) | $100 | solved | no | ? | graph theory, ramsey theory |  |
-| [583](https://www.erdosproblems.com/583) | No | open | no | ? | graph theory |  |
-| [584](https://www.erdosproblems.com/584) | No | open | no | ? | graph theory, cycles |  |
-| [585](https://www.erdosproblems.com/585) | No | open | no | ? | graph theory, cycles |  |
-| [586](https://www.erdosproblems.com/586) | No | solved | no | ? | number theory, covering systems |  |
-| [587](https://www.erdosproblems.com/587) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/587.lean) | ? | number theory |  |
-| [588](https://www.erdosproblems.com/588) | $100 | open | no | ? | geometry |  |
-| [589](https://www.erdosproblems.com/589) | No | open | no | ? | geometry |  |
-| [590](https://www.erdosproblems.com/590) | $250 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/590.lean) | ? | set theory, ramsey theory |  |
-| [591](https://www.erdosproblems.com/591) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/591.lean) | ? | set theory, ramsey theory |  |
-| [592](https://www.erdosproblems.com/592) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/592.lean) | ? | set theory, ramsey theory |  |
-| [593](https://www.erdosproblems.com/593) | $500 | open | no | ? | set theory, graph theory, hypergraphs, chromatic number |  |
-| [594](https://www.erdosproblems.com/594) | No | solved | no | ? | graph theory, set theory |  |
-| [595](https://www.erdosproblems.com/595) | $250 | open | no | ? | graph theory, set theory |  |
-| [596](https://www.erdosproblems.com/596) | No | open | no | ? | graph theory, ramsey theory, set theory |  |
-| [597](https://www.erdosproblems.com/597) | No | open | no | ? | graph theory, ramsey theory, set theory |  |
-| [598](https://www.erdosproblems.com/598) | No | open | no | ? | set theory, ramsey theory |  |
-| [599](https://www.erdosproblems.com/599) | No | solved | no | ? | graph theory, set theory |  |
-| [600](https://www.erdosproblems.com/600) | No | open | no | ? | graph theory |  |
+| [501](https://www.erdosproblems.com/501) | No | open | no | N/A | combinatorics, set theory |  |
+| [502](https://www.erdosproblems.com/502) | No | solved | no | possible | geometry, distances |  |
+| [503](https://www.erdosproblems.com/503) | No | open | no | possible | geometry, distances |  |
+| [504](https://www.erdosproblems.com/504) | No | solved | no | N/A | geometry | Blumenthal's problem |
+| [505](https://www.erdosproblems.com/505) | No | solved | no | possible | geometry | Borsuk's problem |
+| [506](https://www.erdosproblems.com/506) | No | solved | no | possible | geometry |  |
+| [507](https://www.erdosproblems.com/507) | No | open | no | N/A | geometry | Heilbronn's triangle problem |
+| [508](https://www.erdosproblems.com/508) | No | open | no | N/A | geometry, ramsey theory | Hadwiger-Nelson problem |
+| [509](https://www.erdosproblems.com/509) | No | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/509.lean) | N/A | analysis |  |
+| [510](https://www.erdosproblems.com/510) | No | open | no | N/A | analysis | Chowla's cosine problem |
+| [511](https://www.erdosproblems.com/511) | No | open | no | N/A | analysis |  |
+| [512](https://www.erdosproblems.com/512) | No | solved | no | N/A | analysis | Littlewood's conjecture |
+| [513](https://www.erdosproblems.com/513) | No | open | no | N/A | analysis |  |
+| [514](https://www.erdosproblems.com/514) | No | open | no | N/A | analysis |  |
+| [515](https://www.erdosproblems.com/515) | No | open | no | N/A | analysis |  |
+| [516](https://www.erdosproblems.com/516) | No | open | no | N/A | analysis |  |
+| [517](https://www.erdosproblems.com/517) | No | open | no | N/A | analysis |  |
+| [518](https://www.erdosproblems.com/518) | No | solved | no | N/A | graph theory, ramsey theory |  |
+| [519](https://www.erdosproblems.com/519) | No | solved | no | N/A | analysis |  |
+| [520](https://www.erdosproblems.com/520) | No | open | no | N/A | number theory, probability |  |
+| [521](https://www.erdosproblems.com/521) | No | open | no | N/A | analysis, polynomials |  |
+| [522](https://www.erdosproblems.com/522) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/522.lean) | N/A | analysis, polynomials, probability |  |
+| [523](https://www.erdosproblems.com/523) | No | solved | no | N/A | analysis, probability, polynomials |  |
+| [524](https://www.erdosproblems.com/524) | No | open | no | N/A | analysis, probability, polynomials |  |
+| [525](https://www.erdosproblems.com/525) | No | solved | no | possible | analysis, probability, polynomials |  |
+| [526](https://www.erdosproblems.com/526) | No | solved | no | N/A | probability, geometry |  |
+| [527](https://www.erdosproblems.com/527) | No | open | no | N/A | analysis, probability |  |
+| [528](https://www.erdosproblems.com/528) | No | open | no | possible | geometry |  |
+| [529](https://www.erdosproblems.com/529) | No | open | no | N/A | geometry, probability |  |
+| [530](https://www.erdosproblems.com/530) | No | open | no | possible | number theory, sidon sets |  |
+| [531](https://www.erdosproblems.com/531) | No | open | no | possible | number theory, ramsey theory |  |
+| [532](https://www.erdosproblems.com/532) | No | solved | no | N/A | number theory, ramsey theory |  |
+| [533](https://www.erdosproblems.com/533) | No | open | no | N/A | graph theory |  |
+| [534](https://www.erdosproblems.com/534) | No | solved | no | possible | number theory, intersecting family |  |
+| [535](https://www.erdosproblems.com/535) | No | open | no | possible | number theory |  |
+| [536](https://www.erdosproblems.com/536) | No | open | no | possible | number theory |  |
+| [537](https://www.erdosproblems.com/537) | No | solved | no | possible | number theory |  |
+| [538](https://www.erdosproblems.com/538) | No | open | no | N/A | number theory |  |
+| [539](https://www.erdosproblems.com/539) | No | open | no | possible | number theory |  |
+| [540](https://www.erdosproblems.com/540) | No | solved | no | possible | number theory |  |
+| [541](https://www.erdosproblems.com/541) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/541.lean) | N/A | number theory |  |
+| [542](https://www.erdosproblems.com/542) | No | solved | no | N/A | number theory |  |
+| [543](https://www.erdosproblems.com/543) | No | open | no | possible | number theory, group theory |  |
+| [544](https://www.erdosproblems.com/544) | No | open | no | possible | graph theory, ramsey theory |  |
+| [545](https://www.erdosproblems.com/545) | No | open | no | N/A | graph theory, ramsey theory | falsifiable |
+| [546](https://www.erdosproblems.com/546) | No | solved | no | possible | graph theory, ramsey theory |  |
+| [547](https://www.erdosproblems.com/547) | No | open | no | ? | graph theory, ramsey theory | falsifiable |
+| [548](https://www.erdosproblems.com/548) | No | open | no | N/A | graph theory | falsifiable |
+| [549](https://www.erdosproblems.com/549) | No | solved | no | N/A | graph theory, ramsey theory |  |
+| [550](https://www.erdosproblems.com/550) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [551](https://www.erdosproblems.com/551) | No | solved | no | N/A | graph theory, ramsey theory |  |
+| [552](https://www.erdosproblems.com/552) | No | open | no | possible | graph theory, ramsey theory |  |
+| [553](https://www.erdosproblems.com/553) | No | solved | no | possible | graph theory, ramsey theory |  |
+| [554](https://www.erdosproblems.com/554) | No | open | no | possible | graph theory, ramsey theory |  |
+| [555](https://www.erdosproblems.com/555) | No | open | no | possible | graph theory, ramsey theory |  |
+| [556](https://www.erdosproblems.com/556) | No | solved | no | possible | graph theory, ramsey theory |  |
+| [557](https://www.erdosproblems.com/557) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [558](https://www.erdosproblems.com/558) | No | open | no | possible | graph theory, ramsey theory |  |
+| [559](https://www.erdosproblems.com/559) | No | solved | no | possible | graph theory, ramsey theory |  |
+| [560](https://www.erdosproblems.com/560) | No | open | no | possible | graph theory, ramsey theory |  |
+| [561](https://www.erdosproblems.com/561) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [562](https://www.erdosproblems.com/562) | No | open | no | possible | graph theory, ramsey theory, hypergraphs |  |
+| [563](https://www.erdosproblems.com/563) | No | open | no | N/A | graph theory, ramsey theory, hypergraphs |  |
+| [564](https://www.erdosproblems.com/564) | $500 | open | no | possible | graph theory, ramsey theory, hypergraphs |  |
+| [565](https://www.erdosproblems.com/565) | No | open | no | possible | graph theory, ramsey theory |  |
+| [566](https://www.erdosproblems.com/566) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [567](https://www.erdosproblems.com/567) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [568](https://www.erdosproblems.com/568) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [569](https://www.erdosproblems.com/569) | No | open | no | N/A | graph theory, ramsey theory |  |
+| [570](https://www.erdosproblems.com/570) | No | open | no | N/A | graph theory, ramsey theory | falsifiable |
+| [571](https://www.erdosproblems.com/571) | No | open | no | N/A | graph theory, turan number |  |
+| [572](https://www.erdosproblems.com/572) | No | open | no | possible | graph theory, turan number |  |
+| [573](https://www.erdosproblems.com/573) | No | open | no | possible | graph theory, turan number |  |
+| [574](https://www.erdosproblems.com/574) | No | open | no | possible | graph theory, turan number |  |
+| [575](https://www.erdosproblems.com/575) | No | open | no | N/A | graph theory, turan number |  |
+| [576](https://www.erdosproblems.com/576) | No | open | no | possible | graph theory, turan number |  |
+| [577](https://www.erdosproblems.com/577) | No | solved | no | N/A | graph theory |  |
+| [578](https://www.erdosproblems.com/578) | No | solved | no | N/A | graph theory |  |
+| [579](https://www.erdosproblems.com/579) | No | open | no | N/A | graph theory, turan number |  |
+| [580](https://www.erdosproblems.com/580) | No | open | no | N/A | graph theory | falsifiable |
+| [581](https://www.erdosproblems.com/581) | No | solved | no | possible | graph theory |  |
+| [582](https://www.erdosproblems.com/582) | $100 | solved | no | N/A | graph theory, ramsey theory |  |
+| [583](https://www.erdosproblems.com/583) | No | open | no | N/A | graph theory | falsifiable |
+| [584](https://www.erdosproblems.com/584) | No | open | no | N/A | graph theory, cycles |  |
+| [585](https://www.erdosproblems.com/585) | No | open | no | possible | graph theory, cycles |  |
+| [586](https://www.erdosproblems.com/586) | No | solved | no | N/A | number theory, covering systems |  |
+| [587](https://www.erdosproblems.com/587) | No | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/587.lean) | possible | number theory |  |
+| [588](https://www.erdosproblems.com/588) | $100 | open | no | possible | geometry |  |
+| [589](https://www.erdosproblems.com/589) | No | open | no | possible | geometry |  |
+| [590](https://www.erdosproblems.com/590) | $250 | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/590.lean) | N/A | set theory, ramsey theory |  |
+| [591](https://www.erdosproblems.com/591) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/591.lean) | N/A | set theory, ramsey theory |  |
+| [592](https://www.erdosproblems.com/592) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/592.lean) | N/A | set theory, ramsey theory |  |
+| [593](https://www.erdosproblems.com/593) | $500 | open | no | N/A | set theory, graph theory, hypergraphs, chromatic number |  |
+| [594](https://www.erdosproblems.com/594) | No | solved | no | N/A | graph theory, set theory |  |
+| [595](https://www.erdosproblems.com/595) | $250 | open | no | N/A | graph theory, set theory |  |
+| [596](https://www.erdosproblems.com/596) | No | open | no | N/A | graph theory, ramsey theory, set theory |  |
+| [597](https://www.erdosproblems.com/597) | No | open | no | N/A | graph theory, ramsey theory, set theory |  |
+| [598](https://www.erdosproblems.com/598) | No | open | no | N/A | set theory, ramsey theory |  |
+| [599](https://www.erdosproblems.com/599) | No | solved | no | N/A | graph theory, set theory | Erdős-Menger conjecture |
+| [600](https://www.erdosproblems.com/600) | No | open | no | possible | graph theory |  |
 | [601](https://www.erdosproblems.com/601) | $500 | open | no | ? | graph theory, set theory |  |
 | [602](https://www.erdosproblems.com/602) | No | open | no | ? | combinatorics, set theory | Property B |
 | [603](https://www.erdosproblems.com/603) | No | open | no | ? | combinatorics, set theory |  |
