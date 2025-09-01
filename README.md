@@ -6,6 +6,8 @@ The table below is auto-generated from the YAML file [data/problems.yaml](data/p
 - To propose changes, open a PR editing [data/problems.yaml](data/problems.yaml).
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and field definitions.
 
+For further discussion of this project, see [this blog post](https://terrytao.wordpress.com/2025/08/31/a-crowdsourced-project-to-link-up-erdosproblems-com-to-the-oeis/) (from Sep 1, 2025).
+
 ## Table
 
 <!-- TABLE:START -->

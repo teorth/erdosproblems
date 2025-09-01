@@ -11,7 +11,7 @@ To make an edit to the [main table](README.md#table) of this repository:
 3. Open a [Pull Request](https://github.com/teorth/erdosproblems/pulls).  (Once the request is accepted, this will automatically regenerate the [main table](README.md#table).  Do not edit the table directly - any such edits will be overridden by this automatic regeneration.) Feel free to use the comment field of the pull request to describe your methodology (e.g., links to code).
 4. If there is additional mathematical context that you could give concerning your edit, consider also adding a comment to the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
 
-If you are uncertain as to whether an edit is appropriate, or are unable to make a pull request, you are welcome to open an issue on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
+If you are uncertain as to whether an edit is appropriate, or are unable to make a pull request, you are welcome to [open an issue](https://github.com/teorth/erdosproblems/issues) on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site; you can also join the discussion at [this blog post for the project](https://terrytao.wordpress.com/2025/08/31/a-crowdsourced-project-to-link-up-erdosproblems-com-to-the-oeis/).
 
 ## Sample template
 
