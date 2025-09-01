@@ -39,10 +39,10 @@ If you are uncertain as to whether an edit is appropriate, or are unable to make
   - "verifiable": the problem is open, but if true, can be proven with a finitary example.
   - "decidable": the problem is both falsifiable and verifiable, but not yet solved.
   - "open": the problem is open and is not known to be either falsifiable or verifiable.
-- **formalized**: the formalization status of the problem (in a formal proof assistant such as Lean), as of the **last_update**.  The main values of **state** are:
-  - "yes": the problem has been formalized in the [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures).
-  - "no": if no formalization exists.
-  - "other": the problem is formalized, but in another location than the formal conjectures repository.  Details should appear in **comments** or in the [erdosproblems.com](https://www.erdosproblems.com) page.
+- **formalized**: the formalization status of the problem in [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures), as of the **last_update**.  The main values of **state** are:
+  - "yes": the problem has been formalized in the formal conjectures repository.
+  - "no": if no formalization exists in that repository.
+  If the problem is formalized in a different location than the formal conjectures repository, this should be noted in **comments** instead (as the **formalized** field is automatically updated).
 - **oeis**: a list of integer sequences (stored as strings of [OEIS numbers](https://oeis.org/)) relevant to the problem, ignoring extremely well known sequences (such as the sequence of primes).  Additional strings include
   - "possible": there may be a theoretically computable sequence associated to the problem that is in the OEIS, but it needs enough values actually computed that one can cross-check with that database.
   - "submitted": a sequence associated to the problem has been generated to a satisfactory length; it was not in the OEIS, but has been submitted.  **Important note**: please adhere to all the OEIS guidelines when considering submitting a new sequence there.  For instance, one should avoid submissions that are primarily AI-generated and not reviewed carefully by a human.
