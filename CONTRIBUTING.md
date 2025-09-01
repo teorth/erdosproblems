@@ -36,7 +36,7 @@ If you are uncertain as to whether an edit is appropriate, or are unable to make
 - **status**: the logical status of the problem, as of the **last_update**, stored as a string.  The main values of **state** are:
   - "proved": the problem has been solved in the affirmative.  If the proof has been formalized in a proof assistant (such as Lean), this is indicated in parentheses.
   - "disproved": the problem has been solved in the negative.  If the disproof has been formalized in a proof assistant (such as Lean), this is indicated in parentheses.
-  - "solved": the problem is satisfactorialy resolved in some other fashion than a proof or disproof (this can occur for more open-ended questions that are not phrased in a yes-no fashion, or for multi-part questions that haved affirmative answers to some parts but negative answers to others).
+  - "solved": the problem is satisfactorily resolved in some other fashion than a proof or disproof (this can occur for more open-ended questions that are not phrased in a yes-no fashion, or for multi-part questions that haved affirmative answers to some parts but negative answers to others). If the solution has been formalized in a proof assistant (such as Lean), this is indicated in parentheses.
   - "falsifiable": the problem is open, but if false, can be disproven with a finitary counterexample.
   - "verifiable": the problem is open, but if true, can be proven with a finitary example.
   - "decidable": the problem is both falsifiable and verifiable, but not yet solved. (This is rare, but can happen for instance if the problem has somehow been reduced to verifying a large but finite number of cases.)
