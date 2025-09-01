@@ -18,8 +18,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true.
 - 595 are completely open.
 - 152 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 59 are known to be related to at least one OEIS sequence.
-- 390 are potentially related to an OEIS sequence not already listed.
+- 60 are known to be related to at least one OEIS sequence.
+- 389 are potentially related to an OEIS sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -113,7 +113,7 @@ There are 992 problems in total, of which
 | [87](https://www.erdosproblems.com/87) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [88](https://www.erdosproblems.com/88) | $100 | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [89](https://www.erdosproblems.com/89) | $500 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | Erdős distance problem |
-| [90](https://www.erdosproblems.com/90) | $500 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | unit distance problem |
+| [90](https://www.erdosproblems.com/90) | $500 | open | no | [A186705](https://oeis.org/A186705) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | unit distance problem |
 | [91](https://www.erdosproblems.com/91) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [92](https://www.erdosproblems.com/92) | $500 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [93](https://www.erdosproblems.com/93) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
