@@ -38,11 +38,93 @@ def count_possible_oeis(rows):
         if any("possible" in entry for entry in r.get("oeis", []))
     )
 
+def count_formalized_yes(rows):
+    """
+    Count how many rows have formalized.state == "yes".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("formalized", {}).get("state", "").lower() == "yes"
+    )
+
+def count_proved(rows):
+    """
+    Count how many rows have status == "proved".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower()  == "proved"
+    )
+
+def count_proved_lean(rows):
+    """
+    Count how many rows have status == "proved (Lean)".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower()  == "proved (lean)"
+    )
+
+def count_disproved(rows):
+    """
+    Count how many rows have status == "disproved".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower()  == "disproved"
+    )
+
+def count_solved(rows):
+    """
+    Count how many rows have status == "solved".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "solved"
+    )
+
+def count_decidable(rows):
+    """
+    Count how many rows have status == "decidable".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "decidable"
+    )
+
+def count_falsifiable(rows):
+    """
+    Count how many rows have status == "falsifiable".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "falsifiable"
+    )
+
+def count_verifiable(rows):
+    """
+    Count how many rows have status == "verifiable".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "verifiable"
+    )
+
+
+
 def build_table(rows):
     header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
     lines = []
-    possible_count = count_possible_oeis(rows)
-    lines.append(f"There are {len(rows)} problems in total, of which {possible_count} are potentially related to an OEIS sequence not already listed.\n")
+    lines.append(f"There are {len(rows)} problems in total, of which")
+    lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved (with {count_proved_lean(rows)} of these proofs formalized in Lean).")
+    lines.append(f"- {count_disproved(rows)} have been disproved.")
+    lines.append(f"- {count_solved(rows)} have been otherwise solved.")
+    lines.append(f"- {count_decidable(rows)} have been reduced to a finite computation.")
+    lines.append(f"- {count_falsifiable(rows)} are open, but can be disproven by a finite computation if false.")
+    lines.append(f"- {count_verifiable(rows)} are open, but can be proven by a finite computation if true.")
+    lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
+    lines.append(f"- {count_possible_oeis(rows)} are potentially related to an OEIS sequence not already listed.")
+    lines.append("\n")
     lines.append(header)
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"

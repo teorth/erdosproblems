@@ -9,7 +9,16 @@ The table below is auto-generated from the YAML file [data/problems.yaml](data/p
 ## Table
 
 <!-- TABLE:START -->
-There are 992 problems in total, of which 390 are potentially related to an OEIS sequence not already listed.
+There are 992 problems in total, of which
+- 232 have been proved (with 2 of these proofs formalized in Lean).
+- 79 have been disproved.
+- 38 have been otherwise solved.
+- 5 have been reduced to a finite computation.
+- 35 are open, but can be disproven by a finite computation if false.
+- 7 are open, but can be proven by a finite computation if true.
+- 152 have their statements formalized in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 390 are potentially related to an OEIS sequence not already listed.
+
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
 |---|---|---|---|---|---|---|
