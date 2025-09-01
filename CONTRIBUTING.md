@@ -1,15 +1,17 @@
 # Contributing
 
-Edits and contributions to this table are very welcome, particularly with regards to the OEIS column!
+Edits and contributions to this table are very welcome, particularly with regards to the OEIS column, as [discussed below](#linking-with-the-oeis).
 
 ## Quickstart (editing via GitHub UI)
 
-1. Open `data/problems.yaml`.
-2. Click **Edit** and add or modify an entry, as per the sample template below.  Only the **number** field is mandatory; omit any field for which you have no information.
+To make an edit to the main table of this repository:
+
+1. Open [data/problems.yaml](data/problems.yaml).
+2. Click **Edit** (or the edit icon ✏️) and add or modify an entry, as per the sample template below.  Only the **number** field is mandatory; omit any field for which you have no information.
 3. Open a Pull Request.
 4. If there is additional mathematical context that you could give concerning your edit, consider also adding a comment to the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
 
-If you are uncertain as to whether an edit is appropriate, you are welcome to open an issue on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
+If you are uncertain as to whether an edit is appropriate, or are unable to make a pull request, you are welcome to open an issue on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
 
 ## Sample template
 
@@ -30,8 +32,8 @@ If you are uncertain as to whether an edit is appropriate, you are welcome to op
 ## Notes on template fields
 
 - **number**: The number of the problem in the [erdosproblems.com](https://www.erdosproblems.com) database. Stored as a string.
-- **prize**: use "no" if no prize given, or the currency amount otherwise.
-- **status**: the known status of the problem, as of the **last_update**.  The main values of **state** are:
+- **prize**: use "no" if no prize given, or the currency amount otherwise. Stored as a string.
+- **status**: the known status of the problem, as of the **last_update**, stored as a string.  The main values of **state** are:
   - "solved": the problem is proved, disproved, or otherwise satisfactorily resolved.
   - "falsifiable": the problem is open, but if false, can be disproven with a finitary counterexample.
   - "verifiable": the problem is open, but if true, can be proven with a finitary example.
@@ -41,9 +43,9 @@ If you are uncertain as to whether an edit is appropriate, you are welcome to op
   - "yes": the problem has been formalized in the [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures)
   - "no": if no formalization exists.
   - "other": the problem is formalized, but in another location than the formal conjectures repository.  Details should appear in **comments** or in the [erdosproblems.com](https://www.erdosproblems.com) page.
-- **oeis**: a list of integer sequences (stored as [OEIS](https://oeis.org/) strings) relevant to the problem, ignoring extremely well known sequences (such as the sequence of primes).  Additional strings include
-  - "possible": There may be a theoretically computable sequence associated to the problem that is in the OEIS, but it needs enough values actually computed that one can cross-check with that database.
-  - "submitted": A sequence associated to the problem has been generated to a satisfactory length; it was not in the OEIS, but has been submitted.  **Important note**: please adhere to all the OEIS guidelines when considering submitting a new sequence there.  For instance, one should avoid submissions that are primarily AI-generated and not reviewed carefully by a human.
+- **oeis**: a list of integer sequences (stored as strings of [OEIS numbers](https://oeis.org/)) relevant to the problem, ignoring extremely well known sequences (such as the sequence of primes).  Additional strings include
+  - "possible": there may be a theoretically computable sequence associated to the problem that is in the OEIS, but it needs enough values actually computed that one can cross-check with that database.
+  - "submitted": a sequence associated to the problem has been generated to a satisfactory length; it was not in the OEIS, but has been submitted.  **Important note**: please adhere to all the OEIS guidelines when considering submitting a new sequence there.  For instance, one should avoid submissions that are primarily AI-generated and not reviewed carefully by a human.
   - "N/A": it does not appear that there is an obvious sequence to attach to this problem.  (This status may be updated if new developments create a previously unknown connection to an integer sequence.)
 
   Note that it is possible for multiple sequences to be associated to a single problem.  For instance, if the problem involves a function $r_k(N)$ of two parameters $k,N$, it may be of interest to use specific choices of one parameter, e.g., $k=1,2,3$, as examples of sequences associated to the problem.  Note also that the classification of a problem as having a "possible" OEIS sequence or not may be based on a cursory reading of the problem, and can be subject to revision.
