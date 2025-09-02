@@ -21,8 +21,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 594 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 90 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 365 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 93 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 364 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -434,10 +434,10 @@ There are 992 problems in total, of which
 | [405](https://www.erdosproblems.com/405) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [406](https://www.erdosproblems.com/406) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/406.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
 | [407](https://www.erdosproblems.com/407) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [408](https://www.erdosproblems.com/408) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [408](https://www.erdosproblems.com/408) | no | open | no | [A049108](https://oeis.org/A049108) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [409](https://www.erdosproblems.com/409) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/409.lean) | [A039651](https://oeis.org/A039651) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
-| [410](https://www.erdosproblems.com/410) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/410.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
-| [411](https://www.erdosproblems.com/411) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [410](https://www.erdosproblems.com/410) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/410.lean) | [A007497](https://oeis.org/A007497), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [411](https://www.erdosproblems.com/411) | no | open | no | [A383044](https://oeis.org/A383044), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [412](https://www.erdosproblems.com/412) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/412.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [413](https://www.erdosproblems.com/413) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [414](https://www.erdosproblems.com/414) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
