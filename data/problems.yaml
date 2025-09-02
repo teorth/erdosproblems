@@ -1567,7 +1567,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A003002", "A003003", "A003004", "A003005"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2208,7 +2208,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A005115"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2417,7 +2417,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A005115", "A113827", "A123556"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
