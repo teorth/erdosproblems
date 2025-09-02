@@ -113,7 +113,7 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["A001220"]
+  oeis: ["A001220","A377587"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -3963,6 +3963,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments : "segmented numbers"
   tags: ["number theory"]
 
 - number: "360"
@@ -6478,7 +6479,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A372040"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
