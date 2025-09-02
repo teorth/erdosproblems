@@ -13,13 +13,13 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 992 problems in total, of which
 - 94 are attached to a monetary prize.
-- 232 have been proved (with 2 of these proofs formalized in Lean).
+- 233 have been proved (with 2 of these proofs formalized in Lean).
 - 79 have been disproved (with 1 of these disproofs formalized in Lean).
 - 38 have been otherwise solved.
 - 5 are open, but have been reduced to a finite computation. (decidable)
 - 35 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
-- 595 are completely open.
+- 594 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 78 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 376 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -285,7 +285,7 @@ There are 992 problems in total, of which
 | [256](https://www.erdosproblems.com/256) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [257](https://www.erdosproblems.com/257) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/257.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [258](https://www.erdosproblems.com/258) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/258.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [259](https://www.erdosproblems.com/259) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/259.lean) | [A371134](https://oeis.org/A371134) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [259](https://www.erdosproblems.com/259) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/259.lean) | [A371134](https://oeis.org/A371134) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [260](https://www.erdosproblems.com/260) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [261](https://www.erdosproblems.com/261) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [262](https://www.erdosproblems.com/262) | no | solved | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
