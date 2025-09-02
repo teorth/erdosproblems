@@ -21,8 +21,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 594 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 84 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 370 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 88 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 367 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -69,7 +69,7 @@ There are 992 problems in total, of which
 | [40](https://www.erdosproblems.com/40) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/40.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [41](https://www.erdosproblems.com/41) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/41.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [42](https://www.erdosproblems.com/42) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [43](https://www.erdosproblems.com/43) | $100 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [43](https://www.erdosproblems.com/43) | $100 | open | no | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [44](https://www.erdosproblems.com/44) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/44.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [45](https://www.erdosproblems.com/45) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [46](https://www.erdosproblems.com/46) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
@@ -181,8 +181,8 @@ There are 992 problems in total, of which
 | [152](https://www.erdosproblems.com/152) | no | open | no | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [153](https://www.erdosproblems.com/153) | no | open | no | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [154](https://www.erdosproblems.com/154) | no | proved | no | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [155](https://www.erdosproblems.com/155) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/155.lean) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [156](https://www.erdosproblems.com/156) | no | open | no | possible | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [155](https://www.erdosproblems.com/155) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/155.lean) | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [156](https://www.erdosproblems.com/156) | no | open | no | [A382397](https://oeis.org/A382397) | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [157](https://www.erdosproblems.com/157) | no | proved | no | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [158](https://www.erdosproblems.com/158) | no | open | no | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [159](https://www.erdosproblems.com/159) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
@@ -887,7 +887,7 @@ There are 992 problems in total, of which
 | [858](https://www.erdosproblems.com/858) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [859](https://www.erdosproblems.com/859) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [860](https://www.erdosproblems.com/860) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [861](https://www.erdosproblems.com/861) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [861](https://www.erdosproblems.com/861) | no | solved | no | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022), [A143823](https://oeis.org/A143823) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [862](https://www.erdosproblems.com/862) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [863](https://www.erdosproblems.com/863) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [864](https://www.erdosproblems.com/864) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
