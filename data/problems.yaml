@@ -7385,10 +7385,11 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A003035","A006065","A008997","possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "orchard problems"
   tags: ["geometry"]
 
 - number: "670"
