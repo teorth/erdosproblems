@@ -9370,7 +9370,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A003016", "A003015", "A059233", "A098565", "A090162", "A180058", "A182237"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
