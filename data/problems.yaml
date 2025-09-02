@@ -2858,7 +2858,7 @@
   prize: "no"
   status:
     state: "proved"
-    last_update: "2025-08-31"
+    last_update: "2025-09-02"
   oeis: ["A371134"]
   formalized:
     state: "yes"
