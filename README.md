@@ -20,7 +20,7 @@ There are 992 problems in total, of which
 - 35 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 595 are completely open.
-- 155 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 156 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 65 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 385 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
@@ -295,7 +295,7 @@ There are 992 problems in total, of which
 | [266](https://www.erdosproblems.com/266) | no | disproved | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [267](https://www.erdosproblems.com/267) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/267.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [268](https://www.erdosproblems.com/268) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [269](https://www.erdosproblems.com/269) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [269](https://www.erdosproblems.com/269) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/269.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [270](https://www.erdosproblems.com/270) | no | disproved | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [271](https://www.erdosproblems.com/271) | no | open | no | [A005487](https://oeis.org/A005487) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [272](https://www.erdosproblems.com/272) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
