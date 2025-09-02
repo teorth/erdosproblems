@@ -21,8 +21,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 594 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 89 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 366 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 90 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 365 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -151,7 +151,7 @@ There are 992 problems in total, of which
 | [122](https://www.erdosproblems.com/122) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [123](https://www.erdosproblems.com/123) | $250 | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [124](https://www.erdosproblems.com/124) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
-| [125](https://www.erdosproblems.com/125) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
+| [125](https://www.erdosproblems.com/125) | no | open | no | [A367090](https://oeis.org/A367090) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
 | [126](https://www.erdosproblems.com/126) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/126.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [127](https://www.erdosproblems.com/127) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [128](https://www.erdosproblems.com/128) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
