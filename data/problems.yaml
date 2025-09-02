@@ -2857,7 +2857,7 @@
 - number: "259"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   oeis: ["A371134"]
   formalized:
