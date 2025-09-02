@@ -21,7 +21,7 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 595 are completely open.
 - 155 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 64 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 65 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 385 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
@@ -695,7 +695,7 @@ There are 992 problems in total, of which
 | [666](https://www.erdosproblems.com/666) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [667](https://www.erdosproblems.com/667) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [668](https://www.erdosproblems.com/668) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [669](https://www.erdosproblems.com/669) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [669](https://www.erdosproblems.com/669) | no | open | no | [A003035](https://oeis.org/A003035), [A006065](https://oeis.org/A006065), [A008997](https://oeis.org/A008997), possible | [geometry](https://www.erdosproblems.com/tags/geometry) | orchard problems |
 | [670](https://www.erdosproblems.com/670) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [671](https://www.erdosproblems.com/671) | $250 | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [672](https://www.erdosproblems.com/672) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
