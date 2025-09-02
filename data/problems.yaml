@@ -2980,7 +2980,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A073016"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9570,7 +9570,7 @@
 - number: "867"
   prize: "no"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
