@@ -20,7 +20,7 @@ There are 992 problems in total, of which
 - 35 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 595 are completely open.
-- 156 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 65 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 385 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
@@ -970,7 +970,7 @@ There are 992 problems in total, of which
 | [941](https://www.erdosproblems.com/941) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [942](https://www.erdosproblems.com/942) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/942.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [943](https://www.erdosproblems.com/943) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/943.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [944](https://www.erdosproblems.com/944) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [944](https://www.erdosproblems.com/944) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/944.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [945](https://www.erdosproblems.com/945) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/945.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [946](https://www.erdosproblems.com/946) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [947](https://www.erdosproblems.com/947) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
