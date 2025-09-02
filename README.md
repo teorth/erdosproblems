@@ -21,8 +21,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 594 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 88 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 367 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 89 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 366 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -411,7 +411,7 @@ There are 992 problems in total, of which
 | [382](https://www.erdosproblems.com/382) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [383](https://www.erdosproblems.com/383) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/383.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [384](https://www.erdosproblems.com/384) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
-| [385](https://www.erdosproblems.com/385) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [385](https://www.erdosproblems.com/385) | no | open | no | [A322292](https://oeis.org/A322292) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [386](https://www.erdosproblems.com/386) | no | open | no | [A280992](https://oeis.org/A280992) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [387](https://www.erdosproblems.com/387) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [388](https://www.erdosproblems.com/388) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
