@@ -48,6 +48,18 @@ def count_rows_with_oeis_id(rows):
         if any(re.fullmatch(r"A\d{6}", s) for s in r.get("oeis", []))
     )
 
+def count_possible_and_id(rows):
+    """
+    Count rows whose 'oeis' list contains BOTH
+    - at least one entry with substring 'possible'
+    - at least one entry matching A\\d{6}
+    """
+    return sum(
+        1 for r in rows
+        if any("possible" in entry for entry in r.get("oeis", []))
+        and any(re.fullmatch(r"A\d{6}", s) for s in r.get("oeis", []))
+    )
+
 def count_formalized_yes(rows):
     """
     Count how many rows have formalized.state == "yes".
@@ -153,16 +165,19 @@ def build_table(rows):
     lines = []
     lines.append(f"There are {len(rows)} problems in total, of which")
     lines.append(f"- {count_prize(rows)} are attached to a monetary prize.")
-    lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved (with {count_proved_lean(rows)} of these proofs formalized in Lean).")
-    lines.append(f"- {count_disproved(rows)+count_disproved_lean(rows) } have been disproved (with {count_disproved_lean(rows)} of these disproofs formalized in Lean).")
+    lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved.")
+    lines.append(f"  - {count_proved_lean(rows)} of these proofs have been formalized in [Lean](https://lean-lang.org/).")
+    lines.append(f"- {count_disproved(rows)+count_disproved_lean(rows) } have been disproved.")
+    lines.append(f"  - {count_disproved_lean(rows)} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
     lines.append(f"- {count_solved(rows)} have been otherwise solved.")
     lines.append(f"- {count_decidable(rows)} are open, but have been reduced to a finite computation. (decidable)")
     lines.append(f"- {count_falsifiable(rows)} are open, but can be disproven by a finite computation if false. (falsifiable)")
     lines.append(f"- {count_verifiable(rows)} are open, but can be proven by a finite computation if true. (verifiable)")
     lines.append(f"- {count_open(rows)} are completely open.")
-    lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
+    lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
     lines.append(f"- {count_rows_with_oeis_id(rows)} are known to be related to at least one [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
+    lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
     lines.append("\n")
     lines.append(header)
     for r in rows:
