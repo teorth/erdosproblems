@@ -21,8 +21,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 595 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 75 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 378 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 76 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 377 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -197,7 +197,7 @@ There are 992 problems in total, of which
 | [168](https://www.erdosproblems.com/168) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/168.lean) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [169](https://www.erdosproblems.com/169) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [170](https://www.erdosproblems.com/170) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sparse ruler problem |
-| [171](https://www.erdosproblems.com/171) | no | proved | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | density Hales-Jewett |
+| [171](https://www.erdosproblems.com/171) | no | proved | no | [A156989](https://oeis.org/A156989) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | density Hales-Jewett |
 | [172](https://www.erdosproblems.com/172) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [173](https://www.erdosproblems.com/173) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [174](https://www.erdosproblems.com/174) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
