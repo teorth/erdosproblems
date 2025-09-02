@@ -13,8 +13,10 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 992 problems in total, of which
 - 94 are attached to a monetary prize.
-- 233 have been proved (with 2 of these proofs formalized in Lean).
-- 80 have been disproved (with 1 of these disproofs formalized in Lean).
+- 233 have been proved.
+  - 2 of these proofs have been formalized in Lean.
+- 80 have been disproved.
+  - 1 of these disproofs have been formalized in Lean.
 - 38 have been otherwise solved.
 - 5 are open, but have been reduced to a finite computation. (decidable)
 - 35 are open, but can be disproven by a finite computation if false. (falsifiable)
@@ -23,6 +25,7 @@ There are 992 problems in total, of which
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 94 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 364 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 358 of these are not currently linked to any existing OEIS sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
