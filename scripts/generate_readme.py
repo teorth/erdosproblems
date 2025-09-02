@@ -84,6 +84,15 @@ def count_disproved(rows):
         if r.get("status", {}).get("state", "").lower()  == "disproved"
     )
 
+def count_disproved_lean(rows):
+    """
+    Count how many rows have status == "disproved (Lean)".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower()  == "disproved (lean)"
+    )
+
 def count_solved(rows):
     """
     Count how many rows have status == "solved".
@@ -145,7 +154,7 @@ def build_table(rows):
     lines.append(f"There are {len(rows)} problems in total, of which")
     lines.append(f"- {count_prize(rows)} are attached to a monetary prize.")
     lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved (with {count_proved_lean(rows)} of these proofs formalized in Lean).")
-    lines.append(f"- {count_disproved(rows)} have been disproved.")
+    lines.append(f"- {count_disproved(rows)+count_disproved_lean(rows) } have been disproved (with {count_disproved_lean(rows)} of these disproofs formalized in Lean).")
     lines.append(f"- {count_solved(rows)} have been otherwise solved.")
     lines.append(f"- {count_decidable(rows)} are open, but have been reduced to a finite computation. (decidable)")
     lines.append(f"- {count_falsifiable(rows)} are open, but can be disproven by a finite computation if false. (falsifiable)")
