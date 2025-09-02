@@ -113,7 +113,7 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["A001220","A377587"]
+  oeis: ["A001220", "A377587"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2971,8 +2971,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-02"
   tags: ["irrationality"]
 
 - number: "270"
@@ -3963,7 +3963,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments : "segmented numbers"
+  comments: "segmented numbers"
   tags: ["number theory"]
 
 - number: "360"
@@ -7385,7 +7385,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A003035","A006065","A008997","possible"]
+  oeis: ["A003035", "A006065", "A008997", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
