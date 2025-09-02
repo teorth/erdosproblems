@@ -21,8 +21,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 595 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 70 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 381 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 74 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 378 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -95,7 +95,7 @@ There are 992 problems in total, of which
 | [66](https://www.erdosproblems.com/66) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/66.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [67](https://www.erdosproblems.com/67) | $500 | proved | no | [A181740](https://oeis.org/A181740), [A237695](https://oeis.org/A237695) | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) | Erdős discrepancy problem |
 | [68](https://www.erdosproblems.com/68) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/68.lean) | [A331373](https://oeis.org/A331373) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [69](https://www.erdosproblems.com/69) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/69.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [69](https://www.erdosproblems.com/69) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/69.lean) | [A262153](https://oeis.org/A262153) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [70](https://www.erdosproblems.com/70) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [71](https://www.erdosproblems.com/71) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [72](https://www.erdosproblems.com/72) | $100 | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
@@ -276,16 +276,16 @@ There are 992 problems in total, of which
 | [247](https://www.erdosproblems.com/247) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/247.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [248](https://www.erdosproblems.com/248) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/248.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [249](https://www.erdosproblems.com/249) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/249.lean) | [A256936](https://oeis.org/A256936) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [250](https://www.erdosproblems.com/250) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/250.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [250](https://www.erdosproblems.com/250) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/250.lean) | [A066766](https://oeis.org/A066766) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [251](https://www.erdosproblems.com/251) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/251.lean) | [A098990](https://oeis.org/A098990) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [252](https://www.erdosproblems.com/252) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [252](https://www.erdosproblems.com/252) | no | open | no | [A227988](https://oeis.org/A227988), [A227989](https://oeis.org/A227989), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [253](https://www.erdosproblems.com/253) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [254](https://www.erdosproblems.com/254) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [255](https://www.erdosproblems.com/255) | no | proved | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [256](https://www.erdosproblems.com/256) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [257](https://www.erdosproblems.com/257) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/257.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [258](https://www.erdosproblems.com/258) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/258.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [259](https://www.erdosproblems.com/259) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/259.lean) | possible | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [259](https://www.erdosproblems.com/259) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/259.lean) | [A371134](https://oeis.org/A371134) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [260](https://www.erdosproblems.com/260) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [261](https://www.erdosproblems.com/261) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [262](https://www.erdosproblems.com/262) | no | solved | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
