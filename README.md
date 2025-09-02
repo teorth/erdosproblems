@@ -21,8 +21,8 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 594 are completely open.
 - 157 have their statements formalized in Lean in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 83 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 371 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 84 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 370 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -1012,7 +1012,7 @@ There are 992 problems in total, of which
 | [983](https://www.erdosproblems.com/983) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [984](https://www.erdosproblems.com/984) | no | proved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [985](https://www.erdosproblems.com/985) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [986](https://www.erdosproblems.com/986) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [986](https://www.erdosproblems.com/986) | no | open | no | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [987](https://www.erdosproblems.com/987) | no | proved (Lean) | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [988](https://www.erdosproblems.com/988) | no | solved | no | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [989](https://www.erdosproblems.com/989) | no | solved | no | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
