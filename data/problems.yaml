@@ -4920,7 +4920,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A074738"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
