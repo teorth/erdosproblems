@@ -214,10 +214,11 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A332077"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "sunflower conjecture"
   tags: ["combinatorics"]
 
 - number: "21"
