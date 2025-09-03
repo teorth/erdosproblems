@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 102 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 103 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 363 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 354 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 353 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -130,7 +130,7 @@ There are 992 problems in total, of which
 | [98](https://www.erdosproblems.com/98) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [99](https://www.erdosproblems.com/99) | $100 | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [100](https://www.erdosproblems.com/100) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [101](https://www.erdosproblems.com/101) | $100 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [101](https://www.erdosproblems.com/101) | $100 | open | no | [A006065](https://oeis.org/A006065), possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [102](https://www.erdosproblems.com/102) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [103](https://www.erdosproblems.com/103) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [104](https://www.erdosproblems.com/104) | $100 | open | no | [A003829](https://oeis.org/A003829) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
