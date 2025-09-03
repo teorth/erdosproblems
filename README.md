@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 99 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 366 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 357 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 100 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 365 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 356 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -78,7 +78,7 @@ There are 992 problems in total, of which
 | [46](https://www.erdosproblems.com/46) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [47](https://www.erdosproblems.com/47) | $100 | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [48](https://www.erdosproblems.com/48) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/48.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [49](https://www.erdosproblems.com/49) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [49](https://www.erdosproblems.com/49) | no | proved | no | [A365339](https://oeis.org/A365339), [A365474](https://oeis.org/A365474) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [50](https://www.erdosproblems.com/50) | $250 | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [51](https://www.erdosproblems.com/51) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [52](https://www.erdosproblems.com/52) | $250 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sum-product problem |
