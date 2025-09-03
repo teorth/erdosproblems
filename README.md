@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 101 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 364 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 355 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 102 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 363 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 354 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -777,7 +777,7 @@ There are 992 problems in total, of which
 | [745](https://www.erdosproblems.com/745) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [746](https://www.erdosproblems.com/746) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [747](https://www.erdosproblems.com/747) | no | solved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
-| [748](https://www.erdosproblems.com/748) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Cameron-Erdős conjecture |
+| [748](https://www.erdosproblems.com/748) | no | proved | no | [A007865](https://oeis.org/A007865) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Cameron-Erdős conjecture |
 | [749](https://www.erdosproblems.com/749) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [750](https://www.erdosproblems.com/750) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [751](https://www.erdosproblems.com/751) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
