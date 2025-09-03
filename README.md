@@ -13,7 +13,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 992 problems in total, of which
 - 94 are attached to a monetary prize.
-- 233 have been proved.
+- 234 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 80 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -1009,7 +1009,7 @@ There are 992 problems in total, of which
 | [977](https://www.erdosproblems.com/977) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [978](https://www.erdosproblems.com/978) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [979](https://www.erdosproblems.com/979) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [980](https://www.erdosproblems.com/980) | no | solprovedved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [980](https://www.erdosproblems.com/980) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [981](https://www.erdosproblems.com/981) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [982](https://www.erdosproblems.com/982) | no | falsifiable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [983](https://www.erdosproblems.com/983) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
