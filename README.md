@@ -23,7 +23,7 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 94 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 95 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 365 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 359 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
@@ -475,7 +475,7 @@ There are 992 problems in total, of which
 | [443](https://www.erdosproblems.com/443) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [444](https://www.erdosproblems.com/444) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [445](https://www.erdosproblems.com/445) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [446](https://www.erdosproblems.com/446) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [446](https://www.erdosproblems.com/446) | no | solved | no | [A074738](https://oeis.org/A074738) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [447](https://www.erdosproblems.com/447) | no | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [448](https://www.erdosproblems.com/448) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [449](https://www.erdosproblems.com/449) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
