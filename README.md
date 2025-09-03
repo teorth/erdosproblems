@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 103 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 363 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 353 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 104 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 362 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 352 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -247,7 +247,7 @@ There are 992 problems in total, of which
 | [215](https://www.erdosproblems.com/215) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [216](https://www.erdosproblems.com/216) | no | disproved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [217](https://www.erdosproblems.com/217) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [218](https://www.erdosproblems.com/218) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/218.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [218](https://www.erdosproblems.com/218) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/218.lean) | [A333230](https://oeis.org/A333230), [A333231](https://oeis.org/A333231), [A064113](https://oeis.org/A064113) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [219](https://www.erdosproblems.com/219) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/219.lean) | [A005115](https://oeis.org/A005115), [A113827](https://oeis.org/A113827), [A123556](https://oeis.org/A123556) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [primes](https://www.erdosproblems.com/tags/primes), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) | Green-Tao theorem |
 | [220](https://www.erdosproblems.com/220) | $500 | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [221](https://www.erdosproblems.com/221) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
