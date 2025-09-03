@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 100 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 365 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 356 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 101 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 364 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 355 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -49,7 +49,7 @@ There are 992 problems in total, of which
 | [17](https://www.erdosproblems.com/17) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/17.lean) | [A038133](https://oeis.org/A038133) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | cluster primes |
 | [18](https://www.erdosproblems.com/18) | no | open | no | [A005153](https://oeis.org/A005153) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors), [factorials](https://www.erdosproblems.com/tags/factorials) | practical numbers |
 | [19](https://www.erdosproblems.com/19) | $500 | decidable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [20](https://www.erdosproblems.com/20) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/20.lean) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [20](https://www.erdosproblems.com/20) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/20.lean) | [A332077](https://oeis.org/A332077) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | sunflower conjecture |
 | [21](https://www.erdosproblems.com/21) | $500 | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [22](https://www.erdosproblems.com/22) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [23](https://www.erdosproblems.com/23) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
