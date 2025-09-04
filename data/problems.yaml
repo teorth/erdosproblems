@@ -7542,7 +7542,7 @@
   status:
     state: "open"
     last_update: "2025-09-04"
-  oeis: ["A006530", "possible"]
+  oeis: ["A006530", "A074399", "A121359", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
