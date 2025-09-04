@@ -112,7 +112,7 @@ There are 992 problems in total, of which
 | [80](https://www.erdosproblems.com/80) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [81](https://www.erdosproblems.com/81) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [82](https://www.erdosproblems.com/82) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [83](https://www.erdosproblems.com/83) | $500 | proved | no | [A071799](https://oeis.org/A071799) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [83](https://www.erdosproblems.com/83) | $500 | proved | no | [A071799](https://oeis.org/A071799), submitted | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [84](https://www.erdosproblems.com/84) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [85](https://www.erdosproblems.com/85) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [86](https://www.erdosproblems.com/86) | $100 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
