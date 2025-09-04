@@ -24,8 +24,8 @@ There are 992 problems in total, of which
 - 593 are completely open.
 - 160 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 112 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 353 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 343 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 352 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 342 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -198,7 +198,7 @@ There are 992 problems in total, of which
 | [166](https://www.erdosproblems.com/166) | $250 | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [167](https://www.erdosproblems.com/167) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [168](https://www.erdosproblems.com/168) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/168.lean) | [A004059](https://oeis.org/A004059), [A057561](https://oeis.org/A057561) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [169](https://www.erdosproblems.com/169) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
+| [169](https://www.erdosproblems.com/169) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [170](https://www.erdosproblems.com/170) | no | open | no | [A046693](https://oeis.org/A046693) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sparse ruler problem |
 | [171](https://www.erdosproblems.com/171) | no | proved | no | [A156989](https://oeis.org/A156989) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | density Hales-Jewett |
 | [172](https://www.erdosproblems.com/172) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
