@@ -912,7 +912,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["A071799"]
+  oeis: ["A071799", "submitted"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
