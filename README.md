@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 160 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 112 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 352 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 342 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 114 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 351 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 340 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -712,7 +712,7 @@ There are 992 problems in total, of which
 | [680](https://www.erdosproblems.com/680) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [681](https://www.erdosproblems.com/681) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [682](https://www.erdosproblems.com/682) | no | proved | no | [A386978](https://oeis.org/A386978) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [683](https://www.erdosproblems.com/683) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [683](https://www.erdosproblems.com/683) | no | open | no | [A006530](https://oeis.org/A006530), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [684](https://www.erdosproblems.com/684) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [685](https://www.erdosproblems.com/685) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [686](https://www.erdosproblems.com/686) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -957,7 +957,7 @@ There are 992 problems in total, of which
 | [925](https://www.erdosproblems.com/925) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [926](https://www.erdosproblems.com/926) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [927](https://www.erdosproblems.com/927) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [928](https://www.erdosproblems.com/928) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [928](https://www.erdosproblems.com/928) | no | open | no | [A006530](https://oeis.org/A006530) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [929](https://www.erdosproblems.com/929) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [930](https://www.erdosproblems.com/930) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [931](https://www.erdosproblems.com/931) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/931.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
