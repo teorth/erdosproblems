@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 160 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 109 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 356 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 346 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 111 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 354 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 344 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -445,8 +445,8 @@ There are 992 problems in total, of which
 | [413](https://www.erdosproblems.com/413) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [414](https://www.erdosproblems.com/414) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [415](https://www.erdosproblems.com/415) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [416](https://www.erdosproblems.com/416) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/416.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [417](https://www.erdosproblems.com/417) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [416](https://www.erdosproblems.com/416) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/416.lean) | [A264810](https://oeis.org/A264810) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [417](https://www.erdosproblems.com/417) | no | open | no | [A264810](https://oeis.org/A264810), [A061070](https://oeis.org/A061070) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [418](https://www.erdosproblems.com/418) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/418.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [419](https://www.erdosproblems.com/419) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [420](https://www.erdosproblems.com/420) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
