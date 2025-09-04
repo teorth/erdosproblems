@@ -10321,8 +10321,8 @@
   prize: "no"
   status:
     state: "open"
-    last_update: "2025-08-31"
-  oeis: ["possible"]
+    last_update: "2025-09-04"
+  oeis: ["A057521", possible]
   formalized:
     state: "no"
     last_update: "2025-08-31"
