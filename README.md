@@ -24,8 +24,8 @@ There are 992 problems in total, of which
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 107 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 359 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 349 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 358 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 348 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -206,7 +206,7 @@ There are 992 problems in total, of which
 | [174](https://www.erdosproblems.com/174) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [175](https://www.erdosproblems.com/175) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [176](https://www.erdosproblems.com/176) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
-| [177](https://www.erdosproblems.com/177) | no | open | no | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
+| [177](https://www.erdosproblems.com/177) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [178](https://www.erdosproblems.com/178) | no | proved | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [179](https://www.erdosproblems.com/179) | no | proved | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [180](https://www.erdosproblems.com/180) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
