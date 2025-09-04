@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 158 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 106 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 360 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 350 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 107 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 359 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 349 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -526,7 +526,7 @@ There are 992 problems in total, of which
 | [494](https://www.erdosproblems.com/494) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [495](https://www.erdosproblems.com/495) | no | open | no | N/A | [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation), [number theory](https://www.erdosproblems.com/tags/number%20theory) | Littlewood conjecture |
 | [496](https://www.erdosproblems.com/496) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
-| [497](https://www.erdosproblems.com/497) | no | solved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | Dedekind's problem |
+| [497](https://www.erdosproblems.com/497) | no | solved | no | [A000372](https://oeis.org/A000372) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | Dedekind's problem |
 | [498](https://www.erdosproblems.com/498) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [analysis](https://www.erdosproblems.com/tags/analysis) | strong Littlewood-Offord problem |
 | [499](https://www.erdosproblems.com/499) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [500](https://www.erdosproblems.com/500) | $500 | open | no | [A140462](https://oeis.org/A140462) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
