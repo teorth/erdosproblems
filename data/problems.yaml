@@ -4590,10 +4590,10 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A264810"]
   formalized:
     state: "yes"
-    last_update: "2025-08-31"
+    last_update: "2025-09-04"
   tags: ["number theory"]
 
 - number: "417"
