@@ -185,7 +185,6 @@ def build_table(rows):
     lines.append(f"- {count_rows_with_oeis_id(rows)} are known to be related to at least one [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
     lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
-    lines.append(f"- {count_rows_with_oeis_id(rows)} are known to be related to at least one [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_submitted_oeis(rows)} have a related sequence currently being submitted to the [OEIS](https://oeis.org/).")
     lines.append("\n")
     lines.append(header)
