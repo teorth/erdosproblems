@@ -22,7 +22,7 @@ There are 992 problems in total, of which
 - 35 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
-- 163 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 164 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 116 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 351 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 339 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -283,7 +283,7 @@ There are 992 problems in total, of which
 | [250](https://www.erdosproblems.com/250) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/250.lean) | [A066766](https://oeis.org/A066766) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [251](https://www.erdosproblems.com/251) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/251.lean) | [A098990](https://oeis.org/A098990) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [252](https://www.erdosproblems.com/252) | no | open | no | [A227988](https://oeis.org/A227988), [A227989](https://oeis.org/A227989), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [253](https://www.erdosproblems.com/253) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [253](https://www.erdosproblems.com/253) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/253.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [254](https://www.erdosproblems.com/254) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [255](https://www.erdosproblems.com/255) | no | proved | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [256](https://www.erdosproblems.com/256) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
