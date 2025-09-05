@@ -26,6 +26,8 @@ There are 992 problems in total, of which
 - 116 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 351 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 339 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 116 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 2 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -964,7 +966,7 @@ There are 992 problems in total, of which
 | [932](https://www.erdosproblems.com/932) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/932.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [933](https://www.erdosproblems.com/933) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [934](https://www.erdosproblems.com/934) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [935](https://www.erdosproblems.com/935) | no | open | no | [A057521](https://oeis.org/A057521), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [935](https://www.erdosproblems.com/935) | no | open | no | [A057521](https://oeis.org/A057521), possible, submitted | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [936](https://www.erdosproblems.com/936) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/936.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [937](https://www.erdosproblems.com/937) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [938](https://www.erdosproblems.com/938) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/938.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
