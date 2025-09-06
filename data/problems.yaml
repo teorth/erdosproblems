@@ -4491,7 +4491,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["possible", "submitted"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
