@@ -2672,7 +2672,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A073101", "A075245", "A075246", "A075247", "A075248"]
+  oeis: ["A073101", "A075245", "A075246", "A075247", "A075248", "A287116"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2796,8 +2796,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-05"
   tags: ["number theory"]
 
 - number: "254"
@@ -3907,8 +3907,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-05"
   tags: ["number theory"]
 
 - number: "355"
@@ -3985,8 +3985,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-05"
   tags: ["number theory"]
 
 - number: "362"
@@ -4491,7 +4491,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["possible", "submitted"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9075,7 +9075,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A121048","A155085"]
+  oeis: ["A121048", "A155085"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9398,8 +9398,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-05"
   tags: ["number theory"]
 
 - number: "852"
@@ -9959,7 +9959,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A362137"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
