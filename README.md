@@ -19,9 +19,9 @@ There are 993 problems in total, of which
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 38 have been otherwise solved.
 - 5 are open, but have been reduced to a finite computation. (decidable)
-- 35 are open, but can be disproven by a finite computation if false. (falsifiable)
+- 36 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
-- 593 are completely open.
+- 592 are completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 118 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1023,5 +1023,5 @@ There are 993 problems in total, of which
 | [990](https://www.erdosproblems.com/990) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [991](https://www.erdosproblems.com/991) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [992](https://www.erdosproblems.com/992) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
-| [993](https://www.erdosproblems.com/993) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [993](https://www.erdosproblems.com/993) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 <!-- TABLE:END -->
