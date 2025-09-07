@@ -10959,7 +10959,7 @@
 - number: "993"
   prize: "no"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-09-07"
   formalized:
     state: "no"
