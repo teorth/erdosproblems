@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 164 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 116 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 351 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 339 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 117 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 338 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -932,7 +932,7 @@ There are 992 problems in total, of which
 | [899](https://www.erdosproblems.com/899) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/899.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [900](https://www.erdosproblems.com/900) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [901](https://www.erdosproblems.com/901) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
-| [902](https://www.erdosproblems.com/902) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [902](https://www.erdosproblems.com/902) | no | open | no | [A362137](https://oeis.org/A362137) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [903](https://www.erdosproblems.com/903) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [904](https://www.erdosproblems.com/904) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [905](https://www.erdosproblems.com/905) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
