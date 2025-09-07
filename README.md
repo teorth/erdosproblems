@@ -11,17 +11,17 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 993 problems in total, of which
+There are 1002 problems in total, of which
 - 94 are attached to a monetary prize.
-- 235 have been proved.
+- 237 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 80 have been disproved.
+- 81 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 38 have been otherwise solved.
+- 39 have been otherwise solved.
 - 5 are open, but have been reduced to a finite computation. (decidable)
 - 36 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
-- 592 are completely open.
+- 597 are completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 118 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1024,4 +1024,13 @@ There are 993 problems in total, of which
 | [991](https://www.erdosproblems.com/991) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [992](https://www.erdosproblems.com/992) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [993](https://www.erdosproblems.com/993) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [994](https://www.erdosproblems.com/994) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
+| [995](https://www.erdosproblems.com/995) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
+| [996](https://www.erdosproblems.com/996) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [997](https://www.erdosproblems.com/997) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [998](https://www.erdosproblems.com/998) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [999](https://www.erdosproblems.com/999) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [1000](https://www.erdosproblems.com/1000) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [1001](https://www.erdosproblems.com/1001) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [1002](https://www.erdosproblems.com/1002) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 <!-- TABLE:END -->
