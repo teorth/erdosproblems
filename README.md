@@ -11,7 +11,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 992 problems in total, of which
+There are 993 problems in total, of which
 - 94 are attached to a monetary prize.
 - 234 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
@@ -21,11 +21,11 @@ There are 992 problems in total, of which
 - 5 are open, but have been reduced to a finite computation. (decidable)
 - 35 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
-- 593 are completely open.
+- 594 are completely open.
 - 164 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 118 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 349 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 337 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 338 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -1023,4 +1023,5 @@ There are 992 problems in total, of which
 | [990](https://www.erdosproblems.com/990) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [991](https://www.erdosproblems.com/991) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [992](https://www.erdosproblems.com/992) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
+| [993](https://www.erdosproblems.com/993) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 <!-- TABLE:END -->
