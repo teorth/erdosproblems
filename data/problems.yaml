@@ -10967,7 +10967,7 @@
   oeis: ["possible"]
   tags: ["graph theory"]
 
-  - number: "994"
+- number: "994"
   prize: "no"
   status:
     state: "disproved"
@@ -10978,7 +10978,7 @@
   oeis: ["N/A"]
   tags: ["analysis", "discrepancy"]
 
-  - number: "995"
+- number: "995"
   prize: "no"
   status:
     state: "open"
@@ -10989,7 +10989,7 @@
   oeis: ["N/A"]
   tags: ["analysis", "discrepancy"]
 
-  - number: "996"
+- number: "996"
   prize: "no"
   status:
     state: "open"
@@ -11000,7 +11000,7 @@
   oeis: ["N/A"]
   tags: ["analysis"]
 
-  - number: "997"
+- number: "997"
   prize: "no"
   status:
     state: "open"
@@ -11011,7 +11011,7 @@
   oeis: ["N/A"]
   tags: ["analysis", "discrepancy", "primes"]
 
-  - number: "998"
+- number: "998"
   prize: "no"
   status:
     state: "proved"
@@ -11022,7 +11022,7 @@
   oeis: ["N/A"]
   tags: ["analysis", "diophantine approximation"]
 
-  - number: "999"
+- number: "999"
   prize: "no"
   status:
     state: "proved"
@@ -11033,7 +11033,7 @@
   oeis: ["N/A"]
   tags: ["number theory", "diophantine approximation"]
 
-  - number: "1000"
+- number: "1000"
   prize: "no"
   status:
     state: "open"
@@ -11044,7 +11044,7 @@
   oeis: ["N/A"]
   tags: ["number theory", "diophantine approximation"]
 
-    - number: "1001"
+- number: "1001"
   prize: "no"
   status:
     state: "solved"
@@ -11055,7 +11055,7 @@
   oeis: ["N/A"]
   tags: ["number theory", "diophantine approximation"]
 
-    - number: "1002"
+- number: "1002"
   prize: "no"
   status:
     state: "open"
