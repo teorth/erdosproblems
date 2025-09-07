@@ -23,9 +23,9 @@ There are 992 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 593 are completely open.
 - 164 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 117 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 338 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 118 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 349 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 337 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -488,7 +488,7 @@ There are 992 problems in total, of which
 | [455](https://www.erdosproblems.com/455) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [456](https://www.erdosproblems.com/456) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [457](https://www.erdosproblems.com/457) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [458](https://www.erdosproblems.com/458) | no | falsifiable | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [458](https://www.erdosproblems.com/458) | no | falsifiable | no | [A056604](https://oeis.org/A056604) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [459](https://www.erdosproblems.com/459) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [460](https://www.erdosproblems.com/460) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [461](https://www.erdosproblems.com/461) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
