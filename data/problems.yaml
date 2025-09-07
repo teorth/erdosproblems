@@ -11031,6 +11031,7 @@
     state: "no"
     last_update: "2025-09-07"
   oeis: ["N/A"]
+  comments: "Duffin-Schaeffer conjecture"
   tags: ["number theory", "diophantine approximation"]
 
 - number: "1000"
