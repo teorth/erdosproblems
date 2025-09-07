@@ -10955,3 +10955,14 @@
     state: "no"
     last_update: "2025-08-31"
   tags: ["discrepancy"]
+
+- number: "993"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["possible"]
+  tags: ["graph theory"]
