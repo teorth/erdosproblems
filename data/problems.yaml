@@ -10966,3 +10966,102 @@
     last_update: "2025-09-07"
   oeis: ["possible"]
   tags: ["graph theory"]
+
+  - number: "994"
+  prize: "no"
+  status:
+    state: "disproved"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["analysis", "discrepancy"]
+
+  - number: "995"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["analysis", "discrepancy"]
+
+  - number: "996"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+  - number: "997"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["analysis", "discrepancy", "primes"]
+
+  - number: "998"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["analysis", "diophantine approximation"]
+
+  - number: "999"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["number theory", "diophantine approximation"]
+
+  - number: "1000"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["number theory", "diophantine approximation"]
+
+    - number: "1001"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["number theory", "diophantine approximation"]
+
+    - number: "1002"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["N/A"]
+  tags: ["analysis", "diophantine approximation"]
