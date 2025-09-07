@@ -13,7 +13,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 993 problems in total, of which
 - 94 are attached to a monetary prize.
-- 234 have been proved.
+- 235 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 80 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -21,7 +21,7 @@ There are 993 problems in total, of which
 - 5 are open, but have been reduced to a finite computation. (decidable)
 - 35 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
-- 594 are completely open.
+- 593 are completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 118 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -987,7 +987,7 @@ There are 993 problems in total, of which
 | [954](https://www.erdosproblems.com/954) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [955](https://www.erdosproblems.com/955) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [956](https://www.erdosproblems.com/956) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
-| [957](https://www.erdosproblems.com/957) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [957](https://www.erdosproblems.com/957) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [958](https://www.erdosproblems.com/958) | no | disproved | no | N/A | [distances](https://www.erdosproblems.com/tags/distances), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [959](https://www.erdosproblems.com/959) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [960](https://www.erdosproblems.com/960) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
