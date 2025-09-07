@@ -23,9 +23,9 @@ There are 1002 problems in total, of which
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
 - 597 are completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 118 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 338 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 119 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 349 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 337 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -821,7 +821,7 @@ There are 1002 problems in total, of which
 | [788](https://www.erdosproblems.com/788) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [789](https://www.erdosproblems.com/789) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [790](https://www.erdosproblems.com/790) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [791](https://www.erdosproblems.com/791) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [791](https://www.erdosproblems.com/791) | no | open | no | [A066063](https://oeis.org/A066063) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [792](https://www.erdosproblems.com/792) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [793](https://www.erdosproblems.com/793) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [794](https://www.erdosproblems.com/794) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
