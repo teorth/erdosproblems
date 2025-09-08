@@ -497,7 +497,7 @@ There are 1004 problems in total, of which
 | [464](https://www.erdosproblems.com/464) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [465](https://www.erdosproblems.com/465) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [466](https://www.erdosproblems.com/466) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [467](https://www.erdosproblems.com/467) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [467](https://www.erdosproblems.com/467) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Ambiguous statement |
 | [468](https://www.erdosproblems.com/468) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [469](https://www.erdosproblems.com/469) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/469.lean) | [A006036](https://oeis.org/A006036) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [470](https://www.erdosproblems.com/470) | no | open | no | [A006037](https://oeis.org/A006037) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
@@ -692,7 +692,7 @@ There are 1004 problems in total, of which
 | [659](https://www.erdosproblems.com/659) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [660](https://www.erdosproblems.com/660) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [661](https://www.erdosproblems.com/661) | $50 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [662](https://www.erdosproblems.com/662) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [662](https://www.erdosproblems.com/662) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | ambiguous statement |
 | [663](https://www.erdosproblems.com/663) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [664](https://www.erdosproblems.com/664) | no | disproved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [665](https://www.erdosproblems.com/665) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
@@ -936,7 +936,7 @@ There are 1004 problems in total, of which
 | [903](https://www.erdosproblems.com/903) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [904](https://www.erdosproblems.com/904) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [905](https://www.erdosproblems.com/905) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [906](https://www.erdosproblems.com/906) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [906](https://www.erdosproblems.com/906) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) | literature review sought |
 | [907](https://www.erdosproblems.com/907) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [908](https://www.erdosproblems.com/908) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [909](https://www.erdosproblems.com/909) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [topology](https://www.erdosproblems.com/tags/topology) |  |
@@ -1004,7 +1004,7 @@ There are 1004 problems in total, of which
 | [971](https://www.erdosproblems.com/971) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [972](https://www.erdosproblems.com/972) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [973](https://www.erdosproblems.com/973) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [974](https://www.erdosproblems.com/974) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [974](https://www.erdosproblems.com/974) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | ambiguous statement |
 | [975](https://www.erdosproblems.com/975) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [976](https://www.erdosproblems.com/976) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [977](https://www.erdosproblems.com/977) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
