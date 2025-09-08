@@ -5819,8 +5819,8 @@
 - number: "527"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-09-08"
   oeis: ["N/A"]
   formalized:
     state: "no"
