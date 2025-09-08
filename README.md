@@ -24,8 +24,8 @@ There are 1002 problems in total, of which
 - 597 are completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 119 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 349 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 337 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 338 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -805,7 +805,7 @@ There are 1002 problems in total, of which
 | [772](https://www.erdosproblems.com/772) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [773](https://www.erdosproblems.com/773) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [squares](https://www.erdosproblems.com/tags/squares) |  |
 | [774](https://www.erdosproblems.com/774) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [775](https://www.erdosproblems.com/775) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [775](https://www.erdosproblems.com/775) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [776](https://www.erdosproblems.com/776) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [777](https://www.erdosproblems.com/777) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [778](https://www.erdosproblems.com/778) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
