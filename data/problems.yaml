@@ -5156,6 +5156,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Ambiguous statement"
   tags: ["number theory"]
 
 - number: "468"
@@ -7314,6 +7315,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "ambiguous statement"
   tags: ["geometry", "distances"]
 
 - number: "663"
@@ -10007,6 +10009,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "literature review sought"
   tags: ["analysis", "iterated functions"]
 
 - number: "907"
@@ -10756,6 +10759,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "ambiguous statement"
   tags: ["analysis"]
 
 - number: "975"
