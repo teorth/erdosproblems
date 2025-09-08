@@ -2044,7 +2044,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A003142"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -11066,3 +11066,25 @@
     last_update: "2025-09-07"
   oeis: ["N/A"]
   tags: ["analysis", "diophantine approximation"]
+
+- number: "1003"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-08"
+  formalized:
+    state: "no"
+    last_update: "2025-09-08"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1004"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-07"
+  formalized:
+    state: "no"
+    last_update: "2025-09-07"
+  oeis: ["possible"]
+  tags: ["number theory"]
