@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: >
+  If you use this project in your work, please cite it as follows.
+  Authorship is collective: please attribute to "Erdős problems database contributors".
+  The database is maintained by Thomas Bloom and Terence Tao.
+
+title: "Erdős problems database"
+version: 0.1.0
+date-released: 2025-09-01
+
+repository-code: https://github.com/teorth/erdosproblems
+url: https://github.com/teorth/erdosproblems
+
+abstract: >
+  A crowdsourced database of information about the Erdős problems listed at https://www.erdosproblems.com/,
+  such as their formalization status in Lean and their links to sequences in the OEIS.
+  While we plan to coordinate this database with the information at https://www.erdosproblems.com/,
+  the two sites are maintained separately and may occasionally be out of sync with each other.
+
+  Authorship is by the collective contributors.
+  Maintained by Thomas Bloom and Terence Tao.
+  Launched Sep 1, 2025.
+
+keywords:
+  - Erdős problems
+  - Lean
+  - OEIS
+  - crowdsourced
+
+preferred-citation:
+  type: misc
+  title: "Erdős problems database"
+  authors:
+    - name: "Erdős problems database contributors"
+  year: 2025
+  version: 0.1.0
+  url: https://github.com/teorth/erdosproblems
+  notes: >
+    Maintained by Thomas Bloom and Terence Tao.
