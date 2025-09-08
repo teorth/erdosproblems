@@ -13,15 +13,15 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1004 problems in total, of which
 - 94 are attached to a monetary prize.
-- 237 have been proved.
+- 238 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 81 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 39 have been otherwise solved.
-- 5 are open, but have been reduced to a finite computation. (decidable)
-- 36 are open, but can be disproven by a finite computation if false. (falsifiable)
-- 7 are open, but can be proven by a finite computation if true. (verifiable)
-- 599 are completely open.
+- 5 appear to be open, but have been reduced to a finite computation. (decidable)
+- 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 7 appear to be open, but can be proven by a finite computation if true. (verifiable)
+- 598 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 122 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 349 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -557,7 +557,7 @@ There are 1004 problems in total, of which
 | [524](https://www.erdosproblems.com/524) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [525](https://www.erdosproblems.com/525) | no | proved | no | possible | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [526](https://www.erdosproblems.com/526) | no | solved | no | N/A | [probability](https://www.erdosproblems.com/tags/probability), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [527](https://www.erdosproblems.com/527) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [527](https://www.erdosproblems.com/527) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [528](https://www.erdosproblems.com/528) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [529](https://www.erdosproblems.com/529) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [530](https://www.erdosproblems.com/530) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
