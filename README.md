@@ -11,7 +11,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1002 problems in total, of which
+There are 1004 problems in total, of which
 - 94 are attached to a monetary prize.
 - 237 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
@@ -21,11 +21,11 @@ There are 1002 problems in total, of which
 - 5 are open, but have been reduced to a finite computation. (decidable)
 - 36 are open, but can be disproven by a finite computation if false. (falsifiable)
 - 7 are open, but can be proven by a finite computation if true. (verifiable)
-- 597 are completely open.
+- 599 are completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 120 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 349 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 337 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 121 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 338 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -215,7 +215,7 @@ There are 1002 problems in total, of which
 | [182](https://www.erdosproblems.com/182) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [183](https://www.erdosproblems.com/183) | $250 | open | no | [A003323](https://oeis.org/A003323) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [184](https://www.erdosproblems.com/184) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
-| [185](https://www.erdosproblems.com/185) | no | proved | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [185](https://www.erdosproblems.com/185) | no | proved | no | [A003142](https://oeis.org/A003142) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [186](https://www.erdosproblems.com/186) | no | solved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [187](https://www.erdosproblems.com/187) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [188](https://www.erdosproblems.com/188) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
@@ -1033,4 +1033,6 @@ There are 1002 problems in total, of which
 | [1000](https://www.erdosproblems.com/1000) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1001](https://www.erdosproblems.com/1001) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1002](https://www.erdosproblems.com/1002) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [1003](https://www.erdosproblems.com/1003) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1004](https://www.erdosproblems.com/1004) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 <!-- TABLE:END -->
