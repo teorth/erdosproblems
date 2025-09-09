@@ -23,9 +23,9 @@ There are 1004 problems in total, of which
 - 7 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 598 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 124 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 125 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 347 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 335 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 334 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -923,7 +923,7 @@ There are 1004 problems in total, of which
 | [890](https://www.erdosproblems.com/890) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [891](https://www.erdosproblems.com/891) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [892](https://www.erdosproblems.com/892) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
-| [893](https://www.erdosproblems.com/893) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [893](https://www.erdosproblems.com/893) | no | open | no | [A046801](https://oeis.org/A046801), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [894](https://www.erdosproblems.com/894) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [895](https://www.erdosproblems.com/895) | no | proved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [896](https://www.erdosproblems.com/896) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
