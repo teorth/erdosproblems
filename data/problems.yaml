@@ -11092,3 +11092,36 @@
     last_update: "2025-09-07"
   oeis: ["possible"]
   tags: ["number theory"]
+
+- number: "1005"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-09"
+  formalized:
+    state: "no"
+    last_update: "2025-09-09"
+  oeis: ["submitted"]
+  tags: ["number theory"]
+
+- number: "1006"
+  prize: "no"
+  status:
+    state: "falsifiable"
+    last_update: "2025-09-09"
+  formalized:
+    state: "no"
+    last_update: "2025-09-09"
+  oeis: ["N/A"]
+  tags: ["graph theory", "cycles"]
+
+- number: "1007"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-09-09"
+  formalized:
+    state: "no"
+    last_update: "2025-09-09"
+  oeis: ["N/A"]
+  tags: ["graph theory"]
