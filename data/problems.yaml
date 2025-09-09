@@ -5156,7 +5156,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "Ambiguous statement"
+  comments: "ambiguous statement"
   tags: ["number theory"]
 
 - number: "468"

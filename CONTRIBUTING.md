@@ -54,7 +54,9 @@ If you are uncertain as to whether an edit is appropriate, or are unable to make
   - "N/A": it does not appear that there is an obvious sequence to attach to this problem.  (This status may be updated if new developments create a previously unknown connection to an integer sequence.)
 
   Note that it is possible for multiple sequences to be associated to a single problem.  Note also that the classification of a problem as having a "possible" OEIS sequence or not may be based on a cursory reading of the problem, and can be subject to revision.
-- **comments**: Miscellaneous comments on the problem, for instance describing other names given to the problem.
+- **comments**: Miscellaneous comments on the problem, for instance describing other names given to the problem, as well as the following specific comments:
+  - "ambiguous statement": there is some uncertainty as to what the intended statement of the problem is, often because the literal wording of the statement is easily provable or disprovable or does not match the context of the problem.
+  - "literature review sought": we suspect that the literature review on this problem is incomplete, and would welcome any assistance in finding relevant references.
 - **tags**: the tags associated to the problem from the [erdosproblems.com](https://www.erdosproblems.com) database. Stored as a list of strings.
 
 ## Linking with the OEIS
