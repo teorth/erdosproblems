@@ -497,7 +497,7 @@ There are 1004 problems in total, of which
 | [464](https://www.erdosproblems.com/464) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [465](https://www.erdosproblems.com/465) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [466](https://www.erdosproblems.com/466) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [467](https://www.erdosproblems.com/467) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Ambiguous statement |
+| [467](https://www.erdosproblems.com/467) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | ambiguous statement |
 | [468](https://www.erdosproblems.com/468) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [469](https://www.erdosproblems.com/469) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/469.lean) | [A006036](https://oeis.org/A006036) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [470](https://www.erdosproblems.com/470) | no | open | no | [A006037](https://oeis.org/A006037) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
