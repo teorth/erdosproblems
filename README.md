@@ -124,7 +124,7 @@ There are 1016 problems in total, of which
 | [91](https://www.erdosproblems.com/91) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [92](https://www.erdosproblems.com/92) | $500 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [93](https://www.erdosproblems.com/93) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
-| [94](https://www.erdosproblems.com/94) | £25 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
+| [94](https://www.erdosproblems.com/94) | £25 | open | no | [A387858](https://oeis.org/A387858) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [95](https://www.erdosproblems.com/95) | $500 | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [96](https://www.erdosproblems.com/96) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [97](https://www.erdosproblems.com/97) | $100 | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
@@ -137,7 +137,7 @@ There are 1016 problems in total, of which
 | [104](https://www.erdosproblems.com/104) | $100 | open | no | [A003829](https://oeis.org/A003829) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [105](https://www.erdosproblems.com/105) | $50 | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [106](https://www.erdosproblems.com/106) | no | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [107](https://www.erdosproblems.com/107) | $500 | falsifiable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
+| [107](https://www.erdosproblems.com/107) | $500 | falsifiable | no | [A000051](https://oeis.org/A000051) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
 | [108](https://www.erdosproblems.com/108) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [109](https://www.erdosproblems.com/109) | no | proved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | Erdős sumset conjecture |
 | [110](https://www.erdosproblems.com/110) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
