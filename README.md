@@ -137,7 +137,7 @@ There are 1016 problems in total, of which
 | [104](https://www.erdosproblems.com/104) | $100 | open | no | [A003829](https://oeis.org/A003829) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [105](https://www.erdosproblems.com/105) | $50 | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [106](https://www.erdosproblems.com/106) | no | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [107](https://www.erdosproblems.com/107) | $500 | falsifiable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
+| [107](https://www.erdosproblems.com/107) | $500 | falsifiable | no | [A000051](https://oeis.org/A000051) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
 | [108](https://www.erdosproblems.com/108) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [109](https://www.erdosproblems.com/109) | no | proved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | Erdős sumset conjecture |
 | [110](https://www.erdosproblems.com/110) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
