@@ -10446,7 +10446,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["A005237"]
+  oeis: ["A005237", "A284783"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
