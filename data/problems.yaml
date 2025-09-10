@@ -11101,7 +11101,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-09"
-  oeis: ["submitted"]
+  oeis: ["A386893"]
   tags: ["number theory"]
 
 - number: "1006"
