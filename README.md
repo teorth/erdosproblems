@@ -23,9 +23,9 @@ There are 1016 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 133 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 348 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 334 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 134 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 347 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 333 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -1007,7 +1007,7 @@ There are 1016 problems in total, of which
 | [974](https://www.erdosproblems.com/974) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | ambiguous statement |
 | [975](https://www.erdosproblems.com/975) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [976](https://www.erdosproblems.com/976) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [977](https://www.erdosproblems.com/977) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [977](https://www.erdosproblems.com/977) | no | proved | no | [A005420](https://oeis.org/A005420), [A002583](https://oeis.org/A002583) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [978](https://www.erdosproblems.com/978) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [979](https://www.erdosproblems.com/979) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [980](https://www.erdosproblems.com/980) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
