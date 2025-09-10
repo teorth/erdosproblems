@@ -23,9 +23,9 @@ There are 1016 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 141 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 142 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 327 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -231,7 +231,7 @@ There are 1016 problems in total, of which
 | [198](https://www.erdosproblems.com/198) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/198.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [199](https://www.erdosproblems.com/199) | no | disproved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [200](https://www.erdosproblems.com/200) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/200.lean) | [A005115](https://oeis.org/A005115) | [primes](https://www.erdosproblems.com/tags/primes), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
-| [201](https://www.erdosproblems.com/201) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
+| [201](https://www.erdosproblems.com/201) | no | open | no | [A003002](https://oeis.org/A003002), [A003003](https://oeis.org/A003003), [A003004](https://oeis.org/A003004), [A003005](https://oeis.org/A003005), possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [202](https://www.erdosproblems.com/202) | no | open | no | possible | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [203](https://www.erdosproblems.com/203) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/203.lean) | N/A | [primes](https://www.erdosproblems.com/tags/primes), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [204](https://www.erdosproblems.com/204) | no | disproved | no | N/A | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
