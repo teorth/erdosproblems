@@ -11125,3 +11125,105 @@
     last_update: "2025-09-09"
   oeis: ["N/A"]
   tags: ["graph theory"]
+
+- number: "1008"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  comments: "literature review sought"
+  tags: ["graph theory"]
+
+- number: "1009"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["graph theory"]
+
+- number: "1010"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["graph theory"]
+
+- number: "1011"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  comments: "literature review sought"
+  tags: ["graph theory"]
+
+- number: "1012"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1013"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1014"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1015"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory", "ramsey theory"]
+
+- number: "1016"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-10"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["A105206"]
+  comments: "literature review sought"
+  tags: ["graph theory", "cycles"]
