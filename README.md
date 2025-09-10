@@ -23,10 +23,10 @@ There are 1016 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 130 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 131 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
 - 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 336 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
-- 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
+- 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -1035,7 +1035,7 @@ There are 1016 problems in total, of which
 | [1002](https://www.erdosproblems.com/1002) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1003](https://www.erdosproblems.com/1003) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1004](https://www.erdosproblems.com/1004) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1005](https://www.erdosproblems.com/1005) | no | open | no | submitted | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1005](https://www.erdosproblems.com/1005) | no | open | no | [A386893](https://oeis.org/A386893) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1006](https://www.erdosproblems.com/1006) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [1007](https://www.erdosproblems.com/1007) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1008](https://www.erdosproblems.com/1008) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | literature review sought |
