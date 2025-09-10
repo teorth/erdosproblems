@@ -23,9 +23,9 @@ There are 1007 problems in total, of which
 - 7 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 599 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 125 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 347 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 334 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 126 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 346 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 333 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -918,7 +918,7 @@ There are 1007 problems in total, of which
 | [885](https://www.erdosproblems.com/885) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [886](https://www.erdosproblems.com/886) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [887](https://www.erdosproblems.com/887) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [888](https://www.erdosproblems.com/888) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [squares](https://www.erdosproblems.com/tags/squares) |  |
+| [888](https://www.erdosproblems.com/888) | no | open | no | [A387584](https://oeis.org/A387584) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [squares](https://www.erdosproblems.com/tags/squares) |  |
 | [889](https://www.erdosproblems.com/889) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [890](https://www.erdosproblems.com/890) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [891](https://www.erdosproblems.com/891) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
