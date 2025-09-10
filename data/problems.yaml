@@ -58,7 +58,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A335277"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -135,7 +135,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A002264"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -10844,7 +10844,7 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A004526"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
