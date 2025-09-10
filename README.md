@@ -23,9 +23,9 @@ There are 1007 problems in total, of which
 - 7 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 599 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 126 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 346 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 333 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 127 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 345 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 332 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -240,7 +240,7 @@ There are 1007 problems in total, of which
 | [207](https://www.erdosproblems.com/207) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [208](https://www.erdosproblems.com/208) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/208.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [209](https://www.erdosproblems.com/209) | no | disproved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [210](https://www.erdosproblems.com/210) | no | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [210](https://www.erdosproblems.com/210) | no | proved | no | [A003034](https://oeis.org/A003034) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [211](https://www.erdosproblems.com/211) | $100 | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [212](https://www.erdosproblems.com/212) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/212.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [213](https://www.erdosproblems.com/213) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/213.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
