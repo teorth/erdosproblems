@@ -11,21 +11,21 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1007 problems in total, of which
+There are 1016 problems in total, of which
 - 94 are attached to a monetary prize.
-- 238 have been proved.
+- 239 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 81 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 40 have been otherwise solved.
+- 41 have been otherwise solved.
 - 5 appear to be open, but have been reduced to a finite computation. (decidable)
 - 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 599 appear to be completely open.
+- 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 129 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 345 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 331 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 130 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 350 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 336 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -1038,4 +1038,13 @@ There are 1007 problems in total, of which
 | [1005](https://www.erdosproblems.com/1005) | no | open | no | submitted | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1006](https://www.erdosproblems.com/1006) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [1007](https://www.erdosproblems.com/1007) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1008](https://www.erdosproblems.com/1008) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | literature review sought |
+| [1009](https://www.erdosproblems.com/1009) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1010](https://www.erdosproblems.com/1010) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1011](https://www.erdosproblems.com/1011) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | literature review sought |
+| [1012](https://www.erdosproblems.com/1012) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1013](https://www.erdosproblems.com/1013) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1014](https://www.erdosproblems.com/1014) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1015](https://www.erdosproblems.com/1015) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1016](https://www.erdosproblems.com/1016) | no | open | no | [A105206](https://oeis.org/A105206) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) | literature review sought |
 <!-- TABLE:END -->
