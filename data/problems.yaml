@@ -10446,7 +10446,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A005237", "A284783"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -11079,7 +11079,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-08"
-  oeis: ["possible"]
+  oeis: ["A001274"]
   tags: ["number theory"]
 
 - number: "1004"
