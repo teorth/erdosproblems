@@ -19,8 +19,8 @@ There are 1007 problems in total, of which
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 40 have been otherwise solved.
 - 5 appear to be open, but have been reduced to a finite computation. (decidable)
-- 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
-- 7 appear to be open, but can be proven by a finite computation if true. (verifiable)
+- 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 599 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 129 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
@@ -337,7 +337,7 @@ There are 1007 problems in total, of which
 | [304](https://www.erdosproblems.com/304) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/304.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [305](https://www.erdosproblems.com/305) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [306](https://www.erdosproblems.com/306) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/306.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
-| [307](https://www.erdosproblems.com/307) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [307](https://www.erdosproblems.com/307) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/307.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [308](https://www.erdosproblems.com/308) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [309](https://www.erdosproblems.com/309) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [310](https://www.erdosproblems.com/310) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
