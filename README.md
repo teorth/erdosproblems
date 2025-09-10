@@ -23,9 +23,9 @@ There are 1016 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 135 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 347 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 333 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 136 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 346 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 332 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -124,7 +124,7 @@ There are 1016 problems in total, of which
 | [91](https://www.erdosproblems.com/91) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [92](https://www.erdosproblems.com/92) | $500 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [93](https://www.erdosproblems.com/93) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
-| [94](https://www.erdosproblems.com/94) | £25 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
+| [94](https://www.erdosproblems.com/94) | £25 | open | no | [A387858](https://oeis.org/A387858) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [95](https://www.erdosproblems.com/95) | $500 | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [96](https://www.erdosproblems.com/96) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [97](https://www.erdosproblems.com/97) | $100 | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
