@@ -23,9 +23,9 @@ There are 1016 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 140 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 343 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 329 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 141 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -943,7 +943,7 @@ There are 1016 problems in total, of which
 | [910](https://www.erdosproblems.com/910) | no | disproved | no | N/A | [topology](https://www.erdosproblems.com/tags/topology) |  |
 | [911](https://www.erdosproblems.com/911) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [912](https://www.erdosproblems.com/912) | no | open | no | [A071626](https://oeis.org/A071626) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [913](https://www.erdosproblems.com/913) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/913.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [913](https://www.erdosproblems.com/913) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/913.lean) | [A359747](https://oeis.org/A359747) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [914](https://www.erdosproblems.com/914) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [915](https://www.erdosproblems.com/915) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [916](https://www.erdosproblems.com/916) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
