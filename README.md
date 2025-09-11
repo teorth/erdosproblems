@@ -23,9 +23,9 @@ There are 1016 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 142 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
-- 343 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 143 are known to be related to at least one [OEIS](https://oeis.org/) sequence.
+- 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 327 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -498,7 +498,7 @@ There are 1016 problems in total, of which
 | [465](https://www.erdosproblems.com/465) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [466](https://www.erdosproblems.com/466) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [467](https://www.erdosproblems.com/467) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | ambiguous statement |
-| [468](https://www.erdosproblems.com/468) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [468](https://www.erdosproblems.com/468) | no | open | no | [A167485](https://oeis.org/A167485), [A387502](https://oeis.org/A387502), [A387503](https://oeis.org/A387503) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [469](https://www.erdosproblems.com/469) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/469.lean) | [A006036](https://oeis.org/A006036) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [470](https://www.erdosproblems.com/470) | no | open | no | [A006037](https://oeis.org/A006037) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [471](https://www.erdosproblems.com/471) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
