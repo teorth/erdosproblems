@@ -67,6 +67,33 @@ def count_possible_and_id(rows):
         and any(re.fullmatch(r"A\d{6}", s) for s in r.get("oeis", []))
     )
 
+OEIS_PATTERN = re.compile(r"A\d{6}")
+
+def count_oeis_with_multiplicity(rows):
+    """
+    Count total number of OEIS entries across all rows,
+    including duplicates (multiplicity), but only if they
+    match the pattern A######.
+    """
+    return sum(
+        1
+        for r in rows
+        for entry in r.get("oeis", [])
+        if OEIS_PATTERN.fullmatch(entry)
+    )
+
+def count_oeis_distinct(rows):
+    """
+    Count number of distinct OEIS entries across all rows,
+    ignoring duplicates, but only if they match the pattern A######.
+    """
+    seen = set()
+    for r in rows:
+        for entry in r.get("oeis", []):
+            if OEIS_PATTERN.fullmatch(entry):
+                seen.add(entry)
+    return len(seen)
+
 def count_formalized_yes(rows):
     """
     Count how many rows have formalized.state == "yes".
@@ -182,7 +209,7 @@ def build_table(rows):
     lines.append(f"- {count_verifiable(rows)} appear to be open, but can be proven by a finite computation if true. (verifiable)")
     lines.append(f"- {count_open(rows)} appear to be completely open.")
     lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
-    lines.append(f"- {count_rows_with_oeis_id(rows)} are known to be related to at least one [OEIS](https://oeis.org/) sequence.")
+    lines.append(f"- {count_rows_with_oeis_id(rows)} have been linked to {count_oeis_distinct(rows)} distinct [OEIS](https://oeis.org/) sequences, with a total of {count_oeis_with_multiplicity(rows)} links created.")
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
     lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_submitted_oeis(rows)} have a related sequence currently being submitted to the [OEIS](https://oeis.org/).")
