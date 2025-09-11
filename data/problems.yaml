@@ -6040,8 +6040,8 @@
 - number: "547"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "decidable"
+    last_update: "2025-09-11"
   oeis: ["N/A"]
   formalized:
     state: "no"
