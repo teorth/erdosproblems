@@ -18,8 +18,8 @@ There are 1016 problems in total, of which
 - 81 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 41 have been otherwise solved.
-- 5 appear to be open, but have been reduced to a finite computation. (decidable)
-- 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 6 appear to be open, but have been reduced to a finite computation. (decidable)
+- 35 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 606 appear to be completely open.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -577,7 +577,7 @@ There are 1016 problems in total, of which
 | [544](https://www.erdosproblems.com/544) | no | open | no | [A000791](https://oeis.org/A000791) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [545](https://www.erdosproblems.com/545) | no | falsifiable | no | [A059442](https://oeis.org/A059442), possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [546](https://www.erdosproblems.com/546) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [547](https://www.erdosproblems.com/547) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [547](https://www.erdosproblems.com/547) | no | decidable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [548](https://www.erdosproblems.com/548) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [549](https://www.erdosproblems.com/549) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [550](https://www.erdosproblems.com/550) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
