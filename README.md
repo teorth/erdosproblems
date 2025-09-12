@@ -11,21 +11,23 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1024 problems in total, of which
+There are 1028 problems in total, of which
 - 94 are attached to a monetary prize.
 - 240 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 81 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 42 have been otherwise solved.
+- 44 have been otherwise solved.
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 611 appear to be completely open.
+- 613 appear to be completely open.
+- 4 have ambiguous statements.
+- 5 are seeking a literature review.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 147 have been linked to 173 distinct [OEIS](https://oeis.org/) sequences, with a total of 216 links created.
-- 345 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 327 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 348 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 330 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 
 
@@ -1055,4 +1057,8 @@ There are 1024 problems in total, of which
 | [1022](https://www.erdosproblems.com/1022) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1023](https://www.erdosproblems.com/1023) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1024](https://www.erdosproblems.com/1024) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [1025](https://www.erdosproblems.com/1025) | no | solved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [1026](https://www.erdosproblems.com/1026) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | ambiguous statement |
+| [1027](https://www.erdosproblems.com/1027) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [1028](https://www.erdosproblems.com/1028) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 <!-- TABLE:END -->
