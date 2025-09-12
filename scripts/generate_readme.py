@@ -193,6 +193,24 @@ def count_prize(rows):
         if r.get("prize", "no") != "no"
     )
 
+def count_ambiguous(rows):
+    """
+    Count how many rows have an ambiguous statement.
+    """
+    return sum(
+        1 for r in rows
+        if r.get("comments", "?") == "ambiguous statement"
+    )
+
+def count_review(rows):
+    """
+    Count how many rows are seeking a literature review.
+    """
+    return sum(
+        1 for r in rows
+        if r.get("comments", "?") == "literature review sought"
+    )
+
 
 def build_table(rows):
     header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
@@ -208,6 +226,8 @@ def build_table(rows):
     lines.append(f"- {count_falsifiable(rows)} appear to be open, but can be disproven by a finite computation if false. (falsifiable)")
     lines.append(f"- {count_verifiable(rows)} appear to be open, but can be proven by a finite computation if true. (verifiable)")
     lines.append(f"- {count_open(rows)} appear to be completely open.")
+    lines.append(f"- {count_ambiguous(rows)} have ambiguous statements.")
+    lines.append(f"- {count_review(rows)} have a literature review requested.")
     lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
     lines.append(f"- {count_rows_with_oeis_id(rows)} have been linked to {count_oeis_distinct(rows)} distinct [OEIS](https://oeis.org/) sequences, with a total of {count_oeis_with_multiplicity(rows)} links created.")
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")

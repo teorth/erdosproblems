@@ -11317,3 +11317,49 @@
     last_update: "2025-09-10"
   oeis: ["possible"]
   tags: ["graph theory", "hypergraphs"]
+
+- number: "1025"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-09-12"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["combinatorics"]
+
+- number: "1026"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-12"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  comments: "ambiguous statement"
+  tags: ["combinatorics"]
+
+- number: "1027"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-12"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["combinatorics"]
+
+- number: "1028"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-09-12"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory", "discrepancy"]
+
