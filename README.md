@@ -23,7 +23,7 @@ There are 1028 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 613 appear to be completely open.
 - 4 have ambiguous statements.
-- 5 are seeking a literature review.
+- 5 have a literature review requested.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 147 have been linked to 173 distinct [OEIS](https://oeis.org/) sequences, with a total of 216 links created.
 - 348 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
