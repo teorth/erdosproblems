@@ -3223,7 +3223,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A092671"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3278,7 +3278,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A092670"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -4203,7 +4203,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A002182"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
