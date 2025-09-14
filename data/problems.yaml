@@ -1797,7 +1797,7 @@
 - number: "163"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11362,4 +11362,104 @@
     last_update: "2025-09-10"
   oeis: ["possible"]
   tags: ["graph theory", "discrepancy"]
+
+- number: "1029"
+  prize: "$100"
+  status:
+    state: "open"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory", "Ramsey theory"]
+
+- number: "1030"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory", "Ramsey theory"]
+
+- number: "1031"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1032"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory", "chromatic number"]
+
+- number: "1034"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1035"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1035"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1036"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1037"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-13"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["graph theory" ]
+
 
