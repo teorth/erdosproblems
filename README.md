@@ -25,7 +25,7 @@ There are 1037 problems in total, of which
 - 4 have ambiguous statements.
 - 5 have a literature review requested.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 151 have been linked to 178 distinct [OEIS](https://oeis.org/) sequences, with a total of 221 links created.
+- 151 have been linked to 179 distinct [OEIS](https://oeis.org/) sequences, with a total of 222 links created.
 - 355 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 335 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
@@ -566,7 +566,7 @@ There are 1037 problems in total, of which
 | [531](https://www.erdosproblems.com/531) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [532](https://www.erdosproblems.com/532) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [533](https://www.erdosproblems.com/533) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [534](https://www.erdosproblems.com/534) | no | solved | no | [A387543](https://oeis.org/A387543) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
+| [534](https://www.erdosproblems.com/534) | no | solved | no | [A387543](https://oeis.org/A387543), [A387698](https://oeis.org/A387698) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [535](https://www.erdosproblems.com/535) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [536](https://www.erdosproblems.com/536) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [537](https://www.erdosproblems.com/537) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
