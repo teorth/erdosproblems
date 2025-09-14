@@ -11129,7 +11129,7 @@
 - number: "1008"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2025-09-10"
   formalized:
     state: "no"
