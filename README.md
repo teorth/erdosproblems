@@ -11,17 +11,17 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1037 problems in total, of which
+There are 1048 problems in total, of which
 - 95 are attached to a monetary prize.
-- 244 have been proved.
+- 245 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 82 have been disproved.
+- 85 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 43 have been otherwise solved.
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
-- 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 618 appear to be completely open.
+- 622 appear to be completely open.
 - 4 have ambiguous statements.
 - 5 have a literature review requested.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1071,4 +1071,15 @@ There are 1037 problems in total, of which
 | [1035](https://www.erdosproblems.com/1035) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1036](https://www.erdosproblems.com/1036) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1037](https://www.erdosproblems.com/1037) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1038](https://www.erdosproblems.com/1038) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1039](https://www.erdosproblems.com/1039) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1040](https://www.erdosproblems.com/1040) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1041](https://www.erdosproblems.com/1041) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1042](https://www.erdosproblems.com/1042) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1043](https://www.erdosproblems.com/1043) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1044](https://www.erdosproblems.com/1044) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1045](https://www.erdosproblems.com/1045) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1046](https://www.erdosproblems.com/1046) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1047](https://www.erdosproblems.com/1047) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1048](https://www.erdosproblems.com/1048) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 <!-- TABLE:END -->
