@@ -15,20 +15,21 @@ There are 1037 problems in total, of which
 - 95 are attached to a monetary prize.
 - 244 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 81 have been disproved.
+- 82 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 43 have been otherwise solved.
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 619 appear to be completely open.
+- 618 appear to be completely open.
 - 4 have ambiguous statements.
 - 5 have a literature review requested.
 - 165 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 154 have been linked to 182 distinct [OEIS](https://oeis.org/) sequences, with a total of 225 links created.
-- 352 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 332 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 351 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 331 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
+- 1 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -425,7 +426,7 @@ There are 1037 problems in total, of which
 | [390](https://www.erdosproblems.com/390) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [391](https://www.erdosproblems.com/391) | no | proved | no | [A034258](https://oeis.org/A034258), [A034259](https://oeis.org/A034259) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [392](https://www.erdosproblems.com/392) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/392.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [393](https://www.erdosproblems.com/393) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [393](https://www.erdosproblems.com/393) | no | open | no | in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [394](https://www.erdosproblems.com/394) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [395](https://www.erdosproblems.com/395) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | reverse Littlewood-Offord problem |
 | [396](https://www.erdosproblems.com/396) | no | open | no | [A375077](https://oeis.org/A375077) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
@@ -543,7 +544,7 @@ There are 1037 problems in total, of which
 | [508](https://www.erdosproblems.com/508) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) | Hadwiger-Nelson problem |
 | [509](https://www.erdosproblems.com/509) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/509.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [510](https://www.erdosproblems.com/510) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Chowla's cosine problem |
-| [511](https://www.erdosproblems.com/511) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [511](https://www.erdosproblems.com/511) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [512](https://www.erdosproblems.com/512) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Littlewood's conjecture |
 | [513](https://www.erdosproblems.com/513) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [514](https://www.erdosproblems.com/514) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
