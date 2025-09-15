@@ -38,6 +38,13 @@ def count_possible_oeis(rows):
         if any("possible" in entry for entry in r.get("oeis", []))
     )
 
+def count_inprogress_oeis(rows):
+    """Count how many rows contain an OEIS entry with 'in progress'."""
+    return sum(
+        1 for r in rows
+        if any("in progress" in entry for entry in r.get("oeis", []))
+    )
+
 def count_submitted_oeis(rows):
     """Count how many rows contain an OEIS entry with 'submitted'."""
     return sum(
@@ -233,6 +240,7 @@ def build_table(rows):
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
     lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_submitted_oeis(rows)} have a related sequence currently being submitted to the [OEIS](https://oeis.org/).")
+    lines.append(f"- {count_inprogress_oeis(rows)} have a related sequence whose generation is currently in progress.")
     lines.append("\n")
     lines.append(header)
     for r in rows:

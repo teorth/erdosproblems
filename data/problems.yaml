@@ -4335,7 +4335,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["in progress"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -5643,8 +5643,8 @@
 - number: "511"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2025-09-15"
   oeis: ["N/A"]
   formalized:
     state: "no"
