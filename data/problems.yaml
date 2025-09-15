@@ -11462,4 +11462,137 @@
   oeis: ["N/A"]
   tags: ["graph theory" ]
 
+- number: "1038"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1039"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1040"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1041"
+  prize: "no"
+  status:
+    state: "falsifiable"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1042"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1043"
+  prize: "no"
+  status:
+    state: "falsifiable"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1044"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1045"
+  prize: "no"
+  status:
+    state: "falsifiable"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1046"
+  prize: "no"
+  status:
+    state: "disproved"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1047"
+  prize: "no"
+  status:
+    state: "disproved"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1048"
+  prize: "no"
+  status:
+    state: "disproved"
+    last_update: "2025-09-15"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
