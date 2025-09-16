@@ -28,8 +28,8 @@ There are 1048 problems in total, of which
 - 157 have been linked to 188 distinct [OEIS](https://oeis.org/) sequences, with a total of 232 links created.
 - 346 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
-- 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
-- 1 have a related sequence whose generation is currently in progress.
+- 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
+- 0 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -426,7 +426,7 @@ There are 1048 problems in total, of which
 | [390](https://www.erdosproblems.com/390) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [391](https://www.erdosproblems.com/391) | no | proved | no | [A034258](https://oeis.org/A034258), [A034259](https://oeis.org/A034259) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [392](https://www.erdosproblems.com/392) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/392.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [393](https://www.erdosproblems.com/393) | no | open | no | in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [393](https://www.erdosproblems.com/393) | no | open | no | submitted | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [394](https://www.erdosproblems.com/394) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [395](https://www.erdosproblems.com/395) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | reverse Littlewood-Offord problem |
 | [396](https://www.erdosproblems.com/396) | no | open | no | [A375077](https://oeis.org/A375077) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
