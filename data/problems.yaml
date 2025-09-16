@@ -5188,8 +5188,8 @@
     last_update: "2025-08-31"
   oeis: ["A006037", "A002975"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-16"
   tags: ["number theory", "divisors"]
 
 - number: "471"
@@ -9861,7 +9861,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A046801","possible"]
+  oeis: ["A046801", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -11227,7 +11227,6 @@
   oeis: ["A105206"]
   comments: "literature review sought"
   tags: ["graph theory", "cycles"]
-  
 - number: "1017"
   prize: "no"
   status:
@@ -11295,7 +11294,6 @@
     last_update: "2025-09-10"
   oeis: ["possible"]
   tags: ["combinatorics", "hypergraphs"]
-  
 - number: "1023"
   prize: "no"
   status:
@@ -11460,7 +11458,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["N/A"]
-  tags: ["graph theory" ]
+  tags: ["graph theory"]
 
 - number: "1038"
   prize: "no"
