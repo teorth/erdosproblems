@@ -10941,12 +10941,13 @@
 - number: "991"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "literature review sought"
   tags: ["discrepancy"]
 
 - number: "992"
