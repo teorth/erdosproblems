@@ -11182,6 +11182,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["possible"]
+  comments: "ambiguous statement"
   tags: ["graph theory"]
 
 - number: "1013"
