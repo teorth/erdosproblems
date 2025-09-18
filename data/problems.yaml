@@ -9110,7 +9110,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A006037","A330244"]
+  oeis: ["A006037", "A330244"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -10448,8 +10448,8 @@
     last_update: "2025-08-31"
   oeis: ["A005237", "A284783"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-18"
   tags: ["number theory", "divisors"]
 
 - number: "947"
