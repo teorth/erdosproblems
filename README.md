@@ -26,10 +26,10 @@ There are 1048 problems in total, of which
 - 6 have a literature review requested.
 - 168 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 157 have been linked to 188 distinct [OEIS](https://oeis.org/) sequences, with a total of 232 links created.
-- 346 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 344 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 326 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
-- 0 have a related sequence whose generation is currently in progress.
+- 2 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -67,7 +67,7 @@ There are 1048 problems in total, of which
 | [31](https://www.erdosproblems.com/31) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [32](https://www.erdosproblems.com/32) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [33](https://www.erdosproblems.com/33) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/33.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [34](https://www.erdosproblems.com/34) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [34](https://www.erdosproblems.com/34) | no | disproved | no | in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [35](https://www.erdosproblems.com/35) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [36](https://www.erdosproblems.com/36) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/36.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | minimum overlap problem |
 | [37](https://www.erdosproblems.com/37) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
@@ -115,7 +115,7 @@ There are 1048 problems in total, of which
 | [79](https://www.erdosproblems.com/79) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [80](https://www.erdosproblems.com/80) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [81](https://www.erdosproblems.com/81) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [82](https://www.erdosproblems.com/82) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [82](https://www.erdosproblems.com/82) | no | open | no | in progress | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [83](https://www.erdosproblems.com/83) | $500 | proved | no | [A071799](https://oeis.org/A071799), submitted | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [84](https://www.erdosproblems.com/84) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [85](https://www.erdosproblems.com/85) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
