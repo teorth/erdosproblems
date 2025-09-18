@@ -24,7 +24,7 @@ There are 1048 problems in total, of which
 - 621 appear to be completely open.
 - 5 have ambiguous statements.
 - 6 have a literature review requested.
-- 166 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 167 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 157 have been linked to 188 distinct [OEIS](https://oeis.org/) sequences, with a total of 232 links created.
 - 346 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -979,7 +979,7 @@ There are 1048 problems in total, of which
 | [943](https://www.erdosproblems.com/943) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/943.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [944](https://www.erdosproblems.com/944) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/944.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [945](https://www.erdosproblems.com/945) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/945.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [946](https://www.erdosproblems.com/946) | no | proved | no | [A005237](https://oeis.org/A005237), [A284783](https://oeis.org/A284783) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [946](https://www.erdosproblems.com/946) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/946.lean) | [A005237](https://oeis.org/A005237), [A284783](https://oeis.org/A284783) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [947](https://www.erdosproblems.com/947) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [948](https://www.erdosproblems.com/948) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [949](https://www.erdosproblems.com/949) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/949.lean) | N/A | [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
