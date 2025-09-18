@@ -24,7 +24,7 @@ There are 1048 problems in total, of which
 - 621 appear to be completely open.
 - 5 have ambiguous statements.
 - 6 have a literature review requested.
-- 167 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 168 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 157 have been linked to 188 distinct [OEIS](https://oeis.org/) sequences, with a total of 232 links created.
 - 346 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 328 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -39,7 +39,7 @@ There are 1048 problems in total, of which
 | [3](https://www.erdosproblems.com/3) | $5000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/3.lean) | [A003002](https://oeis.org/A003002), [A003003](https://oeis.org/A003003), [A003004](https://oeis.org/A003004), [A003005](https://oeis.org/A003005) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [4](https://www.erdosproblems.com/4) | $10000 | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/4.lean) | [A002386](https://oeis.org/A002386) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [5](https://www.erdosproblems.com/5) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [6](https://www.erdosproblems.com/6) | $100 | proved | no | [A335277](https://oeis.org/A335277) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [6](https://www.erdosproblems.com/6) | $100 | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/6.lean) | [A335277](https://oeis.org/A335277) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [7](https://www.erdosproblems.com/7) | no | verifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [8](https://www.erdosproblems.com/8) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [9](https://www.erdosproblems.com/9) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/9.lean) | [A006286](https://oeis.org/A006286) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis), [primes](https://www.erdosproblems.com/tags/primes) |  |
