@@ -101,6 +101,23 @@ def count_oeis_distinct(rows):
                 seen.add(entry)
     return len(seen)
 
+def count_distinct_oeis_from(rows, min_id="A387000"):
+    """
+    Count distinct OEIS IDs that are >= min_id.
+    min_id should be a string like "A387000".
+    """
+    # Extract the numeric part of the threshold
+    threshold = int(min_id[1:])
+    seen = set()
+    for r in rows:
+        for entry in r.get("oeis", []):
+            m = OEIS_PATTERN.fullmatch(entry)
+            if m:
+                num = int(m.group(0)[1:])
+                if num >= threshold:
+                    seen.add(entry)
+    return len(seen)
+
 def count_formalized_yes(rows):
     """
     Count how many rows have formalized.state == "yes".
@@ -237,6 +254,7 @@ def build_table(rows):
     lines.append(f"- {count_review(rows)} have a literature review requested.")
     lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
     lines.append(f"- {count_rows_with_oeis_id(rows)} have been linked to {count_oeis_distinct(rows)} distinct [OEIS](https://oeis.org/) sequences, with a total of {count_oeis_with_multiplicity(rows)} links created.")
+    lines.append(f"  - {count_distinct_oeis_from(rows, min_id='A387000')} of these OEIS sequences were added since the creation of this database (A387000 onwards).")
     lines.append(f"- {count_possible_oeis(rows)} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
     lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_submitted_oeis(rows)} have a related sequence currently being submitted to the [OEIS](https://oeis.org/).")
