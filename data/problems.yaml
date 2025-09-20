@@ -10748,6 +10748,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "literature revieww sought"
   tags: ["analysis"]
 
 - number: "974"
@@ -10811,7 +10812,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A385316", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
