@@ -4025,7 +4025,7 @@
 - number: "365"
   prize: "no"
   status:
-    state: "falsifiable"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["A060355", "A060859", "A175155"]
   formalized:
