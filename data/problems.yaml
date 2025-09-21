@@ -4086,6 +4086,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "literature review sought"
   tags: ["number theory"]
 
 - number: "371"
