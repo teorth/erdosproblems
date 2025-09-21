@@ -25,8 +25,8 @@ There are 1048 problems in total, of which
 - 5 have ambiguous statements.
 - 6 have a literature review requested.
 - 168 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 159 have been linked to 191 distinct [OEIS](https://oeis.org/) sequences, with a total of 235 links created.
-  - 9 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 159 have been linked to 192 distinct [OEIS](https://oeis.org/) sequences, with a total of 236 links created.
+  - 10 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 324 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
@@ -414,7 +414,7 @@ There are 1048 problems in total, of which
 | [377](https://www.erdosproblems.com/377) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/377.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [378](https://www.erdosproblems.com/378) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [379](https://www.erdosproblems.com/379) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/379.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
-| [380](https://www.erdosproblems.com/380) | no | open | no | [A070003](https://oeis.org/A070003), [A388654](https://oeis.org/A388654) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [380](https://www.erdosproblems.com/380) | no | open | no | [A070003](https://oeis.org/A070003), [A388654](https://oeis.org/A388654), [A387054](https://oeis.org/A387054) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [381](https://www.erdosproblems.com/381) | no | disproved | no | [A002182](https://oeis.org/A002182) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [382](https://www.erdosproblems.com/382) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [383](https://www.erdosproblems.com/383) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/383.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
