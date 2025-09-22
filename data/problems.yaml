@@ -4193,7 +4193,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A070003", "A388654", "A387054"]
+  oeis: ["A070003", "A388654", "A387054", "A388850"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
