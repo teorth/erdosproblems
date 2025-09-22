@@ -10879,7 +10879,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A002233", "A122028", "A241516", "A223942", "A219429", "A103309", "possible"]
+  oeis: ["A002233", "A219429", "A103309", "possible"]
   formalized:
     state: "yes"
     last_update: "2025-09-07"
