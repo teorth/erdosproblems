@@ -11456,8 +11456,8 @@
 - number: "1037"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-09-13"
+    state: "disproved"
+    last_update: "2025-09-22"
   formalized:
     state: "no"
     last_update: "2025-09-10"
