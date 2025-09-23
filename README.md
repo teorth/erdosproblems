@@ -24,7 +24,7 @@ There are 1048 problems in total, of which
 - 621 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
-- 168 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 169 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 163 have been linked to 199 distinct [OEIS](https://oeis.org/) sequences, with a total of 244 links created.
   - 12 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -222,7 +222,7 @@ There are 1048 problems in total, of which
 | [185](https://www.erdosproblems.com/185) | no | proved | no | [A003142](https://oeis.org/A003142) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [186](https://www.erdosproblems.com/186) | no | solved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [187](https://www.erdosproblems.com/187) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [188](https://www.erdosproblems.com/188) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [188](https://www.erdosproblems.com/188) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/188.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [189](https://www.erdosproblems.com/189) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/189.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [190](https://www.erdosproblems.com/190) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [191](https://www.erdosproblems.com/191) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
