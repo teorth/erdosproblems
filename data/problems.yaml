@@ -2079,8 +2079,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-23"
   tags: ["geometry", "ramsey theory"]
 
 - number: "189"
