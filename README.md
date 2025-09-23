@@ -25,7 +25,7 @@ There are 1048 problems in total, of which
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 168 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 162 have been linked to 198 distinct [OEIS](https://oeis.org/) sequences, with a total of 243 links created.
+- 163 have been linked to 199 distinct [OEIS](https://oeis.org/) sequences, with a total of 244 links created.
   - 12 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 321 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -116,7 +116,7 @@ There are 1048 problems in total, of which
 | [79](https://www.erdosproblems.com/79) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [80](https://www.erdosproblems.com/80) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [81](https://www.erdosproblems.com/81) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [82](https://www.erdosproblems.com/82) | no | open | no | in progress | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [82](https://www.erdosproblems.com/82) | no | open | no | [A120414](https://oeis.org/A120414), in progress | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [83](https://www.erdosproblems.com/83) | $500 | proved | no | [A071799](https://oeis.org/A071799), submitted | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [84](https://www.erdosproblems.com/84) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [85](https://www.erdosproblems.com/85) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
