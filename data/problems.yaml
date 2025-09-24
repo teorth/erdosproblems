@@ -4336,7 +4336,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["submitted"]
+  oeis: ["A388302"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
