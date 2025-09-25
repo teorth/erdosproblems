@@ -25,7 +25,7 @@ There are 1048 problems in total, of which
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 174 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 165 have been linked to 205 distinct [OEIS](https://oeis.org/) sequences, with a total of 250 links created.
+- 165 have been linked to 206 distinct [OEIS](https://oeis.org/) sequences, with a total of 251 links created.
   - 17 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 341 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 321 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -270,7 +270,7 @@ There are 1048 problems in total, of which
 | [233](https://www.erdosproblems.com/233) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/233.lean) | [A074741](https://oeis.org/A074741) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [234](https://www.erdosproblems.com/234) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [235](https://www.erdosproblems.com/235) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [236](https://www.erdosproblems.com/236) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/236.lean) | [A109925](https://oeis.org/A109925) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [236](https://www.erdosproblems.com/236) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/236.lean) | [A039669](https://oeis.org/A039669), [A109925](https://oeis.org/A109925) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [237](https://www.erdosproblems.com/237) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [238](https://www.erdosproblems.com/238) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [239](https://www.erdosproblems.com/239) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
