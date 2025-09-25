@@ -24,7 +24,7 @@ There are 1048 problems in total, of which
 - 621 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
-- 170 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 171 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 165 have been linked to 204 distinct [OEIS](https://oeis.org/) sequences, with a total of 249 links created.
   - 16 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 341 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -108,7 +108,7 @@ There are 1048 problems in total, of which
 | [71](https://www.erdosproblems.com/71) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [72](https://www.erdosproblems.com/72) | $100 | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [73](https://www.erdosproblems.com/73) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [74](https://www.erdosproblems.com/74) | $500 | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
+| [74](https://www.erdosproblems.com/74) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/74.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [75](https://www.erdosproblems.com/75) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [76](https://www.erdosproblems.com/76) | no | proved | no | [A060407](https://oeis.org/A060407) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [77](https://www.erdosproblems.com/77) | $250 | open | no | [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
