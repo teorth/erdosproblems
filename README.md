@@ -24,7 +24,7 @@ There are 1048 problems in total, of which
 - 621 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
-- 172 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 173 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 165 have been linked to 204 distinct [OEIS](https://oeis.org/) sequences, with a total of 249 links created.
   - 16 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 341 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -126,7 +126,7 @@ There are 1048 problems in total, of which
 | [89](https://www.erdosproblems.com/89) | $500 | open | no | [A186704](https://oeis.org/A186704), [A131628](https://oeis.org/A131628) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | Erdős distance problem |
 | [90](https://www.erdosproblems.com/90) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/90.lean) | [A186705](https://oeis.org/A186705) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | unit distance problem |
 | [91](https://www.erdosproblems.com/91) | no | open | no | [A186704](https://oeis.org/A186704), possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [92](https://www.erdosproblems.com/92) | $500 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [92](https://www.erdosproblems.com/92) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/92.lean) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [93](https://www.erdosproblems.com/93) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [94](https://www.erdosproblems.com/94) | £25 | open | no | [A387858](https://oeis.org/A387858) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [95](https://www.erdosproblems.com/95) | $500 | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
