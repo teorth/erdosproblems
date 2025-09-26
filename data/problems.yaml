@@ -609,7 +609,7 @@
   tags: ["number theory", "ramsey theory"]
 
 - number: "56"
-  prize: "no"
+  prize: "$10"
   status:
     state: "disproved"
     last_update: "2025-08-31"
@@ -9107,7 +9107,7 @@
   tags: ["number theory"]
 
 - number: "825"
-  prize: "no"
+  prize: "$25"
   status:
     state: "open"
     last_update: "2025-08-31"
