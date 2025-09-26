@@ -12,7 +12,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 
 <!-- TABLE:START -->
 There are 1048 problems in total, of which
-- 95 are attached to a monetary prize.
+- 97 are attached to a monetary prize.
 - 246 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 86 have been disproved.
@@ -90,7 +90,7 @@ There are 1048 problems in total, of which
 | [53](https://www.erdosproblems.com/53) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [54](https://www.erdosproblems.com/54) | $100 | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [55](https://www.erdosproblems.com/55) | $250 | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [56](https://www.erdosproblems.com/56) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/56.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
+| [56](https://www.erdosproblems.com/56) | $10 | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/56.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [57](https://www.erdosproblems.com/57) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [58](https://www.erdosproblems.com/58) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [59](https://www.erdosproblems.com/59) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
@@ -859,7 +859,7 @@ There are 1048 problems in total, of which
 | [822](https://www.erdosproblems.com/822) | no | open | no | [A121048](https://oeis.org/A121048), [A155085](https://oeis.org/A155085) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [823](https://www.erdosproblems.com/823) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [824](https://www.erdosproblems.com/824) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [825](https://www.erdosproblems.com/825) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/825.lean) | [A006037](https://oeis.org/A006037), [A330244](https://oeis.org/A330244) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [825](https://www.erdosproblems.com/825) | $25 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/825.lean) | [A006037](https://oeis.org/A006037), [A330244](https://oeis.org/A330244) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [826](https://www.erdosproblems.com/826) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/826.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [827](https://www.erdosproblems.com/827) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [828](https://www.erdosproblems.com/828) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/828.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
