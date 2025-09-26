@@ -25,10 +25,10 @@ There are 1048 problems in total, of which
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 175 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 172 have been linked to 212 distinct [OEIS](https://oeis.org/) sequences, with a total of 260 links created.
+- 173 have been linked to 213 distinct [OEIS](https://oeis.org/) sequences, with a total of 261 links created.
   - 17 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 337 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 316 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 336 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -1047,7 +1047,7 @@ There are 1048 problems in total, of which
 | [1010](https://www.erdosproblems.com/1010) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1011](https://www.erdosproblems.com/1011) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | literature review sought |
 | [1012](https://www.erdosproblems.com/1012) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | ambiguous statement |
-| [1013](https://www.erdosproblems.com/1013) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1013](https://www.erdosproblems.com/1013) | no | open | no | [A292528](https://oeis.org/A292528) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1014](https://www.erdosproblems.com/1014) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1015](https://www.erdosproblems.com/1015) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1016](https://www.erdosproblems.com/1016) | no | open | no | [A105206](https://oeis.org/A105206) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) | literature review sought |
