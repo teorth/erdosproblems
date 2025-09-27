@@ -25,12 +25,12 @@ There are 1048 problems in total, of which
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 175 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 173 have been linked to 213 distinct [OEIS](https://oeis.org/) sequences, with a total of 261 links created.
-  - 17 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 174 have been linked to 215 distinct [OEIS](https://oeis.org/) sequences, with a total of 263 links created.
+  - 18 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 336 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
-- 3 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
-- 2 have a related sequence whose generation is currently in progress.
+- 4 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
+- 1 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -68,7 +68,7 @@ There are 1048 problems in total, of which
 | [31](https://www.erdosproblems.com/31) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [32](https://www.erdosproblems.com/32) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [33](https://www.erdosproblems.com/33) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/33.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [34](https://www.erdosproblems.com/34) | no | disproved | no | in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [34](https://www.erdosproblems.com/34) | no | disproved | no | [A389241](https://oeis.org/A389241), [A234813](https://oeis.org/A234813), submitted | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [35](https://www.erdosproblems.com/35) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [36](https://www.erdosproblems.com/36) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/36.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | minimum overlap problem |
 | [37](https://www.erdosproblems.com/37) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
