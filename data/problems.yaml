@@ -912,7 +912,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["A071799", "submitted"]
+  oeis: ["A071799", "A387635"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -4492,7 +4492,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible", "submitted"]
+  oeis: ["possible", "A387688"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
