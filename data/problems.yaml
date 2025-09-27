@@ -369,7 +369,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["in progress"]
+  oeis: ["A389241", "A234813", "submitted"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
