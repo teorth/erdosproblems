@@ -15,11 +15,11 @@ There are 1048 problems in total, of which
 - 97 are attached to a monetary prize.
 - 246 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 86 have been disproved.
+- 87 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 43 have been otherwise solved.
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
-- 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 621 appear to be completely open.
 - 5 have ambiguous statements.
@@ -1040,7 +1040,7 @@ There are 1048 problems in total, of which
 | [1003](https://www.erdosproblems.com/1003) | no | open | no | [A001274](https://oeis.org/A001274) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1004](https://www.erdosproblems.com/1004) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1005](https://www.erdosproblems.com/1005) | no | open | no | [A386893](https://oeis.org/A386893) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1006](https://www.erdosproblems.com/1006) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
+| [1006](https://www.erdosproblems.com/1006) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [1007](https://www.erdosproblems.com/1007) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1008](https://www.erdosproblems.com/1008) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | literature review sought |
 | [1009](https://www.erdosproblems.com/1009) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
