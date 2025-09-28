@@ -11110,7 +11110,7 @@
 - number: "1006"
   prize: "no"
   status:
-    state: "falsifiable"
+    state: "disproved"
     last_update: "2025-09-09"
   formalized:
     state: "no"
