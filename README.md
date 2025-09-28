@@ -1086,7 +1086,7 @@ There are 1062 problems in total, of which
 | [1049](https://www.erdosproblems.com/1049) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1050](https://www.erdosproblems.com/1050) | no | proved | no | [A331372](https://oeis.org/A331372) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1051](https://www.erdosproblems.com/1051) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [1052](https://www.erdosproblems.com/1052) | $10 | open | no | [A002827](https://oeis.org/A002827) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1052](https://www.erdosproblems.com/1052) | $10 | open | no | [A002827](https://oeis.org/A002827) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | unitary perfect numbers |
 | [1053](https://www.erdosproblems.com/1053) | no | open | no | [A007539](https://oeis.org/A007539) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | multiply perfect numbers |
 | [1054](https://www.erdosproblems.com/1054) | no | open | no | [A167485](https://oeis.org/A167485) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [1055](https://www.erdosproblems.com/1055) | no | open | no | [A005113](https://oeis.org/A005113) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
