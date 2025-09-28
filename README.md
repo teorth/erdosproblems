@@ -19,9 +19,9 @@ There are 1062 problems in total, of which
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 43 have been otherwise solved.
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
-- 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 633 appear to be completely open.
+- 632 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 175 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -201,7 +201,7 @@ There are 1062 problems in total, of which
 | [164](https://www.erdosproblems.com/164) | no | proved | no | [A137245](https://oeis.org/A137245) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [165](https://www.erdosproblems.com/165) | $250 | open | no | [A000791](https://oeis.org/A000791) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [166](https://www.erdosproblems.com/166) | $250 | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [167](https://www.erdosproblems.com/167) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [167](https://www.erdosproblems.com/167) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [168](https://www.erdosproblems.com/168) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/168.lean) | [A004059](https://oeis.org/A004059), [A057561](https://oeis.org/A057561), [A094708](https://oeis.org/A094708), [A386439](https://oeis.org/A386439) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [169](https://www.erdosproblems.com/169) | no | open | no | [A005346](https://oeis.org/A005346) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [170](https://www.erdosproblems.com/170) | no | open | no | [A046693](https://oeis.org/A046693) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sparse ruler problem |
