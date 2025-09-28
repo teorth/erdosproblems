@@ -11604,7 +11604,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["N/A"]
+  oeis: ["A331372"]
   tags: ["irrationality"]
 
 - number: "1051"
