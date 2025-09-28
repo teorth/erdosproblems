@@ -25,10 +25,10 @@ There are 1062 problems in total, of which
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 175 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 179 have been linked to 221 distinct [OEIS](https://oeis.org/) sequences, with a total of 270 links created.
+- 180 have been linked to 222 distinct [OEIS](https://oeis.org/) sequences, with a total of 271 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 343 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 321 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 320 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1093,7 +1093,7 @@ There are 1062 problems in total, of which
 | [1056](https://www.erdosproblems.com/1056) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1057](https://www.erdosproblems.com/1057) | no | open | no | [A006931](https://oeis.org/A006931) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Carmichael numbers |
 | [1058](https://www.erdosproblems.com/1058) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1059](https://www.erdosproblems.com/1059) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1059](https://www.erdosproblems.com/1059) | no | open | no | [A064152](https://oeis.org/A064152) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [1060](https://www.erdosproblems.com/1060) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1061](https://www.erdosproblems.com/1061) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1062](https://www.erdosproblems.com/1062) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
