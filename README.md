@@ -25,10 +25,10 @@ There are 1062 problems in total, of which
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 175 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 181 have been linked to 223 distinct [OEIS](https://oeis.org/) sequences, with a total of 272 links created.
+- 182 have been linked to 224 distinct [OEIS](https://oeis.org/) sequences, with a total of 273 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 341 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 319 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 340 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 318 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1096,5 +1096,5 @@ There are 1062 problems in total, of which
 | [1059](https://www.erdosproblems.com/1059) | no | open | no | [A064152](https://oeis.org/A064152) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [1060](https://www.erdosproblems.com/1060) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1061](https://www.erdosproblems.com/1061) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1062](https://www.erdosproblems.com/1062) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1062](https://www.erdosproblems.com/1062) | no | open | no | [A038372](https://oeis.org/A038372) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 <!-- TABLE:END -->
