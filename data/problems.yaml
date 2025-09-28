@@ -11689,7 +11689,7 @@
 - number: "1058"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2025-09-28"
   formalized:
     state: "no"
