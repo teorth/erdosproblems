@@ -11,9 +11,9 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1048 problems in total, of which
-- 97 are attached to a monetary prize.
-- 246 have been proved.
+There are 1062 problems in total, of which
+- 98 are attached to a monetary prize.
+- 247 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 87 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -21,14 +21,14 @@ There are 1048 problems in total, of which
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 621 appear to be completely open.
+- 634 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 175 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 175 have been linked to 218 distinct [OEIS](https://oeis.org/) sequences, with a total of 266 links created.
+- 179 have been linked to 221 distinct [OEIS](https://oeis.org/) sequences, with a total of 270 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 336 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 314 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 343 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 321 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1083,4 +1083,18 @@ There are 1048 problems in total, of which
 | [1046](https://www.erdosproblems.com/1046) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1047](https://www.erdosproblems.com/1047) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1048](https://www.erdosproblems.com/1048) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1049](https://www.erdosproblems.com/1049) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [1050](https://www.erdosproblems.com/1050) | no | proved | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [1051](https://www.erdosproblems.com/1051) | no | open | no | possible | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [1052](https://www.erdosproblems.com/1052) | $10 | open | no | [A002827](https://oeis.org/A002827) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1053](https://www.erdosproblems.com/1053) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) | multiply perfect numbers |
+| [1054](https://www.erdosproblems.com/1054) | no | open | no | [A167485](https://oeis.org/A167485) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [1055](https://www.erdosproblems.com/1055) | no | open | no | [A005113](https://oeis.org/A005113) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1056](https://www.erdosproblems.com/1056) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1057](https://www.erdosproblems.com/1057) | no | open | no | [A006931](https://oeis.org/A006931) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Carmichael numbers |
+| [1058](https://www.erdosproblems.com/1058) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1059](https://www.erdosproblems.com/1059) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1060](https://www.erdosproblems.com/1060) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1061](https://www.erdosproblems.com/1061) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1062](https://www.erdosproblems.com/1062) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 <!-- TABLE:END -->
