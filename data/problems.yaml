@@ -11615,7 +11615,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["N/A"]
   tags: ["irrationality"]
 
 - number: "1052"
