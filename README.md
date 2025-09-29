@@ -25,10 +25,10 @@ There are 1062 problems in total, of which
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 176 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 184 have been linked to 226 distinct [OEIS](https://oeis.org/) sequences, with a total of 275 links created.
+- 185 have been linked to 227 distinct [OEIS](https://oeis.org/) sequences, with a total of 276 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 316 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -681,7 +681,7 @@ There are 1062 problems in total, of which
 | [644](https://www.erdosproblems.com/644) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [645](https://www.erdosproblems.com/645) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [646](https://www.erdosproblems.com/646) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [647](https://www.erdosproblems.com/647) | £25 | verifiable | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [647](https://www.erdosproblems.com/647) | £25 | verifiable | no | [A062249](https://oeis.org/A062249), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [648](https://www.erdosproblems.com/648) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [649](https://www.erdosproblems.com/649) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [650](https://www.erdosproblems.com/650) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
