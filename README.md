@@ -19,9 +19,9 @@ There are 1062 problems in total, of which
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 43 have been otherwise solved.
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
-- 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 632 appear to be completely open.
+- 631 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 175 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -276,7 +276,7 @@ There are 1062 problems in total, of which
 | [239](https://www.erdosproblems.com/239) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [240](https://www.erdosproblems.com/240) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [241](https://www.erdosproblems.com/241) | $100 | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [242](https://www.erdosproblems.com/242) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/242.lean) | [A073101](https://oeis.org/A073101), [A075245](https://oeis.org/A075245), [A075246](https://oeis.org/A075246), [A075247](https://oeis.org/A075247), [A075248](https://oeis.org/A075248), [A287116](https://oeis.org/A287116) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) | Erdős-Straus conjecture |
+| [242](https://www.erdosproblems.com/242) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/242.lean) | [A073101](https://oeis.org/A073101), [A075245](https://oeis.org/A075245), [A075246](https://oeis.org/A075246), [A075247](https://oeis.org/A075247), [A075248](https://oeis.org/A075248), [A287116](https://oeis.org/A287116) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) | Erdős-Straus conjecture |
 | [243](https://www.erdosproblems.com/243) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/243.lean) | [A000058](https://oeis.org/A000058) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [244](https://www.erdosproblems.com/244) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/244.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [245](https://www.erdosproblems.com/245) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/245.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
