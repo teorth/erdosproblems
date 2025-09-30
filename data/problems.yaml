@@ -6239,8 +6239,8 @@
 - number: "565"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-09-29"
   oeis: ["possible"]
   formalized:
     state: "no"
