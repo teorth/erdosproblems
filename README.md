@@ -24,7 +24,7 @@ There are 1062 problems in total, of which
 - 630 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
-- 177 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 178 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 185 have been linked to 227 distinct [OEIS](https://oeis.org/) sequences, with a total of 276 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -95,7 +95,7 @@ There are 1062 problems in total, of which
 | [58](https://www.erdosproblems.com/58) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [59](https://www.erdosproblems.com/59) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [60](https://www.erdosproblems.com/60) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
-| [61](https://www.erdosproblems.com/61) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [61](https://www.erdosproblems.com/61) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/61.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [62](https://www.erdosproblems.com/62) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [63](https://www.erdosproblems.com/63) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [64](https://www.erdosproblems.com/64) | $1000 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/64.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
