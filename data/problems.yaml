@@ -11728,7 +11728,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A110177", "possible"]
   tags: ["number theory"]
 
 - number: "1062"
