@@ -17,11 +17,11 @@ There are 1062 problems in total, of which
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 87 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 43 have been otherwise solved.
+- 42 have been otherwise solved.
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 630 appear to be completely open.
+- 628 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 178 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -508,7 +508,7 @@ There are 1062 problems in total, of which
 | [471](https://www.erdosproblems.com/471) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [472](https://www.erdosproblems.com/472) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [473](https://www.erdosproblems.com/473) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [474](https://www.erdosproblems.com/474) | $100 | solved | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [474](https://www.erdosproblems.com/474) | $100 | not provable | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [475](https://www.erdosproblems.com/475) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [476](https://www.erdosproblems.com/476) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [477](https://www.erdosproblems.com/477) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -770,10 +770,10 @@ There are 1062 problems in total, of which
 | [733](https://www.erdosproblems.com/733) | no | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [734](https://www.erdosproblems.com/734) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [735](https://www.erdosproblems.com/735) | no | solved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [736](https://www.erdosproblems.com/736) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [736](https://www.erdosproblems.com/736) | no | not provable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [737](https://www.erdosproblems.com/737) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [738](https://www.erdosproblems.com/738) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [739](https://www.erdosproblems.com/739) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [739](https://www.erdosproblems.com/739) | no | not provable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [740](https://www.erdosproblems.com/740) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [741](https://www.erdosproblems.com/741) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [742](https://www.erdosproblems.com/742) | no | decidable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
