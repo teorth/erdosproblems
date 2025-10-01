@@ -5229,8 +5229,8 @@
 - number: "474"
   prize: "$100"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "not provable"
+    last_update: "2025-10-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -8127,8 +8127,8 @@
 - number: "736"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "not provable"
+    last_update: "2025-10-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -8160,8 +8160,8 @@
 - number: "739"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "not provable"
+    last_update: "2025-10-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
