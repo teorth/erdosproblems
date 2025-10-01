@@ -11,24 +11,27 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1062 problems in total, of which
+There are 1068 problems in total, of which
 - 98 are attached to a monetary prize.
 - 249 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 87 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 42 have been otherwise solved.
+- 3 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
+- 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
+- 1 are independent of the ZFC axioms of mathematics. (independent)
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 628 appear to be completely open.
+- 633 appear to be completely open.
 - 5 have ambiguous statements.
 - 7 have a literature review requested.
 - 178 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 185 have been linked to 227 distinct [OEIS](https://oeis.org/) sequences, with a total of 276 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 319 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1097,4 +1100,10 @@ There are 1062 problems in total, of which
 | [1060](https://www.erdosproblems.com/1060) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1061](https://www.erdosproblems.com/1061) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1062](https://www.erdosproblems.com/1062) | no | open | no | [A038372](https://oeis.org/A038372) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1063](https://www.erdosproblems.com/1063) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1064](https://www.erdosproblems.com/1064) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1065](https://www.erdosproblems.com/1065) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1066](https://www.erdosproblems.com/1066) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
+| [1067](https://www.erdosproblems.com/1067) | no | independent | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
+| [1068](https://www.erdosproblems.com/1068) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 <!-- TABLE:END -->
