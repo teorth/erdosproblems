@@ -369,7 +369,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["in progress"]
+  oeis: ["A389241", "A234813", "submitted"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -559,8 +559,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-25"
   tags: ["number theory"]
 
 - number: "52"
@@ -609,7 +609,7 @@
   tags: ["number theory", "ramsey theory"]
 
 - number: "56"
-  prize: "no"
+  prize: "$10"
   status:
     state: "disproved"
     last_update: "2025-08-31"
@@ -670,8 +670,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-30"
   tags: ["graph theory"]
 
 - number: "62"
@@ -912,7 +912,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["A071799", "submitted"]
+  oeis: ["A071799", "A387635"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -1180,8 +1180,8 @@
     last_update: "2025-08-31"
   oeis: ["A000051"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-29"
   comments: "'Happy Ending' problem"
   tags: ["geometry", "convex"]
 
@@ -1525,8 +1525,8 @@
     last_update: "2025-08-31"
   oeis: ["A005346"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-09-29"
   tags: ["additive combinatorics"]
 
 - number: "139"
@@ -1842,8 +1842,8 @@
 - number: "167"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2025-09-28"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2297,7 +2297,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A005117", "A076259"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -2385,7 +2385,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A381776"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -2670,7 +2670,7 @@
 - number: "242"
   prize: "no"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-08-31"
   oeis: ["A073101", "A075245", "A075246", "A075247", "A075248", "A287116"]
   formalized:
@@ -4116,7 +4116,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A003135"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -4492,7 +4492,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible", "submitted"]
+  oeis: ["possible", "A387688"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -5098,7 +5098,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A032742", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -5319,7 +5319,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A004539"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -6239,8 +6239,8 @@
 - number: "565"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-09-29"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -7147,7 +7147,7 @@
   status:
     state: "verifiable"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A062249", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9107,7 +9107,7 @@
   tags: ["number theory"]
 
 - number: "825"
-  prize: "no"
+  prize: "$25"
   status:
     state: "open"
     last_update: "2025-08-31"
@@ -9443,7 +9443,7 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A023193"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -10326,7 +10326,7 @@
   status:
     state: "open"
     last_update: "2025-09-04"
-  oeis: ["A057521", "possible", "submitted"]
+  oeis: ["A057521", "A389244", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -11110,7 +11110,7 @@
 - number: "1006"
   prize: "no"
   status:
-    state: "falsifiable"
+    state: "disproved"
     last_update: "2025-09-09"
   formalized:
     state: "no"
@@ -11195,7 +11195,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-10"
-  oeis: ["possible"]
+  oeis: ["A292528"]
   tags: ["graph theory"]
 
 - number: "1014"
@@ -11384,7 +11384,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-10"
-  oeis: ["possible"]
+  oeis: ["A000791", "A059442"]
   tags: ["graph theory", "Ramsey theory"]
 
 - number: "1031"
@@ -11585,11 +11585,162 @@
   oeis: ["N/A"]
   tags: ["analysis"]
 
+- number: "1049"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["irrationality"]
 
+- number: "1050"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A331372"]
+  tags: ["irrationality"]
 
+- number: "1051"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["irrationality"]
 
+- number: "1052"
+  prize: "$10"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A002827"]
+  comments: "unitary perfect numbers"
+  tags: ["number theory"]
 
+- number: "1053"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A007539"]
+  comments: "multiply perfect numbers"
+  tags: ["number theory"]
 
+- number: "1054"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A167485"]
+  tags: ["number theory", "divisors"]
+
+- number: "1055"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A005113"]
+  tags: ["number theory", "primes"]
+
+- number: "1056"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A060427"]
+  tags: ["number theory"]
+
+- number: "1057"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A006931"]
+  comments: "Carmichael numbers"
+  tags: ["number theory"]
+
+- number: "1058"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["number theory"]
+
+- number: "1059"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A064152"]
+  tags: ["number theory", "primes"]
+
+- number: "1060"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1061"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1062"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-09-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A038372"]
+  tags: ["number theory"]
 
 
 
