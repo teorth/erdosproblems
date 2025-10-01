@@ -208,6 +208,33 @@ def count_open(rows):
         if r.get("status", {}).get("state", "").lower() == "open"
     )
 
+def count_not_provable(rows):
+    """
+    Count how many rows have status == "not provable".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "not provable"
+    )
+
+def count_not_disprovable(rows):
+    """
+    Count how many rows have status == "not disprovable".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "not disprovable"
+    )
+
+def count_independent(rows):
+    """
+    Count how many rows have status == "independent".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "independent"
+    )
+
 def count_prize(rows):
     """
     Count how many rows have a prize.
@@ -246,6 +273,9 @@ def build_table(rows):
     lines.append(f"- {count_disproved(rows)+count_disproved_lean(rows) } have been disproved.")
     lines.append(f"  - {count_disproved_lean(rows)} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
     lines.append(f"- {count_solved(rows)} have been otherwise solved.")
+    lines.append(f"- {count_not_provable(rows)} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
+    lines.append(f"- {count_not_disprovable(rows)} appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)")
+    lines.append(f"- {count_independent(rows)} are independent of the ZFC axioms of mathematics. (independent)")
     lines.append(f"- {count_decidable(rows)} appear to be open, but have been reduced to a finite computation. (decidable)")
     lines.append(f"- {count_falsifiable(rows)} appear to be open, but can be disproven by a finite computation if false. (falsifiable)")
     lines.append(f"- {count_verifiable(rows)} appear to be open, but can be proven by a finite computation if true. (verifiable)")

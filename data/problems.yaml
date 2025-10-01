@@ -11742,6 +11742,73 @@
   oeis: ["A038372"]
   tags: ["number theory"]
 
+- number: "1063"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-01"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1064"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-01"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1065"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-01"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1066"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-01"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["graph theory", "planar graphs"]
+
+- number: "1067"
+  prize: "no"
+  status:
+    state: "independent"
+    last_update: "2025-10-01"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["graph theory", "set theory"]
+
+- number: "1068"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-01"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["graph theory", "set theory", "chromatic number"]
+
+
 
 
 
