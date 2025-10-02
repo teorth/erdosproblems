@@ -1211,8 +1211,8 @@
 - number: "110"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "not provable"
+    last_update: "2025-10-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4799,8 +4799,8 @@
 - number: "435"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-10-01"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -8138,8 +8138,8 @@
 - number: "737"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-10-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -10755,13 +10755,12 @@
 - number: "974"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-10-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "ambiguous statement"
   tags: ["analysis"]
 
 - number: "975"
@@ -11346,8 +11345,8 @@
 - number: "1027"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-09-12"
+    state: "proved"
+    last_update: "2025-10-01"
   formalized:
     state: "no"
     last_update: "2025-09-10"
@@ -11807,12 +11806,3 @@
     last_update: "2025-09-28"
   oeis: ["N/A"]
   tags: ["graph theory", "set theory", "chromatic number"]
-
-
-
-
-
-
-
-
-
