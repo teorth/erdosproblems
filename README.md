@@ -13,19 +13,19 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1068 problems in total, of which
 - 98 are attached to a monetary prize.
-- 249 have been proved.
+- 253 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 87 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 42 have been otherwise solved.
-- 3 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
+- 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 1 are independent of the ZFC axioms of mathematics. (independent)
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 633 appear to be completely open.
-- 5 have ambiguous statements.
+- 628 appear to be completely open.
+- 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 178 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 186 have been linked to 229 distinct [OEIS](https://oeis.org/) sequences, with a total of 278 links created.
@@ -147,7 +147,7 @@ There are 1068 problems in total, of which
 | [107](https://www.erdosproblems.com/107) | $500 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/107.lean) | [A000051](https://oeis.org/A000051) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
 | [108](https://www.erdosproblems.com/108) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [109](https://www.erdosproblems.com/109) | no | proved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | Erdős sumset conjecture |
-| [110](https://www.erdosproblems.com/110) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
+| [110](https://www.erdosproblems.com/110) | no | not provable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [111](https://www.erdosproblems.com/111) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [112](https://www.erdosproblems.com/112) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [113](https://www.erdosproblems.com/113) | $500 | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
@@ -472,7 +472,7 @@ There are 1068 problems in total, of which
 | [432](https://www.erdosproblems.com/432) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [433](https://www.erdosproblems.com/433) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [434](https://www.erdosproblems.com/434) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [435](https://www.erdosproblems.com/435) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [435](https://www.erdosproblems.com/435) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [436](https://www.erdosproblems.com/436) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [437](https://www.erdosproblems.com/437) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [438](https://www.erdosproblems.com/438) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -774,7 +774,7 @@ There are 1068 problems in total, of which
 | [734](https://www.erdosproblems.com/734) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [735](https://www.erdosproblems.com/735) | no | solved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [736](https://www.erdosproblems.com/736) | no | not provable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [737](https://www.erdosproblems.com/737) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [737](https://www.erdosproblems.com/737) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [738](https://www.erdosproblems.com/738) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [739](https://www.erdosproblems.com/739) | no | not provable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [740](https://www.erdosproblems.com/740) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
@@ -1011,7 +1011,7 @@ There are 1068 problems in total, of which
 | [971](https://www.erdosproblems.com/971) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [972](https://www.erdosproblems.com/972) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [973](https://www.erdosproblems.com/973) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | literature revieww sought |
-| [974](https://www.erdosproblems.com/974) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | ambiguous statement |
+| [974](https://www.erdosproblems.com/974) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [975](https://www.erdosproblems.com/975) | no | open | no | [A147807](https://oeis.org/A147807), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [976](https://www.erdosproblems.com/976) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [977](https://www.erdosproblems.com/977) | no | proved | no | [A005420](https://oeis.org/A005420), [A002583](https://oeis.org/A002583) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -1064,7 +1064,7 @@ There are 1068 problems in total, of which
 | [1024](https://www.erdosproblems.com/1024) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1025](https://www.erdosproblems.com/1025) | no | solved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1026](https://www.erdosproblems.com/1026) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | ambiguous statement |
-| [1027](https://www.erdosproblems.com/1027) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [1027](https://www.erdosproblems.com/1027) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1028](https://www.erdosproblems.com/1028) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [1029](https://www.erdosproblems.com/1029) | $100 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [Ramsey theory](https://www.erdosproblems.com/tags/Ramsey%20theory) |  |
 | [1030](https://www.erdosproblems.com/1030) | no | open | no | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [Ramsey theory](https://www.erdosproblems.com/tags/Ramsey%20theory) |  |
