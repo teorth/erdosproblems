@@ -28,7 +28,7 @@ There are 1068 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 179 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 187 have been linked to 230 distinct [OEIS](https://oeis.org/) sequences, with a total of 279 links created.
+- 187 have been linked to 231 distinct [OEIS](https://oeis.org/) sequences, with a total of 280 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 340 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 317 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -764,7 +764,7 @@ There are 1068 problems in total, of which
 | [724](https://www.erdosproblems.com/724) | no | open | no | [A001438](https://oeis.org/A001438) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [725](https://www.erdosproblems.com/725) | no | open | no | [A001009](https://oeis.org/A001009) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [726](https://www.erdosproblems.com/726) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [727](https://www.erdosproblems.com/727) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | [A002503](https://oeis.org/A002503) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [727](https://www.erdosproblems.com/727) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | [A002503](https://oeis.org/A002503), [A343507](https://oeis.org/A343507) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [728](https://www.erdosproblems.com/728) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [729](https://www.erdosproblems.com/729) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [730](https://www.erdosproblems.com/730) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
