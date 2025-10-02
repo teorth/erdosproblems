@@ -27,7 +27,7 @@ There are 1068 problems in total, of which
 - 628 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
-- 178 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 179 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 186 have been linked to 229 distinct [OEIS](https://oeis.org/) sequences, with a total of 278 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 341 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -182,7 +182,7 @@ There are 1068 problems in total, of which
 | [142](https://www.erdosproblems.com/142) | $10000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/142.lean) | [A003002](https://oeis.org/A003002), [A003003](https://oeis.org/A003003), [A003004](https://oeis.org/A003004), [A003005](https://oeis.org/A003005) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [143](https://www.erdosproblems.com/143) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/143.lean) | N/A | [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [144](https://www.erdosproblems.com/144) | $250 | proved | no | [A005279](https://oeis.org/A005279) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [145](https://www.erdosproblems.com/145) | no | open | no | [A005117](https://oeis.org/A005117) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [145](https://www.erdosproblems.com/145) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/145.lean) | [A005117](https://oeis.org/A005117) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [146](https://www.erdosproblems.com/146) | $500 | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [147](https://www.erdosproblems.com/147) | $500 | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [148](https://www.erdosproblems.com/148) | no | open | no | [A076393](https://oeis.org/A076393), [A006585](https://oeis.org/A006585) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
