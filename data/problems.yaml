@@ -7147,7 +7147,7 @@
   status:
     state: "verifiable"
     last_update: "2025-08-31"
-  oeis: ["A062249", "A087280", "possible"]
+  oeis: ["A062249", "A087280"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
