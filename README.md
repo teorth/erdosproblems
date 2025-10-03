@@ -27,7 +27,7 @@ There are 1068 problems in total, of which
 - 628 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
-- 179 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 180 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 187 have been linked to 231 distinct [OEIS](https://oeis.org/) sequences, with a total of 280 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 340 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -303,7 +303,7 @@ There are 1068 problems in total, of which
 | [263](https://www.erdosproblems.com/263) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [264](https://www.erdosproblems.com/264) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/264.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [265](https://www.erdosproblems.com/265) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [266](https://www.erdosproblems.com/266) | no | disproved | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [266](https://www.erdosproblems.com/266) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/266.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [267](https://www.erdosproblems.com/267) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/267.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [268](https://www.erdosproblems.com/268) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [269](https://www.erdosproblems.com/269) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/269.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
