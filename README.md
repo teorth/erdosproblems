@@ -28,10 +28,10 @@ There are 1068 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 181 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 187 have been linked to 231 distinct [OEIS](https://oeis.org/) sequences, with a total of 280 links created.
+- 188 have been linked to 232 distinct [OEIS](https://oeis.org/) sequences, with a total of 281 links created.
   - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 340 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 317 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 339 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 316 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -168,7 +168,7 @@ There are 1068 problems in total, of which
 | [128](https://www.erdosproblems.com/128) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [129](https://www.erdosproblems.com/129) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [130](https://www.erdosproblems.com/130) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [131](https://www.erdosproblems.com/131) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [131](https://www.erdosproblems.com/131) | no | open | no | [A068063](https://oeis.org/A068063) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [132](https://www.erdosproblems.com/132) | $100 | open | no | N/A | [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [133](https://www.erdosproblems.com/133) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [134](https://www.erdosproblems.com/134) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
