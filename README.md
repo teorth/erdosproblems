@@ -11,27 +11,27 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1068 problems in total, of which
+There are 1076 problems in total, of which
 - 98 are attached to a monetary prize.
 - 253 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 87 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 42 have been otherwise solved.
+- 43 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 1 are independent of the ZFC axioms of mathematics. (independent)
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 628 appear to be completely open.
+- 635 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 181 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 189 have been linked to 233 distinct [OEIS](https://oeis.org/) sequences, with a total of 282 links created.
+- 190 have been linked to 235 distinct [OEIS](https://oeis.org/) sequences, with a total of 284 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 343 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 320 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1106,4 +1106,12 @@ There are 1068 problems in total, of which
 | [1066](https://www.erdosproblems.com/1066) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
 | [1067](https://www.erdosproblems.com/1067) | no | independent | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [1068](https://www.erdosproblems.com/1068) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [1069](https://www.erdosproblems.com/1069) | no | solved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1070](https://www.erdosproblems.com/1070) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1071](https://www.erdosproblems.com/1071) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1072](https://www.erdosproblems.com/1072) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1073](https://www.erdosproblems.com/1073) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1074](https://www.erdosproblems.com/1074) | no | open | no | [A063980](https://oeis.org/A063980), [A064164](https://oeis.org/A064164) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1075](https://www.erdosproblems.com/1075) | no | open | no | N/A | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [1076](https://www.erdosproblems.com/1076) | no | open | no | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 <!-- TABLE:END -->
