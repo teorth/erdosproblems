@@ -11806,3 +11806,93 @@
     last_update: "2025-09-28"
   oeis: ["N/A"]
   tags: ["graph theory", "set theory", "chromatic number"]
+
+- number: "1069"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry"]
+
+- number: "1070"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry"]
+  
+- number: "1071"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["geometry"]
+
+- number: "1072"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1073"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1074"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A063980","A064164"]
+  tags: ["number theory"]
+
+- number: "1075"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["hypergraphs"]
+
+- number: "1076"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-05"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["hypergraphs"]
+
+
