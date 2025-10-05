@@ -28,10 +28,10 @@ There are 1068 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 181 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 188 have been linked to 232 distinct [OEIS](https://oeis.org/) sequences, with a total of 281 links created.
-  - 21 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 339 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 316 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 189 have been linked to 233 distinct [OEIS](https://oeis.org/) sequences, with a total of 282 links created.
+  - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -593,7 +593,7 @@ There are 1068 problems in total, of which
 | [553](https://www.erdosproblems.com/553) | no | proved | no | [A000791](https://oeis.org/A000791), possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [554](https://www.erdosproblems.com/554) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [555](https://www.erdosproblems.com/555) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [556](https://www.erdosproblems.com/556) | no | decidable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [556](https://www.erdosproblems.com/556) | no | decidable | no | [A389335](https://oeis.org/A389335) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [557](https://www.erdosproblems.com/557) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [558](https://www.erdosproblems.com/558) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [559](https://www.erdosproblems.com/559) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
