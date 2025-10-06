@@ -3544,8 +3544,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-10-06"
   tags: ["number theory", "unit fractions"]
 
 - number: "322"
@@ -11828,7 +11828,6 @@
     last_update: "2025-09-28"
   oeis: ["possible"]
   tags: ["geometry"]
-  
 - number: "1071"
   prize: "no"
   status:
@@ -11870,7 +11869,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["A063980","A064164"]
+  oeis: ["A063980", "A064164"]
   tags: ["number theory"]
 
 - number: "1075"
