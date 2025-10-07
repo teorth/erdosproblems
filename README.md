@@ -28,10 +28,10 @@ There are 1076 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 183 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 192 have been linked to 237 distinct [OEIS](https://oeis.org/) sequences, with a total of 286 links created.
+- 196 have been linked to 242 distinct [OEIS](https://oeis.org/) sequences, with a total of 291 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 341 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 318 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 337 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 314 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1097,11 +1097,11 @@ There are 1076 problems in total, of which
 | [1057](https://www.erdosproblems.com/1057) | no | open | no | [A006931](https://oeis.org/A006931) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Carmichael numbers |
 | [1058](https://www.erdosproblems.com/1058) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1059](https://www.erdosproblems.com/1059) | no | open | no | [A064152](https://oeis.org/A064152) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [1060](https://www.erdosproblems.com/1060) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1060](https://www.erdosproblems.com/1060) | no | open | no | [A327153](https://oeis.org/A327153) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1061](https://www.erdosproblems.com/1061) | no | open | no | [A110177](https://oeis.org/A110177), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1062](https://www.erdosproblems.com/1062) | no | open | no | [A038372](https://oeis.org/A038372) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1063](https://www.erdosproblems.com/1063) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1064](https://www.erdosproblems.com/1064) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1064](https://www.erdosproblems.com/1064) | no | open | no | [A051488](https://oeis.org/A051488), [A051487](https://oeis.org/A051487) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1065](https://www.erdosproblems.com/1065) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1066](https://www.erdosproblems.com/1066) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
 | [1067](https://www.erdosproblems.com/1067) | no | independent | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
@@ -1109,8 +1109,8 @@ There are 1076 problems in total, of which
 | [1069](https://www.erdosproblems.com/1069) | no | solved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1070](https://www.erdosproblems.com/1070) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1071](https://www.erdosproblems.com/1071) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [1072](https://www.erdosproblems.com/1072) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1073](https://www.erdosproblems.com/1073) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1072](https://www.erdosproblems.com/1072) | no | open | no | [A154554](https://oeis.org/A154554) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1073](https://www.erdosproblems.com/1073) | no | open | no | [A256519](https://oeis.org/A256519) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1074](https://www.erdosproblems.com/1074) | no | open | no | [A063980](https://oeis.org/A063980), [A064164](https://oeis.org/A064164) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1075](https://www.erdosproblems.com/1075) | no | open | no | N/A | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1076](https://www.erdosproblems.com/1076) | no | open | no | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
