@@ -11716,7 +11716,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A327153"]
   tags: ["number theory"]
 
 - number: "1061"
@@ -11760,7 +11760,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A051488", "A051487"]
   tags: ["number theory"]
 
 - number: "1065"
@@ -11847,7 +11847,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A154554"]
   tags: ["number theory"]
 
 - number: "1073"
@@ -11858,7 +11858,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A256519"]
   tags: ["number theory"]
 
 - number: "1074"
