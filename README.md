@@ -11,9 +11,9 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1076 problems in total, of which
+There are 1080 problems in total, of which
 - 98 are attached to a monetary prize.
-- 253 have been proved.
+- 254 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 87 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -24,14 +24,14 @@ There are 1076 problems in total, of which
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 635 appear to be completely open.
+- 638 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 183 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 196 have been linked to 242 distinct [OEIS](https://oeis.org/) sequences, with a total of 291 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 337 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 314 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1114,4 +1114,8 @@ There are 1076 problems in total, of which
 | [1074](https://www.erdosproblems.com/1074) | no | open | no | [A063980](https://oeis.org/A063980), [A064164](https://oeis.org/A064164) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1075](https://www.erdosproblems.com/1075) | no | open | no | N/A | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1076](https://www.erdosproblems.com/1076) | no | open | no | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [1077](https://www.erdosproblems.com/1077) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1078](https://www.erdosproblems.com/1078) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1079](https://www.erdosproblems.com/1079) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
+| [1080](https://www.erdosproblems.com/1080) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 <!-- TABLE:END -->
