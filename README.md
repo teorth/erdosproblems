@@ -28,7 +28,7 @@ There are 1080 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 183 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 196 have been linked to 242 distinct [OEIS](https://oeis.org/) sequences, with a total of 291 links created.
+- 197 have been linked to 243 distinct [OEIS](https://oeis.org/) sequences, with a total of 292 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -230,7 +230,7 @@ There are 1080 problems in total, of which
 | [190](https://www.erdosproblems.com/190) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [191](https://www.erdosproblems.com/191) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [192](https://www.erdosproblems.com/192) | no | solved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [193](https://www.erdosproblems.com/193) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [193](https://www.erdosproblems.com/193) | no | open | no | [A231255](https://oeis.org/A231255) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [194](https://www.erdosproblems.com/194) | no | disproved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [195](https://www.erdosproblems.com/195) | no | open | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [196](https://www.erdosproblems.com/196) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/196.lean) | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
