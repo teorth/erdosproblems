@@ -28,10 +28,10 @@ There are 1076 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 183 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 190 have been linked to 235 distinct [OEIS](https://oeis.org/) sequences, with a total of 284 links created.
+- 191 have been linked to 236 distinct [OEIS](https://oeis.org/) sequences, with a total of 285 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 343 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 320 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 342 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 319 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -257,7 +257,7 @@ There are 1076 problems in total, of which
 | [217](https://www.erdosproblems.com/217) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [218](https://www.erdosproblems.com/218) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/218.lean) | [A333230](https://oeis.org/A333230), [A333231](https://oeis.org/A333231), [A064113](https://oeis.org/A064113) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [219](https://www.erdosproblems.com/219) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/219.lean) | [A005115](https://oeis.org/A005115), [A113827](https://oeis.org/A113827), [A123556](https://oeis.org/A123556) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [primes](https://www.erdosproblems.com/tags/primes), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) | Green-Tao theorem |
-| [220](https://www.erdosproblems.com/220) | $500 | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [220](https://www.erdosproblems.com/220) | $500 | proved | no | [A322144](https://oeis.org/A322144) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [221](https://www.erdosproblems.com/221) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [222](https://www.erdosproblems.com/222) | no | open | no | [A256435](https://oeis.org/A256435) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [squares](https://www.erdosproblems.com/tags/squares) |  |
 | [223](https://www.erdosproblems.com/223) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
