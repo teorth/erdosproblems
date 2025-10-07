@@ -3029,6 +3029,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  comments: "Herzog-Schönheim conjecture"
   tags: ["group theory", "covering systems"]
 
 - number: "275"
