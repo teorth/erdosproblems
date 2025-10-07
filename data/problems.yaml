@@ -11894,4 +11894,46 @@
   oeis: ["possible"]
   tags: ["hypergraphs"]
 
+- number: "1077"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-06"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["graph theory"]
 
+- number: "1078"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-10-06"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["graph theory"]
+
+- number: "1079"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-06"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["graph theory", "turan number"]
+
+- number: "1080"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-06"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["graph theory"]
