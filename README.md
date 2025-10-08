@@ -30,7 +30,7 @@ There are 1080 problems in total, of which
 - 183 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 202 have been linked to 248 distinct [OEIS](https://oeis.org/) sequences, with a total of 297 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 333 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 334 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 310 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
@@ -737,7 +737,7 @@ There are 1080 problems in total, of which
 | [697](https://www.erdosproblems.com/697) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [698](https://www.erdosproblems.com/698) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [699](https://www.erdosproblems.com/699) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
-| [700](https://www.erdosproblems.com/700) | no | open | no | [A091963](https://oeis.org/A091963) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [700](https://www.erdosproblems.com/700) | no | open | no | [A091963](https://oeis.org/A091963), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [701](https://www.erdosproblems.com/701) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [702](https://www.erdosproblems.com/702) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [703](https://www.erdosproblems.com/703) | $250 | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
