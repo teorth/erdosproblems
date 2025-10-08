@@ -7733,7 +7733,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A091963"]
+  oeis: ["A091963", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
