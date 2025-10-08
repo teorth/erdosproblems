@@ -4106,7 +4106,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A071870"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
