@@ -28,10 +28,10 @@ There are 1080 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 183 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 202 have been linked to 248 distinct [OEIS](https://oeis.org/) sequences, with a total of 297 links created.
+- 203 have been linked to 249 distinct [OEIS](https://oeis.org/) sequences, with a total of 298 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 334 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 310 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 333 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 309 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -409,7 +409,7 @@ There are 1080 problems in total, of which
 | [369](https://www.erdosproblems.com/369) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [370](https://www.erdosproblems.com/370) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | literature review sought |
 | [371](https://www.erdosproblems.com/371) | no | open | no | [A070089](https://oeis.org/A070089) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [372](https://www.erdosproblems.com/372) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [372](https://www.erdosproblems.com/372) | no | proved | no | [A071870](https://oeis.org/A071870) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [373](https://www.erdosproblems.com/373) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | [A003135](https://oeis.org/A003135) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [374](https://www.erdosproblems.com/374) | no | open | no | [A388851](https://oeis.org/A388851), [A387184](https://oeis.org/A387184), [A389117](https://oeis.org/A389117), [A389148](https://oeis.org/A389148) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [375](https://www.erdosproblems.com/375) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
