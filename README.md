@@ -28,10 +28,10 @@ There are 1080 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 183 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 197 have been linked to 243 distinct [OEIS](https://oeis.org/) sequences, with a total of 292 links created.
+- 198 have been linked to 244 distinct [OEIS](https://oeis.org/) sequences, with a total of 293 links created.
   - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 338 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 315 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 337 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 314 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -510,7 +510,7 @@ There are 1080 problems in total, of which
 | [470](https://www.erdosproblems.com/470) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/470.lean) | [A006037](https://oeis.org/A006037), [A002975](https://oeis.org/A002975) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [471](https://www.erdosproblems.com/471) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [472](https://www.erdosproblems.com/472) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [473](https://www.erdosproblems.com/473) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [473](https://www.erdosproblems.com/473) | no | proved | no | [A055265](https://oeis.org/A055265) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [474](https://www.erdosproblems.com/474) | $100 | not provable | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [475](https://www.erdosproblems.com/475) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [476](https://www.erdosproblems.com/476) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
