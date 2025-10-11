@@ -15,12 +15,12 @@ There are 1080 problems in total, of which
 - 98 are attached to a monetary prize.
 - 254 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 87 have been disproved.
+- 88 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 43 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
-- 1 are independent of the ZFC axioms of mathematics. (independent)
+- 0 are independent of the ZFC axioms of mathematics. (independent)
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
@@ -1104,7 +1104,7 @@ There are 1080 problems in total, of which
 | [1064](https://www.erdosproblems.com/1064) | no | open | no | [A051488](https://oeis.org/A051488), [A051487](https://oeis.org/A051487) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1065](https://www.erdosproblems.com/1065) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1066](https://www.erdosproblems.com/1066) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
-| [1067](https://www.erdosproblems.com/1067) | no | independent | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
+| [1067](https://www.erdosproblems.com/1067) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [1068](https://www.erdosproblems.com/1068) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1069](https://www.erdosproblems.com/1069) | no | solved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1070](https://www.erdosproblems.com/1070) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
