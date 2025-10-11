@@ -4515,7 +4515,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A039651"]
+  oeis: ["A039651", "A229487"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
