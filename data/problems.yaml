@@ -11789,7 +11789,7 @@
 - number: "1067"
   prize: "no"
   status:
-    state: "independent"
+    state: "disproved"
     last_update: "2025-10-01"
   formalized:
     state: "no"
