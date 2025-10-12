@@ -13,18 +13,18 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1080 problems in total, of which
 - 98 are attached to a monetary prize.
-- 254 have been proved.
+- 255 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 88 have been disproved.
+- 89 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 43 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
-- 39 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 638 appear to be completely open.
+- 637 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 185 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -376,7 +376,7 @@ There are 1080 problems in total, of which
 | [336](https://www.erdosproblems.com/336) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [337](https://www.erdosproblems.com/337) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [338](https://www.erdosproblems.com/338) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [339](https://www.erdosproblems.com/339) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
+| [339](https://www.erdosproblems.com/339) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [340](https://www.erdosproblems.com/340) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/340.lean) | [A080200](https://oeis.org/A080200), [A005282](https://oeis.org/A005282) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [341](https://www.erdosproblems.com/341) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [342](https://www.erdosproblems.com/342) | no | open | no | [A002858](https://oeis.org/A002858) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -1080,7 +1080,7 @@ There are 1080 problems in total, of which
 | [1040](https://www.erdosproblems.com/1040) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1041](https://www.erdosproblems.com/1041) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1042](https://www.erdosproblems.com/1042) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1043](https://www.erdosproblems.com/1043) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1043](https://www.erdosproblems.com/1043) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1044](https://www.erdosproblems.com/1044) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1045](https://www.erdosproblems.com/1045) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1046](https://www.erdosproblems.com/1046) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
