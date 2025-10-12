@@ -28,10 +28,10 @@ There are 1080 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 185 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 210 have been linked to 256 distinct [OEIS](https://oeis.org/) sequences, with a total of 306 links created.
-  - 22 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 328 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 302 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 211 have been linked to 257 distinct [OEIS](https://oeis.org/) sequences, with a total of 307 links created.
+  - 23 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 327 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 301 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -472,7 +472,7 @@ There are 1080 problems in total, of which
 | [432](https://www.erdosproblems.com/432) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [433](https://www.erdosproblems.com/433) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [434](https://www.erdosproblems.com/434) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [435](https://www.erdosproblems.com/435) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [435](https://www.erdosproblems.com/435) | no | proved | no | [A389479](https://oeis.org/A389479) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [436](https://www.erdosproblems.com/436) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [437](https://www.erdosproblems.com/437) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [438](https://www.erdosproblems.com/438) | no | solved | no | [A363069](https://oeis.org/A363069) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
