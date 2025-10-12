@@ -4802,7 +4802,7 @@
   status:
     state: "proved"
     last_update: "2025-10-01"
-  oeis: ["possible"]
+  oeis: ["A389479"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
