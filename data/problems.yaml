@@ -3739,8 +3739,8 @@
 - number: "339"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-10-12"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -11522,8 +11522,8 @@
 - number: "1043"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-09-15"
+    state: "disproved"
+    last_update: "2025-10-12"
   formalized:
     state: "no"
     last_update: "2025-09-10"
