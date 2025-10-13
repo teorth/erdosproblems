@@ -27,7 +27,7 @@ There are 1080 problems in total, of which
 - 637 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
-- 186 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 187 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 211 have been linked to 257 distinct [OEIS](https://oeis.org/) sequences, with a total of 307 links created.
   - 23 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 327 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -684,7 +684,7 @@ There are 1080 problems in total, of which
 | [644](https://www.erdosproblems.com/644) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [645](https://www.erdosproblems.com/645) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [646](https://www.erdosproblems.com/646) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [647](https://www.erdosproblems.com/647) | £25 | verifiable | no | [A062249](https://oeis.org/A062249), [A087280](https://oeis.org/A087280) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [647](https://www.erdosproblems.com/647) | £25 | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/647.lean) | [A062249](https://oeis.org/A062249), [A087280](https://oeis.org/A087280) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [648](https://www.erdosproblems.com/648) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [649](https://www.erdosproblems.com/649) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [650](https://www.erdosproblems.com/650) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
