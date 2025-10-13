@@ -28,10 +28,10 @@ There are 1080 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 187 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 211 have been linked to 257 distinct [OEIS](https://oeis.org/) sequences, with a total of 307 links created.
+- 212 have been linked to 258 distinct [OEIS](https://oeis.org/) sequences, with a total of 308 links created.
   - 23 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 327 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 301 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 300 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -768,7 +768,7 @@ There are 1080 problems in total, of which
 | [728](https://www.erdosproblems.com/728) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [729](https://www.erdosproblems.com/729) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [730](https://www.erdosproblems.com/730) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
-| [731](https://www.erdosproblems.com/731) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [731](https://www.erdosproblems.com/731) | no | open | no | [A006197](https://oeis.org/A006197) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [732](https://www.erdosproblems.com/732) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [733](https://www.erdosproblems.com/733) | no | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [734](https://www.erdosproblems.com/734) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
