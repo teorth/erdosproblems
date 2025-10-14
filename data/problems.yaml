@@ -5450,7 +5450,7 @@
 - number: "494"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
@@ -6860,7 +6860,7 @@
 - number: "621"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
@@ -9077,7 +9077,7 @@
 - number: "822"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-10-14"
   oeis: ["A121048", "A155085"]
   formalized:
@@ -9972,7 +9972,7 @@
 - number: "903"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
