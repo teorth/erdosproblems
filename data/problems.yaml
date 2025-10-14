@@ -2461,8 +2461,8 @@
 - number: "223"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-10-14"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -5450,8 +5450,8 @@
 - number: "494"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6860,8 +6860,8 @@
 - number: "621"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -9077,8 +9077,8 @@
 - number: "822"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-10-14"
   oeis: ["A121048", "A155085"]
   formalized:
     state: "no"
@@ -9972,8 +9972,8 @@
 - number: "903"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -11920,8 +11920,8 @@
 - number: "1079"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-06"
+    state: "solved"
+    last_update: "2025-10-14"
   formalized:
     state: "no"
     last_update: "2025-09-28"
@@ -11938,3 +11938,14 @@
     last_update: "2025-09-28"
   oeis: ["possible"]
   tags: ["graph theory"]
+
+- number: "1081"
+  prize: "no"
+  status:
+    state: "disproved"
+    last_update: "2025-10-14"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory", "powerful"]
