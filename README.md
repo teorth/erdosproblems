@@ -27,7 +27,7 @@ There are 1080 problems in total, of which
 - 637 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
-- 187 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 188 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 212 have been linked to 258 distinct [OEIS](https://oeis.org/) sequences, with a total of 308 links created.
   - 23 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -388,7 +388,7 @@ There are 1080 problems in total, of which
 | [348](https://www.erdosproblems.com/348) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/348.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
 | [349](https://www.erdosproblems.com/349) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/349.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
 | [350](https://www.erdosproblems.com/350) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/350.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [351](https://www.erdosproblems.com/351) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
+| [351](https://www.erdosproblems.com/351) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/351.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
 | [352](https://www.erdosproblems.com/352) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/352.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [353](https://www.erdosproblems.com/353) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [354](https://www.erdosproblems.com/354) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/354.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
