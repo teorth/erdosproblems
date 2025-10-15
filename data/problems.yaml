@@ -11947,5 +11947,5 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A076871", "A076872", "possible"]
   tags: ["number theory", "powerful"]
