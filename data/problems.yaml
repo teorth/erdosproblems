@@ -2055,7 +2055,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
-  oeis: ["in progress"]
+  oeis: ["A389784"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
