@@ -28,12 +28,12 @@ There are 1081 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 190 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 214 have been linked to 262 distinct [OEIS](https://oeis.org/) sequences, with a total of 312 links created.
-  - 25 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 215 have been linked to 263 distinct [OEIS](https://oeis.org/) sequences, with a total of 313 links created.
+  - 26 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 299 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
-- 2 have a related sequence whose generation is currently in progress.
+- 1 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -223,7 +223,7 @@ There are 1081 problems in total, of which
 | [183](https://www.erdosproblems.com/183) | $250 | open | no | [A003323](https://oeis.org/A003323) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [184](https://www.erdosproblems.com/184) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [185](https://www.erdosproblems.com/185) | no | proved | no | [A003142](https://oeis.org/A003142) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [186](https://www.erdosproblems.com/186) | no | solved | no | in progress | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [186](https://www.erdosproblems.com/186) | no | solved | no | [A389784](https://oeis.org/A389784) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [187](https://www.erdosproblems.com/187) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [188](https://www.erdosproblems.com/188) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/188.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [189](https://www.erdosproblems.com/189) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/189.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
