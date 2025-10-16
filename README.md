@@ -27,7 +27,7 @@ There are 1081 problems in total, of which
 - 632 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
-- 190 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 191 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 215 have been linked to 263 distinct [OEIS](https://oeis.org/) sequences, with a total of 313 links created.
   - 26 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1016,7 +1016,7 @@ There are 1081 problems in total, of which
 | [976](https://www.erdosproblems.com/976) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [977](https://www.erdosproblems.com/977) | no | proved | no | [A005420](https://oeis.org/A005420), [A002583](https://oeis.org/A002583) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [978](https://www.erdosproblems.com/978) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [979](https://www.erdosproblems.com/979) | no | open | no | [A385316](https://oeis.org/A385316), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [979](https://www.erdosproblems.com/979) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/979.lean) | [A385316](https://oeis.org/A385316), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [980](https://www.erdosproblems.com/980) | no | proved | no | [A053760](https://oeis.org/A053760), [A098990](https://oeis.org/A098990), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [981](https://www.erdosproblems.com/981) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [982](https://www.erdosproblems.com/982) | no | falsifiable | no | [A004526](https://oeis.org/A004526) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
