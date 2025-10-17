@@ -11949,3 +11949,102 @@
     last_update: "2025-09-28"
   oeis: ["A076871", "A076872", "possible"]
   tags: ["number theory", "powerful"]
+
+- number: "1082"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry", "distances"]
+
+- number: "1083"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry", "distances"]
+
+- number: "1084"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry", "distances"]
+
+- number: "1085"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry", "distances"]
+
+- number: "1086"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry", "distances"]
+
+- number: "1087"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry", "distances"]
+
+- number: "1088"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry"]
+
+- number: "1089"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["geometry", "distances"]
+
+- number: "1090"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["geometry", "ramsey"]
