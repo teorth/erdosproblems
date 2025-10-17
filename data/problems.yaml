@@ -10010,7 +10010,6 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: "literature review sought"
   tags: ["analysis", "iterated functions"]
 
 - number: "907"
