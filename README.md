@@ -27,7 +27,7 @@ There are 1081 problems in total, of which
 - 632 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
-- 192 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 218 have been linked to 267 distinct [OEIS](https://oeis.org/) sequences, with a total of 317 links created.
   - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 324 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1114,7 +1114,7 @@ There are 1081 problems in total, of which
 | [1074](https://www.erdosproblems.com/1074) | no | open | no | [A063980](https://oeis.org/A063980), [A064164](https://oeis.org/A064164) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1075](https://www.erdosproblems.com/1075) | no | open | no | N/A | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1076](https://www.erdosproblems.com/1076) | no | open | no | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
-| [1077](https://www.erdosproblems.com/1077) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1077](https://www.erdosproblems.com/1077) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1077.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1078](https://www.erdosproblems.com/1078) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1079](https://www.erdosproblems.com/1079) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [1080](https://www.erdosproblems.com/1080) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
