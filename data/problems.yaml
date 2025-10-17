@@ -11772,7 +11772,7 @@
   formalized:
     state: "yes"
     last_update: "2025-10-15"
-  oeis: ["possible"]
+  oeis: ["A074781", "A339465"]
   tags: ["number theory"]
 
 - number: "1066"
