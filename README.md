@@ -27,7 +27,7 @@ There are 1081 problems in total, of which
 - 632 appear to be completely open.
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
-- 191 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 192 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 215 have been linked to 263 distinct [OEIS](https://oeis.org/) sequences, with a total of 313 links created.
   - 26 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -394,7 +394,7 @@ There are 1081 problems in total, of which
 | [354](https://www.erdosproblems.com/354) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/354.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [355](https://www.erdosproblems.com/355) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/355.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [356](https://www.erdosproblems.com/356) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [357](https://www.erdosproblems.com/357) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [357](https://www.erdosproblems.com/357) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/357.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [358](https://www.erdosproblems.com/358) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/358.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [359](https://www.erdosproblems.com/359) | no | open | no | [A002048](https://oeis.org/A002048) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | segmented numbers |
 | [360](https://www.erdosproblems.com/360) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
