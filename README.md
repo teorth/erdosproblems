@@ -26,7 +26,7 @@ There are 1090 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 641 appear to be completely open.
 - 4 have ambiguous statements.
-- 5 have a literature review requested.
+- 4 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 218 have been linked to 267 distinct [OEIS](https://oeis.org/) sequences, with a total of 317 links created.
   - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
@@ -1028,7 +1028,7 @@ There are 1090 problems in total, of which
 | [988](https://www.erdosproblems.com/988) | no | solved | no | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [989](https://www.erdosproblems.com/989) | no | solved | no | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [990](https://www.erdosproblems.com/990) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [991](https://www.erdosproblems.com/991) | no | proved | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) | literature review sought |
+| [991](https://www.erdosproblems.com/991) | no | proved | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [992](https://www.erdosproblems.com/992) | no | open | no | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [993](https://www.erdosproblems.com/993) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [994](https://www.erdosproblems.com/994) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
