@@ -28,10 +28,10 @@ There are 1081 problems in total, of which
 - 4 have ambiguous statements.
 - 7 have a literature review requested.
 - 192 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 215 have been linked to 263 distinct [OEIS](https://oeis.org/) sequences, with a total of 313 links created.
-  - 26 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 299 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 216 have been linked to 264 distinct [OEIS](https://oeis.org/) sequences, with a total of 314 links created.
+  - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 325 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 298 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -60,7 +60,7 @@ There are 1081 problems in total, of which
 | [20](https://www.erdosproblems.com/20) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/20.lean) | [A332077](https://oeis.org/A332077) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | sunflower conjecture |
 | [21](https://www.erdosproblems.com/21) | $500 | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [22](https://www.erdosproblems.com/22) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [23](https://www.erdosproblems.com/23) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [23](https://www.erdosproblems.com/23) | no | falsifiable | no | [A389646](https://oeis.org/A389646) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [24](https://www.erdosproblems.com/24) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [25](https://www.erdosproblems.com/25) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [26](https://www.erdosproblems.com/26) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
