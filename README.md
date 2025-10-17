@@ -26,7 +26,7 @@ There are 1090 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 641 appear to be completely open.
 - 4 have ambiguous statements.
-- 6 have a literature review requested.
+- 5 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 218 have been linked to 267 distinct [OEIS](https://oeis.org/) sequences, with a total of 317 links created.
   - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
@@ -943,7 +943,7 @@ There are 1090 problems in total, of which
 | [903](https://www.erdosproblems.com/903) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [904](https://www.erdosproblems.com/904) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [905](https://www.erdosproblems.com/905) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [906](https://www.erdosproblems.com/906) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) | literature review sought |
+| [906](https://www.erdosproblems.com/906) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [907](https://www.erdosproblems.com/907) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [908](https://www.erdosproblems.com/908) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [909](https://www.erdosproblems.com/909) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [topology](https://www.erdosproblems.com/tags/topology) |  |
