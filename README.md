@@ -26,7 +26,7 @@ There are 1090 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 641 appear to be completely open.
 - 4 have ambiguous statements.
-- 7 have a literature review requested.
+- 6 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 218 have been linked to 267 distinct [OEIS](https://oeis.org/) sequences, with a total of 317 links created.
   - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
@@ -407,7 +407,7 @@ There are 1090 problems in total, of which
 | [367](https://www.erdosproblems.com/367) | no | open | no | [A057521](https://oeis.org/A057521) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [368](https://www.erdosproblems.com/368) | no | open | no | [A074399](https://oeis.org/A074399) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [369](https://www.erdosproblems.com/369) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [370](https://www.erdosproblems.com/370) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | literature review sought |
+| [370](https://www.erdosproblems.com/370) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [371](https://www.erdosproblems.com/371) | no | open | no | [A070089](https://oeis.org/A070089) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [372](https://www.erdosproblems.com/372) | no | proved | no | [A071870](https://oeis.org/A071870) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [373](https://www.erdosproblems.com/373) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | [A003135](https://oeis.org/A003135) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
