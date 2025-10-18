@@ -11134,7 +11134,6 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["N/A"]
-  comments: "literature review sought"
   tags: ["graph theory"]
 
 - number: "1009"
