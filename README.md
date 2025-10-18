@@ -28,9 +28,9 @@ There are 1098 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 222 have been linked to 270 distinct [OEIS](https://oeis.org/) sequences, with a total of 321 links created.
+- 223 have been linked to 270 distinct [OEIS](https://oeis.org/) sequences, with a total of 322 links created.
   - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 330 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 331 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 301 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
@@ -823,7 +823,7 @@ There are 1098 problems in total, of which
 | [783](https://www.erdosproblems.com/783) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [784](https://www.erdosproblems.com/784) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [785](https://www.erdosproblems.com/785) | no | proved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | exact additive complements |
-| [786](https://www.erdosproblems.com/786) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [786](https://www.erdosproblems.com/786) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | [A143301](https://oeis.org/A143301), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [787](https://www.erdosproblems.com/787) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [788](https://www.erdosproblems.com/788) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [789](https://www.erdosproblems.com/789) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
