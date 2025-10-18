@@ -11925,7 +11925,7 @@
 - number: "1080"
   prize: "no"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-10-06"
   formalized:
     state: "no"
@@ -11947,7 +11947,7 @@
 - number: "1082"
   prize: "no"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-10-17"
   formalized:
     state: "no"
