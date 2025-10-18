@@ -11,9 +11,9 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1092 problems in total, of which
+There are 1098 problems in total, of which
 - 98 are attached to a monetary prize.
-- 259 have been proved.
+- 260 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 91 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -24,16 +24,16 @@ There are 1092 problems in total, of which
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 641 appear to be completely open.
+- 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 221 have been linked to 269 distinct [OEIS](https://oeis.org/) sequences, with a total of 320 links created.
+- 222 have been linked to 270 distinct [OEIS](https://oeis.org/) sequences, with a total of 321 links created.
   - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 331 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 302 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 330 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 301 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
-- 1 have a related sequence whose generation is currently in progress.
+- 2 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -713,7 +713,7 @@ There are 1092 problems in total, of which
 | [673](https://www.erdosproblems.com/673) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [674](https://www.erdosproblems.com/674) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [675](https://www.erdosproblems.com/675) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [676](https://www.erdosproblems.com/676) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [676](https://www.erdosproblems.com/676) | no | open | no | in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [677](https://www.erdosproblems.com/677) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [678](https://www.erdosproblems.com/678) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/678.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [679](https://www.erdosproblems.com/679) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -1130,4 +1130,10 @@ There are 1092 problems in total, of which
 | [1090](https://www.erdosproblems.com/1090) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey](https://www.erdosproblems.com/tags/ramsey) |  |
 | [1091](https://www.erdosproblems.com/1091) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1092](https://www.erdosproblems.com/1092) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [1093](https://www.erdosproblems.com/1093) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [1094](https://www.erdosproblems.com/1094) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [1095](https://www.erdosproblems.com/1095) | no | open | no | [A003458](https://oeis.org/A003458) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [1096](https://www.erdosproblems.com/1096) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1097](https://www.erdosproblems.com/1097) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [1098](https://www.erdosproblems.com/1098) | no | proved | no | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 <!-- TABLE:END -->
