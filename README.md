@@ -15,16 +15,16 @@ There are 1092 problems in total, of which
 - 98 are attached to a monetary prize.
 - 259 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 90 have been disproved.
+- 91 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 45 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
-- 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 643 appear to be completely open.
+- 641 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1117,9 +1117,9 @@ There are 1092 problems in total, of which
 | [1077](https://www.erdosproblems.com/1077) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1077.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1078](https://www.erdosproblems.com/1078) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1079](https://www.erdosproblems.com/1079) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
-| [1080](https://www.erdosproblems.com/1080) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1080](https://www.erdosproblems.com/1080) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1081](https://www.erdosproblems.com/1081) | no | disproved | no | [A076871](https://oeis.org/A076871), [A076872](https://oeis.org/A076872), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
-| [1082](https://www.erdosproblems.com/1082) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [1082](https://www.erdosproblems.com/1082) | no | falsifiable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1083](https://www.erdosproblems.com/1083) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1084](https://www.erdosproblems.com/1084) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1085](https://www.erdosproblems.com/1085) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
