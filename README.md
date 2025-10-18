@@ -11,7 +11,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1090 problems in total, of which
+There are 1092 problems in total, of which
 - 98 are attached to a monetary prize.
 - 259 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
@@ -24,7 +24,7 @@ There are 1090 problems in total, of which
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 641 appear to be completely open.
+- 643 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1128,4 +1128,6 @@ There are 1090 problems in total, of which
 | [1088](https://www.erdosproblems.com/1088) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1089](https://www.erdosproblems.com/1089) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1090](https://www.erdosproblems.com/1090) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey](https://www.erdosproblems.com/tags/ramsey) |  |
+| [1091](https://www.erdosproblems.com/1091) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [1092](https://www.erdosproblems.com/1092) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 <!-- TABLE:END -->
