@@ -12042,3 +12042,25 @@
     last_update: "2025-09-28"
   oeis: ["N/A"]
   tags: ["geometry", "ramsey"]
+
+- number: "1091"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["geometry", "chromatic number"]
+
+- number: "1092"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["geometry", "chromatic number"]
