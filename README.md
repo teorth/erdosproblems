@@ -28,10 +28,10 @@ There are 1092 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 219 have been linked to 267 distinct [OEIS](https://oeis.org/) sequences, with a total of 318 links created.
+- 220 have been linked to 268 distinct [OEIS](https://oeis.org/) sequences, with a total of 319 links created.
   - 27 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 332 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 304 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 331 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 303 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -758,7 +758,7 @@ There are 1092 problems in total, of which
 | [718](https://www.erdosproblems.com/718) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [719](https://www.erdosproblems.com/719) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [720](https://www.erdosproblems.com/720) | $100 | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [721](https://www.erdosproblems.com/721) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [721](https://www.erdosproblems.com/721) | no | solved | no | [A171081](https://oeis.org/A171081) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [722](https://www.erdosproblems.com/722) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [723](https://www.erdosproblems.com/723) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/723.lean) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [724](https://www.erdosproblems.com/724) | no | open | no | [A001438](https://oeis.org/A001438) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
