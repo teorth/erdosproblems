@@ -7468,7 +7468,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["in progress"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -12064,3 +12064,69 @@
     last_update: "2025-09-28"
   oeis: ["N/A"]
   tags: ["geometry", "chromatic number"]
+
+- number: "1093"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-18"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["number theory", "binomial coefficients"]
+
+- number: "1094"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-18"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["number theory", "binomial coefficients"]
+
+- number: "1095"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-18"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["A003458"]
+  tags: ["number theory", "binomial coefficients"]
+
+- number: "1096"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-18"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["number theory"]
+
+- number: "1097"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-18"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["number theory", "additive combinatorics"]
+
+- number: "1098"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-10-18"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["group theory"]
