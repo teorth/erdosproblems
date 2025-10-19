@@ -17,7 +17,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A160559"]
   tags: ["number theory", "covering systems"]
 
 - number: "3"
