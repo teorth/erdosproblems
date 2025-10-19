@@ -11,9 +11,9 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1098 problems in total, of which
+There are 1103 problems in total, of which
 - 98 are attached to a monetary prize.
-- 260 have been proved.
+- 261 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 92 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -24,14 +24,14 @@ There are 1098 problems in total, of which
 - 7 appear to be open, but have been reduced to a finite computation. (decidable)
 - 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 644 appear to be completely open.
+- 648 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 227 have been linked to 272 distinct [OEIS](https://oeis.org/) sequences, with a total of 326 links created.
   - 28 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 330 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 298 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 331 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 299 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -1136,4 +1136,9 @@ There are 1098 problems in total, of which
 | [1096](https://www.erdosproblems.com/1096) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1097](https://www.erdosproblems.com/1097) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [1098](https://www.erdosproblems.com/1098) | no | proved | no | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
+| [1099](https://www.erdosproblems.com/1099) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [1100](https://www.erdosproblems.com/1100) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [1101](https://www.erdosproblems.com/1101) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1102](https://www.erdosproblems.com/1102) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1103](https://www.erdosproblems.com/1103) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 <!-- TABLE:END -->
