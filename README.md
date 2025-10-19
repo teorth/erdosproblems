@@ -13,20 +13,20 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1098 problems in total, of which
 - 98 are attached to a monetary prize.
-- 260 have been proved.
+- 259 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 91 have been disproved.
   - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 45 have been otherwise solved.
+- 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 6 appear to be open, but have been reduced to a finite computation. (decidable)
 - 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 646 appear to be completely open.
+- 645 appear to be completely open.
 - 4 have ambiguous statements.
-- 1 have a literature review requested.
+- 0 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 226 have been linked to 272 distinct [OEIS](https://oeis.org/) sequences, with a total of 325 links created.
   - 28 of these OEIS sequences were added since the creation of this database (A387000 onwards).
@@ -552,7 +552,7 @@ There are 1098 problems in total, of which
 | [512](https://www.erdosproblems.com/512) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Littlewood's conjecture |
 | [513](https://www.erdosproblems.com/513) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [514](https://www.erdosproblems.com/514) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [515](https://www.erdosproblems.com/515) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [515](https://www.erdosproblems.com/515) | no | solved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [516](https://www.erdosproblems.com/516) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [517](https://www.erdosproblems.com/517) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [518](https://www.erdosproblems.com/518) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
@@ -885,7 +885,7 @@ There are 1098 problems in total, of which
 | [845](https://www.erdosproblems.com/845) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [846](https://www.erdosproblems.com/846) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [847](https://www.erdosproblems.com/847) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [848](https://www.erdosproblems.com/848) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [848](https://www.erdosproblems.com/848) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [849](https://www.erdosproblems.com/849) | no | open | no | [A003016](https://oeis.org/A003016), [A003015](https://oeis.org/A003015), [A059233](https://oeis.org/A059233), [A098565](https://oeis.org/A098565), [A090162](https://oeis.org/A090162), [A180058](https://oeis.org/A180058), [A182237](https://oeis.org/A182237) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) | Singmaster's conjecture |
 | [850](https://www.erdosproblems.com/850) | no | open | no | [A343101](https://oeis.org/A343101) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | Erdős-Woods conjecture |
 | [851](https://www.erdosproblems.com/851) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/851.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -1056,7 +1056,7 @@ There are 1098 problems in total, of which
 | [1016](https://www.erdosproblems.com/1016) | no | open | no | [A105206](https://oeis.org/A105206) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) | pancyclic graphs |
 | [1017](https://www.erdosproblems.com/1017) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1018](https://www.erdosproblems.com/1018) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
-| [1019](https://www.erdosproblems.com/1019) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) | literature review sought |
+| [1019](https://www.erdosproblems.com/1019) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
 | [1020](https://www.erdosproblems.com/1020) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) | Erdős matching conjecture |
 | [1021](https://www.erdosproblems.com/1021) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1022](https://www.erdosproblems.com/1022) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
