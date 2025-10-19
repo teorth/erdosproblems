@@ -1028,7 +1028,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["geometry", "convex"]
+  tags: ["geometry", "convex", "distances"]
 
 - number: "94"
   prize: "£25"
@@ -1039,7 +1039,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["geometry", "convex"]
+  tags: ["geometry", "convex", "distances"]
 
 - number: "95"
   prize: "$500"
@@ -1141,7 +1141,7 @@
   tags: ["geometry", "distances"]
 
 - number: "104"
-  prize: "$100"
+  prize: "£100"
   status:
     state: "open"
     last_update: "2025-08-31"
@@ -5761,7 +5761,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["analysis", "polynomials"]
+  tags: ["analysis", "polynomials", "probability"]
 
 - number: "522"
   prize: "no"
@@ -8078,7 +8078,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["number theory", "factorials"]
+  tags: ["number theory", "binomial coefficients"]
 
 - number: "732"
   prize: "no"
@@ -10847,7 +10847,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["geometry", "convex"]
+  tags: ["geometry", "convex", "distances"]
 
 - number: "983"
   prize: "no"
