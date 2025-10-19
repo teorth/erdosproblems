@@ -9362,7 +9362,7 @@
 - number: "848"
   prize: "no"
   status:
-    state: "proved"
+    state: "decidable"
     last_update: "2025-10-19"
   oeis: ["N/A"]
   formalized:
