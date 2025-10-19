@@ -8505,7 +8505,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A263647", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -11744,7 +11744,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A389360"]
   tags: ["number theory"]
 
 - number: "1064"
