@@ -5689,7 +5689,7 @@
 - number: "515"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-10-19"
   oeis: ["N/A"]
   formalized:
@@ -8558,8 +8558,8 @@
 - number: "775"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2025-10-19"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -9362,7 +9362,7 @@
 - number: "848"
   prize: "no"
   status:
-    state: "solved"
+    state: "proved"
     last_update: "2025-10-19"
   oeis: ["N/A"]
   formalized:
