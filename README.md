@@ -28,10 +28,10 @@ There are 1098 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 193 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 226 have been linked to 272 distinct [OEIS](https://oeis.org/) sequences, with a total of 325 links created.
+- 227 have been linked to 272 distinct [OEIS](https://oeis.org/) sequences, with a total of 326 links created.
   - 28 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 330 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 299 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 298 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -51,7 +51,7 @@ There are 1098 problems in total, of which
 | [11](https://www.erdosproblems.com/11) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/11.lean) | [A001220](https://oeis.org/A001220), [A377587](https://oeis.org/A377587) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [12](https://www.erdosproblems.com/12) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/12.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [13](https://www.erdosproblems.com/13) | $100 | proved | no | [A002264](https://oeis.org/A002264) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [14](https://www.erdosproblems.com/14) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [14](https://www.erdosproblems.com/14) | no | open | no | [A143824](https://oeis.org/A143824), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [15](https://www.erdosproblems.com/15) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [16](https://www.erdosproblems.com/16) | no | disproved | no | [A006285](https://oeis.org/A006285) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [17](https://www.erdosproblems.com/17) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/17.lean) | [A038133](https://oeis.org/A038133) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | cluster primes |
