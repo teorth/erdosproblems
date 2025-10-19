@@ -5689,8 +5689,8 @@
 - number: "515"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-10-19"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -9362,8 +9362,8 @@
 - number: "848"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-10-19"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -11250,13 +11250,12 @@
 - number: "1019"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-09-12"
+    state: "falsifiable"
+    last_update: "2025-10-19"
   formalized:
     state: "no"
     last_update: "2025-09-10"
   oeis: ["N/A"]
-  comments: "literature review sought"
   tags: ["graph theory", "planar graphs"]
 
 - number: "1020"
