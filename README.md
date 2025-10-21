@@ -28,10 +28,10 @@ There are 1103 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 194 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 228 have been linked to 273 distinct [OEIS](https://oeis.org/) sequences, with a total of 327 links created.
-  - 29 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 331 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 299 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 229 have been linked to 274 distinct [OEIS](https://oeis.org/) sequences, with a total of 328 links created.
+  - 30 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 330 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 298 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -239,7 +239,7 @@ There are 1103 problems in total, of which
 | [199](https://www.erdosproblems.com/199) | no | disproved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [200](https://www.erdosproblems.com/200) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/200.lean) | [A005115](https://oeis.org/A005115) | [primes](https://www.erdosproblems.com/tags/primes), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [201](https://www.erdosproblems.com/201) | no | open | no | [A003002](https://oeis.org/A003002), [A003003](https://oeis.org/A003003), [A003004](https://oeis.org/A003004), [A003005](https://oeis.org/A003005), possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
-| [202](https://www.erdosproblems.com/202) | no | open | no | possible | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
+| [202](https://www.erdosproblems.com/202) | no | open | no | [A389975](https://oeis.org/A389975) | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [203](https://www.erdosproblems.com/203) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/203.lean) | N/A | [primes](https://www.erdosproblems.com/tags/primes), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [204](https://www.erdosproblems.com/204) | no | disproved | no | N/A | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [205](https://www.erdosproblems.com/205) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
