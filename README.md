@@ -27,7 +27,7 @@ There are 1103 problems in total, of which
 - 648 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 196 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 197 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 229 have been linked to 274 distinct [OEIS](https://oeis.org/) sequences, with a total of 328 links created.
   - 30 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 330 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -313,7 +313,7 @@ There are 1103 problems in total, of which
 | [273](https://www.erdosproblems.com/273) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/273.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [274](https://www.erdosproblems.com/274) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/274.lean) | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) | Herzog-Schönheim conjecture |
 | [275](https://www.erdosproblems.com/275) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
-| [276](https://www.erdosproblems.com/276) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
+| [276](https://www.erdosproblems.com/276) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/276.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [277](https://www.erdosproblems.com/277) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [278](https://www.erdosproblems.com/278) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [279](https://www.erdosproblems.com/279) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems), [primes](https://www.erdosproblems.com/tags/primes) |  |
