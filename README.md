@@ -27,7 +27,7 @@ There are 1103 problems in total, of which
 - 648 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 194 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 195 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 229 have been linked to 274 distinct [OEIS](https://oeis.org/) sequences, with a total of 328 links created.
   - 30 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 330 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -540,7 +540,7 @@ There are 1103 problems in total, of which
 | [500](https://www.erdosproblems.com/500) | $500 | open | no | [A140462](https://oeis.org/A140462) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [501](https://www.erdosproblems.com/501) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [502](https://www.erdosproblems.com/502) | no | solved | no | [A027627](https://oeis.org/A027627) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [503](https://www.erdosproblems.com/503) | no | open | no | [A175769](https://oeis.org/A175769) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [503](https://www.erdosproblems.com/503) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/503.lean) | [A175769](https://oeis.org/A175769) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [504](https://www.erdosproblems.com/504) | no | solved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) | Blumenthal's problem |
 | [505](https://www.erdosproblems.com/505) | no | disproved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) | Borsuk's problem |
 | [506](https://www.erdosproblems.com/506) | no | decidable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
