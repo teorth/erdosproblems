@@ -15,14 +15,14 @@ There are 1103 problems in total, of which
 - 98 are attached to a monetary prize.
 - 261 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 92 have been disproved.
-  - 1 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+- 93 have been disproved.
+  - 2 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 45 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 7 appear to be open, but have been reduced to a finite computation. (decidable)
-- 38 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 648 appear to be completely open.
 - 4 have ambiguous statements.
@@ -744,7 +744,7 @@ There are 1103 problems in total, of which
 | [704](https://www.erdosproblems.com/704) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [705](https://www.erdosproblems.com/705) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [706](https://www.erdosproblems.com/706) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [707](https://www.erdosproblems.com/707) | $500 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [707](https://www.erdosproblems.com/707) | $1000 | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [708](https://www.erdosproblems.com/708) | $100 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [709](https://www.erdosproblems.com/709) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
