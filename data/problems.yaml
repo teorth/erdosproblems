@@ -7805,10 +7805,10 @@
   tags: ["graph theory", "chromatic number"]
 
 - number: "707"
-  prize: "$500"
+  prize: "$1000"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2025-10-21"
   oeis: ["N/A"]
   formalized:
     state: "yes"
