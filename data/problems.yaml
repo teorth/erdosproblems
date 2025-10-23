@@ -7294,6 +7294,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "ambiguous statement"
   tags: ["geometry", "distances", "convex"]
 
 - number: "661"
