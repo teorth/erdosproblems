@@ -25,7 +25,7 @@ There are 1103 problems in total, of which
 - 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 648 appear to be completely open.
-- 4 have ambiguous statements.
+- 5 have ambiguous statements.
 - 0 have a literature review requested.
 - 197 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 230 have been linked to 275 distinct [OEIS](https://oeis.org/) sequences, with a total of 329 links created.
@@ -697,7 +697,7 @@ There are 1103 problems in total, of which
 | [657](https://www.erdosproblems.com/657) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [658](https://www.erdosproblems.com/658) | no | proved | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [659](https://www.erdosproblems.com/659) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [660](https://www.erdosproblems.com/660) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
+| [660](https://www.erdosproblems.com/660) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) | ambiguous statement |
 | [661](https://www.erdosproblems.com/661) | $50 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [662](https://www.erdosproblems.com/662) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | ambiguous statement |
 | [663](https://www.erdosproblems.com/663) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
