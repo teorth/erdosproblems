@@ -6404,7 +6404,7 @@
 - number: "580"
   prize: "no"
   status:
-    state: "falsifiable"
+    state: "decidable"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
