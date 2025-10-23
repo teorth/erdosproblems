@@ -21,8 +21,8 @@ There are 1103 problems in total, of which
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
-- 7 appear to be open, but have been reduced to a finite computation. (decidable)
-- 37 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 8 appear to be open, but have been reduced to a finite computation. (decidable)
+- 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 648 appear to be completely open.
 - 5 have ambiguous statements.
@@ -617,7 +617,7 @@ There are 1103 problems in total, of which
 | [577](https://www.erdosproblems.com/577) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [578](https://www.erdosproblems.com/578) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [579](https://www.erdosproblems.com/579) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
-| [580](https://www.erdosproblems.com/580) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [580](https://www.erdosproblems.com/580) | no | decidable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [581](https://www.erdosproblems.com/581) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [582](https://www.erdosproblems.com/582) | $100 | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [583](https://www.erdosproblems.com/583) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
