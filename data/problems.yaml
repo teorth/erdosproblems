@@ -12035,8 +12035,8 @@
 - number: "1090"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-17"
+    state: "proved"
+    last_update: "2025-10-19"
   formalized:
     state: "no"
     last_update: "2025-09-28"
