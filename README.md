@@ -27,7 +27,7 @@ There are 1103 problems in total, of which
 - 647 appear to be completely open.
 - 5 have ambiguous statements.
 - 0 have a literature review requested.
-- 198 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 231 have been linked to 276 distinct [OEIS](https://oeis.org/) sequences, with a total of 330 links created.
   - 32 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 329 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -126,7 +126,7 @@ There are 1103 problems in total, of which
 | [86](https://www.erdosproblems.com/86) | $100 | open | no | [A245762](https://oeis.org/A245762) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [87](https://www.erdosproblems.com/87) | no | open | no | [A059442](https://oeis.org/A059442), possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [88](https://www.erdosproblems.com/88) | $100 | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [89](https://www.erdosproblems.com/89) | $500 | open | no | [A186704](https://oeis.org/A186704), [A131628](https://oeis.org/A131628) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | Erdős distance problem |
+| [89](https://www.erdosproblems.com/89) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/89.lean) | [A186704](https://oeis.org/A186704), [A131628](https://oeis.org/A131628) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | Erdős distance problem |
 | [90](https://www.erdosproblems.com/90) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/90.lean) | [A186705](https://oeis.org/A186705) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | unit distance problem |
 | [91](https://www.erdosproblems.com/91) | no | open | no | [A186704](https://oeis.org/A186704), possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [92](https://www.erdosproblems.com/92) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/92.lean) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
