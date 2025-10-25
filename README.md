@@ -15,14 +15,14 @@ There are 1103 problems in total, of which
 - 98 are attached to a monetary prize.
 - 262 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 93 have been disproved.
+- 95 have been disproved.
   - 2 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 45 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
-- 36 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 34 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 647 appear to be completely open.
 - 5 have ambiguous statements.
@@ -142,7 +142,7 @@ There are 1103 problems in total, of which
 | [102](https://www.erdosproblems.com/102) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [103](https://www.erdosproblems.com/103) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [104](https://www.erdosproblems.com/104) | £100 | open | no | [A003829](https://oeis.org/A003829) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [105](https://www.erdosproblems.com/105) | $50 | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [105](https://www.erdosproblems.com/105) | $50 | disproved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [106](https://www.erdosproblems.com/106) | no | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [107](https://www.erdosproblems.com/107) | $500 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/107.lean) | [A000051](https://oeis.org/A000051) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
 | [108](https://www.erdosproblems.com/108) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
@@ -645,7 +645,7 @@ There are 1103 problems in total, of which
 | [605](https://www.erdosproblems.com/605) | no | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [606](https://www.erdosproblems.com/606) | no | solved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [607](https://www.erdosproblems.com/607) | $250 | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [608](https://www.erdosproblems.com/608) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [608](https://www.erdosproblems.com/608) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [609](https://www.erdosproblems.com/609) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [610](https://www.erdosproblems.com/610) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [611](https://www.erdosproblems.com/611) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
