@@ -894,7 +894,7 @@ There are 1103 problems in total, of which
 | [854](https://www.erdosproblems.com/854) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [855](https://www.erdosproblems.com/855) | no | falsifiable | no | [A023193](https://oeis.org/A023193) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | second Hardy-Littlewood conjecture |
 | [856](https://www.erdosproblems.com/856) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [857](https://www.erdosproblems.com/857) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [857](https://www.erdosproblems.com/857) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | weak sunflower problem |
 | [858](https://www.erdosproblems.com/858) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [859](https://www.erdosproblems.com/859) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [860](https://www.erdosproblems.com/860) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
