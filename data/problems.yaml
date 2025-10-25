@@ -9471,6 +9471,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "weak sunflower problem"
   tags: ["combinatorics"]
 
 - number: "858"
