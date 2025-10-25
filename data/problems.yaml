@@ -6942,6 +6942,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "Erdős-Lovász Tihany Conjecture"
   tags: ["graph theory", "chromatic number"]
 
 - number: "629"
