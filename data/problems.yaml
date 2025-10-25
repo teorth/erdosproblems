@@ -1154,8 +1154,8 @@
 - number: "105"
   prize: "$50"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2025-10-25"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6715,8 +6715,8 @@
 - number: "608"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2025-10-25"
   oeis: ["N/A"]
   formalized:
     state: "no"
