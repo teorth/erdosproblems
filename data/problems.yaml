@@ -12188,3 +12188,13 @@
   oeis: ["N/A"]
   tags: ["number theory"]
 
+- number: "1104"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-26"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["graph theory", "chromatic number]
