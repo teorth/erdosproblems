@@ -3807,7 +3807,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A001661"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
