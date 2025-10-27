@@ -28,10 +28,10 @@ There are 1104 problems in total, of which
 - 5 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 233 have been linked to 278 distinct [OEIS](https://oeis.org/) sequences, with a total of 332 links created.
+- 234 have been linked to 279 distinct [OEIS](https://oeis.org/) sequences, with a total of 333 links created.
   - 32 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 328 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 296 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 327 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 295 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -878,7 +878,7 @@ There are 1104 problems in total, of which
 | [838](https://www.erdosproblems.com/838) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [839](https://www.erdosproblems.com/839) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [840](https://www.erdosproblems.com/840) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [841](https://www.erdosproblems.com/841) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [841](https://www.erdosproblems.com/841) | no | solved | no | [A092487](https://oeis.org/A092487) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [842](https://www.erdosproblems.com/842) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [843](https://www.erdosproblems.com/843) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [844](https://www.erdosproblems.com/844) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
