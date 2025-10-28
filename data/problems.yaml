@@ -4345,8 +4345,8 @@
 - number: "394"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "open"
+    last_update: "2025-10-28"
   oeis: ["A344005"]
   formalized:
     state: "no"
@@ -11409,8 +11409,8 @@
 - number: "1034"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-09-13"
+    state: "disproved"
+    last_update: "2025-10-28"
   formalized:
     state: "no"
     last_update: "2025-09-10"
