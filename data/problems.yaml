@@ -10106,7 +10106,7 @@
 - number: "915"
   prize: "no"
   status:
-    state: "falsifiable"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11409,7 +11409,7 @@
 - number: "1034"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-09-13"
   formalized:
     state: "no"
