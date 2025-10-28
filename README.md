@@ -28,10 +28,10 @@ There are 1104 problems in total, of which
 - 5 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 234 have been linked to 279 distinct [OEIS](https://oeis.org/) sequences, with a total of 333 links created.
+- 235 have been linked to 280 distinct [OEIS](https://oeis.org/) sequences, with a total of 334 links created.
   - 32 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 327 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 295 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 294 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -999,7 +999,7 @@ There are 1104 problems in total, of which
 | [959](https://www.erdosproblems.com/959) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [960](https://www.erdosproblems.com/960) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [961](https://www.erdosproblems.com/961) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [962](https://www.erdosproblems.com/962) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [962](https://www.erdosproblems.com/962) | no | open | no | [A327909](https://oeis.org/A327909) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [963](https://www.erdosproblems.com/963) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [964](https://www.erdosproblems.com/964) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [965](https://www.erdosproblems.com/965) | no | open | no | N/A | [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
