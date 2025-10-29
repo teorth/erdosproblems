@@ -28,8 +28,8 @@ There are 1104 problems in total, of which
 - 5 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 235 have been linked to 280 distinct [OEIS](https://oeis.org/) sequences, with a total of 334 links created.
-  - 32 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 236 have been linked to 281 distinct [OEIS](https://oeis.org/) sequences, with a total of 335 links created.
+  - 33 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 326 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 294 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 1 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
@@ -713,7 +713,7 @@ There are 1104 problems in total, of which
 | [673](https://www.erdosproblems.com/673) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [674](https://www.erdosproblems.com/674) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [675](https://www.erdosproblems.com/675) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [676](https://www.erdosproblems.com/676) | no | open | no | in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [676](https://www.erdosproblems.com/676) | no | open | no | [A390181](https://oeis.org/A390181), in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [677](https://www.erdosproblems.com/677) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [678](https://www.erdosproblems.com/678) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/678.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [679](https://www.erdosproblems.com/679) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
