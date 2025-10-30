@@ -13,6 +13,8 @@ To make an edit to the [main table](README.md#table) of this repository:
 
 If you are uncertain as to whether an edit is appropriate, or are unable to make a pull request, you are welcome to [open an issue](https://github.com/teorth/erdosproblems/issues) on this repository to discuss it, or (if the question is mathematical in nature) use the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site; you can also join the discussion at [this blog post for the project](https://terrytao.wordpress.com/2025/08/31/a-crowdsourced-project-to-link-up-erdosproblems-com-to-the-oeis/).
 
+If you find an interesting sequence connected to an Erdős problem, but find it challenging to compute a significant number of entries of the sequence, please feel free to [open an issue](https://github.com/teorth/erdosproblems/issues) on this repository with a title such as "HELP WANTED: Computing sequence for Erdős problem #X", describing the sequence and any partial computations you have done so far.  (One can also use the "help wanted" label for the issue.) Other contributors may be able to help you compute further entries of the sequence. 
+
 ## Sample template
 
 ```yaml
