@@ -28,12 +28,12 @@ There are 1104 problems in total, of which
 - 5 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 239 have been linked to 285 distinct [OEIS](https://oeis.org/) sequences, with a total of 340 links created.
-  - 35 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 239 have been linked to 287 distinct [OEIS](https://oeis.org/) sequences, with a total of 342 links created.
+  - 37 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 324 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 291 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
-- 2 have a related sequence whose generation is currently in progress.
+- 1 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -119,7 +119,7 @@ There are 1104 problems in total, of which
 | [79](https://www.erdosproblems.com/79) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [80](https://www.erdosproblems.com/80) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [81](https://www.erdosproblems.com/81) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [82](https://www.erdosproblems.com/82) | no | open | no | [A120414](https://oeis.org/A120414), in progress | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [82](https://www.erdosproblems.com/82) | no | open | no | [A120414](https://oeis.org/A120414), [A390256](https://oeis.org/A390256), [A390257](https://oeis.org/A390257) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [83](https://www.erdosproblems.com/83) | $500 | proved | no | [A071799](https://oeis.org/A071799), [A387635](https://oeis.org/A387635) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [84](https://www.erdosproblems.com/84) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [85](https://www.erdosproblems.com/85) | no | falsifiable | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
