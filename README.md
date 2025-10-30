@@ -28,10 +28,10 @@ There are 1104 problems in total, of which
 - 5 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 238 have been linked to 284 distinct [OEIS](https://oeis.org/) sequences, with a total of 338 links created.
-  - 34 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 325 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 292 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 239 have been linked to 285 distinct [OEIS](https://oeis.org/) sequences, with a total of 340 links created.
+  - 35 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 324 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 291 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -891,7 +891,7 @@ There are 1104 problems in total, of which
 | [851](https://www.erdosproblems.com/851) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/851.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [852](https://www.erdosproblems.com/852) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [853](https://www.erdosproblems.com/853) | no | open | no | [A001223](https://oeis.org/A001223), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [854](https://www.erdosproblems.com/854) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [854](https://www.erdosproblems.com/854) | no | open | no | [A389839](https://oeis.org/A389839), [A048670](https://oeis.org/A048670) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [855](https://www.erdosproblems.com/855) | no | falsifiable | no | [A023193](https://oeis.org/A023193) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | second Hardy-Littlewood conjecture |
 | [856](https://www.erdosproblems.com/856) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [857](https://www.erdosproblems.com/857) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | weak sunflower problem |
