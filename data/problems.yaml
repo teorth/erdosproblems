@@ -901,7 +901,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A120414", "in progress"]
+  oeis: ["A120414", "A390256", "A390257"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
