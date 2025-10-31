@@ -22,9 +22,9 @@ There are 1105 problems in total, of which
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
-- 33 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 34 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 645 appear to be completely open.
+- 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -165,7 +165,7 @@ There are 1105 problems in total, of which
 | [125](https://www.erdosproblems.com/125) | no | open | no | [A367090](https://oeis.org/A367090) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
 | [126](https://www.erdosproblems.com/126) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/126.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [127](https://www.erdosproblems.com/127) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [128](https://www.erdosproblems.com/128) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [128](https://www.erdosproblems.com/128) | $250 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [129](https://www.erdosproblems.com/129) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [130](https://www.erdosproblems.com/130) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [131](https://www.erdosproblems.com/131) | no | open | no | [A068063](https://oeis.org/A068063) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
