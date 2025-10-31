@@ -1411,8 +1411,8 @@
 - number: "128"
   prize: "$250"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2025-10-31"
   oeis: ["N/A"]
   formalized:
     state: "yes"
