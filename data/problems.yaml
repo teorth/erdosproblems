@@ -8606,7 +8606,7 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A005235"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
