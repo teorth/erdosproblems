@@ -13,25 +13,25 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1104 problems in total, of which
 - 98 are attached to a monetary prize.
-- 261 have been proved.
+- 264 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 96 have been disproved.
   - 2 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 46 have been otherwise solved.
+- 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 33 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 648 appear to be completely open.
-- 5 have ambiguous statements.
+- 644 appear to be completely open.
+- 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 239 have been linked to 287 distinct [OEIS](https://oeis.org/) sequences, with a total of 342 links created.
   - 37 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 324 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 291 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 323 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 290 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -470,8 +470,8 @@ There are 1104 problems in total, of which
 | [430](https://www.erdosproblems.com/430) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [431](https://www.erdosproblems.com/431) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | inverse Goldbach problem |
 | [432](https://www.erdosproblems.com/432) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [433](https://www.erdosproblems.com/433) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [434](https://www.erdosproblems.com/434) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [433](https://www.erdosproblems.com/433) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [434](https://www.erdosproblems.com/434) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/434.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [435](https://www.erdosproblems.com/435) | no | proved | no | [A389479](https://oeis.org/A389479) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [436](https://www.erdosproblems.com/436) | no | open | no | [A000445](https://oeis.org/A000445), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [437](https://www.erdosproblems.com/437) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -1046,10 +1046,10 @@ There are 1104 problems in total, of which
 | [1006](https://www.erdosproblems.com/1006) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [1007](https://www.erdosproblems.com/1007) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1008](https://www.erdosproblems.com/1008) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [1009](https://www.erdosproblems.com/1009) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1009](https://www.erdosproblems.com/1009) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1010](https://www.erdosproblems.com/1010) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1011](https://www.erdosproblems.com/1011) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [1012](https://www.erdosproblems.com/1012) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | ambiguous statement |
+| [1012](https://www.erdosproblems.com/1012) | no | solved | no | ? | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1013](https://www.erdosproblems.com/1013) | no | open | no | [A292528](https://oeis.org/A292528) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1014](https://www.erdosproblems.com/1014) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1015](https://www.erdosproblems.com/1015) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
