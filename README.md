@@ -28,7 +28,7 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 240 have been linked to 288 distinct [OEIS](https://oeis.org/) sequences, with a total of 343 links created.
+- 241 have been linked to 289 distinct [OEIS](https://oeis.org/) sequences, with a total of 344 links created.
   - 37 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 324 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 290 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -816,7 +816,7 @@ There are 1105 problems in total, of which
 | [776](https://www.erdosproblems.com/776) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [777](https://www.erdosproblems.com/777) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [778](https://www.erdosproblems.com/778) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [779](https://www.erdosproblems.com/779) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [779](https://www.erdosproblems.com/779) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | [A005235](https://oeis.org/A005235) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [780](https://www.erdosproblems.com/780) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [781](https://www.erdosproblems.com/781) | no | disproved | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [782](https://www.erdosproblems.com/782) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
