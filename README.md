@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 199 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 239 have been linked to 287 distinct [OEIS](https://oeis.org/) sequences, with a total of 342 links created.
+- 240 have been linked to 288 distinct [OEIS](https://oeis.org/) sequences, with a total of 343 links created.
   - 37 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 324 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 291 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 290 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -451,7 +451,7 @@ There are 1105 problems in total, of which
 | [411](https://www.erdosproblems.com/411) | no | open | no | [A383044](https://oeis.org/A383044), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [412](https://www.erdosproblems.com/412) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/412.lean) | [A007497](https://oeis.org/A007497), [A051572](https://oeis.org/A051572) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [413](https://www.erdosproblems.com/413) | no | open | no | [A005236](https://oeis.org/A005236) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
-| [414](https://www.erdosproblems.com/414) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [414](https://www.erdosproblems.com/414) | no | open | no | [A064491](https://oeis.org/A064491), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [415](https://www.erdosproblems.com/415) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [416](https://www.erdosproblems.com/416) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/416.lean) | [A264810](https://oeis.org/A264810) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [417](https://www.erdosproblems.com/417) | no | open | no | [A264810](https://oeis.org/A264810), [A061070](https://oeis.org/A061070) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
