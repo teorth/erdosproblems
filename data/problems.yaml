@@ -12197,3 +12197,14 @@
     last_update: "2025-09-28"
   oeis: ["possible"]
   tags: ["graph theory", "chromatic number"]
+
+- number: "1105"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-10-31"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["graph theory", "ramsey theory"]
