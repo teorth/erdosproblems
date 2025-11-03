@@ -6770,8 +6770,8 @@
 - number: "613"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2025-11-3"
   oeis: ["N/A"]
   formalized:
     state: "no"
