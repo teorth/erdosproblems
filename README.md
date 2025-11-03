@@ -15,14 +15,14 @@ There are 1105 problems in total, of which
 - 98 are attached to a monetary prize.
 - 264 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 96 have been disproved.
+- 97 have been disproved.
   - 2 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are independent of the ZFC axioms of mathematics. (independent)
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
-- 34 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- 33 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
@@ -650,7 +650,7 @@ There are 1105 problems in total, of which
 | [610](https://www.erdosproblems.com/610) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [611](https://www.erdosproblems.com/611) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [612](https://www.erdosproblems.com/612) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [613](https://www.erdosproblems.com/613) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [613](https://www.erdosproblems.com/613) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [614](https://www.erdosproblems.com/614) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [615](https://www.erdosproblems.com/615) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [616](https://www.erdosproblems.com/616) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
