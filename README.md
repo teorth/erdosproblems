@@ -27,7 +27,7 @@ There are 1105 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 201 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 202 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 242 have been linked to 290 distinct [OEIS](https://oeis.org/) sequences, with a total of 345 links created.
   - 37 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 323 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -104,7 +104,7 @@ There are 1105 problems in total, of which
 | [64](https://www.erdosproblems.com/64) | $1000 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/64.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [65](https://www.erdosproblems.com/65) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [66](https://www.erdosproblems.com/66) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/66.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [67](https://www.erdosproblems.com/67) | $500 | proved | no | [A181740](https://oeis.org/A181740), [A237695](https://oeis.org/A237695) | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) | Erdős discrepancy problem |
+| [67](https://www.erdosproblems.com/67) | $500 | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/67.lean) | [A181740](https://oeis.org/A181740), [A237695](https://oeis.org/A237695) | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) | Erdős discrepancy problem |
 | [68](https://www.erdosproblems.com/68) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/68.lean) | [A331373](https://oeis.org/A331373) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [69](https://www.erdosproblems.com/69) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/69.lean) | [A262153](https://oeis.org/A262153) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [70](https://www.erdosproblems.com/70) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
