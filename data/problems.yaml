@@ -6770,7 +6770,7 @@
 - number: "613"
   prize: "no"
   status:
-    state: "disproved"
+    state: "disproved (Lean)"
     last_update: "2025-11-3"
   oeis: ["N/A"]
   formalized:
