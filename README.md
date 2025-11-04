@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 202 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 242 have been linked to 290 distinct [OEIS](https://oeis.org/) sequences, with a total of 345 links created.
-  - 37 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 323 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 289 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 243 have been linked to 291 distinct [OEIS](https://oeis.org/) sequences, with a total of 346 links created.
+  - 38 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 322 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 288 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -337,7 +337,7 @@ There are 1105 problems in total, of which
 | [297](https://www.erdosproblems.com/297) | no | solved | no | [A092670](https://oeis.org/A092670) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [298](https://www.erdosproblems.com/298) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/298.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [299](https://www.erdosproblems.com/299) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/299.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
-| [300](https://www.erdosproblems.com/300) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [300](https://www.erdosproblems.com/300) | no | solved | no | [A390393](https://oeis.org/A390393) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [301](https://www.erdosproblems.com/301) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [302](https://www.erdosproblems.com/302) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [303](https://www.erdosproblems.com/303) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/303.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
