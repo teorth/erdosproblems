@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 202 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 244 have been linked to 292 distinct [OEIS](https://oeis.org/) sequences, with a total of 347 links created.
+- 245 have been linked to 292 distinct [OEIS](https://oeis.org/) sequences, with a total of 348 links created.
   - 39 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 321 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 287 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 320 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 286 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1006,7 +1006,7 @@ There are 1105 problems in total, of which
 | [966](https://www.erdosproblems.com/966) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [967](https://www.erdosproblems.com/967) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [968](https://www.erdosproblems.com/968) | no | open | no | [A387591](https://oeis.org/A387591) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [969](https://www.erdosproblems.com/969) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [969](https://www.erdosproblems.com/969) | no | open | no | [A013928](https://oeis.org/A013928) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [970](https://www.erdosproblems.com/970) | no | open | no | [A048669](https://oeis.org/A048669) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Jacobsthal's function |
 | [971](https://www.erdosproblems.com/971) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [972](https://www.erdosproblems.com/972) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
