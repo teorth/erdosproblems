@@ -3127,8 +3127,8 @@
     last_update: "2025-08-31"
   oeis: ["A380791"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-11-06"
   tags: ["number theory", "unit fractions"]
 
 - number: "284"
