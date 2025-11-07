@@ -28,7 +28,7 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 203 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 246 have been linked to 293 distinct [OEIS](https://oeis.org/) sequences, with a total of 349 links created.
+- 247 have been linked to 294 distinct [OEIS](https://oeis.org/) sequences, with a total of 351 links created.
   - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 319 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 285 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -88,7 +88,7 @@ There are 1105 problems in total, of which
 | [48](https://www.erdosproblems.com/48) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/48.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [49](https://www.erdosproblems.com/49) | no | proved | no | [A365339](https://oeis.org/A365339), [A365474](https://oeis.org/A365474) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [50](https://www.erdosproblems.com/50) | $250 | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [51](https://www.erdosproblems.com/51) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/51.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [51](https://www.erdosproblems.com/51) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/51.lean) | [A002202](https://oeis.org/A002202), [A014197](https://oeis.org/A014197) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [52](https://www.erdosproblems.com/52) | $250 | open | no | [A263996](https://oeis.org/A263996) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sum-product problem |
 | [53](https://www.erdosproblems.com/53) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [54](https://www.erdosproblems.com/54) | $100 | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
