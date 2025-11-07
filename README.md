@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 203 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 247 have been linked to 294 distinct [OEIS](https://oeis.org/) sequences, with a total of 351 links created.
+- 248 have been linked to 295 distinct [OEIS](https://oeis.org/) sequences, with a total of 352 links created.
   - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 319 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 285 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 318 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 284 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -802,7 +802,7 @@ There are 1105 problems in total, of which
 | [762](https://www.erdosproblems.com/762) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [763](https://www.erdosproblems.com/763) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [764](https://www.erdosproblems.com/764) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [765](https://www.erdosproblems.com/765) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
+| [765](https://www.erdosproblems.com/765) | no | solved | no | [A006855](https://oeis.org/A006855) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [766](https://www.erdosproblems.com/766) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [767](https://www.erdosproblems.com/767) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [768](https://www.erdosproblems.com/768) | no | open | no | [A001034](https://oeis.org/A001034), [A352287](https://oeis.org/A352287) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
