@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 203 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 248 have been linked to 295 distinct [OEIS](https://oeis.org/) sequences, with a total of 352 links created.
+- 249 have been linked to 296 distinct [OEIS](https://oeis.org/) sequences, with a total of 353 links created.
   - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 318 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 284 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 317 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 283 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -610,7 +610,7 @@ There are 1105 problems in total, of which
 | [570](https://www.erdosproblems.com/570) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [571](https://www.erdosproblems.com/571) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [572](https://www.erdosproblems.com/572) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
-| [573](https://www.erdosproblems.com/573) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
+| [573](https://www.erdosproblems.com/573) | no | open | no | [A006856](https://oeis.org/A006856) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [574](https://www.erdosproblems.com/574) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [575](https://www.erdosproblems.com/575) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [576](https://www.erdosproblems.com/576) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
