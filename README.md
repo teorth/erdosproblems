@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 203 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 250 have been linked to 297 distinct [OEIS](https://oeis.org/) sequences, with a total of 354 links created.
+- 251 have been linked to 297 distinct [OEIS](https://oeis.org/) sequences, with a total of 355 links created.
   - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 316 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 282 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 281 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -567,7 +567,7 @@ There are 1105 problems in total, of which
 | [527](https://www.erdosproblems.com/527) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [528](https://www.erdosproblems.com/528) | no | open | no | [A387897](https://oeis.org/A387897), [A156816](https://oeis.org/A156816) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [529](https://www.erdosproblems.com/529) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [probability](https://www.erdosproblems.com/tags/probability) |  |
-| [530](https://www.erdosproblems.com/530) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [530](https://www.erdosproblems.com/530) | no | open | no | [A143824](https://oeis.org/A143824), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [531](https://www.erdosproblems.com/531) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [532](https://www.erdosproblems.com/532) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [533](https://www.erdosproblems.com/533) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
