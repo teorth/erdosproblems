@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 203 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 249 have been linked to 296 distinct [OEIS](https://oeis.org/) sequences, with a total of 353 links created.
+- 250 have been linked to 297 distinct [OEIS](https://oeis.org/) sequences, with a total of 354 links created.
   - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 317 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 283 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 316 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 282 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -899,7 +899,7 @@ There are 1105 problems in total, of which
 | [859](https://www.erdosproblems.com/859) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [860](https://www.erdosproblems.com/860) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [861](https://www.erdosproblems.com/861) | no | solved | no | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022), [A143823](https://oeis.org/A143823) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [862](https://www.erdosproblems.com/862) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [862](https://www.erdosproblems.com/862) | no | open | no | [A382395](https://oeis.org/A382395) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [863](https://www.erdosproblems.com/863) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [864](https://www.erdosproblems.com/864) | no | open | no | [A389182](https://oeis.org/A389182) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [865](https://www.erdosproblems.com/865) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
