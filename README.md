@@ -27,7 +27,7 @@ There are 1105 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 203 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 204 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 251 have been linked to 297 distinct [OEIS](https://oeis.org/) sequences, with a total of 355 links created.
   - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 316 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -459,7 +459,7 @@ There are 1105 problems in total, of which
 | [419](https://www.erdosproblems.com/419) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [420](https://www.erdosproblems.com/420) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [421](https://www.erdosproblems.com/421) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [422](https://www.erdosproblems.com/422) | no | open | no | [A005185](https://oeis.org/A005185) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [422](https://www.erdosproblems.com/422) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/422.lean) | [A005185](https://oeis.org/A005185) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [423](https://www.erdosproblems.com/423) | no | open | no | [A005243](https://oeis.org/A005243) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [424](https://www.erdosproblems.com/424) | no | open | no | [A005244](https://oeis.org/A005244) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [425](https://www.erdosproblems.com/425) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
