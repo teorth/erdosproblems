@@ -27,7 +27,7 @@ There are 1105 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 204 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 205 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 251 have been linked to 297 distinct [OEIS](https://oeis.org/) sequences, with a total of 355 links created.
   - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 316 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -134,7 +134,7 @@ There are 1105 problems in total, of which
 | [94](https://www.erdosproblems.com/94) | £25 | open | no | [A387858](https://oeis.org/A387858) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [95](https://www.erdosproblems.com/95) | $500 | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [96](https://www.erdosproblems.com/96) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
-| [97](https://www.erdosproblems.com/97) | $100 | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
+| [97](https://www.erdosproblems.com/97) | $100 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/97.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [98](https://www.erdosproblems.com/98) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [99](https://www.erdosproblems.com/99) | $100 | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [100](https://www.erdosproblems.com/100) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
