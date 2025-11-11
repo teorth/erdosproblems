@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 205 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 251 have been linked to 297 distinct [OEIS](https://oeis.org/) sequences, with a total of 355 links created.
-  - 40 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 316 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 281 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 252 have been linked to 298 distinct [OEIS](https://oeis.org/) sequences, with a total of 356 links created.
+  - 41 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 280 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -747,7 +747,7 @@ There are 1105 problems in total, of which
 | [707](https://www.erdosproblems.com/707) | $1000 | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/707.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [708](https://www.erdosproblems.com/708) | $100 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [709](https://www.erdosproblems.com/709) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [710](https://www.erdosproblems.com/710) | ₹2000 | open | no | [A390246](https://oeis.org/A390246) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [711](https://www.erdosproblems.com/711) | ₹1000 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [712](https://www.erdosproblems.com/712) | $500 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [713](https://www.erdosproblems.com/713) | $500 | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
