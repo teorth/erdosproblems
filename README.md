@@ -27,7 +27,7 @@ There are 1105 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 209 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 210 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 252 have been linked to 298 distinct [OEIS](https://oeis.org/) sequences, with a total of 356 links created.
   - 41 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -696,7 +696,7 @@ There are 1105 problems in total, of which
 | [656](https://www.erdosproblems.com/656) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [657](https://www.erdosproblems.com/657) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [658](https://www.erdosproblems.com/658) | no | proved | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [659](https://www.erdosproblems.com/659) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [659](https://www.erdosproblems.com/659) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/659.lean) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [660](https://www.erdosproblems.com/660) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) | ambiguous statement |
 | [661](https://www.erdosproblems.com/661) | $50 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [662](https://www.erdosproblems.com/662) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) | ambiguous statement |
