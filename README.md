@@ -27,7 +27,7 @@ There are 1105 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 205 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 206 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 252 have been linked to 298 distinct [OEIS](https://oeis.org/) sequences, with a total of 356 links created.
   - 41 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -660,7 +660,7 @@ There are 1105 problems in total, of which
 | [620](https://www.erdosproblems.com/620) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | Erdős-Rogers problem |
 | [621](https://www.erdosproblems.com/621) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [622](https://www.erdosproblems.com/622) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [623](https://www.erdosproblems.com/623) | no | open | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
+| [623](https://www.erdosproblems.com/623) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/623.lean) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [624](https://www.erdosproblems.com/624) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [625](https://www.erdosproblems.com/625) | $1000 | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [626](https://www.erdosproblems.com/626) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
