@@ -27,7 +27,7 @@ There are 1105 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 208 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 209 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 252 have been linked to 298 distinct [OEIS](https://oeis.org/) sequences, with a total of 356 links created.
   - 41 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -547,7 +547,7 @@ There are 1105 problems in total, of which
 | [507](https://www.erdosproblems.com/507) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) | Heilbronn's triangle problem |
 | [508](https://www.erdosproblems.com/508) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) | Hadwiger-Nelson problem |
 | [509](https://www.erdosproblems.com/509) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/509.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [510](https://www.erdosproblems.com/510) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Chowla's cosine problem |
+| [510](https://www.erdosproblems.com/510) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/510.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Chowla's cosine problem |
 | [511](https://www.erdosproblems.com/511) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [512](https://www.erdosproblems.com/512) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Littlewood's conjecture |
 | [513](https://www.erdosproblems.com/513) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
