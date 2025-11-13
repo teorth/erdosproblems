@@ -10849,8 +10849,8 @@
     last_update: "2025-08-31"
   oeis: ["A004526"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-11-13"
   tags: ["geometry", "convex", "distances"]
 
 - number: "983"
