@@ -27,7 +27,7 @@ There are 1105 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 214 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 215 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 252 have been linked to 298 distinct [OEIS](https://oeis.org/) sequences, with a total of 356 links created.
   - 41 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -461,7 +461,7 @@ There are 1105 problems in total, of which
 | [421](https://www.erdosproblems.com/421) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [422](https://www.erdosproblems.com/422) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/422.lean) | [A005185](https://oeis.org/A005185) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [423](https://www.erdosproblems.com/423) | no | open | no | [A005243](https://oeis.org/A005243) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [424](https://www.erdosproblems.com/424) | no | open | no | [A005244](https://oeis.org/A005244) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [424](https://www.erdosproblems.com/424) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/424.lean) | [A005244](https://oeis.org/A005244) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [425](https://www.erdosproblems.com/425) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [426](https://www.erdosproblems.com/426) | $25 | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [427](https://www.erdosproblems.com/427) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/427.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
