@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 215 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 252 have been linked to 298 distinct [OEIS](https://oeis.org/) sequences, with a total of 356 links created.
-  - 41 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 280 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 253 have been linked to 299 distinct [OEIS](https://oeis.org/) sequences, with a total of 357 links created.
+  - 42 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 279 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -991,7 +991,7 @@ There are 1105 problems in total, of which
 | [951](https://www.erdosproblems.com/951) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [952](https://www.erdosproblems.com/952) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Gaussian moat problem |
 | [953](https://www.erdosproblems.com/953) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [954](https://www.erdosproblems.com/954) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [954](https://www.erdosproblems.com/954) | no | open | no | [A390642](https://oeis.org/A390642) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [955](https://www.erdosproblems.com/955) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [956](https://www.erdosproblems.com/956) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [957](https://www.erdosproblems.com/957) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
