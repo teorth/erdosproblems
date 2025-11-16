@@ -934,7 +934,7 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A006672", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
