@@ -15,7 +15,7 @@ There are 1105 problems in total, of which
 - 98 are attached to a monetary prize.
 - 264 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 97 have been disproved.
+- 98 have been disproved.
   - 3 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -24,7 +24,7 @@ There are 1105 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 33 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 644 appear to be completely open.
+- 643 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 215 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -882,7 +882,7 @@ There are 1105 problems in total, of which
 | [842](https://www.erdosproblems.com/842) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [843](https://www.erdosproblems.com/843) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [844](https://www.erdosproblems.com/844) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
-| [845](https://www.erdosproblems.com/845) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [845](https://www.erdosproblems.com/845) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [846](https://www.erdosproblems.com/846) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [847](https://www.erdosproblems.com/847) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [848](https://www.erdosproblems.com/848) | no | decidable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
