@@ -9331,8 +9331,8 @@
 - number: "845"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2025-11-16"
   oeis: ["N/A"]
   formalized:
     state: "yes"
