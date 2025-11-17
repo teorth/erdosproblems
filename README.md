@@ -11,7 +11,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1105 problems in total, of which
+There are 1108 problems in total, of which
 - 98 are attached to a monetary prize.
 - 264 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
@@ -24,14 +24,14 @@ There are 1105 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 33 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 643 appear to be completely open.
+- 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 215 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 256 have been linked to 301 distinct [OEIS](https://oeis.org/) sequences, with a total of 360 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 276 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 316 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 279 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1143,4 +1143,7 @@ There are 1105 problems in total, of which
 | [1103](https://www.erdosproblems.com/1103) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1104](https://www.erdosproblems.com/1104) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1105](https://www.erdosproblems.com/1105) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1106](https://www.erdosproblems.com/1106) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1107](https://www.erdosproblems.com/1107) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
+| [1108](https://www.erdosproblems.com/1108) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 <!-- TABLE:END -->
