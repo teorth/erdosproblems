@@ -1154,7 +1154,7 @@
 - number: "105"
   prize: "$50"
   status:
-    state: "disproved"
+    state: "disproved (Lean)"
     last_update: "2025-10-25"
   oeis: ["N/A"]
   formalized:
