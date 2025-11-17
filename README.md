@@ -28,10 +28,10 @@ There are 1108 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 215 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 256 have been linked to 301 distinct [OEIS](https://oeis.org/) sequences, with a total of 360 links created.
+- 257 have been linked to 304 distinct [OEIS](https://oeis.org/) sequences, with a total of 363 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 316 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 279 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 278 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -1145,5 +1145,5 @@ There are 1108 problems in total, of which
 | [1105](https://www.erdosproblems.com/1105) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1106](https://www.erdosproblems.com/1106) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1107](https://www.erdosproblems.com/1107) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
-| [1108](https://www.erdosproblems.com/1108) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [1108](https://www.erdosproblems.com/1108) | no | open | no | [A051761](https://oeis.org/A051761), [A115645](https://oeis.org/A115645), [A025494](https://oeis.org/A025494) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 <!-- TABLE:END -->
