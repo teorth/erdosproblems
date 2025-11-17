@@ -11824,6 +11824,7 @@
     last_update: "2025-09-28"
   oeis: ["possible"]
   tags: ["geometry"]
+  
 - number: "1071"
   prize: "no"
   status:
@@ -12239,5 +12240,5 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A051761", "A115645", "A025494"]
   tags: ["number theory", "factorials"]
