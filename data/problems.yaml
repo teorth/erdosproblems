@@ -12208,3 +12208,36 @@
     last_update: "2025-09-28"
   oeis: ["possible"]
   tags: ["graph theory", "ramsey theory"]
+
+- number: "1106"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-11-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1107"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-11-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory", "powerful"]
+
+- number: "1108"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-11-17"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["possible"]
+  tags: ["number theory", "factorials"]
