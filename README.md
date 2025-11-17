@@ -28,10 +28,10 @@ There are 1105 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 215 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 255 have been linked to 300 distinct [OEIS](https://oeis.org/) sequences, with a total of 359 links created.
+- 256 have been linked to 301 distinct [OEIS](https://oeis.org/) sequences, with a total of 360 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 277 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 276 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -915,7 +915,7 @@ There are 1105 problems in total, of which
 | [875](https://www.erdosproblems.com/875) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [876](https://www.erdosproblems.com/876) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [877](https://www.erdosproblems.com/877) | no | proved | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [878](https://www.erdosproblems.com/878) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [878](https://www.erdosproblems.com/878) | no | open | no | [A339378](https://oeis.org/A339378), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [879](https://www.erdosproblems.com/879) | no | open | no | [A186736](https://oeis.org/A186736) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [880](https://www.erdosproblems.com/880) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [881](https://www.erdosproblems.com/881) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
