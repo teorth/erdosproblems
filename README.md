@@ -16,7 +16,7 @@ There are 1108 problems in total, of which
 - 264 have been proved.
   - 2 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
-  - 3 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - 4 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -142,7 +142,7 @@ There are 1108 problems in total, of which
 | [102](https://www.erdosproblems.com/102) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [103](https://www.erdosproblems.com/103) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [104](https://www.erdosproblems.com/104) | £100 | open | no | [A003829](https://oeis.org/A003829) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [105](https://www.erdosproblems.com/105) | $50 | disproved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [105](https://www.erdosproblems.com/105) | $50 | disproved (Lean) | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [106](https://www.erdosproblems.com/106) | no | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [107](https://www.erdosproblems.com/107) | $500 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/107.lean) | [A000051](https://oeis.org/A000051) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
 | [108](https://www.erdosproblems.com/108) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
