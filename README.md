@@ -28,10 +28,10 @@ There are 1108 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 217 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 257 have been linked to 304 distinct [OEIS](https://oeis.org/) sequences, with a total of 363 links created.
+- 258 have been linked to 305 distinct [OEIS](https://oeis.org/) sequences, with a total of 364 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 315 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 278 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 277 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 1 have a related sequence whose generation is currently in progress.
 
@@ -364,7 +364,7 @@ There are 1108 problems in total, of which
 | [324](https://www.erdosproblems.com/324) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/324.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powers](https://www.erdosproblems.com/tags/powers) |  |
 | [325](https://www.erdosproblems.com/325) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/325.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powers](https://www.erdosproblems.com/tags/powers) |  |
 | [326](https://www.erdosproblems.com/326) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/326.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [327](https://www.erdosproblems.com/327) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [327](https://www.erdosproblems.com/327) | no | open | no | [A384927](https://oeis.org/A384927) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [328](https://www.erdosproblems.com/328) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [329](https://www.erdosproblems.com/329) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/329.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [330](https://www.erdosproblems.com/330) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/330.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
