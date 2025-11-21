@@ -27,7 +27,7 @@ There are 1108 problems in total, of which
 - 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 217 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 218 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 258 have been linked to 305 distinct [OEIS](https://oeis.org/) sequences, with a total of 364 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -434,7 +434,7 @@ There are 1108 problems in total, of which
 | [394](https://www.erdosproblems.com/394) | no | open | no | [A344005](https://oeis.org/A344005) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [395](https://www.erdosproblems.com/395) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | reverse Littlewood-Offord problem |
 | [396](https://www.erdosproblems.com/396) | no | open | no | [A375077](https://oeis.org/A375077) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
-| [397](https://www.erdosproblems.com/397) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [397](https://www.erdosproblems.com/397) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/397.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [398](https://www.erdosproblems.com/398) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/398.lean) | [A146968](https://oeis.org/A146968) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) | Brocard-Ramanujan conjecture |
 | [399](https://www.erdosproblems.com/399) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [400](https://www.erdosproblems.com/400) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
