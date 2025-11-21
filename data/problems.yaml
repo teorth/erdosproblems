@@ -11863,8 +11863,8 @@
     state: "open"
     last_update: "2025-10-05"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2025-11-21"
   oeis: ["A063980", "A064164"]
   tags: ["number theory"]
 
