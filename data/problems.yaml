@@ -11252,8 +11252,8 @@
 - number: "1019"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-10-19"
+    state: "proved"
+    last_update: "2025-11-21"
   formalized:
     state: "no"
     last_update: "2025-09-10"
