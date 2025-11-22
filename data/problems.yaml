@@ -4611,7 +4611,7 @@
 - number: "418"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["A005278", "A263958"]
   formalized:
