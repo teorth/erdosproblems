@@ -275,7 +275,7 @@ def build_table(rows):
     lines.append(f"- {count_solved(rows)} have been otherwise solved.")
     lines.append(f"- {count_not_provable(rows)} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
     lines.append(f"- {count_not_disprovable(rows)} appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)")
-    lines.append(f"- {count_independent(rows)} are independent of the ZFC axioms of mathematics. (independent)")
+    lines.append(f"- {count_independent(rows)} are known to be independent of the ZFC axioms of mathematics. (independent)")
     lines.append(f"- {count_decidable(rows)} appear to be open, but have been reduced to a finite computation. (decidable)")
     lines.append(f"- {count_falsifiable(rows)} appear to be open, but can be disproven by a finite computation if false. (falsifiable)")
     lines.append(f"- {count_verifiable(rows)} appear to be open, but can be proven by a finite computation if true. (verifiable)")
