@@ -4613,7 +4613,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["A005278"]
+  oeis: ["A005278", "A263958"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
