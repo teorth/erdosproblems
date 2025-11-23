@@ -20,7 +20,7 @@ There are 1108 problems in total, of which
 - 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
-- 0 are independent of the ZFC axioms of mathematics. (independent)
+- 0 are known to be independent of the ZFC axioms of mathematics. (independent)
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
