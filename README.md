@@ -14,7 +14,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 There are 1108 problems in total, of which
 - 98 are attached to a monetary prize.
 - 265 have been proved.
-  - 3 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - 4 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
   - 4 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
@@ -682,7 +682,7 @@ There are 1108 problems in total, of which
 | [642](https://www.erdosproblems.com/642) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [643](https://www.erdosproblems.com/643) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [644](https://www.erdosproblems.com/644) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [645](https://www.erdosproblems.com/645) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [645](https://www.erdosproblems.com/645) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [646](https://www.erdosproblems.com/646) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [647](https://www.erdosproblems.com/647) | £25 | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/647.lean) | [A062249](https://oeis.org/A062249), [A087280](https://oeis.org/A087280) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [648](https://www.erdosproblems.com/648) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
