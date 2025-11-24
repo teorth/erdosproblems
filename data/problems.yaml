@@ -1155,7 +1155,7 @@
   prize: "$50"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-10-25"
+    last_update: "2025-11-22"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4612,7 +4612,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-11-23"
   oeis: ["A005278", "A263958"]
   formalized:
     state: "yes"
@@ -7125,7 +7125,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-11-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
