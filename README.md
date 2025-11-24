@@ -14,7 +14,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 There are 1108 problems in total, of which
 - 98 are attached to a monetary prize.
 - 265 have been proved.
-  - 5 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - 6 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
   - 5 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
@@ -407,7 +407,7 @@ There are 1108 problems in total, of which
 | [367](https://www.erdosproblems.com/367) | no | open | no | [A057521](https://oeis.org/A057521) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [368](https://www.erdosproblems.com/368) | no | open | no | [A074399](https://oeis.org/A074399) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [369](https://www.erdosproblems.com/369) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [370](https://www.erdosproblems.com/370) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [370](https://www.erdosproblems.com/370) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/370.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [371](https://www.erdosproblems.com/371) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/371.lean) | [A070089](https://oeis.org/A070089) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [372](https://www.erdosproblems.com/372) | no | proved | no | [A071870](https://oeis.org/A071870) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [373](https://www.erdosproblems.com/373) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/373.lean) | [A003135](https://oeis.org/A003135) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
