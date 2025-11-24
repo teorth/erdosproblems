@@ -14,7 +14,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 There are 1108 problems in total, of which
 - 98 are attached to a monetary prize.
 - 265 have been proved.
-  - 4 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - 5 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
   - 5 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
@@ -68,7 +68,7 @@ There are 1108 problems in total, of which
 | [28](https://www.erdosproblems.com/28) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/28.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [29](https://www.erdosproblems.com/29) | $100 | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [30](https://www.erdosproblems.com/30) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/30.lean) | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [31](https://www.erdosproblems.com/31) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
+| [31](https://www.erdosproblems.com/31) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [32](https://www.erdosproblems.com/32) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [33](https://www.erdosproblems.com/33) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/33.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [34](https://www.erdosproblems.com/34) | no | disproved | no | [A389241](https://oeis.org/A389241), [A234813](https://oeis.org/A234813), [A390187](https://oeis.org/A390187) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
