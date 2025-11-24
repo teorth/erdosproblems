@@ -27,7 +27,7 @@ There are 1108 problems in total, of which
 - 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 226 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 227 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 258 have been linked to 306 distinct [OEIS](https://oeis.org/) sequences, with a total of 365 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1088,7 +1088,7 @@ There are 1108 problems in total, of which
 | [1048](https://www.erdosproblems.com/1048) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1049](https://www.erdosproblems.com/1049) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1050](https://www.erdosproblems.com/1050) | no | proved | no | [A331372](https://oeis.org/A331372) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [1051](https://www.erdosproblems.com/1051) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [1051](https://www.erdosproblems.com/1051) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1051.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1052](https://www.erdosproblems.com/1052) | $10 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1052.lean) | [A002827](https://oeis.org/A002827) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | unitary perfect numbers |
 | [1053](https://www.erdosproblems.com/1053) | no | open | no | [A007539](https://oeis.org/A007539) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | multiply perfect numbers |
 | [1054](https://www.erdosproblems.com/1054) | no | open | no | [A167485](https://oeis.org/A167485) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
