@@ -30,10 +30,10 @@ There are 1108 problems in total, of which
 - 231 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 259 have been linked to 306 distinct [OEIS](https://oeis.org/) sequences, with a total of 366 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 276 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
-- 1 have a related sequence whose generation is currently in progress.
+- 2 have a related sequence whose generation is currently in progress.
 
 
 | # | Prize | Status | Formalized | OEIS | Tags | Comments |
@@ -358,7 +358,7 @@ There are 1108 problems in total, of which
 | [318](https://www.erdosproblems.com/318) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [319](https://www.erdosproblems.com/319) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/319.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [320](https://www.erdosproblems.com/320) | no | open | no | [A072207](https://oeis.org/A072207) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
-| [321](https://www.erdosproblems.com/321) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/321.lean) | [A384927](https://oeis.org/A384927), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [321](https://www.erdosproblems.com/321) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/321.lean) | [A384927](https://oeis.org/A384927), in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [322](https://www.erdosproblems.com/322) | no | open | no | [A025456](https://oeis.org/A025456), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powers](https://www.erdosproblems.com/tags/powers) |  |
 | [323](https://www.erdosproblems.com/323) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powers](https://www.erdosproblems.com/tags/powers) |  |
 | [324](https://www.erdosproblems.com/324) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/324.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powers](https://www.erdosproblems.com/tags/powers) |  |
