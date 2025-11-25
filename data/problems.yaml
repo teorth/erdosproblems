@@ -11643,8 +11643,8 @@
     state: "open"
     last_update: "2025-09-28"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2025-11-25"
   oeis: ["A167485"]
   tags: ["number theory", "divisors"]
 
