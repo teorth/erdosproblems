@@ -27,7 +27,7 @@ There are 1108 problems in total, of which
 - 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 228 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 229 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 259 have been linked to 306 distinct [OEIS](https://oeis.org/) sequences, with a total of 366 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -209,7 +209,7 @@ There are 1108 problems in total, of which
 | [169](https://www.erdosproblems.com/169) | no | open | no | [A005346](https://oeis.org/A005346) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [170](https://www.erdosproblems.com/170) | no | open | no | [A046693](https://oeis.org/A046693) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sparse ruler problem |
 | [171](https://www.erdosproblems.com/171) | no | proved | no | [A156989](https://oeis.org/A156989) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | density Hales-Jewett |
-| [172](https://www.erdosproblems.com/172) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [172](https://www.erdosproblems.com/172) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/172.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [173](https://www.erdosproblems.com/173) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [174](https://www.erdosproblems.com/174) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [175](https://www.erdosproblems.com/175) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
