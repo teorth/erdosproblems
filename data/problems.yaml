@@ -611,8 +611,8 @@
 - number: "56"
   prize: "$10"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2025-11-26"
   oeis: ["N/A"]
   formalized:
     state: "yes"
