@@ -27,7 +27,7 @@ There are 1108 problems in total, of which
 - 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 233 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 234 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 259 have been linked to 306 distinct [OEIS](https://oeis.org/) sequences, with a total of 366 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1078,7 +1078,7 @@ There are 1108 problems in total, of which
 | [1038](https://www.erdosproblems.com/1038) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1039](https://www.erdosproblems.com/1039) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1040](https://www.erdosproblems.com/1040) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1041](https://www.erdosproblems.com/1041) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1041](https://www.erdosproblems.com/1041) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1041.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1042](https://www.erdosproblems.com/1042) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1043](https://www.erdosproblems.com/1043) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1044](https://www.erdosproblems.com/1044) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
