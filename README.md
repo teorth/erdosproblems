@@ -14,7 +14,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 There are 1108 problems in total, of which
 - 98 are attached to a monetary prize.
 - 265 have been proved.
-  - 6 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - 7 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
   - 5 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
@@ -387,7 +387,7 @@ There are 1108 problems in total, of which
 | [347](https://www.erdosproblems.com/347) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/347.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
 | [348](https://www.erdosproblems.com/348) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/348.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
 | [349](https://www.erdosproblems.com/349) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/349.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
-| [350](https://www.erdosproblems.com/350) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/350.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [350](https://www.erdosproblems.com/350) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/350.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [351](https://www.erdosproblems.com/351) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/351.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [complete sequences](https://www.erdosproblems.com/tags/complete%20sequences) |  |
 | [352](https://www.erdosproblems.com/352) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/352.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [353](https://www.erdosproblems.com/353) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
