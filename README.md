@@ -16,7 +16,7 @@ There are 1108 problems in total, of which
 - 265 have been proved.
   - 7 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
-  - 5 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - 6 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -93,7 +93,7 @@ There are 1108 problems in total, of which
 | [53](https://www.erdosproblems.com/53) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [54](https://www.erdosproblems.com/54) | $100 | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [55](https://www.erdosproblems.com/55) | $250 | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [56](https://www.erdosproblems.com/56) | $10 | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/56.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
+| [56](https://www.erdosproblems.com/56) | $10 | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/56.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [57](https://www.erdosproblems.com/57) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [58](https://www.erdosproblems.com/58) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [59](https://www.erdosproblems.com/59) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
