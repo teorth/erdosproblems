@@ -3860,8 +3860,8 @@
 - number: "350"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2025-11-25"
   oeis: ["N/A"]
   formalized:
     state: "yes"
