@@ -27,7 +27,7 @@ There are 1108 problems in total, of which
 - 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 234 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 235 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 259 have been linked to 306 distinct [OEIS](https://oeis.org/) sequences, with a total of 366 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -156,7 +156,7 @@ There are 1108 problems in total, of which
 | [116](https://www.erdosproblems.com/116) | no | proved | no | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [117](https://www.erdosproblems.com/117) | no | open | no | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [118](https://www.erdosproblems.com/118) | no | disproved | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [119](https://www.erdosproblems.com/119) | $100 | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [119](https://www.erdosproblems.com/119) | $100 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/119.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [120](https://www.erdosproblems.com/120) | $100 | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | Erdős similarity problem |
 | [121](https://www.erdosproblems.com/121) | no | disproved | no | [A028391](https://oeis.org/A028391), [A013928](https://oeis.org/A013928), [A372306](https://oeis.org/A372306), [A373319](https://oeis.org/A373319), [A372306](https://oeis.org/A372306), [A373178](https://oeis.org/A373178), [A360659](https://oeis.org/A360659), [A373114](https://oeis.org/A373114), [A143301](https://oeis.org/A143301) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [squares](https://www.erdosproblems.com/tags/squares) |  |
 | [122](https://www.erdosproblems.com/122) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
