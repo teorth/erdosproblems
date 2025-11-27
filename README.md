@@ -16,7 +16,7 @@ There are 1108 problems in total, of which
 - 265 have been proved.
   - 7 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
-  - 6 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - 7 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -525,7 +525,7 @@ There are 1108 problems in total, of which
 | [485](https://www.erdosproblems.com/485) | no | proved | no | possible | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [486](https://www.erdosproblems.com/486) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [487](https://www.erdosproblems.com/487) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [488](https://www.erdosproblems.com/488) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [488](https://www.erdosproblems.com/488) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [489](https://www.erdosproblems.com/489) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [490](https://www.erdosproblems.com/490) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [491](https://www.erdosproblems.com/491) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
