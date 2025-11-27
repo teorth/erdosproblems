@@ -27,7 +27,7 @@ There are 1108 problems in total, of which
 - 646 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
-- 237 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 238 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 259 have been linked to 306 distinct [OEIS](https://oeis.org/) sequences, with a total of 366 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -635,7 +635,7 @@ There are 1108 problems in total, of which
 | [595](https://www.erdosproblems.com/595) | $250 | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [596](https://www.erdosproblems.com/596) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [597](https://www.erdosproblems.com/597) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
-| [598](https://www.erdosproblems.com/598) | no | open | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [598](https://www.erdosproblems.com/598) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/598.lean) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [599](https://www.erdosproblems.com/599) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) | Erdős-Menger conjecture |
 | [600](https://www.erdosproblems.com/600) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [601](https://www.erdosproblems.com/601) | $500 | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
