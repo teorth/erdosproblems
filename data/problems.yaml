@@ -2996,6 +2996,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: ["Stanley sequences"]
   tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "272"
