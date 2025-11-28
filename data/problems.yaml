@@ -511,12 +511,12 @@
 - number: "47"
   prize: "$100"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-11-28"
   tags: ["number theory", "unit fractions"]
 
 - number: "48"
