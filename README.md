@@ -14,7 +14,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 There are 1108 problems in total, of which
 - 98 are attached to a monetary prize.
 - 265 have been proved.
-  - 8 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - 9 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
   - 7 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
@@ -536,7 +536,7 @@ There are 1108 problems in total, of which
 | [496](https://www.erdosproblems.com/496) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [497](https://www.erdosproblems.com/497) | no | solved | no | [A000372](https://oeis.org/A000372) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | Dedekind's problem |
 | [498](https://www.erdosproblems.com/498) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [analysis](https://www.erdosproblems.com/tags/analysis) | strong Littlewood-Offord problem |
-| [499](https://www.erdosproblems.com/499) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [499](https://www.erdosproblems.com/499) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/499.lean) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [500](https://www.erdosproblems.com/500) | $500 | open | no | [A140462](https://oeis.org/A140462) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [501](https://www.erdosproblems.com/501) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [502](https://www.erdosproblems.com/502) | no | solved | no | [A027627](https://oeis.org/A027627) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
