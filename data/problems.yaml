@@ -5384,8 +5384,8 @@
 - number: "488"
   prize: "no"
   status:
-    state: "disproved (Lean)"
-    last_update: "2025-11-27"
+    state: "open"
+    last_update: "2025-12-01"
   oeis: ["N/A"]
   formalized:
     state: "yes"
