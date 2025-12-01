@@ -13,8 +13,8 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1108 problems in total, of which
 - 98 are attached to a monetary prize.
-- 265 have been proved.
-  - 9 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- 266 have been proved.
+  - 10 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
   - 7 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 47 have been otherwise solved.
@@ -24,7 +24,7 @@ There are 1108 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 646 appear to be completely open.
+- 645 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 241 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -518,7 +518,7 @@ There are 1108 problems in total, of which
 | [478](https://www.erdosproblems.com/478) | no | open | no | [A210184](https://oeis.org/A210184) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [479](https://www.erdosproblems.com/479) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [480](https://www.erdosproblems.com/480) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/480.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [481](https://www.erdosproblems.com/481) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [481](https://www.erdosproblems.com/481) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [482](https://www.erdosproblems.com/482) | no | solved | no | [A004539](https://oeis.org/A004539) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [483](https://www.erdosproblems.com/483) | no | open | no | [A030126](https://oeis.org/A030126) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [484](https://www.erdosproblems.com/484) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
