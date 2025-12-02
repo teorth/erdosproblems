@@ -12169,8 +12169,8 @@
 - number: "1102"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-19"
+    state: "solved"
+    last_update: "2025-12-2"
   formalized:
     state: "no"
     last_update: "2025-09-28"
