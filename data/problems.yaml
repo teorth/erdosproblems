@@ -756,8 +756,8 @@
 - number: "69"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-12-2"
   oeis: ["A262153"]
   formalized:
     state: "yes"
@@ -2737,8 +2737,8 @@
 - number: "248"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-12-2"
   oeis: ["N/A"]
   formalized:
     state: "yes"
