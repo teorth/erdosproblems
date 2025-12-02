@@ -2,6 +2,12 @@ from pathlib import Path
 import re
 import yaml
 
+# Import statistics management
+try:
+    import plot_statistics_history
+except ImportError:
+    plot_statistics_history = None
+
 ROOT = Path(__file__).resolve().parents[1]
 data_path = ROOT / "data" / "problems.yaml"
 readme_path = ROOT / "README.md"
@@ -315,8 +321,28 @@ table_md = build_table(rows)
 
 readme = readme_path.read_text(encoding="utf-8")
 new_readme = insert_between_markers(readme, table_md)
+
 if new_readme != readme:
     readme_path.write_text(new_readme, encoding="utf-8")
     print("README updated.")
 else:
     print("README already up-to-date.")
+
+# Update statistics history and charts
+if plot_statistics_history:
+    proved = count_proved(rows) + count_proved_lean(rows)
+    disproved = count_disproved(rows) + count_disproved_lean(rows)
+    solved = count_solved(rows)
+
+    current_stats = {
+        "total_problems": len(rows),
+        "lean_formalized": count_formalized_yes(rows),
+        "oeis_linked": count_rows_with_oeis_id(rows),
+        "total_solved": proved + disproved + solved,
+        "proved": proved,
+        "disproved": disproved,
+        "solved": solved,
+    }
+
+    if plot_statistics_history.update_history(current_stats):
+        plot_statistics_history.generate_charts()

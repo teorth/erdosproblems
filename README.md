@@ -8,6 +8,14 @@ The table below is auto-generated from the YAML file [data/problems.yaml](data/p
 
 For further discussion of this project, see [this blog post](https://terrytao.wordpress.com/2025/08/31/a-crowdsourced-project-to-link-up-erdosproblems-com-to-the-oeis/) (from Sep 1, 2025).
 
+## Progress
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="data/statistics_history_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="data/statistics_history_light.svg">
+  <img alt="Erdős Problems Progress" src="data/statistics_history_light.svg">
+</picture>
+
 ## Table
 
 <!-- TABLE:START -->
