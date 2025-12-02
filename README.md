@@ -17,14 +17,14 @@ There are 1108 problems in total, of which
   - 10 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
   - 6 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 47 have been otherwise solved.
+- 48 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are known to be independent of the ZFC axioms of mathematics. (independent)
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 646 appear to be completely open.
+- 645 appear to be completely open.
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 240 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1139,7 +1139,7 @@ There are 1108 problems in total, of which
 | [1099](https://www.erdosproblems.com/1099) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [1100](https://www.erdosproblems.com/1100) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [1101](https://www.erdosproblems.com/1101) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1102](https://www.erdosproblems.com/1102) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1102](https://www.erdosproblems.com/1102) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1103](https://www.erdosproblems.com/1103) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1104](https://www.erdosproblems.com/1104) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1105](https://www.erdosproblems.com/1105) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
