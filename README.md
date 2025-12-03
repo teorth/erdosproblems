@@ -36,7 +36,7 @@ There are 1108 problems in total, of which
 - 4 have ambiguous statements.
 - 0 have a literature review requested.
 - 241 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 261 have been linked to 311 distinct [OEIS](https://oeis.org/) sequences, with a total of 371 links created.
+- 261 have been linked to 317 distinct [OEIS](https://oeis.org/) sequences, with a total of 377 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 311 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 274 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -524,7 +524,7 @@ There are 1108 problems in total, of which
 | [476](https://www.erdosproblems.com/476) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [477](https://www.erdosproblems.com/477) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [478](https://www.erdosproblems.com/478) | no | open | no | [A210184](https://oeis.org/A210184) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [479](https://www.erdosproblems.com/479) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [479](https://www.erdosproblems.com/479) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236), [A015919](https://oeis.org/A015919), [A050259](https://oeis.org/A050259), [A015921](https://oeis.org/A015921), [A006521](https://oeis.org/A006521), [A006517](https://oeis.org/A006517), [A015940](https://oeis.org/A015940) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [480](https://www.erdosproblems.com/480) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/480.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [481](https://www.erdosproblems.com/481) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [482](https://www.erdosproblems.com/482) | no | solved | no | [A004539](https://oeis.org/A004539) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
