@@ -3555,7 +3555,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A025456", "possible"]
+  oeis: ["A025456", "A025418"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
