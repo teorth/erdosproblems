@@ -12218,7 +12218,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A194259","A194260"]
   tags: ["number theory"]
 
 - number: "1107"
