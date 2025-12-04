@@ -178,6 +178,15 @@ def count_solved(rows):
         if r.get("status", {}).get("state", "").lower() == "solved"
     )
 
+def count_solved_lean(rows):
+    """
+    Count how many rows have status == "solved (Lean)".
+    """
+    return sum(
+        1 for r in rows
+        if r.get("status", {}).get("state", "").lower() == "solved (lean)"
+    )
+
 def count_decidable(rows):
     """
     Count how many rows have status == "decidable".
@@ -278,7 +287,8 @@ def build_table(rows):
     lines.append(f"  - {count_proved_lean(rows)} of these proofs have been formalized in [Lean](https://lean-lang.org/).")
     lines.append(f"- {count_disproved(rows)+count_disproved_lean(rows) } have been disproved.")
     lines.append(f"  - {count_disproved_lean(rows)} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {count_solved(rows)} have been otherwise solved.")
+    lines.append(f"- {count_solved(rows)+count_solved_lean(rows)} have been otherwise solved.")
+    lines.append(f"  - {count_solved_lean(rows)} of these solutions have been formalized in [Lean](https://lean-lang.org/).")
     lines.append(f"- {count_not_provable(rows)} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
     lines.append(f"- {count_not_disprovable(rows)} appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)")
     lines.append(f"- {count_independent(rows)} are known to be independent of the ZFC axioms of mathematics. (independent)")
