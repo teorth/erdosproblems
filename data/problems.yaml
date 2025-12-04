@@ -11293,7 +11293,9 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["possible"]
+  comments: "literature review sought"
   tags: ["combinatorics", "hypergraphs"]
+  
 - number: "1023"
   prize: "no"
   status:
