@@ -73,14 +73,21 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_count
 
     # Plot lines
     data = [
-        (lean_counts, "Team Lean (Formalized)", colors['lines'][0]),
-        (oeis_counts, "Team OEIS (Linked)", colors['lines'][1]),
-        (solve_counts, "Team Solve (Proved+Disproved+Solved)", colors['lines'][2]),
-        (lean_solved_counts, "Team Lean Solved (Formalized Proofs)", colors['lines'][3])
+        (solve_counts, "Solved", colors['lines'][2]),
+        (lean_counts, "Lean Formalized Problem", colors['lines'][0]),
+        (lean_solved_counts, "Lean Formalized Solution", colors['lines'][3]),
+        (oeis_counts, "OEIS Linked", colors['lines'][1])
     ]
     
     for counts, label, color in data:
         ax.plot(dates, counts, label=label, linewidth=2, color=color)
+        # Add data point label at the end of each line
+        if counts:
+            last_value = counts[-1]
+            last_date = dates[-1]
+            ax.annotate(f'{last_value}', xy=(last_date, last_value), xytext=(5, 0),
+                       textcoords='offset points', fontsize=9, color=color,
+                       fontweight='bold', va='center')
 
     # Styling
     ax.set_xlabel("Date", fontsize=12, color=colors['text'])
