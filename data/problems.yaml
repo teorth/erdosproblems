@@ -11409,8 +11409,8 @@
 - number: "1034"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-10-28"
+    state: "disproved (Lean)"
+    last_update: "2025-12-4"
   formalized:
     state: "no"
     last_update: "2025-09-10"
