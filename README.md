@@ -24,7 +24,7 @@ There are 1109 problems in total, of which
 - 268 have been proved.
   - 10 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
-  - 6 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - 7 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 48 have been otherwise solved.
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -1078,7 +1078,7 @@ There are 1109 problems in total, of which
 | [1030](https://www.erdosproblems.com/1030) | no | open | no | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [Ramsey theory](https://www.erdosproblems.com/tags/Ramsey%20theory) |  |
 | [1031](https://www.erdosproblems.com/1031) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1032](https://www.erdosproblems.com/1032) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [1034](https://www.erdosproblems.com/1034) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1034](https://www.erdosproblems.com/1034) | no | disproved (Lean) | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1035](https://www.erdosproblems.com/1035) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1035](https://www.erdosproblems.com/1035) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1036](https://www.erdosproblems.com/1036) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
