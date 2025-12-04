@@ -352,7 +352,7 @@ if plot_statistics_history:
         "proved": proved,
         "disproved": disproved,
         "solved": solved,
-        "lean_solved": count_proved_lean(rows) + count_disproved_lean(rows),
+        "lean_solved": count_proved_lean(rows) + count_disproved_lean(rows) + count_solved_lean(rows),
     }
 
     if plot_statistics_history.update_history(current_stats):
