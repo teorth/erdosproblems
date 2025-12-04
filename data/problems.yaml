@@ -1033,8 +1033,8 @@
 - number: "94"
   prize: "£25"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-12-04"
   oeis: ["A387858"]
   formalized:
     state: "no"
