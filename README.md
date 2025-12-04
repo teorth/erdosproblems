@@ -34,7 +34,7 @@ There are 1109 problems in total, of which
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 645 appear to be completely open.
 - 4 have ambiguous statements.
-- 0 have a literature review requested.
+- 1 have a literature review requested.
 - 241 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 261 have been linked to 317 distinct [OEIS](https://oeis.org/) sequences, with a total of 377 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
@@ -1067,7 +1067,7 @@ There are 1109 problems in total, of which
 | [1019](https://www.erdosproblems.com/1019) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
 | [1020](https://www.erdosproblems.com/1020) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) | Erdős matching conjecture |
 | [1021](https://www.erdosproblems.com/1021) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [1022](https://www.erdosproblems.com/1022) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [1022](https://www.erdosproblems.com/1022) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) | literature review sought |
 | [1023](https://www.erdosproblems.com/1023) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1024](https://www.erdosproblems.com/1024) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1025](https://www.erdosproblems.com/1025) | no | solved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
