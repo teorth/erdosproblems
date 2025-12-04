@@ -20,7 +20,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 
 <!-- TABLE:START -->
 There are 1109 problems in total, of which
-- 98 are attached to a monetary prize.
+- 99 are attached to a monetary prize.
 - 269 have been proved.
   - 10 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
@@ -732,7 +732,7 @@ There are 1109 problems in total, of which
 | [684](https://www.erdosproblems.com/684) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [685](https://www.erdosproblems.com/685) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [686](https://www.erdosproblems.com/686) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/686.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [687](https://www.erdosproblems.com/687) | no | open | no | [A048670](https://oeis.org/A048670), [A058989](https://oeis.org/A058989) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [687](https://www.erdosproblems.com/687) | $1000 | open | no | [A048670](https://oeis.org/A048670), [A058989](https://oeis.org/A058989) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [688](https://www.erdosproblems.com/688) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [689](https://www.erdosproblems.com/689) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/689.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [690](https://www.erdosproblems.com/690) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
