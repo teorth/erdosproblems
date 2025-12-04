@@ -16,7 +16,7 @@ OUTPUT_LIGHT = ROOT / "data" / "statistics_history_light.svg"
 OUTPUT_DARK = ROOT / "data" / "statistics_history_dark.svg"
 
 FIELDNAMES = ["commit", "date", "total_problems", "lean_formalized", 
-              "oeis_linked", "total_solved", "proved", "disproved", "solved"]
+              "oeis_linked", "total_solved", "proved", "disproved", "solved", "lean_solved"]
 
 def get_current_commit():
     try:
@@ -55,7 +55,7 @@ def update_history(stats: dict) -> bool:
         
     return True
 
-def create_plot(dates, lean_counts, oeis_counts, solve_counts, theme='light'):
+def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_counts, theme='light'):
     """Creates a progress chart figure with the specified theme (light or dark)."""
 
     # Theme configuration
@@ -65,7 +65,7 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, theme='light'):
         'text': '#c9d1d9' if is_dark else '#24292f',
         'grid': '#30363d' if is_dark else '#d0d7de',
         'box_bg': '#161b22' if is_dark else '#f6f8fa',
-        'lines': ['#58a6ff', '#f85149', '#3fb950'] if is_dark else ['#0969da', '#cf222e', '#1a7f37']
+        'lines': ['#58a6ff', '#f85149', '#3fb950', '#d29922'] if is_dark else ['#0969da', '#cf222e', '#1a7f37', '#bf8700']
     }
 
     fig, ax = plt.subplots(figsize=(12, 7), facecolor=colors['bg'])
@@ -75,7 +75,8 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, theme='light'):
     data = [
         (lean_counts, "Team Lean (Formalized)", colors['lines'][0]),
         (oeis_counts, "Team OEIS (Linked)", colors['lines'][1]),
-        (solve_counts, "Team Solve (Proved+Disproved+Solved)", colors['lines'][2])
+        (solve_counts, "Team Solve (Proved+Disproved+Solved)", colors['lines'][2]),
+        (lean_solved_counts, "Team Lean Solved (Formalized Proofs)", colors['lines'][3])
     ]
     
     for counts, label, color in data:
@@ -119,7 +120,8 @@ def generate_charts():
                 'date': datetime.strptime(row["date"], "%Y-%m-%d %H:%M:%S %z"),
                 'lean': int(row["lean_formalized"]),
                 'oeis': int(row["oeis_linked"]),
-                'solve': int(row["total_solved"])
+                'solve': int(row["total_solved"]),
+                'lean_solved': int(row.get("lean_solved", 0))
             })
 
     if not data_points:
@@ -131,9 +133,10 @@ def generate_charts():
     lean = [p['lean'] for p in data_points]
     oeis = [p['oeis'] for p in data_points]
     solve = [p['solve'] for p in data_points]
+    lean_solved = [p['lean_solved'] for p in data_points]
 
     for theme, path in [('light', OUTPUT_LIGHT), ('dark', OUTPUT_DARK)]:
-        fig = create_plot(dates, lean, oeis, solve, theme=theme)
+        fig = create_plot(dates, lean, oeis, solve, lean_solved, theme=theme)
         fig.savefig(path, format='svg', bbox_inches='tight', facecolor=fig.get_facecolor())
         plt.close(fig)
 
