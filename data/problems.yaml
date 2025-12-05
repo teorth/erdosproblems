@@ -7588,7 +7588,7 @@
   tags: ["number theory"]
 
 - number: "687"
-  prize: "no"
+  prize: "$1000"
   status:
     state: "open"
     last_update: "2025-08-31"
