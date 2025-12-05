@@ -21,7 +21,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1109 problems in total, of which
 - 98 are attached to a monetary prize.
-- 269 have been proved.
+- 270 have been proved.
   - 10 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
   - 7 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -33,7 +33,7 @@ There are 1109 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 31 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 644 appear to be completely open.
+- 643 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 243 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1046,7 +1046,7 @@ There are 1109 problems in total, of which
 | [997](https://www.erdosproblems.com/997) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [998](https://www.erdosproblems.com/998) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [999](https://www.erdosproblems.com/999) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) | Duffin-Schaeffer conjecture |
-| [1000](https://www.erdosproblems.com/1000) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [1000](https://www.erdosproblems.com/1000) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1001](https://www.erdosproblems.com/1001) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1002](https://www.erdosproblems.com/1002) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1003](https://www.erdosproblems.com/1003) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1003.lean) | [A001274](https://oeis.org/A001274) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
