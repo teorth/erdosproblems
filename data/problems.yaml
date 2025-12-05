@@ -3168,8 +3168,8 @@
 - number: "287"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2025-12-5"
   oeis: ["N/A"]
   formalized:
     state: "no"
