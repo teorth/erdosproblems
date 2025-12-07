@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- 243 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 245 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 261 have been linked to 318 distinct [OEIS](https://oeis.org/) sequences, with a total of 378 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -727,7 +727,7 @@ There are 1111 problems in total, of which
 | [678](https://www.erdosproblems.com/678) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/678.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [679](https://www.erdosproblems.com/679) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [680](https://www.erdosproblems.com/680) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/680.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [681](https://www.erdosproblems.com/681) | no | open | no | [A389680](https://oeis.org/A389680) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [681](https://www.erdosproblems.com/681) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/681.lean) | [A389680](https://oeis.org/A389680) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [682](https://www.erdosproblems.com/682) | no | proved | no | [A386978](https://oeis.org/A386978) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [683](https://www.erdosproblems.com/683) | no | open | no | [A006530](https://oeis.org/A006530), [A074399](https://oeis.org/A074399), [A121359](https://oeis.org/A121359), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [684](https://www.erdosproblems.com/684) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
@@ -1018,7 +1018,7 @@ There are 1111 problems in total, of which
 | [969](https://www.erdosproblems.com/969) | no | open | no | [A013928](https://oeis.org/A013928) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [970](https://www.erdosproblems.com/970) | no | open | no | [A048669](https://oeis.org/A048669) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Jacobsthal's function |
 | [971](https://www.erdosproblems.com/971) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [972](https://www.erdosproblems.com/972) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [972](https://www.erdosproblems.com/972) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/972.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [973](https://www.erdosproblems.com/973) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [974](https://www.erdosproblems.com/974) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [975](https://www.erdosproblems.com/975) | no | open | no | [A147807](https://oeis.org/A147807), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
