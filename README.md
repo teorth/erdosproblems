@@ -21,7 +21,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 <!-- TABLE:START -->
 There are 1111 problems in total, of which
 - 99 are attached to a monetary prize.
-- 270 have been proved.
+- 269 have been proved.
   - 10 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
   - 7 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -33,7 +33,7 @@ There are 1111 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 644 appear to be completely open.
+- 645 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 245 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -568,7 +568,7 @@ There are 1111 problems in total, of which
 | [519](https://www.erdosproblems.com/519) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [520](https://www.erdosproblems.com/520) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [521](https://www.erdosproblems.com/521) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials), [probability](https://www.erdosproblems.com/tags/probability) |  |
-| [522](https://www.erdosproblems.com/522) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/522.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials), [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [522](https://www.erdosproblems.com/522) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/522.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [523](https://www.erdosproblems.com/523) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [524](https://www.erdosproblems.com/524) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [525](https://www.erdosproblems.com/525) | no | proved | no | possible | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
