@@ -5767,8 +5767,8 @@
 - number: "522"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "open"
+    last_update: "2025-12-08"
   oeis: ["N/A"]
   formalized:
     state: "yes"
