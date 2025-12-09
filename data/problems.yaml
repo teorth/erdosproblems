@@ -1382,8 +1382,8 @@
     last_update: "2025-08-31"
   oeis: ["A367090"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-09"
   tags: ["number theory", "base representations"]
 
 - number: "126"
@@ -5614,8 +5614,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-09"
   comments: "Hadwiger-Nelson problem"
   tags: ["geometry", "ramsey theory"]
 
