@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- 246 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 248 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 261 have been linked to 318 distinct [OEIS](https://oeis.org/) sequences, with a total of 378 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -171,7 +171,7 @@ There are 1111 problems in total, of which
 | [122](https://www.erdosproblems.com/122) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [123](https://www.erdosproblems.com/123) | $250 | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [124](https://www.erdosproblems.com/124) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/124.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
-| [125](https://www.erdosproblems.com/125) | no | open | no | [A367090](https://oeis.org/A367090) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
+| [125](https://www.erdosproblems.com/125) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/125.lean) | [A367090](https://oeis.org/A367090) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
 | [126](https://www.erdosproblems.com/126) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/126.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [127](https://www.erdosproblems.com/127) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [128](https://www.erdosproblems.com/128) | $250 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
@@ -554,7 +554,7 @@ There are 1111 problems in total, of which
 | [505](https://www.erdosproblems.com/505) | no | disproved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) | Borsuk's problem |
 | [506](https://www.erdosproblems.com/506) | no | decidable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [507](https://www.erdosproblems.com/507) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) | Heilbronn's triangle problem |
-| [508](https://www.erdosproblems.com/508) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) | Hadwiger-Nelson problem |
+| [508](https://www.erdosproblems.com/508) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/508.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) | Hadwiger-Nelson problem |
 | [509](https://www.erdosproblems.com/509) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/509.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [510](https://www.erdosproblems.com/510) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/510.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Chowla's cosine problem |
 | [511](https://www.erdosproblems.com/511) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
