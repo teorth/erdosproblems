@@ -22,7 +22,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 There are 1111 problems in total, of which
 - 99 are attached to a monetary prize.
 - 269 have been proved.
-  - 10 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - 11 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
   - 7 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 49 have been otherwise solved.
@@ -720,7 +720,7 @@ There are 1111 problems in total, of which
 | [671](https://www.erdosproblems.com/671) | $250 | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [672](https://www.erdosproblems.com/672) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/672.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [673](https://www.erdosproblems.com/673) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [674](https://www.erdosproblems.com/674) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [674](https://www.erdosproblems.com/674) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [675](https://www.erdosproblems.com/675) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [676](https://www.erdosproblems.com/676) | no | open | no | [A390181](https://oeis.org/A390181), in progress | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [677](https://www.erdosproblems.com/677) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/677.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
