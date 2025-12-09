@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 644 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- 245 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 246 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 261 have been linked to 318 distinct [OEIS](https://oeis.org/) sequences, with a total of 378 links created.
   - 43 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -905,7 +905,7 @@ There are 1111 problems in total, of which
 | [856](https://www.erdosproblems.com/856) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [857](https://www.erdosproblems.com/857) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | weak sunflower problem |
 | [858](https://www.erdosproblems.com/858) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
-| [859](https://www.erdosproblems.com/859) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [859](https://www.erdosproblems.com/859) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/859.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [860](https://www.erdosproblems.com/860) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [861](https://www.erdosproblems.com/861) | no | solved | no | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022), [A143823](https://oeis.org/A143823) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [862](https://www.erdosproblems.com/862) | no | open | no | [A382395](https://oeis.org/A382395) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
