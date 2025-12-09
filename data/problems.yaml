@@ -7447,8 +7447,8 @@
 - number: "674"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2025-12-08"
   oeis: ["N/A"]
   formalized:
     state: "no"
