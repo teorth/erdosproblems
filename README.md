@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 644 appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
-- 253 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 254 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 262 have been linked to 319 distinct [OEIS](https://oeis.org/) sequences, with a total of 379 links created.
   - 44 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -927,7 +927,7 @@ There are 1111 problems in total, of which
 | [878](https://www.erdosproblems.com/878) | no | open | no | [A339378](https://oeis.org/A339378), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [879](https://www.erdosproblems.com/879) | no | open | no | [A186736](https://oeis.org/A186736) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [880](https://www.erdosproblems.com/880) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [881](https://www.erdosproblems.com/881) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
+| [881](https://www.erdosproblems.com/881) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/881.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [882](https://www.erdosproblems.com/882) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [883](https://www.erdosproblems.com/883) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [884](https://www.erdosproblems.com/884) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
