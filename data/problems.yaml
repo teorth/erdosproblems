@@ -3718,8 +3718,8 @@
 - number: "337"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2025-12-10"
   oeis: ["N/A"]
   formalized:
     state: "no"
