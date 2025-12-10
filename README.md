@@ -37,9 +37,9 @@ There are 1111 problems in total, of which
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - 257 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 262 have been linked to 319 distinct [OEIS](https://oeis.org/) sequences, with a total of 379 links created.
-  - 44 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 314 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 262 have been linked to 320 distinct [OEIS](https://oeis.org/) sequences, with a total of 380 links created.
+  - 45 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 276 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
@@ -1072,7 +1072,7 @@ There are 1111 problems in total, of which
 | [1023](https://www.erdosproblems.com/1023) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1024](https://www.erdosproblems.com/1024) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1025](https://www.erdosproblems.com/1025) | no | solved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [1026](https://www.erdosproblems.com/1026) | no | solved | no | [A391431](https://oeis.org/A391431), possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [1026](https://www.erdosproblems.com/1026) | no | solved | no | [A391431](https://oeis.org/A391431), [A391490](https://oeis.org/A391490) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1027](https://www.erdosproblems.com/1027) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1028](https://www.erdosproblems.com/1028) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [1029](https://www.erdosproblems.com/1029) | $100 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [Ramsey theory](https://www.erdosproblems.com/tags/Ramsey%20theory) |  |
