@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 644 appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
-- 257 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 258 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 262 have been linked to 320 distinct [OEIS](https://oeis.org/) sequences, with a total of 380 links created.
   - 45 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1126,7 +1126,7 @@ There are 1111 problems in total, of which
 | [1077](https://www.erdosproblems.com/1077) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1077.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1078](https://www.erdosproblems.com/1078) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1079](https://www.erdosproblems.com/1079) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
-| [1080](https://www.erdosproblems.com/1080) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1080](https://www.erdosproblems.com/1080) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1080.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1081](https://www.erdosproblems.com/1081) | no | disproved | no | [A076871](https://oeis.org/A076871), [A076872](https://oeis.org/A076872), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
 | [1082](https://www.erdosproblems.com/1082) | no | falsifiable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1083](https://www.erdosproblems.com/1083) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
