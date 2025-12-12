@@ -16,7 +16,7 @@ OUTPUT_LIGHT = ROOT / "data" / "statistics_history_light.svg"
 OUTPUT_DARK = ROOT / "data" / "statistics_history_dark.svg"
 
 FIELDNAMES = ["commit", "date", "total_problems", "lean_formalized", 
-              "oeis_linked", "total_solved", "proved", "disproved", "solved", "lean_solved"]
+              "oeis_linked", "total_solved", "proved", "disproved", "solved", "lean_solved", "open"]
 
 def get_current_commit():
     try:
