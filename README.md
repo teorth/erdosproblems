@@ -26,7 +26,7 @@ There are 1111 problems in total, of which
 - 97 have been disproved.
   - 8 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 49 have been otherwise solved.
-  - 0 of these solutions have been formalized in [Lean](https://lean-lang.org/).
+  - 1 of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are known to be independent of the ZFC axioms of mathematics. (independent)
@@ -1072,7 +1072,7 @@ There are 1111 problems in total, of which
 | [1023](https://www.erdosproblems.com/1023) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1024](https://www.erdosproblems.com/1024) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1025](https://www.erdosproblems.com/1025) | no | solved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [1026](https://www.erdosproblems.com/1026) | no | solved | no | [A391431](https://oeis.org/A391431), [A391490](https://oeis.org/A391490) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [1026](https://www.erdosproblems.com/1026) | no | solved (Lean) | no | [A391431](https://oeis.org/A391431), [A391490](https://oeis.org/A391490) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1027](https://www.erdosproblems.com/1027) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1028](https://www.erdosproblems.com/1028) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [1029](https://www.erdosproblems.com/1029) | $100 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [Ramsey theory](https://www.erdosproblems.com/tags/Ramsey%20theory) |  |
