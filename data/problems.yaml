@@ -11331,7 +11331,7 @@
 - number: "1026"
   prize: "no"
   status:
-    state: "solved"
+    state: "solved (Lean)"
     last_update: "2025-12-8"
   formalized:
     state: "no"
