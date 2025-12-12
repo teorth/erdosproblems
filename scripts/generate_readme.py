@@ -342,13 +342,15 @@ else:
 if plot_statistics_history:
     proved = count_proved(rows) + count_proved_lean(rows)
     disproved = count_disproved(rows) + count_disproved_lean(rows)
-    solved = count_solved(rows)
+    solved = count_solved(rows) + count_solved_lean(rows)
+    open = len(rows) - solved
 
     current_stats = {
         "total_problems": len(rows),
         "lean_formalized": count_formalized_yes(rows),
         "oeis_linked": count_rows_with_oeis_id(rows),
         "total_solved": proved + disproved + solved,
+        "open": open,
         "proved": proved,
         "disproved": disproved,
         "solved": solved,

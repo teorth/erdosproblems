@@ -55,7 +55,7 @@ def update_history(stats: dict) -> bool:
         
     return True
 
-def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_counts, theme='light'):
+def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_counts, open_counts, theme='light'):
     """Creates a progress chart figure with the specified theme (light or dark)."""
 
     # Theme configuration
@@ -65,7 +65,7 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_count
         'text': '#c9d1d9' if is_dark else '#24292f',
         'grid': '#30363d' if is_dark else '#d0d7de',
         'box_bg': '#161b22' if is_dark else '#f6f8fa',
-        'lines': ['#58a6ff', '#f85149', '#3fb950', '#d29922'] if is_dark else ['#0969da', '#cf222e', '#1a7f37', '#bf8700']
+        'lines': ['#58a6ff', '#f85149', '#3fb950', '#d29922', '#9467bd'] if is_dark else ['#0969da', '#cf222e', '#1a7f37', '#bf8700', '#9467bd']
     }
 
     fig, ax = plt.subplots(figsize=(12, 7), facecolor=colors['bg'])
@@ -76,7 +76,8 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_count
         (solve_counts, "Solved", colors['lines'][2]),
         (lean_counts, "Lean Formalized Problem", colors['lines'][0]),
         (lean_solved_counts, "Lean Formalized Solution", colors['lines'][3]),
-        (oeis_counts, "OEIS Linked", colors['lines'][1])
+        (oeis_counts, "OEIS Linked", colors['lines'][1]),
+        (open_counts, "Open Problems", colors['lines'][4]),
     ]
     
     for counts, label, color in data:
@@ -128,7 +129,8 @@ def generate_charts():
                 'lean': int(row["lean_formalized"]),
                 'oeis': int(row["oeis_linked"]),
                 'solve': int(row["total_solved"]),
-                'lean_solved': int(row.get("lean_solved", 0))
+                'lean_solved': int(row.get("lean_solved", 0)),
+                'open': int(row.get("open", 0))
             })
 
     if not data_points:
@@ -141,9 +143,10 @@ def generate_charts():
     oeis = [p['oeis'] for p in data_points]
     solve = [p['solve'] for p in data_points]
     lean_solved = [p['lean_solved'] for p in data_points]
+    open_counts = [p['open'] for p in data_points]
 
     for theme, path in [('light', OUTPUT_LIGHT), ('dark', OUTPUT_DARK)]:
-        fig = create_plot(dates, lean, oeis, solve, lean_solved, theme=theme)
+        fig = create_plot(dates, lean, oeis, solve, lean_solved, open_counts, theme=theme)
         fig.savefig(path, format='svg', bbox_inches='tight', facecolor=fig.get_facecolor())
         plt.close(fig)
 
