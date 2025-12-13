@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 640 appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
-- 261 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 262 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 262 have been linked to 320 distinct [OEIS](https://oeis.org/) sequences, with a total of 380 links created.
   - 45 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 313 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1106,7 +1106,7 @@ There are 1111 problems in total, of which
 | [1057](https://www.erdosproblems.com/1057) | no | open | no | [A006931](https://oeis.org/A006931) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Carmichael numbers |
 | [1058](https://www.erdosproblems.com/1058) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1059](https://www.erdosproblems.com/1059) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1059.lean) | [A064152](https://oeis.org/A064152) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [1060](https://www.erdosproblems.com/1060) | no | open | no | [A327153](https://oeis.org/A327153) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1060](https://www.erdosproblems.com/1060) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1060.lean) | [A327153](https://oeis.org/A327153) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1061](https://www.erdosproblems.com/1061) | no | open | no | [A110177](https://oeis.org/A110177), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1062](https://www.erdosproblems.com/1062) | no | open | no | [A038372](https://oeis.org/A038372) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1063](https://www.erdosproblems.com/1063) | no | open | no | [A389360](https://oeis.org/A389360) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
