@@ -2096,15 +2096,15 @@ z
    </g>
    <g id="legend_1">
     <g id="patch_7">
-     <path d="M 55.90125 119.788437 
-L 213.771563 119.788437 
-Q 215.771563 119.788437 215.771563 117.788437 
-L 215.771563 45.397812 
-Q 215.771563 43.397812 213.771563 43.397812 
-L 55.90125 43.397812 
-Q 53.90125 43.397812 53.90125 45.397812 
-L 53.90125 117.788437 
-Q 53.90125 119.788437 55.90125 119.788437 
+     <path d="M 62.26375 119.788437 
+L 220.134063 119.788437 
+Q 222.134063 119.788437 222.134063 117.788437 
+L 222.134063 45.397812 
+Q 222.134063 43.397812 220.134063 43.397812 
+L 62.26375 43.397812 
+Q 60.26375 43.397812 60.26375 45.397812 
+L 60.26375 117.788437 
+Q 60.26375 119.788437 62.26375 119.788437 
 z
 " style="fill: #f6f8fa; opacity: 0.8; stroke: #d0d7de; stroke-linejoin: miter"/>
     </g>
@@ -2116,7 +2116,7 @@ L 77.90125 51.49625
     </g>
     <g id="text_26">
      <!-- Solved -->
-     <g style="fill: #24292f" transform="translate(85.90125 54.99625) scale(0.1 -0.1)">
+     <g style="fill: #24292f" transform="translate(92.26375 54.99625) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-6c" d="M 603 4863 
 L 1178 4863 
@@ -2168,7 +2168,7 @@ L 77.90125 66.174375
     </g>
     <g id="text_27">
      <!-- Lean Formalized Problem -->
-     <g style="fill: #24292f" transform="translate(85.90125 69.674375) scale(0.1 -0.1)">
+     <g style="fill: #24292f" transform="translate(92.26375 69.674375) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-4c" d="M 628 4666 
 L 1259 4666 
@@ -2347,7 +2347,7 @@ L 77.90125 80.8525
     </g>
     <g id="text_28">
      <!-- Lean Formalized Solution -->
-     <g style="fill: #24292f" transform="translate(85.90125 84.3525) scale(0.1 -0.1)">
+     <g style="fill: #24292f" transform="translate(92.26375 84.3525) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-4c"/>
       <use xlink:href="#DejaVuSans-65" x="53.962891"/>
       <use xlink:href="#DejaVuSans-61" x="115.486328"/>
@@ -2382,7 +2382,7 @@ L 77.90125 95.530625
     </g>
     <g id="text_29">
      <!-- OEIS Linked -->
-     <g style="fill: #24292f" transform="translate(85.90125 99.030625) scale(0.1 -0.1)">
+     <g style="fill: #24292f" transform="translate(92.26375 99.030625) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-45" d="M 628 4666 
 L 3578 4666 
@@ -2442,7 +2442,7 @@ L 77.90125 110.20875
     </g>
     <g id="text_30">
      <!-- Open Problems -->
-     <g style="fill: #24292f" transform="translate(85.90125 113.70875) scale(0.1 -0.1)">
+     <g style="fill: #24292f" transform="translate(92.26375 113.70875) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-73" d="M 2834 3397 
 L 2834 2853 
