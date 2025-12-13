@@ -94,6 +94,7 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_count
     ax.set_xlabel("Date", fontsize=12, color=colors['text'])
     ax.set_ylabel("Count", fontsize=12, color=colors['text'])
     ax.set_title("Erdős Problems Progress", fontsize=14, fontweight='bold', color=colors['text'], pad=20)
+    ax.set_ylim((0,750)) # hardcoded y limit, can change later
     
     legend = ax.legend(loc='upper left', fontsize=10, facecolor=colors['box_bg'], edgecolor=colors['grid'])
     plt.setp(legend.get_texts(), color=colors['text'])
@@ -110,7 +111,7 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_count
     ax.tick_params(axis='y', colors=colors['text'])
     
     for spine in ax.spines.values():
-        spine.set_edgecolor(colors['grid'])
+        spine.set_edgecolor(colors['grid'])    
 
     plt.tight_layout()
     return fig
@@ -149,6 +150,7 @@ def generate_charts():
         fig = create_plot(dates, lean, oeis, solve, lean_solved, open_counts, theme=theme)
         fig.savefig(path, format='svg', bbox_inches='tight', facecolor=fig.get_facecolor())
         plt.close(fig)
+        
 
 if __name__ == "__main__":
     generate_charts()
