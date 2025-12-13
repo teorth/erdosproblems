@@ -11712,8 +11712,8 @@
     state: "open"
     last_update: "2025-09-28"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2025-12-13"
   oeis: ["A327153"]
   tags: ["number theory"]
 
