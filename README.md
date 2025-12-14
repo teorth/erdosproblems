@@ -37,9 +37,9 @@ There are 1111 problems in total, of which
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - 262 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 263 have been linked to 321 distinct [OEIS](https://oeis.org/) sequences, with a total of 381 links created.
-  - 46 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 312 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+- 263 have been linked to 322 distinct [OEIS](https://oeis.org/) sequences, with a total of 382 links created.
+  - 47 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- 311 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 275 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
@@ -899,7 +899,7 @@ There are 1111 problems in total, of which
 | [850](https://www.erdosproblems.com/850) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/850.lean) | [A343101](https://oeis.org/A343101) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | Erdős-Woods conjecture |
 | [851](https://www.erdosproblems.com/851) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/851.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [852](https://www.erdosproblems.com/852) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [853](https://www.erdosproblems.com/853) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/853.lean) | [A001223](https://oeis.org/A001223), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [853](https://www.erdosproblems.com/853) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/853.lean) | [A001223](https://oeis.org/A001223), [A390769](https://oeis.org/A390769) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [854](https://www.erdosproblems.com/854) | no | open | no | [A389839](https://oeis.org/A389839), [A048670](https://oeis.org/A048670) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [855](https://www.erdosproblems.com/855) | no | falsifiable | no | [A023193](https://oeis.org/A023193) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | second Hardy-Littlewood conjecture |
 | [856](https://www.erdosproblems.com/856) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
