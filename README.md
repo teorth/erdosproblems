@@ -37,10 +37,10 @@ There are 1111 problems in total, of which
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - 262 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 263 have been linked to 322 distinct [OEIS](https://oeis.org/) sequences, with a total of 382 links created.
+- 264 have been linked to 323 distinct [OEIS](https://oeis.org/) sequences, with a total of 383 links created.
   - 47 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 311 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 275 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 274 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -1146,7 +1146,7 @@ There are 1111 problems in total, of which
 | [1097](https://www.erdosproblems.com/1097) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1097.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [1098](https://www.erdosproblems.com/1098) | no | proved | no | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [1099](https://www.erdosproblems.com/1099) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [1100](https://www.erdosproblems.com/1100) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [1100](https://www.erdosproblems.com/1100) | no | open | no | [A325864](https://oeis.org/A325864), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [1101](https://www.erdosproblems.com/1101) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1102](https://www.erdosproblems.com/1102) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1103](https://www.erdosproblems.com/1103) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
