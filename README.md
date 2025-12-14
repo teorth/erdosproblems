@@ -25,7 +25,7 @@ There are 1111 problems in total, of which
   - 11 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
   - 8 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 51 have been otherwise solved.
+- 52 have been otherwise solved.
   - 1 of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -33,7 +33,7 @@ There are 1111 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 640 appear to be completely open.
+- 639 appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - 262 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -743,7 +743,7 @@ There are 1111 problems in total, of which
 | [694](https://www.erdosproblems.com/694) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/694.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [695](https://www.erdosproblems.com/695) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/695.lean) | [A061092](https://oeis.org/A061092) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [696](https://www.erdosproblems.com/696) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [697](https://www.erdosproblems.com/697) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [697](https://www.erdosproblems.com/697) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [698](https://www.erdosproblems.com/698) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [699](https://www.erdosproblems.com/699) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [700](https://www.erdosproblems.com/700) | no | open | no | [A091963](https://oeis.org/A091963), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
