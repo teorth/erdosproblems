@@ -8048,6 +8048,7 @@
   formalized:
     state: "yes"
     last_update: "2025-10-14"
+  comment: "ambiguous statement"
   tags: ["number theory", "factorials"]
 
 - number: "729"
