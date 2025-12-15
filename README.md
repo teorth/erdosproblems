@@ -34,7 +34,7 @@ There are 1111 problems in total, of which
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
 - 639 appear to be completely open.
-- 3 have ambiguous statements.
+- 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 262 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 264 have been linked to 323 distinct [OEIS](https://oeis.org/) sequences, with a total of 383 links created.
@@ -774,7 +774,7 @@ There are 1111 problems in total, of which
 | [725](https://www.erdosproblems.com/725) | no | open | no | [A001009](https://oeis.org/A001009) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [726](https://www.erdosproblems.com/726) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [727](https://www.erdosproblems.com/727) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | [A002503](https://oeis.org/A002503), [A343507](https://oeis.org/A343507) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [728](https://www.erdosproblems.com/728) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/728.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [728](https://www.erdosproblems.com/728) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/728.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) | ambiguous statement |
 | [729](https://www.erdosproblems.com/729) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [730](https://www.erdosproblems.com/730) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
 | [731](https://www.erdosproblems.com/731) | no | open | no | [A006197](https://oeis.org/A006197) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
