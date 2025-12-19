@@ -23,7 +23,7 @@ There are 1111 problems in total, of which
 - 99 are attached to a monetary prize.
 - 271 have been proved.
   - 11 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 97 have been disproved.
+- 98 have been disproved.
   - 9 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 52 have been otherwise solved.
   - 1 of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -33,7 +33,7 @@ There are 1111 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 639 appear to be completely open.
+- 638 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 265 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1013,7 +1013,7 @@ There are 1111 problems in total, of which
 | [964](https://www.erdosproblems.com/964) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [965](https://www.erdosproblems.com/965) | no | open | no | N/A | [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [966](https://www.erdosproblems.com/966) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [967](https://www.erdosproblems.com/967) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [967](https://www.erdosproblems.com/967) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [968](https://www.erdosproblems.com/968) | no | open | no | [A387591](https://oeis.org/A387591) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [969](https://www.erdosproblems.com/969) | no | open | no | [A013928](https://oeis.org/A013928) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [970](https://www.erdosproblems.com/970) | no | open | no | [A048669](https://oeis.org/A048669) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Jacobsthal's function |
