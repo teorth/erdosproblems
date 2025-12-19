@@ -10681,7 +10681,7 @@
 - number: "967"
   prize: "no"
   status:
-    state: "disproved"
+    state: "disproved (Lean)"
     last_update: "2025-12-19"
   oeis: ["N/A"]
   formalized:
