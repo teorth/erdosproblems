@@ -37,10 +37,10 @@ There are 1111 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 265 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 264 have been linked to 323 distinct [OEIS](https://oeis.org/) sequences, with a total of 383 links created.
+- 265 have been linked to 323 distinct [OEIS](https://oeis.org/) sequences, with a total of 384 links created.
   - 47 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 311 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 274 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 310 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 273 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -212,7 +212,7 @@ There are 1111 problems in total, of which
 | [163](https://www.erdosproblems.com/163) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) | Burr-Erdős conjecture |
 | [164](https://www.erdosproblems.com/164) | no | proved | no | [A137245](https://oeis.org/A137245) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [165](https://www.erdosproblems.com/165) | $250 | open | no | [A000791](https://oeis.org/A000791) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [166](https://www.erdosproblems.com/166) | $250 | proved | no | A059442, possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [166](https://www.erdosproblems.com/166) | $250 | proved | no | [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [167](https://www.erdosproblems.com/167) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [168](https://www.erdosproblems.com/168) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/168.lean) | [A004059](https://oeis.org/A004059), [A057561](https://oeis.org/A057561), [A094708](https://oeis.org/A094708), [A386439](https://oeis.org/A386439) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [169](https://www.erdosproblems.com/169) | no | open | no | [A005346](https://oeis.org/A005346) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
