@@ -10681,8 +10681,8 @@
 - number: "967"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2025-12-19"
   oeis: ["N/A"]
   formalized:
     state: "no"
