@@ -24,7 +24,7 @@ There are 1111 problems in total, of which
 - 271 have been proved.
   - 11 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 97 have been disproved.
-  - 8 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - 9 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 52 have been otherwise solved.
   - 1 of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -235,7 +235,7 @@ There are 1111 problems in total, of which
 | [186](https://www.erdosproblems.com/186) | no | solved | no | [A389784](https://oeis.org/A389784) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [187](https://www.erdosproblems.com/187) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [188](https://www.erdosproblems.com/188) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/188.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [189](https://www.erdosproblems.com/189) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/189.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [189](https://www.erdosproblems.com/189) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/189.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [190](https://www.erdosproblems.com/190) | no | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [191](https://www.erdosproblems.com/191) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [192](https://www.erdosproblems.com/192) | no | solved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
