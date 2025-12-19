@@ -24,7 +24,7 @@ There are 1111 problems in total, of which
 - 271 have been proved.
   - 11 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
-  - 9 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - 10 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 52 have been otherwise solved.
   - 1 of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -1013,7 +1013,7 @@ There are 1111 problems in total, of which
 | [964](https://www.erdosproblems.com/964) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [965](https://www.erdosproblems.com/965) | no | open | no | N/A | [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [966](https://www.erdosproblems.com/966) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [967](https://www.erdosproblems.com/967) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [967](https://www.erdosproblems.com/967) | no | disproved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [968](https://www.erdosproblems.com/968) | no | open | no | [A387591](https://oeis.org/A387591) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [969](https://www.erdosproblems.com/969) | no | open | no | [A013928](https://oeis.org/A013928) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [970](https://www.erdosproblems.com/970) | no | open | no | [A048669](https://oeis.org/A048669) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Jacobsthal's function |
