@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 638 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- 268 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 269 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 266 have been linked to 324 distinct [OEIS](https://oeis.org/) sequences, with a total of 385 links created.
   - 47 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 309 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1021,7 +1021,7 @@ There are 1111 problems in total, of which
 | [972](https://www.erdosproblems.com/972) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/972.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [973](https://www.erdosproblems.com/973) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [974](https://www.erdosproblems.com/974) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [975](https://www.erdosproblems.com/975) | no | open | no | [A147807](https://oeis.org/A147807), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [975](https://www.erdosproblems.com/975) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/975.lean) | [A147807](https://oeis.org/A147807), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [976](https://www.erdosproblems.com/976) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [977](https://www.erdosproblems.com/977) | no | proved | no | [A005420](https://oeis.org/A005420), [A002583](https://oeis.org/A002583) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [978](https://www.erdosproblems.com/978) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
