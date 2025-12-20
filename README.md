@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 638 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- 265 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 266 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 266 have been linked to 324 distinct [OEIS](https://oeis.org/) sequences, with a total of 385 links created.
   - 47 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 309 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1089,7 +1089,7 @@ There are 1111 problems in total, of which
 | [1040](https://www.erdosproblems.com/1040) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1041](https://www.erdosproblems.com/1041) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1041.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1042](https://www.erdosproblems.com/1042) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1043](https://www.erdosproblems.com/1043) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1043](https://www.erdosproblems.com/1043) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1043.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1044](https://www.erdosproblems.com/1044) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1045](https://www.erdosproblems.com/1045) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1046](https://www.erdosproblems.com/1046) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
