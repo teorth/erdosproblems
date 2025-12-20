@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - 638 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- 267 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- 268 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 266 have been linked to 324 distinct [OEIS](https://oeis.org/) sequences, with a total of 385 links created.
   - 47 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 309 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -566,7 +566,7 @@ There are 1111 problems in total, of which
 | [517](https://www.erdosproblems.com/517) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [518](https://www.erdosproblems.com/518) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [519](https://www.erdosproblems.com/519) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [520](https://www.erdosproblems.com/520) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [520](https://www.erdosproblems.com/520) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/520.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [521](https://www.erdosproblems.com/521) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [522](https://www.erdosproblems.com/522) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/522.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [523](https://www.erdosproblems.com/523) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [probability](https://www.erdosproblems.com/tags/probability), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
