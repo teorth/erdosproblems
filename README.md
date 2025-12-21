@@ -22,7 +22,7 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 There are 1111 problems in total, of which
 - 99 are attached to a monetary prize.
 - 272 have been proved.
-  - 11 of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - 12 of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - 98 have been disproved.
   - 10 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 52 have been otherwise solved.
@@ -349,7 +349,7 @@ There are 1111 problems in total, of which
 | [300](https://www.erdosproblems.com/300) | no | solved | no | [A390393](https://oeis.org/A390393) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [301](https://www.erdosproblems.com/301) | no | open | no | [A390394](https://oeis.org/A390394) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [302](https://www.erdosproblems.com/302) | no | open | no | [A390395](https://oeis.org/A390395) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
-| [303](https://www.erdosproblems.com/303) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/303.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [303](https://www.erdosproblems.com/303) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/303.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [304](https://www.erdosproblems.com/304) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/304.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [305](https://www.erdosproblems.com/305) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [306](https://www.erdosproblems.com/306) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/306.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
