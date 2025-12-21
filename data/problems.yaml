@@ -4018,7 +4018,7 @@
   status:
     state: "verifiable"
     last_update: "2025-08-31"
-  oeis: ["A060355"]
+  oeis: ["A060355", "A076445"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
