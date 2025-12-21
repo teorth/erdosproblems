@@ -37,7 +37,7 @@ There are 1111 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 269 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 266 have been linked to 324 distinct [OEIS](https://oeis.org/) sequences, with a total of 385 links created.
+- 266 have been linked to 325 distinct [OEIS](https://oeis.org/) sequences, with a total of 386 links created.
   - 47 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - 309 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 272 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -410,7 +410,7 @@ There are 1111 problems in total, of which
 | [361](https://www.erdosproblems.com/361) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/361.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [362](https://www.erdosproblems.com/362) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [363](https://www.erdosproblems.com/363) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [364](https://www.erdosproblems.com/364) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [364](https://www.erdosproblems.com/364) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/364.lean) | [A060355](https://oeis.org/A060355), [A076445](https://oeis.org/A076445) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [365](https://www.erdosproblems.com/365) | no | open | no | [A060355](https://oeis.org/A060355), [A060859](https://oeis.org/A060859), [A175155](https://oeis.org/A175155) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [366](https://www.erdosproblems.com/366) | no | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/366.lean) | [A060355](https://oeis.org/A060355) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [367](https://www.erdosproblems.com/367) | no | open | no | [A057521](https://oeis.org/A057521) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
