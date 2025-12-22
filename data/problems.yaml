@@ -9414,7 +9414,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A001223","A053597","A078515"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
