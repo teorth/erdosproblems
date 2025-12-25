@@ -11371,7 +11371,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["possible"]
-  tags: ["graph theory", "Ramsey theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "1030"
   prize: "no"
@@ -11382,7 +11382,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["A000791", "A059442"]
-  tags: ["graph theory", "Ramsey theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "1031"
   prize: "no"
@@ -12044,7 +12044,7 @@
     state: "no"
     last_update: "2025-09-28"
   oeis: ["N/A"]
-  tags: ["geometry", "ramsey"]
+  tags: ["geometry", "ramsey theory"]
 
 - number: "1091"
   prize: "no"
