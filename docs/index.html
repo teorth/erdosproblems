@@ -37,8 +37,6 @@
                         <option value="verifiable">Verifiable</option>
                         <option value="decidable">Decidable</option>
                         <option value="not provable">Not Provable</option>
-                        <option value="not disprovable">Not Disprovable</option>
-                        <option value="independent">Independent</option>
                     </select>
                 </div>
 
@@ -67,7 +65,6 @@
                         <option value="linked">Already Linked</option>
                         <option value="na">N/A</option>
                         <option value="possible">Possible</option>
-                        <option value="submitted">Submitted</option>
                         <option value="inprogress">In Progress</option>
                     </select>
                 </div>
@@ -93,6 +90,17 @@
                 </div>
                 <div id="tags-checkboxes" class="tags-checkboxes">
                     <!-- Dynamically populated -->
+                </div>
+                <div class="tag-sort-toggle">
+                    <label>Sort by:</label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-sort" value="count" id="tag-sort-count" checked>
+                        Count (most common first)
+                    </label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-sort" value="alpha" id="tag-sort-alpha">
+                        Alphabetically (A-Z)
+                    </label>
                 </div>
             </details>
         </div>

@@ -56,6 +56,10 @@ function saveStateToURL(state) {
         params.set('tagLogic', state.tagLogic);
     }
 
+    if (state.tagSort && state.tagSort !== 'count') {
+        params.set('tagSort', state.tagSort);
+    }
+
     // Update URL without reload using History API
     const queryString = params.toString();
     const newURL = queryString
@@ -81,7 +85,8 @@ function loadStateFromURL() {
         formalizedFilter: params.get('formalized') || '',
         oeisFilter: params.get('oeis') || '',
         selectedTags: params.get('tags') ? params.get('tags').split(',').filter(tag => tag.trim() !== '') : [],
-        tagLogic: params.get('tagLogic') || 'any'
+        tagLogic: params.get('tagLogic') || 'any',
+        tagSort: params.get('tagSort') || 'count'
     };
 }
 
@@ -138,6 +143,19 @@ function restoreUIState(state) {
                 checkbox.checked = true;
             }
         });
+    }
+
+    // Restore tag sort toggle
+    if (state.tagSort === 'alpha') {
+        const tagSortAlpha = document.getElementById('tag-sort-alpha');
+        if (tagSortAlpha) {
+            tagSortAlpha.checked = true;
+        }
+    } else {
+        const tagSortCount = document.getElementById('tag-sort-count');
+        if (tagSortCount) {
+            tagSortCount.checked = true;
+        }
     }
 
     // Restore sort indicators
@@ -201,6 +219,10 @@ function getCurrentState() {
     const tagLogicAll = document.getElementById('tag-logic-all');
     const tagLogic = tagLogicAll && tagLogicAll.checked ? 'all' : 'any';
 
+    // Get tag sort preference
+    const tagSortAlpha = document.getElementById('tag-sort-alpha');
+    const tagSort = tagSortAlpha && tagSortAlpha.checked ? 'alpha' : 'count';
+
     // Get current sort state from table headers
     let sortColumn = 'number';
     let sortDirection = 'asc';
@@ -219,6 +241,7 @@ function getCurrentState() {
         formalizedFilter: formalizedFilter ? formalizedFilter.value : '',
         oeisFilter: oeisFilter ? oeisFilter.value : '',
         selectedTags,
-        tagLogic
+        tagLogic,
+        tagSort
     };
 }

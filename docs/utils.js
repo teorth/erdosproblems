@@ -154,18 +154,42 @@ function renderComments(comments) {
 }
 
 /**
- * Extract all unique tags from problems array
+ * Extract all unique tags with their counts from problems array
  * @param {Array<Object>} problems - Array of problem objects
- * @returns {Array<string>} Sorted array of unique tags
+ * @returns {Map<string, number>} Map of tag to count
  */
-function extractAllTags(problems) {
-    const tagSet = new Set();
+function extractTagCounts(problems) {
+    const tagCounts = new Map();
     problems.forEach(problem => {
         if (problem.tags && Array.isArray(problem.tags)) {
-            problem.tags.forEach(tag => tagSet.add(tag));
+            problem.tags.forEach(tag => {
+                tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+            });
         }
     });
-    return Array.from(tagSet).sort();
+    return tagCounts;
+}
+
+/**
+ * Extract all unique tags from problems array, sorted by preference
+ * @param {Array<Object>} problems - Array of problem objects
+ * @param {string} sortBy - 'count' (default) or 'alpha'
+ * @param {Map<string, number>} tagCounts - Optional pre-computed tag counts
+ * @returns {Array<string>} Sorted array of unique tags
+ */
+function extractAllTags(problems, sortBy = 'count', tagCounts = null) {
+    const counts = tagCounts || extractTagCounts(problems);
+    const tags = Array.from(counts.keys());
+
+    if (sortBy === 'alpha') {
+        return tags.sort();
+    } else {
+        // Sort by count descending, then alphabetically for ties
+        return tags.sort((a, b) => {
+            const countDiff = counts.get(b) - counts.get(a);
+            return countDiff !== 0 ? countDiff : a.localeCompare(b);
+        });
+    }
 }
 
 /**

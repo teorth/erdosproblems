@@ -210,6 +210,23 @@ main {
     border-radius: 4px;
 }
 
+.tag-sort-toggle {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    background-color: var(--bg-secondary);
+    border-radius: 4px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.tag-sort-toggle label:first-child {
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
 .tag-logic-toggle {
     padding: 0.5rem;
     margin-top: 0.5rem;

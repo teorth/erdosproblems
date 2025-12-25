@@ -232,14 +232,24 @@ async function initialize() {
     // Set filter change handler FIRST (before creating any event listeners)
     setFilterChangeHandler(updateTable);
 
-    // Extract and populate tags
-    const allTags = extractAllTags(allProblems);
-    populateTagFilters(allTags);
+    // Extract tag counts and tags
+    const tagCounts = extractTagCounts(allProblems);
+
+    // Store globally for tag sort functionality
+    window._allProblems = allProblems;
+    window._tagCounts = tagCounts;
 
     // Load state from URL
     const urlState = loadStateFromURL();
     currentSort.column = urlState.sortColumn;
     currentSort.direction = urlState.sortDirection;
+
+    // Get initial tag sort preference from URL
+    const initialTagSort = urlState.tagSort || 'count';
+
+    // Extract and populate tags with initial sort
+    const allTags = extractAllTags(allProblems, initialTagSort, tagCounts);
+    populateTagFilters(allTags, tagCounts);
 
     // Restore UI state
     restoreUIState(urlState);

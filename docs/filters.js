@@ -139,10 +139,11 @@ function applyFilters(problems, filters) {
 }
 
 /**
- * Populate tag filter checkboxes
+ * Populate tag filter checkboxes with counts
  * @param {Array<string>} allTags - Sorted array of all unique tags
+ * @param {Map<string, number>} tagCounts - Map of tag to count
  */
-function populateTagFilters(allTags) {
+function populateTagFilters(allTags, tagCounts) {
     const container = document.getElementById('tags-checkboxes');
     if (!container) return;
 
@@ -160,10 +161,11 @@ function populateTagFilters(allTags) {
         checkbox.value = tag;
         checkbox.className = 'tag-filter-checkbox';
 
-        // Create label
+        // Create label with count
         const label = document.createElement('label');
         label.htmlFor = checkbox.id;
-        label.textContent = tag;
+        const count = tagCounts.get(tag) || 0;
+        label.textContent = `${tag} (${count})`;
 
         // Append to container
         itemDiv.appendChild(checkbox);
@@ -173,6 +175,43 @@ function populateTagFilters(allTags) {
         // Add event listener for filter change
         checkbox.addEventListener('change', handleFilterChange);
     });
+}
+
+/**
+ * Re-sort and re-populate tag filters based on sort preference
+ * @param {string} sortBy - 'count' or 'alpha'
+ */
+function resortTagFilters(sortBy) {
+    if (!window._allProblems || !window._tagCounts) {
+        console.warn('Cannot resort tags: data not initialized');
+        return;
+    }
+
+    // Get currently selected tags before re-rendering
+    const selectedTags = [];
+    document.querySelectorAll('.tag-filter-checkbox:checked').forEach(checkbox => {
+        selectedTags.push(checkbox.value);
+    });
+
+    // Extract tags with new sort order
+    const sortedTags = extractAllTags(window._allProblems, sortBy, window._tagCounts);
+
+    // Re-populate with same counts
+    populateTagFilters(sortedTags, window._tagCounts);
+
+    // Restore selected tags
+    selectedTags.forEach(tag => {
+        const checkbox = document.getElementById(`tag-${sanitizeTagId(tag)}`);
+        if (checkbox) {
+            checkbox.checked = true;
+        }
+    });
+
+    // Reapply tag search filter if active
+    const tagSearch = document.getElementById('tag-search');
+    if (tagSearch && tagSearch.value.trim() !== '') {
+        filterTagCheckboxes(tagSearch.value);
+    }
 }
 
 /**
@@ -270,6 +309,13 @@ function resetAllFilters() {
         filterTagCheckboxes('');
     }
 
+    // Reset tag sort to default (count)
+    const tagSortCount = document.getElementById('tag-sort-count');
+    if (tagSortCount) {
+        tagSortCount.checked = true;
+        resortTagFilters('count');
+    }
+
     // Trigger filter change
     handleFilterChange();
 }
@@ -350,6 +396,37 @@ function initializeFilterListeners() {
     if (tagSearch) {
         tagSearch.addEventListener('input', (e) => {
             filterTagCheckboxes(e.target.value);
+        });
+    }
+
+    // Tag sort toggle
+    const tagSortCount = document.getElementById('tag-sort-count');
+    if (tagSortCount) {
+        tagSortCount.addEventListener('change', (e) => {
+            if (e.target.checked) {
+                resortTagFilters('count');
+                // Update URL state
+                if (typeof saveStateToURL === 'function' && typeof getCurrentState === 'function') {
+                    const state = getCurrentState();
+                    state.tagSort = 'count';
+                    saveStateToURL(state);
+                }
+            }
+        });
+    }
+
+    const tagSortAlpha = document.getElementById('tag-sort-alpha');
+    if (tagSortAlpha) {
+        tagSortAlpha.addEventListener('change', (e) => {
+            if (e.target.checked) {
+                resortTagFilters('alpha');
+                // Update URL state
+                if (typeof saveStateToURL === 'function' && typeof getCurrentState === 'function') {
+                    const state = getCurrentState();
+                    state.tagSort = 'alpha';
+                    saveStateToURL(state);
+                }
+            }
         });
     }
 }
