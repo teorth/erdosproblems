@@ -1,0 +1,469 @@
+/* CSS Variables for Light Theme */
+:root {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f8fa;
+    --bg-tertiary: #f0f0f0;
+    --text-primary: #24292f;
+    --text-secondary: #57606a;
+    --border-color: #d0d7de;
+    --link-color: #0969da;
+    --link-hover: #0550ae;
+    --header-bg: #0969da;
+    --header-text: #ffffff;
+    --button-bg: #0969da;
+    --button-hover: #0550ae;
+    --button-text: #ffffff;
+    --input-border: #d0d7de;
+    --input-focus: #0969da;
+    --shadow: rgba(0, 0, 0, 0.1);
+}
+
+/* Dark Theme */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-primary: #0d1117;
+        --bg-secondary: #161b22;
+        --bg-tertiary: #21262d;
+        --text-primary: #c9d1d9;
+        --text-secondary: #8b949e;
+        --border-color: #30363d;
+        --link-color: #58a6ff;
+        --link-hover: #79c0ff;
+        --header-bg: #1f6feb;
+        --header-text: #ffffff;
+        --button-bg: #1f6feb;
+        --button-hover: #388bfd;
+        --button-text: #ffffff;
+        --input-border: #30363d;
+        --input-focus: #58a6ff;
+        --shadow: rgba(0, 0, 0, 0.3);
+    }
+}
+
+/* Reset and Base Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+header {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+    padding: 2rem 1rem;
+    text-align: center;
+    box-shadow: 0 2px 4px var(--shadow);
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+header .subtitle {
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+header a {
+    color: var(--header-text);
+    text-decoration: underline;
+}
+
+header a:hover {
+    opacity: 0.8;
+}
+
+/* Main Content */
+main {
+    flex: 1;
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+/* Controls Container */
+.controls-container {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.search-section {
+    margin-bottom: 1rem;
+}
+
+.search-section label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+#search-box {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid var(--input-border);
+    border-radius: 4px;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+#search-box:focus {
+    outline: none;
+    border-color: var(--input-focus);
+    box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.1);
+}
+
+/* Filters Section */
+.filters-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: flex-end;
+    margin-top: 1rem;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    min-width: 150px;
+}
+
+.filter-group label {
+    margin-bottom: 0.25rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.filter-group select {
+    padding: 0.5rem;
+    font-size: 0.95rem;
+    border: 1px solid var(--input-border);
+    border-radius: 4px;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+.filter-group select:focus {
+    outline: none;
+    border-color: var(--input-focus);
+}
+
+.reset-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.95rem;
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.2s;
+}
+
+.reset-btn:hover {
+    background-color: var(--button-hover);
+}
+
+.reset-btn:active {
+    transform: translateY(1px);
+}
+
+/* Tags Filter */
+.tags-filter-container {
+    margin-top: 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 0.5rem;
+    background-color: var(--bg-primary);
+}
+
+.tags-filter-container summary {
+    cursor: pointer;
+    font-weight: 600;
+    padding: 0.5rem;
+    user-select: none;
+}
+
+.tags-filter-container summary:hover {
+    background-color: var(--bg-secondary);
+    border-radius: 4px;
+}
+
+.tags-search-box {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+#tag-search {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 0.9rem;
+    border: 1px solid var(--input-border);
+    border-radius: 4px;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+#tag-search:focus {
+    outline: none;
+    border-color: var(--input-focus);
+}
+
+.tags-checkboxes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.5rem;
+    padding: 0.5rem;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.tag-checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.tag-checkbox-item input[type="checkbox"] {
+    cursor: pointer;
+}
+
+.tag-checkbox-item label {
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+/* Stats Bar */
+.stats-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+}
+
+#showing-count {
+    font-weight: 600;
+}
+
+.loading {
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+/* Table Container */
+.table-container {
+    overflow-x: auto;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background-color: var(--bg-primary);
+    box-shadow: 0 1px 3px var(--shadow);
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--bg-primary);
+}
+
+thead {
+    background-color: var(--bg-secondary);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+th {
+    padding: 0.75rem;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 2px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    white-space: nowrap;
+}
+
+th:last-child {
+    border-right: none;
+}
+
+th.sortable {
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.2s;
+}
+
+th.sortable:hover {
+    background-color: var(--bg-tertiary);
+}
+
+th.sorted-asc,
+th.sorted-desc {
+    background-color: var(--header-bg);
+    color: var(--header-text);
+}
+
+.sort-arrow {
+    display: inline-block;
+    margin-left: 0.25rem;
+    font-size: 0.8rem;
+}
+
+/* Table Body */
+tbody tr {
+    border-bottom: 1px solid var(--border-color);
+    transition: background-color 0.15s;
+}
+
+tbody tr:hover {
+    background-color: var(--bg-secondary);
+}
+
+tbody tr:last-child {
+    border-bottom: none;
+}
+
+td {
+    padding: 0.75rem;
+    border-right: 1px solid var(--border-color);
+}
+
+td:last-child {
+    border-right: none;
+}
+
+.loading-cell {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+/* Links */
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link-hover);
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background-color: var(--bg-secondary);
+    border-top: 1px solid var(--border-color);
+    padding: 1.5rem;
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: var(--link-color);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    header p {
+        font-size: 0.9rem;
+    }
+
+    main {
+        padding: 1rem 0.5rem;
+    }
+
+    .controls-container {
+        padding: 1rem;
+    }
+
+    .filters-section {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .filter-group {
+        min-width: 100%;
+    }
+
+    .tags-checkboxes {
+        grid-template-columns: 1fr;
+    }
+
+    table {
+        font-size: 0.85rem;
+    }
+
+    th, td {
+        padding: 0.5rem 0.4rem;
+    }
+
+    th {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    table {
+        font-size: 0.75rem;
+    }
+
+    th, td {
+        padding: 0.4rem 0.3rem;
+    }
+}
+
+/* Scrollbar Styling for Dark Mode */
+@media (prefers-color-scheme: dark) {
+    .tags-checkboxes::-webkit-scrollbar,
+    .table-container::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+    }
+
+    .tags-checkboxes::-webkit-scrollbar-track,
+    .table-container::-webkit-scrollbar-track {
+        background: var(--bg-secondary);
+    }
+
+    .tags-checkboxes::-webkit-scrollbar-thumb,
+    .table-container::-webkit-scrollbar-thumb {
+        background: var(--border-color);
+        border-radius: 5px;
+    }
+
+    .tags-checkboxes::-webkit-scrollbar-thumb:hover,
+    .table-container::-webkit-scrollbar-thumb:hover {
+        background: var(--text-secondary);
+    }
+}

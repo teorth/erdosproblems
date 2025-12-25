@@ -1,4 +1,7 @@
 # Erdős problem database
+
+🌐 **[Browse the interactive table](https://teorth.github.io/erdosproblems/)** - Sort, filter, and search all 1,109 problems
+
 A community database for the problems on the [erdosproblems.com](https://www.erdosproblems.com/) site.  We are particularly [seeking community contributions regarding the integer sequences associated with these problems](CONTRIBUTING.md#linking-with-the-oeis), and linking them to the [OEIS](https://oeis.org).
 
 The table below is auto-generated from the YAML file [data/problems.yaml](data/problems.yaml), which is the "ground truth" for this data as far as this repository is concerned.

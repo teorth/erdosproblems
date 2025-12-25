@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erdős Problems Database - Interactive Table</title>
+    <meta name="description" content="Interactive table of 1,109 mathematical problems from the Erdős problem database">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Erdős Problems Database</h1>
+        <p>Interactive table of 1,109 mathematical problems</p>
+        <p class="subtitle">Data from <a href="https://github.com/teorth/erdosproblems" target="_blank">erdosproblems repository</a></p>
+    </header>
+
+    <main>
+        <div class="controls-container">
+            <div class="search-section">
+                <label for="search-box">Search:</label>
+                <input type="text" id="search-box" placeholder="Search across all fields..." />
+            </div>
+
+            <div class="filters-section">
+                <div class="filter-group">
+                    <label for="filter-status">Status:</label>
+                    <select id="filter-status">
+                        <option value="">All Statuses</option>
+                        <option value="open">Open</option>
+                        <option value="proved">Proved</option>
+                        <option value="disproved">Disproved</option>
+                        <option value="solved">Solved</option>
+                        <option value="proved (Lean)">Proved (Lean)</option>
+                        <option value="disproved (Lean)">Disproved (Lean)</option>
+                        <option value="solved (Lean)">Solved (Lean)</option>
+                        <option value="falsifiable">Falsifiable</option>
+                        <option value="verifiable">Verifiable</option>
+                        <option value="decidable">Decidable</option>
+                        <option value="not provable">Not Provable</option>
+                        <option value="not disprovable">Not Disprovable</option>
+                        <option value="independent">Independent</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-prize">Prize:</label>
+                    <select id="filter-prize">
+                        <option value="">All</option>
+                        <option value="yes">Has Prize</option>
+                        <option value="no">No Prize</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-formalized">Formalized:</label>
+                    <select id="filter-formalized">
+                        <option value="">All</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
+                </div>
+
+                <button id="reset-filters" class="reset-btn">Reset Filters</button>
+            </div>
+
+            <details class="tags-filter-container">
+                <summary>Tags Filter (select any)</summary>
+                <div class="tags-search-box">
+                    <input type="text" id="tag-search" placeholder="Search tags..." />
+                </div>
+                <div id="tags-checkboxes" class="tags-checkboxes">
+                    <!-- Dynamically populated -->
+                </div>
+            </details>
+        </div>
+
+        <div class="stats-bar">
+            <span id="showing-count">Loading...</span>
+            <span id="loading-indicator" class="loading">Loading data...</span>
+        </div>
+
+        <div class="table-container">
+            <table id="problems-table">
+                <thead>
+                    <tr>
+                        <th data-sort="number" class="sortable sorted-asc">#<span class="sort-arrow">▲</span></th>
+                        <th data-sort="prize" class="sortable">Prize<span class="sort-arrow"></span></th>
+                        <th data-sort="status" class="sortable">Status<span class="sort-arrow"></span></th>
+                        <th data-sort="formalized" class="sortable">Formalized<span class="sort-arrow"></span></th>
+                        <th data-sort="oeis" class="sortable">OEIS<span class="sort-arrow"></span></th>
+                        <th data-sort="tags" class="sortable">Tags<span class="sort-arrow"></span></th>
+                        <th data-sort="comments" class="sortable">Comments<span class="sort-arrow"></span></th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <tr>
+                        <td colspan="7" class="loading-cell">Loading problems...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <footer>
+        <p>
+            Data source: <a href="https://github.com/teorth/erdosproblems" target="_blank">erdosproblems repository</a> |
+            Main site: <a href="https://www.erdosproblems.com" target="_blank">erdosproblems.com</a>
+        </p>
+    </footer>
+
+    <!-- External libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+    <!-- Local scripts (order matters) -->
+    <script src="utils.js"></script>
+    <script src="url-state.js"></script>
+    <script src="filters.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
