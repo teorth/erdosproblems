@@ -1,6 +1,7 @@
 from pathlib import Path
 import re
 import yaml
+from urllib.parse import quote_plus
 
 # Import statistics management
 try:
@@ -36,6 +37,14 @@ def formalized_link(number:str, code: str) -> str:
         return md_link("yes", f"https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/{number}.lean")
     else:
         return code
+
+def filter_link(count: int, param: str, value: str) -> str:
+    """Create a link to the interactive table with a filter applied."""
+    if count == 0:
+        return str(count)
+    encoded_value = quote_plus(value)
+    url = f"https://teorth.github.io/erdosproblems/?{param}={encoded_value}"
+    return md_link(str(count), url)
 
 def count_possible_oeis(rows):
     """Count how many rows contain an OEIS entry with 'possible'."""
@@ -282,29 +291,29 @@ def build_table(rows):
     header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
     lines = []
     lines.append(f"There are {len(rows)} problems in total, of which")
-    lines.append(f"- {count_prize(rows)} are attached to a monetary prize.")
-    lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved.")
-    lines.append(f"  - {count_proved_lean(rows)} of these proofs have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {count_disproved(rows)+count_disproved_lean(rows) } have been disproved.")
-    lines.append(f"  - {count_disproved_lean(rows)} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {count_solved(rows)+count_solved_lean(rows)} have been otherwise solved.")
-    lines.append(f"  - {count_solved_lean(rows)} of these solutions have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {count_not_provable(rows)} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
+    lines.append(f"- {filter_link(count_prize(rows), 'prize', 'yes')} are attached to a monetary prize.")
+    lines.append(f"- {filter_link(count_proved(rows)+count_proved_lean(rows), 'status', 'proved')} have been proved.")
+    lines.append(f"  - {filter_link(count_proved_lean(rows), 'status', 'proved (Lean)')} of these proofs have been formalized in [Lean](https://lean-lang.org/).")
+    lines.append(f"- {filter_link(count_disproved(rows)+count_disproved_lean(rows), 'status', 'disproved')} have been disproved.")
+    lines.append(f"  - {filter_link(count_disproved_lean(rows), 'status', 'disproved (Lean)')} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
+    lines.append(f"- {filter_link(count_solved(rows)+count_solved_lean(rows), 'status', 'solved')} have been otherwise solved.")
+    lines.append(f"  - {filter_link(count_solved_lean(rows), 'status', 'solved (Lean)')} of these solutions have been formalized in [Lean](https://lean-lang.org/).")
+    lines.append(f"- {filter_link(count_not_provable(rows), 'status', 'not provable')} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
     lines.append(f"- {count_not_disprovable(rows)} appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)")
     lines.append(f"- {count_independent(rows)} are known to be independent of the ZFC axioms of mathematics. (independent)")
-    lines.append(f"- {count_decidable(rows)} appear to be open, but have been reduced to a finite computation. (decidable)")
-    lines.append(f"- {count_falsifiable(rows)} appear to be open, but can be disproven by a finite computation if false. (falsifiable)")
-    lines.append(f"- {count_verifiable(rows)} appear to be open, but can be proven by a finite computation if true. (verifiable)")
-    lines.append(f"- {count_open(rows)} appear to be completely open.")
+    lines.append(f"- {filter_link(count_decidable(rows), 'status', 'decidable')} appear to be open, but have been reduced to a finite computation. (decidable)")
+    lines.append(f"- {filter_link(count_falsifiable(rows), 'status', 'falsifiable')} appear to be open, but can be disproven by a finite computation if false. (falsifiable)")
+    lines.append(f"- {filter_link(count_verifiable(rows), 'status', 'verifiable')} appear to be open, but can be proven by a finite computation if true. (verifiable)")
+    lines.append(f"- {filter_link(count_open(rows), 'status', 'open')} appear to be completely open.")
     lines.append(f"- {count_ambiguous(rows)} have ambiguous statements.")
     lines.append(f"- {count_review(rows)} have a literature review requested.")
-    lines.append(f"- {count_formalized_yes(rows)} have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
-    lines.append(f"- {count_rows_with_oeis_id(rows)} have been linked to {count_oeis_distinct(rows)} distinct [OEIS](https://oeis.org/) sequences, with a total of {count_oeis_with_multiplicity(rows)} links created.")
+    lines.append(f"- {filter_link(count_formalized_yes(rows), 'formalized', 'yes')} have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
+    lines.append(f"- {filter_link(count_rows_with_oeis_id(rows), 'oeis', 'linked')} have been linked to {count_oeis_distinct(rows)} distinct [OEIS](https://oeis.org/) sequences, with a total of {count_oeis_with_multiplicity(rows)} links created.")
     lines.append(f"  - {count_distinct_oeis_from(rows, min_id='A387000')} of these OEIS sequences were added since the creation of this database (A387000 onwards).")
-    lines.append(f"- {count_possible_oeis(rows)} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
+    lines.append(f"- {filter_link(count_possible_oeis(rows), 'oeis', 'possible')} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
     lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_submitted_oeis(rows)} have a related sequence currently being submitted to the [OEIS](https://oeis.org/).")
-    lines.append(f"- {count_inprogress_oeis(rows)} have a related sequence whose generation is currently in progress.")
+    lines.append(f"- {filter_link(count_inprogress_oeis(rows), 'oeis', 'inprogress')} have a related sequence whose generation is currently in progress.")
     lines.append("\n")
     lines.append(header)
     for r in rows:
