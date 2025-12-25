@@ -23,8 +23,8 @@ There are 1111 problems in total, of which
 - 99 are attached to a monetary prize.
 - 272 have been proved.
   - 12 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 98 have been disproved.
-  - 10 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+- 99 have been disproved.
+  - 11 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - 52 have been otherwise solved.
   - 1 of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -33,7 +33,7 @@ There are 1111 problems in total, of which
 - 8 appear to be open, but have been reduced to a finite computation. (decidable)
 - 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 637 appear to be completely open.
+- 636 appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - 271 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -379,7 +379,7 @@ There are 1111 problems in total, of which
 | [330](https://www.erdosproblems.com/330) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/330.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [331](https://www.erdosproblems.com/331) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [332](https://www.erdosproblems.com/332) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/332.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [333](https://www.erdosproblems.com/333) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
+| [333](https://www.erdosproblems.com/333) | no | disproved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [334](https://www.erdosproblems.com/334) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [335](https://www.erdosproblems.com/335) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [336](https://www.erdosproblems.com/336) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
