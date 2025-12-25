@@ -12,7 +12,9 @@
  * @param {string} state.statusFilter - Status filter value
  * @param {string} state.prizeFilter - Prize filter value
  * @param {string} state.formalizedFilter - Formalized filter value
+ * @param {string} state.oeisFilter - OEIS filter value
  * @param {Array<string>} state.selectedTags - Array of selected tag values
+ * @param {string} state.tagLogic - Tag logic ('any' or 'all')
  */
 function saveStateToURL(state) {
     const params = new URLSearchParams();
@@ -42,8 +44,16 @@ function saveStateToURL(state) {
         params.set('formalized', state.formalizedFilter);
     }
 
+    if (state.oeisFilter && state.oeisFilter !== '') {
+        params.set('oeis', state.oeisFilter);
+    }
+
     if (state.selectedTags && state.selectedTags.length > 0) {
         params.set('tags', state.selectedTags.join(','));
+    }
+
+    if (state.tagLogic && state.tagLogic !== 'any') {
+        params.set('tagLogic', state.tagLogic);
     }
 
     // Update URL without reload using History API
@@ -69,7 +79,9 @@ function loadStateFromURL() {
         statusFilter: params.get('status') || '',
         prizeFilter: params.get('prize') || '',
         formalizedFilter: params.get('formalized') || '',
-        selectedTags: params.get('tags') ? params.get('tags').split(',').filter(tag => tag.trim() !== '') : []
+        oeisFilter: params.get('oeis') || '',
+        selectedTags: params.get('tags') ? params.get('tags').split(',').filter(tag => tag.trim() !== '') : [],
+        tagLogic: params.get('tagLogic') || 'any'
     };
 }
 
@@ -98,6 +110,24 @@ function restoreUIState(state) {
     const formalizedFilter = document.getElementById('filter-formalized');
     if (formalizedFilter) {
         formalizedFilter.value = state.formalizedFilter;
+    }
+
+    const oeisFilter = document.getElementById('filter-oeis');
+    if (oeisFilter) {
+        oeisFilter.value = state.oeisFilter;
+    }
+
+    // Restore tag logic toggle
+    if (state.tagLogic === 'all') {
+        const tagLogicAll = document.getElementById('tag-logic-all');
+        if (tagLogicAll) {
+            tagLogicAll.checked = true;
+        }
+    } else {
+        const tagLogicAny = document.getElementById('tag-logic-any');
+        if (tagLogicAny) {
+            tagLogicAny.checked = true;
+        }
     }
 
     // Restore tag checkboxes (will be called after tags are populated)
@@ -159,12 +189,17 @@ function getCurrentState() {
     const statusFilter = document.getElementById('filter-status');
     const prizeFilter = document.getElementById('filter-prize');
     const formalizedFilter = document.getElementById('filter-formalized');
+    const oeisFilter = document.getElementById('filter-oeis');
 
     // Get selected tags
     const selectedTags = [];
     document.querySelectorAll('.tag-checkbox-item input[type="checkbox"]:checked').forEach(checkbox => {
         selectedTags.push(checkbox.value);
     });
+
+    // Get tag logic
+    const tagLogicAll = document.getElementById('tag-logic-all');
+    const tagLogic = tagLogicAll && tagLogicAll.checked ? 'all' : 'any';
 
     // Get current sort state from table headers
     let sortColumn = 'number';
@@ -182,6 +217,8 @@ function getCurrentState() {
         statusFilter: statusFilter ? statusFilter.value : '',
         prizeFilter: prizeFilter ? prizeFilter.value : '',
         formalizedFilter: formalizedFilter ? formalizedFilter.value : '',
-        selectedTags
+        oeisFilter: oeisFilter ? oeisFilter.value : '',
+        selectedTags,
+        tagLogic
     };
 }

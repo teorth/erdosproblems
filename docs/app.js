@@ -229,6 +229,9 @@ async function initialize() {
         return;
     }
 
+    // Set filter change handler FIRST (before creating any event listeners)
+    setFilterChangeHandler(updateTable);
+
     // Extract and populate tags
     const allTags = extractAllTags(allProblems);
     populateTagFilters(allTags);
@@ -244,9 +247,6 @@ async function initialize() {
     // Initialize event listeners
     initializeSortListeners();
     initializeFilterListeners();
-
-    // Set filter change handler
-    setFilterChangeHandler(updateTable);
 
     // Initial render
     updateTable();

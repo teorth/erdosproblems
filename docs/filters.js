@@ -42,7 +42,9 @@ function searchProblems(problems, query) {
  * @param {string} filters.status - Status filter value
  * @param {string} filters.prize - Prize filter value ('yes' or 'no')
  * @param {string} filters.formalized - Formalized filter value ('yes' or 'no')
- * @param {Array<string>} filters.tags - Array of selected tag values (OR logic)
+ * @param {string} filters.oeis - OEIS filter value ('linked', 'na', 'possible', 'submitted', 'inprogress')
+ * @param {Array<string>} filters.tags - Array of selected tag values
+ * @param {string} filters.tagLogic - Tag filter logic ('any' or 'all')
  * @returns {Array<Object>} Filtered array of problems
  */
 function applyFilters(problems, filters) {
@@ -74,12 +76,61 @@ function applyFilters(problems, filters) {
             }
         }
 
-        // Tags filter (OR logic - problem must have at least one selected tag)
+        // OEIS filter
+        if (filters.oeis && filters.oeis !== '') {
+            const oeisArray = problem.oeis || [];
+            const oeisPattern = /^A\d{6}$/;
+
+            if (filters.oeis === 'linked') {
+                // Has at least one valid OEIS link (A######)
+                const hasLink = oeisArray.some(code => oeisPattern.test(code));
+                if (!hasLink) {
+                    return false;
+                }
+            } else if (filters.oeis === 'na') {
+                // Has "N/A"
+                const hasNA = oeisArray.includes('N/A');
+                if (!hasNA) {
+                    return false;
+                }
+            } else if (filters.oeis === 'possible') {
+                // Has "possible"
+                const hasPossible = oeisArray.includes('possible');
+                if (!hasPossible) {
+                    return false;
+                }
+            } else if (filters.oeis === 'submitted') {
+                // Has "submitted"
+                const hasSubmitted = oeisArray.includes('submitted');
+                if (!hasSubmitted) {
+                    return false;
+                }
+            } else if (filters.oeis === 'inprogress') {
+                // Has "in progress"
+                const hasInProgress = oeisArray.includes('in progress');
+                if (!hasInProgress) {
+                    return false;
+                }
+            }
+        }
+
+        // Tags filter
         if (filters.tags && filters.tags.length > 0) {
             const problemTags = problem.tags || [];
-            const hasAnyTag = filters.tags.some(tag => problemTags.includes(tag));
-            if (!hasAnyTag) {
-                return false;
+            const tagLogic = filters.tagLogic || 'any';
+
+            if (tagLogic === 'all') {
+                // AND logic - problem must have ALL selected tags
+                const hasAllTags = filters.tags.every(tag => problemTags.includes(tag));
+                if (!hasAllTags) {
+                    return false;
+                }
+            } else {
+                // OR logic - problem must have at least one selected tag
+                const hasAnyTag = filters.tags.some(tag => problemTags.includes(tag));
+                if (!hasAnyTag) {
+                    return false;
+                }
             }
         }
 
@@ -148,6 +199,7 @@ function getCurrentFilters() {
     const statusFilter = document.getElementById('filter-status');
     const prizeFilter = document.getElementById('filter-prize');
     const formalizedFilter = document.getElementById('filter-formalized');
+    const oeisFilter = document.getElementById('filter-oeis');
 
     // Get selected tags
     const selectedTags = [];
@@ -155,11 +207,17 @@ function getCurrentFilters() {
         selectedTags.push(checkbox.value);
     });
 
+    // Get tag logic (any or all)
+    const tagLogicAll = document.getElementById('tag-logic-all');
+    const tagLogic = tagLogicAll && tagLogicAll.checked ? 'all' : 'any';
+
     return {
         status: statusFilter ? statusFilter.value : '',
         prize: prizeFilter ? prizeFilter.value : '',
         formalized: formalizedFilter ? formalizedFilter.value : '',
-        tags: selectedTags
+        oeis: oeisFilter ? oeisFilter.value : '',
+        tags: selectedTags,
+        tagLogic: tagLogic
     };
 }
 
@@ -187,6 +245,17 @@ function resetAllFilters() {
     const formalizedFilter = document.getElementById('filter-formalized');
     if (formalizedFilter) {
         formalizedFilter.value = '';
+    }
+
+    const oeisFilter = document.getElementById('filter-oeis');
+    if (oeisFilter) {
+        oeisFilter.value = '';
+    }
+
+    // Reset tag logic to "any"
+    const tagLogicAny = document.getElementById('tag-logic-any');
+    if (tagLogicAny) {
+        tagLogicAny.checked = true;
     }
 
     // Reset tag checkboxes
@@ -252,6 +321,22 @@ function initializeFilterListeners() {
     const formalizedFilter = document.getElementById('filter-formalized');
     if (formalizedFilter) {
         formalizedFilter.addEventListener('change', handleFilterChange);
+    }
+
+    const oeisFilter = document.getElementById('filter-oeis');
+    if (oeisFilter) {
+        oeisFilter.addEventListener('change', handleFilterChange);
+    }
+
+    // Tag logic toggle
+    const tagLogicAny = document.getElementById('tag-logic-any');
+    if (tagLogicAny) {
+        tagLogicAny.addEventListener('change', handleFilterChange);
+    }
+
+    const tagLogicAll = document.getElementById('tag-logic-all');
+    if (tagLogicAll) {
+        tagLogicAll.addEventListener('change', handleFilterChange);
     }
 
     // Reset button

@@ -60,11 +60,34 @@
                     </select>
                 </div>
 
+                <div class="filter-group">
+                    <label for="filter-oeis">OEIS:</label>
+                    <select id="filter-oeis">
+                        <option value="">All</option>
+                        <option value="linked">Already Linked</option>
+                        <option value="na">N/A</option>
+                        <option value="possible">Possible</option>
+                        <option value="submitted">Submitted</option>
+                        <option value="inprogress">In Progress</option>
+                    </select>
+                </div>
+
                 <button id="reset-filters" class="reset-btn">Reset Filters</button>
             </div>
 
             <details class="tags-filter-container">
-                <summary>Tags Filter (select any)</summary>
+                <summary>Tags Filter</summary>
+                <div class="tag-logic-toggle">
+                    <label>Match:</label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-logic" value="any" id="tag-logic-any" checked>
+                        Any selected tag (OR)
+                    </label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-logic" value="all" id="tag-logic-all">
+                        All selected tags (AND)
+                    </label>
+                </div>
                 <div class="tags-search-box">
                     <input type="text" id="tag-search" placeholder="Search tags..." />
                 </div>
