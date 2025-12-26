@@ -23,24 +23,24 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 
 <!-- TABLE:START -->
 There are 1110 problems in total, of which
-- 99 are attached to a monetary prize.
-- 272 have been proved.
-  - 12 of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- 100 have been disproved.
-  - 11 of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- 52 have been otherwise solved.
-  - 1 of these solutions have been formalized in [Lean](https://lean-lang.org/).
-- 4 appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
+- [99](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
+- [272](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+  - [12](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- [100](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+  - [11](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+- [52](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+  - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
+- [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 0 are known to be independent of the ZFC axioms of mathematics. (independent)
-- 8 appear to be open, but have been reduced to a finite computation. (decidable)
-- 32 appear to be open, but can be disproven by a finite computation if false. (falsifiable)
-- 8 appear to be open, but can be proven by a finite computation if true. (verifiable)
-- 634 appear to be completely open.
+- [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
+- [32](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- [8](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
+- [634](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- 272 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- 269 have been linked to 328 distinct [OEIS](https://oeis.org/) sequences, with a total of 391 links created.
+- [272](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [269](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 328 distinct [OEIS](https://oeis.org/) sequences, with a total of 391 links created.
   - 48 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [306](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 269 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
