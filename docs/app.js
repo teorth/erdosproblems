@@ -101,6 +101,7 @@ function renderTable(problems) {
 
     if (problems.length === 0) {
         tableBody.innerHTML = '<tr><td colspan="7" class="loading-cell">No problems match the current filters.</td></tr>';
+        updateStats(0, allProblems.length);
         return;
     }
 
