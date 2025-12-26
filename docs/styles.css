@@ -19,25 +19,23 @@
 }
 
 /* Dark Theme */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg-primary: #0d1117;
-        --bg-secondary: #161b22;
-        --bg-tertiary: #21262d;
-        --text-primary: #c9d1d9;
-        --text-secondary: #8b949e;
-        --border-color: #30363d;
-        --link-color: #58a6ff;
-        --link-hover: #79c0ff;
-        --header-bg: #1f6feb;
-        --header-text: #ffffff;
-        --button-bg: #1f6feb;
-        --button-hover: #388bfd;
-        --button-text: #ffffff;
-        --input-border: #30363d;
-        --input-focus: #58a6ff;
-        --shadow: rgba(0, 0, 0, 0.3);
-    }
+body.dark-theme {
+    --bg-primary: #0d1117;
+    --bg-secondary: #161b22;
+    --bg-tertiary: #21262d;
+    --text-primary: #c9d1d9;
+    --text-secondary: #8b949e;
+    --border-color: #30363d;
+    --link-color: #58a6ff;
+    --link-hover: #79c0ff;
+    --header-bg: #1f6feb;
+    --header-text: #ffffff;
+    --button-bg: #1f6feb;
+    --button-hover: #388bfd;
+    --button-text: #ffffff;
+    --input-border: #30363d;
+    --input-focus: #58a6ff;
+    --shadow: rgba(0, 0, 0, 0.3);
 }
 
 /* Reset and Base Styles */
@@ -66,6 +64,15 @@ header {
     box-shadow: 0 2px 4px var(--shadow);
 }
 
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+    gap: 1rem;
+}
+
 header h1 {
     font-size: 2rem;
     margin-bottom: 0.5rem;
@@ -88,6 +95,58 @@ header a {
 
 header a:hover {
     opacity: 0.8;
+}
+
+/* Theme Toggle Button */
+.theme-toggle {
+    background: rgba(255, 255, 255, 0.15);
+    border: 2px solid rgba(255, 255, 255, 0.25);
+    border-radius: 8px;
+    padding: 0.25rem;
+    cursor: pointer;
+    color: var(--header-text);
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.theme-toggle:hover {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.theme-option {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.4rem 0.6rem;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    opacity: 0.6;
+}
+
+.theme-option svg {
+    flex-shrink: 0;
+}
+
+.theme-option span {
+    line-height: 1;
+}
+
+.theme-divider {
+    width: 1px;
+    height: 1.5rem;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* Active state styling */
+body:not(.dark-theme) .theme-option[data-theme="light"],
+body.dark-theme .theme-option[data-theme="dark"] {
+    background: rgba(255, 255, 255, 0.3);
+    opacity: 1;
+    font-weight: 600;
 }
 
 /* Main Content */
@@ -438,6 +497,11 @@ footer a {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
     header h1 {
         font-size: 1.5rem;
     }
@@ -491,26 +555,24 @@ footer a {
 }
 
 /* Scrollbar Styling for Dark Mode */
-@media (prefers-color-scheme: dark) {
-    .tags-checkboxes::-webkit-scrollbar,
-    .table-container::-webkit-scrollbar {
-        width: 10px;
-        height: 10px;
-    }
+body.dark-theme .tags-checkboxes::-webkit-scrollbar,
+body.dark-theme .table-container::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
 
-    .tags-checkboxes::-webkit-scrollbar-track,
-    .table-container::-webkit-scrollbar-track {
-        background: var(--bg-secondary);
-    }
+body.dark-theme .tags-checkboxes::-webkit-scrollbar-track,
+body.dark-theme .table-container::-webkit-scrollbar-track {
+    background: var(--bg-secondary);
+}
 
-    .tags-checkboxes::-webkit-scrollbar-thumb,
-    .table-container::-webkit-scrollbar-thumb {
-        background: var(--border-color);
-        border-radius: 5px;
-    }
+body.dark-theme .tags-checkboxes::-webkit-scrollbar-thumb,
+body.dark-theme .table-container::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 5px;
+}
 
-    .tags-checkboxes::-webkit-scrollbar-thumb:hover,
-    .table-container::-webkit-scrollbar-thumb:hover {
-        background: var(--text-secondary);
-    }
+body.dark-theme .tags-checkboxes::-webkit-scrollbar-thumb:hover,
+body.dark-theme .table-container::-webkit-scrollbar-thumb:hover {
+    background: var(--text-secondary);
 }
