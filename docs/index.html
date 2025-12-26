@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erdős Problems Database - Interactive Table</title>
+    <meta name="description" content="Interactive table of 1,109 mathematical problems from the Erdős problem database">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div>
+                <h1>Erdős Problems Database</h1>
+                <p>Interactive table of 1,109 mathematical problems</p>
+                <p class="subtitle">Data from <a href="https://github.com/teorth/erdosproblems" target="_blank">erdosproblems repository</a></p>
+            </div>
+            <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                <div class="theme-option" data-theme="light">
+                    <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor">
+                        <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
+                    </svg>
+                    <span>Light</span>
+                </div>
+                <div class="theme-divider"></div>
+                <div class="theme-option" data-theme="dark">
+                    <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor">
+                        <path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
+                    </svg>
+                    <span>Dark</span>
+                </div>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <div class="controls-container">
+            <div class="search-section">
+                <label for="search-box">Search:</label>
+                <input type="text" id="search-box" placeholder="Search across all fields..." />
+            </div>
+
+            <div class="filters-section">
+                <div class="filter-group">
+                    <label for="filter-status">Status:</label>
+                    <select id="filter-status">
+                        <option value="">All Statuses</option>
+                        <option value="open">Open</option>
+                        <option value="proved">Proved</option>
+                        <option value="disproved">Disproved</option>
+                        <option value="solved">Solved</option>
+                        <option value="proved (Lean)">Proved (Lean)</option>
+                        <option value="disproved (Lean)">Disproved (Lean)</option>
+                        <option value="solved (Lean)">Solved (Lean)</option>
+                        <option value="falsifiable">Falsifiable</option>
+                        <option value="verifiable">Verifiable</option>
+                        <option value="decidable">Decidable</option>
+                        <option value="not provable">Not Provable</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-prize">Prize:</label>
+                    <select id="filter-prize">
+                        <option value="">All</option>
+                        <option value="yes">Has Prize</option>
+                        <option value="no">No Prize</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-formalized">Formalized:</label>
+                    <select id="filter-formalized">
+                        <option value="">All</option>
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-oeis">OEIS:</label>
+                    <select id="filter-oeis">
+                        <option value="">All</option>
+                        <option value="linked">Already Linked</option>
+                        <option value="na">N/A</option>
+                        <option value="possible">Possible</option>
+                        <option value="inprogress">In Progress</option>
+                    </select>
+                </div>
+
+                <button id="reset-filters" class="reset-btn">Reset Filters</button>
+            </div>
+
+            <details class="tags-filter-container">
+                <summary>Tags Filter</summary>
+                <div class="tag-logic-toggle">
+                    <label>Match:</label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-logic" value="any" id="tag-logic-any" checked>
+                        Any selected tag (OR)
+                    </label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-logic" value="all" id="tag-logic-all">
+                        All selected tags (AND)
+                    </label>
+                </div>
+                <div class="tags-search-box">
+                    <input type="text" id="tag-search" placeholder="Search tags..." />
+                </div>
+                <div id="tags-checkboxes" class="tags-checkboxes">
+                    <!-- Dynamically populated -->
+                </div>
+                <div class="tag-sort-toggle">
+                    <label>Sort by:</label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-sort" value="count" id="tag-sort-count" checked>
+                        Count (most common first)
+                    </label>
+                    <label class="radio-label">
+                        <input type="radio" name="tag-sort" value="alpha" id="tag-sort-alpha">
+                        Alphabetically (A-Z)
+                    </label>
+                </div>
+            </details>
+        </div>
+
+        <div class="stats-bar">
+            <span id="showing-count">Loading...</span>
+            <span id="loading-indicator" class="loading">Loading data...</span>
+        </div>
+
+        <div class="table-container">
+            <table id="problems-table">
+                <thead>
+                    <tr>
+                        <th data-sort="number" class="sortable sorted-asc">#<span class="sort-arrow">▲</span></th>
+                        <th data-sort="prize" class="sortable">Prize<span class="sort-arrow"></span></th>
+                        <th data-sort="status" class="sortable">Status<span class="sort-arrow"></span></th>
+                        <th data-sort="formalized" class="sortable">Formalized<span class="sort-arrow"></span></th>
+                        <th data-sort="oeis" class="sortable">OEIS<span class="sort-arrow"></span></th>
+                        <th data-sort="tags" class="sortable">Tags<span class="sort-arrow"></span></th>
+                        <th data-sort="comments" class="sortable">Comments<span class="sort-arrow"></span></th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <tr>
+                        <td colspan="7" class="loading-cell">Loading problems...</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <footer>
+        <p>
+            Data source: <a href="https://github.com/teorth/erdosproblems" target="_blank">erdosproblems repository</a> |
+            Main site: <a href="https://www.erdosproblems.com" target="_blank">erdosproblems.com</a>
+        </p>
+    </footer>
+
+    <!-- External libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+    <!-- Local scripts (order matters) -->
+    <script src="theme-toggle.js"></script>
+    <script src="utils.js"></script>
+    <script src="url-state.js"></script>
+    <script src="filters.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
