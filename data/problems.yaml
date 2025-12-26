@@ -2996,7 +2996,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  comments: ["Stanley sequences"]
+  comments: "Stanley sequences"
   tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "272"
@@ -9192,7 +9192,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9909,7 +9909,7 @@
 - number: "897"
   prize: "no"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11372,7 +11372,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["possible"]
-  tags: ["graph theory", "Ramsey theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "1030"
   prize: "no"
@@ -11383,7 +11383,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["A000791", "A059442"]
-  tags: ["graph theory", "Ramsey theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "1031"
   prize: "no"
@@ -11423,17 +11423,6 @@
   status:
     state: "disproved (Lean)"
     last_update: "2025-12-4"
-  formalized:
-    state: "no"
-    last_update: "2025-09-10"
-  oeis: ["possible"]
-  tags: ["graph theory"]
-
-- number: "1035"
-  prize: "no"
-  status:
-    state: "open"
-    last_update: "2025-09-13"
   formalized:
     state: "no"
     last_update: "2025-09-10"
@@ -12046,7 +12035,7 @@
     state: "no"
     last_update: "2025-09-28"
   oeis: ["N/A"]
-  tags: ["geometry", "ramsey"]
+  tags: ["geometry", "ramsey theory"]
 
 - number: "1091"
   prize: "no"
@@ -12164,8 +12153,8 @@
     state: "open"
     last_update: "2025-10-19"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2025-12-26"
   oeis: ["N/A"]
   tags: ["number theory"]
 
