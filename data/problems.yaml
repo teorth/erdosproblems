@@ -9192,7 +9192,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
