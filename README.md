@@ -39,8 +39,8 @@ There are 1110 problems in total, of which
 - 272 have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - 269 have been linked to 328 distinct [OEIS](https://oeis.org/) sequences, with a total of 391 links created.
   - 48 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- 305 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 268 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- 306 are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 269 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - 2 have a related sequence whose generation is currently in progress.
 
@@ -878,7 +878,7 @@ There are 1110 problems in total, of which
 | [829](https://www.erdosproblems.com/829) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [830](https://www.erdosproblems.com/830) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/830.lean) | [A259180](https://oeis.org/A259180) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [831](https://www.erdosproblems.com/831) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [832](https://www.erdosproblems.com/832) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [832](https://www.erdosproblems.com/832) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [833](https://www.erdosproblems.com/833) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [834](https://www.erdosproblems.com/834) | no | verifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [835](https://www.erdosproblems.com/835) | no | verifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
