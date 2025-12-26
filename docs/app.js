@@ -193,6 +193,27 @@ function updateTable() {
     // Store filtered results
     filteredProblems = results;
 
+    // Update tag and dropdown displays with filtered counts
+    const nonTagFiltersActive = hasNonTagFilters();
+
+    // Update tag display (excludes tag filters from count calculation)
+    if (nonTagFiltersActive) {
+        window._filteredTagCounts = extractTagCounts(filteredProblems);
+        window._hasActiveFilters = true;
+    } else {
+        window._filteredTagCounts = null;
+        window._hasActiveFilters = false;
+    }
+
+    // Trigger tag re-sort with current sort preference to apply two-tier sorting
+    const tagSortAlpha = document.getElementById('tag-sort-alpha');
+    const currentTagSort = tagSortAlpha && tagSortAlpha.checked ? 'alpha' : 'count';
+    resortTagFilters(currentTagSort);
+
+    // Update dropdown displays (each dropdown excludes its own filter from count calculation)
+    const hasAnyFilters = nonTagFiltersActive || (filters.tags && filters.tags.length > 0);
+    updateAllDropdownDisplays(allProblems, hasAnyFilters);
+
     // Render
     renderTable(results);
 
@@ -238,6 +259,19 @@ async function initialize() {
     // Store globally for tag sort functionality
     window._allProblems = allProblems;
     window._tagCounts = tagCounts;
+    window._filteredTagCounts = null;
+    window._hasActiveFilters = false;
+
+    // Store original dropdown option text
+    ['filter-status', 'filter-prize', 'filter-formalized', 'filter-oeis'].forEach(selectId => {
+        const select = document.getElementById(selectId);
+        if (select) {
+            const options = select.querySelectorAll('option:not([value=""])');
+            options.forEach(option => {
+                option.setAttribute('data-original', option.textContent);
+            });
+        }
+    });
 
     // Load state from URL
     const urlState = loadStateFromURL();

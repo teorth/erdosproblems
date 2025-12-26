@@ -193,6 +193,155 @@ function extractAllTags(problems, sortBy = 'count', tagCounts = null) {
 }
 
 /**
+ * Check if any non-tag filters are currently active
+ * @returns {boolean} True if search or any dropdown filter is active
+ */
+function hasNonTagFilters() {
+    const searchBox = document.getElementById('search-box');
+    const searchQuery = searchBox ? searchBox.value.trim() : '';
+    if (searchQuery !== '') return true;
+
+    const statusFilter = document.getElementById('filter-status');
+    if (statusFilter && statusFilter.value !== '') return true;
+
+    const prizeFilter = document.getElementById('filter-prize');
+    if (prizeFilter && prizeFilter.value !== '') return true;
+
+    const formalizedFilter = document.getElementById('filter-formalized');
+    if (formalizedFilter && formalizedFilter.value !== '') return true;
+
+    const oeisFilter = document.getElementById('filter-oeis');
+    if (oeisFilter && oeisFilter.value !== '') return true;
+
+    return false;
+}
+
+/**
+ * Extract and sort tags with two-tier logic (active tags first, then inactive)
+ * @param {Array<Object>} problems - Array of problem objects
+ * @param {string} sortBy - 'count' or 'alpha'
+ * @param {Map<string, number>} totalCounts - Total tag counts
+ * @param {Map<string, number>} filteredCounts - Filtered tag counts (or null)
+ * @returns {Array<string>} Sorted array with active tags first, then inactive tags
+ */
+function extractAllTagsWithActivity(problems, sortBy, totalCounts, filteredCounts) {
+    if (!filteredCounts) {
+        // No filtered counts, use regular sorting
+        return extractAllTags(problems, sortBy, totalCounts);
+    }
+
+    const allTags = Array.from(totalCounts.keys());
+    const activeTags = [];
+    const inactiveTags = [];
+
+    // Separate tags into active and inactive
+    allTags.forEach(tag => {
+        const filteredCount = filteredCounts.get(tag) || 0;
+        if (filteredCount > 0) {
+            activeTags.push(tag);
+        } else {
+            inactiveTags.push(tag);
+        }
+    });
+
+    // Sort each group
+    if (sortBy === 'alpha') {
+        activeTags.sort();
+        inactiveTags.sort();
+    } else {
+        // Sort by filtered count for active tags
+        activeTags.sort((a, b) => {
+            const countDiff = filteredCounts.get(b) - filteredCounts.get(a);
+            return countDiff !== 0 ? countDiff : a.localeCompare(b);
+        });
+        // Sort by total count for inactive tags
+        inactiveTags.sort((a, b) => {
+            const countDiff = totalCounts.get(b) - totalCounts.get(a);
+            return countDiff !== 0 ? countDiff : a.localeCompare(b);
+        });
+    }
+
+    return [...activeTags, ...inactiveTags];
+}
+
+/**
+ * Extract status counts from problems array
+ * @param {Array<Object>} problems - Array of problem objects
+ * @returns {Map<string, number>} Map of status values to counts
+ */
+function extractStatusCounts(problems) {
+    const statusCounts = new Map();
+    problems.forEach(problem => {
+        const status = (problem.status && problem.status.state) || 'open';
+        statusCounts.set(status, (statusCounts.get(status) || 0) + 1);
+    });
+    return statusCounts;
+}
+
+/**
+ * Extract prize counts from problems array
+ * @param {Array<Object>} problems - Array of problem objects
+ * @returns {Object} Object with yes/no counts
+ */
+function extractPrizeCounts(problems) {
+    const counts = { yes: 0, no: 0 };
+    problems.forEach(problem => {
+        const hasPrize = problem.prize && problem.prize !== 'no';
+        if (hasPrize) {
+            counts.yes++;
+        } else {
+            counts.no++;
+        }
+    });
+    return counts;
+}
+
+/**
+ * Extract formalized counts from problems array
+ * @param {Array<Object>} problems - Array of problem objects
+ * @returns {Object} Object with yes/no counts
+ */
+function extractFormalizedCounts(problems) {
+    const counts = { yes: 0, no: 0 };
+    problems.forEach(problem => {
+        const formalizedState = (problem.formalized && problem.formalized.state) || 'no';
+        if (formalizedState === 'yes') {
+            counts.yes++;
+        } else {
+            counts.no++;
+        }
+    });
+    return counts;
+}
+
+/**
+ * Extract OEIS counts from problems array
+ * @param {Array<Object>} problems - Array of problem objects
+ * @returns {Object} Object with linked/na/possible/inprogress counts
+ */
+function extractOEISCounts(problems) {
+    const counts = { linked: 0, na: 0, possible: 0, inprogress: 0 };
+    problems.forEach(problem => {
+        const oeis = problem.oeis || [];
+        const oeisPattern = /^A\d{6}$/;
+
+        if (oeis.some(code => oeisPattern.test(code))) {
+            counts.linked++;
+        }
+        if (oeis.includes('N/A')) {
+            counts.na++;
+        }
+        if (oeis.includes('possible')) {
+            counts.possible++;
+        }
+        if (oeis.includes('in progress')) {
+            counts.inprogress++;
+        }
+    });
+    return counts;
+}
+
+/**
  * Extract all unique status values from problems array
  * @param {Array<Object>} problems - Array of problem objects
  * @returns {Array<string>} Sorted array of unique statuses

@@ -228,6 +228,11 @@ main {
     border-color: var(--input-focus);
 }
 
+.filter-group select option:disabled {
+    color: var(--text-secondary);
+    opacity: 0.6;
+}
+
 .reset-btn {
     padding: 0.5rem 1rem;
     font-size: 0.95rem;
@@ -358,6 +363,15 @@ main {
 .tag-checkbox-item label {
     cursor: pointer;
     font-size: 0.9rem;
+}
+
+.tag-checkbox-item.inactive label {
+    color: var(--text-secondary);
+    opacity: 0.5;
+}
+
+.tag-checkbox-item.inactive input[type="checkbox"] {
+    opacity: 0.5;
 }
 
 /* Stats Bar */

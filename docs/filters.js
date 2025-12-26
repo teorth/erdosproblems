@@ -141,9 +141,10 @@ function applyFilters(problems, filters) {
 /**
  * Populate tag filter checkboxes with counts
  * @param {Array<string>} allTags - Sorted array of all unique tags
- * @param {Map<string, number>} tagCounts - Map of tag to count
+ * @param {Map<string, number>} tagCounts - Map of tag to count (total counts)
+ * @param {Map<string, number>} filteredTagCounts - Optional filtered tag counts
  */
-function populateTagFilters(allTags, tagCounts) {
+function populateTagFilters(allTags, tagCounts, filteredTagCounts = null) {
     const container = document.getElementById('tags-checkboxes');
     if (!container) return;
 
@@ -164,8 +165,20 @@ function populateTagFilters(allTags, tagCounts) {
         // Create label with count
         const label = document.createElement('label');
         label.htmlFor = checkbox.id;
-        const count = tagCounts.get(tag) || 0;
-        label.textContent = `${tag} (${count})`;
+        const totalCount = tagCounts.get(tag) || 0;
+        const filteredCount = filteredTagCounts ? (filteredTagCounts.get(tag) || 0) : null;
+
+        // Format label based on filtered counts
+        if (filteredCount === null || filteredCount === totalCount) {
+            label.textContent = `${tag} (${totalCount})`;
+        } else {
+            label.textContent = `${tag} (${filteredCount}/${totalCount})`;
+        }
+
+        // Add inactive class if filtered count is 0
+        if (filteredCount !== null && filteredCount === 0) {
+            itemDiv.classList.add('inactive');
+        }
 
         // Append to container
         itemDiv.appendChild(checkbox);
@@ -174,6 +187,40 @@ function populateTagFilters(allTags, tagCounts) {
 
         // Add event listener for filter change
         checkbox.addEventListener('change', handleFilterChange);
+    });
+}
+
+/**
+ * Update tag filter display with filtered/total counts without full re-render
+ * @param {Map<string, number>} filteredCounts - Filtered tag counts (or null for total counts only)
+ */
+function updateTagFilterDisplay(filteredCounts = null) {
+    const items = document.querySelectorAll('.tag-checkbox-item');
+
+    items.forEach(item => {
+        const checkbox = item.querySelector('.tag-filter-checkbox');
+        const label = item.querySelector('label');
+        if (!checkbox || !label) return;
+
+        const tag = checkbox.value;
+        const totalCount = window._tagCounts.get(tag) || 0;
+        const filteredCount = filteredCounts ? (filteredCounts.get(tag) || 0) : null;
+
+        // Update label text
+        if (filteredCount === null || filteredCount === totalCount) {
+            // No filtered counts or same as total
+            label.textContent = `${tag} (${totalCount})`;
+        } else {
+            // Show filtered/total
+            label.textContent = `${tag} (${filteredCount}/${totalCount})`;
+        }
+
+        // Update inactive class
+        if (filteredCount !== null && filteredCount === 0) {
+            item.classList.add('inactive');
+        } else {
+            item.classList.remove('inactive');
+        }
     });
 }
 
@@ -194,10 +241,21 @@ function resortTagFilters(sortBy) {
     });
 
     // Extract tags with new sort order
-    const sortedTags = extractAllTags(window._allProblems, sortBy, window._tagCounts);
+    // Use two-tier sorting if filtered counts exist
+    let sortedTags;
+    if (window._filteredTagCounts) {
+        sortedTags = extractAllTagsWithActivity(
+            window._allProblems,
+            sortBy,
+            window._tagCounts,
+            window._filteredTagCounts
+        );
+    } else {
+        sortedTags = extractAllTags(window._allProblems, sortBy, window._tagCounts);
+    }
 
-    // Re-populate with same counts
-    populateTagFilters(sortedTags, window._tagCounts);
+    // Re-populate with counts (pass filtered counts if they exist)
+    populateTagFilters(sortedTags, window._tagCounts, window._filteredTagCounts);
 
     // Restore selected tags
     selectedTags.forEach(tag => {
@@ -228,6 +286,144 @@ function filterTagCheckboxes(searchQuery) {
         const matches = query === '' || tagName.includes(query);
         item.style.display = matches ? 'flex' : 'none';
     });
+}
+
+/**
+ * Update a single dropdown's display with filtered/total counts
+ * @param {string} selectId - ID of the select element
+ * @param {Map|Object} totalCounts - Total counts for this dropdown
+ * @param {Map|Object} filteredCounts - Filtered counts (or null)
+ */
+function updateDropdownDisplay(selectId, totalCounts, filteredCounts = null) {
+    const select = document.getElementById(selectId);
+    if (!select) return;
+
+    const currentValue = select.value; // Remember currently selected value
+    const options = Array.from(select.querySelectorAll('option:not([value=""])'));
+
+    // Update text and determine active/inactive status
+    const optionData = options.map(option => {
+        const value = option.value;
+        const originalText = option.getAttribute('data-original') || option.textContent.split(' (')[0];
+
+        // Get counts (handle both Map and Object)
+        const totalCount = totalCounts.get ? totalCounts.get(value) : totalCounts[value];
+        const filteredCount = filteredCounts ? (filteredCounts.get ? filteredCounts.get(value) : filteredCounts[value]) : null;
+
+        // Update text
+        if (filteredCount === null || filteredCount === totalCount) {
+            option.textContent = `${originalText} (${totalCount || 0})`;
+        } else {
+            option.textContent = `${originalText} (${filteredCount || 0}/${totalCount || 0})`;
+        }
+
+        // Determine if should be disabled
+        const shouldDisable = filteredCount !== null && filteredCount === 0 && value !== currentValue;
+        option.disabled = shouldDisable;
+
+        return {
+            option: option,
+            isActive: !shouldDisable,
+            filteredCount: filteredCount !== null ? filteredCount : totalCount,
+            totalCount: totalCount || 0
+        };
+    });
+
+    // Sort: active options first, then inactive
+    optionData.sort((a, b) => {
+        // Active options come before inactive
+        if (a.isActive && !b.isActive) return -1;
+        if (!a.isActive && b.isActive) return 1;
+
+        // Within each group, maintain original order
+        return 0;
+    });
+
+    // Re-append options in sorted order (after the "All" option)
+    optionData.forEach(data => {
+        select.appendChild(data.option);
+    });
+}
+
+/**
+ * Calculate filtered counts for a specific dropdown, excluding that dropdown's own filter
+ * @param {Array<Object>} allProblems - All problems
+ * @param {string} dropdownType - 'status', 'prize', 'formalized', or 'oeis'
+ * @returns {Map|Object} Filtered counts for the dropdown
+ */
+function calculateDropdownFilteredCounts(allProblems, dropdownType) {
+    // Get current filters
+    const filters = getCurrentFilters();
+
+    // Create modified filters that exclude this dropdown's filter
+    const modifiedFilters = { ...filters };
+    switch (dropdownType) {
+        case 'status':
+            modifiedFilters.status = '';
+            break;
+        case 'prize':
+            modifiedFilters.prize = '';
+            break;
+        case 'formalized':
+            modifiedFilters.formalized = '';
+            break;
+        case 'oeis':
+            modifiedFilters.oeis = '';
+            break;
+    }
+
+    // Apply modified filters
+    const searchBox = document.getElementById('search-box');
+    const searchQuery = searchBox ? searchBox.value : '';
+    let filtered = searchProblems(allProblems, searchQuery);
+    filtered = applyFilters(filtered, modifiedFilters);
+
+    // Extract counts for this dropdown type
+    switch (dropdownType) {
+        case 'status':
+            return extractStatusCounts(filtered);
+        case 'prize':
+            return extractPrizeCounts(filtered);
+        case 'formalized':
+            return extractFormalizedCounts(filtered);
+        case 'oeis':
+            return extractOEISCounts(filtered);
+        default:
+            return new Map();
+    }
+}
+
+/**
+ * Update all dropdown displays with appropriate counts
+ * @param {Array<Object>} allProblems - All problems
+ * @param {boolean} hasActiveFilters - Whether any filters are active
+ */
+function updateAllDropdownDisplays(allProblems, hasActiveFilters = false) {
+    // Calculate total counts
+    const totalStatusCounts = extractStatusCounts(allProblems);
+    const totalPrizeCounts = extractPrizeCounts(allProblems);
+    const totalFormalizedCounts = extractFormalizedCounts(allProblems);
+    const totalOEISCounts = extractOEISCounts(allProblems);
+
+    if (hasActiveFilters) {
+        // Calculate filtered counts (excluding each dropdown's own filter)
+        const filteredStatusCounts = calculateDropdownFilteredCounts(allProblems, 'status');
+        const filteredPrizeCounts = calculateDropdownFilteredCounts(allProblems, 'prize');
+        const filteredFormalizedCounts = calculateDropdownFilteredCounts(allProblems, 'formalized');
+        const filteredOEISCounts = calculateDropdownFilteredCounts(allProblems, 'oeis');
+
+        // Update each dropdown
+        updateDropdownDisplay('filter-status', totalStatusCounts, filteredStatusCounts);
+        updateDropdownDisplay('filter-prize', totalPrizeCounts, filteredPrizeCounts);
+        updateDropdownDisplay('filter-formalized', totalFormalizedCounts, filteredFormalizedCounts);
+        updateDropdownDisplay('filter-oeis', totalOEISCounts, filteredOEISCounts);
+    } else {
+        // No active filters, show total counts only
+        updateDropdownDisplay('filter-status', totalStatusCounts, null);
+        updateDropdownDisplay('filter-prize', totalPrizeCounts, null);
+        updateDropdownDisplay('filter-formalized', totalFormalizedCounts, null);
+        updateDropdownDisplay('filter-oeis', totalOEISCounts, null);
+    }
 }
 
 /**
@@ -291,12 +487,6 @@ function resetAllFilters() {
         oeisFilter.value = '';
     }
 
-    // Reset tag logic to "any"
-    const tagLogicAny = document.getElementById('tag-logic-any');
-    if (tagLogicAny) {
-        tagLogicAny.checked = true;
-    }
-
     // Reset tag checkboxes
     document.querySelectorAll('.tag-filter-checkbox').forEach(checkbox => {
         checkbox.checked = false;
@@ -309,12 +499,8 @@ function resetAllFilters() {
         filterTagCheckboxes('');
     }
 
-    // Reset tag sort to default (count)
-    const tagSortCount = document.getElementById('tag-sort-count');
-    if (tagSortCount) {
-        tagSortCount.checked = true;
-        resortTagFilters('count');
-    }
+    // NOTE: We intentionally do NOT reset tag logic (Match: Any/All) or tag sort (Sort by: Count/Alpha)
+    // These are user preferences that should persist across filter resets
 
     // Trigger filter change
     handleFilterChange();
