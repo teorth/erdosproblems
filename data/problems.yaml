@@ -12164,8 +12164,8 @@
     state: "open"
     last_update: "2025-10-19"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2025-12-26"
   oeis: ["N/A"]
   tags: ["number theory"]
 
