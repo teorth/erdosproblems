@@ -1,6 +1,6 @@
 # Erdős problem database
 
-**[Browse the interactive table](https://teorth.github.io/erdosproblems/)** - Sort, filter, and search all 1,109 problems
+**[Browse the interactive table](https://teorth.github.io/erdosproblems/)** - Sort, filter, and search all the problems in the database
 
 A community database for the problems on the [erdosproblems.com](https://www.erdosproblems.com/) site.  We are particularly [seeking community contributions regarding the integer sequences associated with these problems](CONTRIBUTING.md#linking-with-the-oeis), and linking them to the [OEIS](https://oeis.org).
 
