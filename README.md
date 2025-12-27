@@ -27,7 +27,7 @@ There are 1111 problems in total, of which
 - [273](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [13](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [100](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [11](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - [12](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [52](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -1007,7 +1007,7 @@ There are 1111 problems in total, of which
 | [955](https://www.erdosproblems.com/955) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [956](https://www.erdosproblems.com/956) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [957](https://www.erdosproblems.com/957) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [958](https://www.erdosproblems.com/958) | no | disproved | no | N/A | [distances](https://www.erdosproblems.com/tags/distances), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [958](https://www.erdosproblems.com/958) | no | disproved (Lean) | no | N/A | [distances](https://www.erdosproblems.com/tags/distances), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [959](https://www.erdosproblems.com/959) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [960](https://www.erdosproblems.com/960) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [961](https://www.erdosproblems.com/961) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
