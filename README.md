@@ -28,7 +28,7 @@ There are 1111 problems in total, of which
   - [13](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [100](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [13](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [52](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- [53](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -36,7 +36,7 @@ There are 1111 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [32](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [8](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [634](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [633](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [272](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -489,7 +489,7 @@ There are 1111 problems in total, of which
 | [437](https://www.erdosproblems.com/437) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [438](https://www.erdosproblems.com/438) | no | solved | no | [A363069](https://oeis.org/A363069) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [439](https://www.erdosproblems.com/439) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [440](https://www.erdosproblems.com/440) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [440](https://www.erdosproblems.com/440) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [441](https://www.erdosproblems.com/441) | no | disproved | no | [A068509](https://oeis.org/A068509) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [442](https://www.erdosproblems.com/442) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/442.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [443](https://www.erdosproblems.com/443) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
