@@ -251,6 +251,17 @@ async function initialize() {
         return;
     }
 
+    // Update header and meta description with actual problem count
+    const problemCount = allProblems.length.toLocaleString();
+    const headerSubtitle = document.getElementById('header-subtitle');
+    if (headerSubtitle) {
+        headerSubtitle.textContent = `Interactive table of ${problemCount} mathematical problems`;
+    }
+    const metaDescription = document.getElementById('meta-description');
+    if (metaDescription) {
+        metaDescription.setAttribute('content', `Interactive table of ${problemCount} mathematical problems from the Erdős problem database`);
+    }
+
     // Set filter change handler FIRST (before creating any event listeners)
     setFilterChangeHandler(updateTable);
 
