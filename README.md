@@ -22,10 +22,10 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 ## Table
 
 <!-- TABLE:START -->
-There are 1110 problems in total, of which
+There are 1111 problems in total, of which
 - [99](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [272](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [12](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [13](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [100](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [11](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [52](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -36,14 +36,14 @@ There are 1110 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [32](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [8](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [634](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [635](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [272](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [269](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 328 distinct [OEIS](https://oeis.org/) sequences, with a total of 391 links created.
   - 48 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [306](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 269 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [307](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 270 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [2](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -542,7 +542,7 @@ There are 1110 problems in total, of which
 | [490](https://www.erdosproblems.com/490) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [491](https://www.erdosproblems.com/491) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [492](https://www.erdosproblems.com/492) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [493](https://www.erdosproblems.com/493) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [493](https://www.erdosproblems.com/493) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [494](https://www.erdosproblems.com/494) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [495](https://www.erdosproblems.com/495) | no | open | no | N/A | [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation), [number theory](https://www.erdosproblems.com/tags/number%20theory) | Littlewood conjecture |
 | [496](https://www.erdosproblems.com/496) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
@@ -1084,6 +1084,7 @@ There are 1110 problems in total, of which
 | [1032](https://www.erdosproblems.com/1032) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1033](https://www.erdosproblems.com/1033) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1034](https://www.erdosproblems.com/1034) | no | disproved (Lean) | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1035](https://www.erdosproblems.com/1035) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1036](https://www.erdosproblems.com/1036) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1037](https://www.erdosproblems.com/1037) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1038](https://www.erdosproblems.com/1038) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
