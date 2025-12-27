@@ -4855,8 +4855,8 @@
 - number: "440"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-12-27"
   oeis: ["N/A"]
   formalized:
     state: "no"
