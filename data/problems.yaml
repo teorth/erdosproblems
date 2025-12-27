@@ -5439,7 +5439,7 @@
 - number: "493"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11423,6 +11423,17 @@
   status:
     state: "disproved (Lean)"
     last_update: "2025-12-4"
+  formalized:
+    state: "no"
+    last_update: "2025-09-10"
+  oeis: ["possible"]
+  tags: ["graph theory"]
+
+- number: "1035"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-26"
   formalized:
     state: "no"
     last_update: "2025-09-10"
