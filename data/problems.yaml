@@ -2527,7 +2527,7 @@
 - number: "229"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11046,7 +11046,7 @@
 - number: "1000"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-12-05"
   formalized:
     state: "no"
@@ -11520,7 +11520,7 @@
 - number: "1043"
   prize: "no"
   status:
-    state: "disproved"
+    state: "disproved (Lean)"
     last_update: "2025-10-12"
   formalized:
     state: "yes"
