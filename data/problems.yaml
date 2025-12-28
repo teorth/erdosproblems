@@ -279,8 +279,8 @@
 - number: "26"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -1255,7 +1255,7 @@
 - number: "114"
   prize: "no"
   status:
-    state: "falsifiable"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11930,8 +11930,8 @@
 - number: "1080"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-10-17"
+    state: "disproved (Lean)"
+    last_update: "2025-12-28"
   formalized:
     state: "yes"
     last_update: "2025-12-11"
@@ -12278,3 +12278,26 @@
     last_update: "2025-09-28"
   oeis: ["possible"]
   tags: ["graph theory"]
+
+- number: "1112"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["additive combinatorics"]
+
+- number: "1113"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  comments: "Sierpinski numbers"
+  oeis: ["A076336"]
+  tags: ["number theory", "covering systems"]
