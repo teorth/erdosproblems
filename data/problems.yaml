@@ -5701,8 +5701,8 @@
 - number: "516"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
     state: "no"
