@@ -1,0 +1,13 @@
+name: "Help Wanted"
+description: Create a new issue for help wanted
+title: "[Help Wanted] "
+labels: ["help wanted"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Please enter an explicit description
+      placeholder: Explicit description ...
+    validations:
+      required: true
