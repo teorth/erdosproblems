@@ -26,9 +26,9 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1111 problems in total, of which
 - [99](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [273](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [13](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [15](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [100](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [13](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - [14](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [53](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -279,7 +279,7 @@ There are 1111 problems in total, of which
 | [226](https://www.erdosproblems.com/226) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [227](https://www.erdosproblems.com/227) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [228](https://www.erdosproblems.com/228) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/228.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
-| [229](https://www.erdosproblems.com/229) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/229.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [229](https://www.erdosproblems.com/229) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/229.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [230](https://www.erdosproblems.com/230) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [231](https://www.erdosproblems.com/231) | no | disproved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [232](https://www.erdosproblems.com/232) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
@@ -1050,7 +1050,7 @@ There are 1111 problems in total, of which
 | [997](https://www.erdosproblems.com/997) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [998](https://www.erdosproblems.com/998) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [999](https://www.erdosproblems.com/999) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) | Duffin-Schaeffer conjecture |
-| [1000](https://www.erdosproblems.com/1000) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [1000](https://www.erdosproblems.com/1000) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1001](https://www.erdosproblems.com/1001) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1002](https://www.erdosproblems.com/1002) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1003](https://www.erdosproblems.com/1003) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1003.lean) | [A001274](https://oeis.org/A001274) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -1093,7 +1093,7 @@ There are 1111 problems in total, of which
 | [1040](https://www.erdosproblems.com/1040) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1041](https://www.erdosproblems.com/1041) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1041.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1042](https://www.erdosproblems.com/1042) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1043](https://www.erdosproblems.com/1043) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1043.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1043](https://www.erdosproblems.com/1043) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1043.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1044](https://www.erdosproblems.com/1044) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1045](https://www.erdosproblems.com/1045) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1046](https://www.erdosproblems.com/1046) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
