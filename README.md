@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1113 problems in total, of which
 - [99](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [273](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [274](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [16](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [100](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [16](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1113 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [8](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [636](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [635](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [273](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -566,7 +566,7 @@ There are 1113 problems in total, of which
 | [513](https://www.erdosproblems.com/513) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [514](https://www.erdosproblems.com/514) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [515](https://www.erdosproblems.com/515) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [516](https://www.erdosproblems.com/516) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [516](https://www.erdosproblems.com/516) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [517](https://www.erdosproblems.com/517) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [518](https://www.erdosproblems.com/518) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [519](https://www.erdosproblems.com/519) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
