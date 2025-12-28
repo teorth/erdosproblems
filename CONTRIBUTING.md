@@ -99,6 +99,6 @@ Asking a large language model to directly generate a sequence, as opposed to gen
 
 ## How to cite this database
 
-Bibliographic information for this database can be found at [CITATION.cff](CITATION.cff).  One possible citation style is
+Bibliographic information for this database can be found at [CITATIONS.cff](CITATIONS.cff).  One possible citation style is
 
 - [Erdős problems database](https://github.com/teorth/erdosproblems), 2025.  Maintained by Thomas Bloom and Terence Tao.
