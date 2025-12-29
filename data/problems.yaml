@@ -5366,8 +5366,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-29"
   tags: ["number theory", "primitive sets"]
 
 - number: "487"
