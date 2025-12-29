@@ -10902,8 +10902,8 @@
 - number: "987"
   prize: "no"
   status:
-    state: "proved (Lean)"
-    last_update: "2025-08-31"
+    state: "open"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -11897,8 +11897,8 @@
 - number: "1077"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-06"
+    state: "disproved"
+    last_update: "2025-12-29"
   formalized:
     state: "yes"
     last_update: "2025-10-17"
@@ -12301,3 +12301,80 @@
   comments: "Sierpinski numbers"
   oeis: ["A076336"]
   tags: ["number theory", "covering systems"]
+
+- number: "1114"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1115"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1116"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1117"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1118"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1119"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis", "set theory"]
+
+- number: "1120"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
