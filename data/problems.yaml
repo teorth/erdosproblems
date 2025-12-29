@@ -500,7 +500,7 @@
 - number: "46"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -2661,7 +2661,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A387704"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -3289,7 +3289,7 @@
 - number: "298"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -3300,7 +3300,7 @@
 - number: "299"
   prize: "no"
   status:
-    state: "disproved"
+    state: "disproved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
