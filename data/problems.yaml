@@ -501,7 +501,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2495,7 +2495,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2528,7 +2528,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3290,7 +3290,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3301,7 +3301,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3675,7 +3675,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-25"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5308,7 +5308,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5440,7 +5440,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-27"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6772,7 +6772,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-11-3"
+    last_update: "2025-11-4"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -9910,7 +9910,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-27"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -11521,7 +11521,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-10-12"
+    last_update: "2025-12-28"
   formalized:
     state: "yes"
     last_update: "2025-12-20"
