@@ -41,10 +41,10 @@ There are 1120 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [276](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [272](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 331 distinct [OEIS](https://oeis.org/) sequences, with a total of 394 links created.
-  - 49 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [305](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 268 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [273](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 332 distinct [OEIS](https://oeis.org/) sequences, with a total of 395 links created.
+  - 50 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [304](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 267 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [2](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -753,7 +753,7 @@ There are 1120 problems in total, of which
 | [700](https://www.erdosproblems.com/700) | no | open | no | [A091963](https://oeis.org/A091963), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [701](https://www.erdosproblems.com/701) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [702](https://www.erdosproblems.com/702) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [703](https://www.erdosproblems.com/703) | $250 | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [703](https://www.erdosproblems.com/703) | $250 | proved | no | [A390645](https://oeis.org/A390645) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [704](https://www.erdosproblems.com/704) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [705](https://www.erdosproblems.com/705) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/705.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [706](https://www.erdosproblems.com/706) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
