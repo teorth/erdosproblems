@@ -23,21 +23,21 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1120 problems in total, of which
-- [99](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [274](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+There are 1128 problems in total, of which
+- [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
+- [278](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [18](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [101](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [102](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [17](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [57](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
-- [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
+- [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
-- 0 are known to be independent of the ZFC axioms of mathematics. (independent)
+- 1 are known to be independent of the ZFC axioms of mathematics. (independent)
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [8](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [278](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1171,4 +1171,12 @@ There are 1120 problems in total, of which
 | [1118](https://www.erdosproblems.com/1118) | no | solved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1119](https://www.erdosproblems.com/1119) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [1120](https://www.erdosproblems.com/1120) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1121](https://www.erdosproblems.com/1121) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1122](https://www.erdosproblems.com/1122) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1123](https://www.erdosproblems.com/1123) | $100 | not provable | no | N/A | [algebra](https://www.erdosproblems.com/tags/algebra) |  |
+| [1124](https://www.erdosproblems.com/1124) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1125](https://www.erdosproblems.com/1125) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1126](https://www.erdosproblems.com/1126) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1127](https://www.erdosproblems.com/1127) | no | independent | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
+| [1128](https://www.erdosproblems.com/1128) | $50 | disproved | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 <!-- TABLE:END -->
