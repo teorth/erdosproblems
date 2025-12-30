@@ -40,7 +40,7 @@ There are 1120 problems in total, of which
 - [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [277](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [278](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [273](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 332 distinct [OEIS](https://oeis.org/) sequences, with a total of 395 links created.
   - 50 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [304](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -612,7 +612,7 @@ There are 1120 problems in total, of which
 | [559](https://www.erdosproblems.com/559) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [560](https://www.erdosproblems.com/560) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [561](https://www.erdosproblems.com/561) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [562](https://www.erdosproblems.com/562) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [562](https://www.erdosproblems.com/562) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/562.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [563](https://www.erdosproblems.com/563) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [564](https://www.erdosproblems.com/564) | $500 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [565](https://www.erdosproblems.com/565) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
