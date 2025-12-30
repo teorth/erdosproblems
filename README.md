@@ -40,7 +40,7 @@ There are 1128 problems in total, of which
 - [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [278](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [279](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [273](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 332 distinct [OEIS](https://oeis.org/) sequences, with a total of 395 links created.
   - 50 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [304](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -544,7 +544,7 @@ There are 1128 problems in total, of which
 | [491](https://www.erdosproblems.com/491) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [492](https://www.erdosproblems.com/492) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [493](https://www.erdosproblems.com/493) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [494](https://www.erdosproblems.com/494) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [494](https://www.erdosproblems.com/494) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/494.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [495](https://www.erdosproblems.com/495) | no | open | no | N/A | [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation), [number theory](https://www.erdosproblems.com/tags/number%20theory) | Littlewood conjecture |
 | [496](https://www.erdosproblems.com/496) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [497](https://www.erdosproblems.com/497) | no | solved | no | [A000372](https://oeis.org/A000372) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | Dedekind's problem |
