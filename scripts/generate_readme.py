@@ -351,7 +351,8 @@ else:
 if plot_statistics_history:
     proved = count_proved(rows) + count_proved_lean(rows)
     disproved = count_disproved(rows) + count_disproved_lean(rows)
-    solved = count_solved(rows) + count_solved_lean(rows)
+    # make solved include independent problems
+    solved = count_solved(rows) + count_solved_lean(rows) + count_independent(rows)
     open = len(rows) - (proved+disproved+solved)
 
     current_stats = {
