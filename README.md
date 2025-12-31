@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1128 problems in total, of which
 - [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [278](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [19](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [20](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [102](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [17](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [57](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -41,10 +41,10 @@ There are 1128 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [282](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [273](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 332 distinct [OEIS](https://oeis.org/) sequences, with a total of 395 links created.
-  - 50 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [304](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 267 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [274](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 333 distinct [OEIS](https://oeis.org/) sequences, with a total of 396 links created.
+  - 51 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 266 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [2](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -526,7 +526,7 @@ There are 1128 problems in total, of which
 | [473](https://www.erdosproblems.com/473) | no | proved | no | [A055265](https://oeis.org/A055265) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [474](https://www.erdosproblems.com/474) | $100 | not provable | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [475](https://www.erdosproblems.com/475) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [476](https://www.erdosproblems.com/476) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [476](https://www.erdosproblems.com/476) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [477](https://www.erdosproblems.com/477) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [478](https://www.erdosproblems.com/478) | no | open | no | [A210184](https://oeis.org/A210184) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [479](https://www.erdosproblems.com/479) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236), [A015919](https://oeis.org/A015919), [A050259](https://oeis.org/A050259), [A015921](https://oeis.org/A015921), [A006521](https://oeis.org/A006521), [A006517](https://oeis.org/A006517), [A015940](https://oeis.org/A015940) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -698,7 +698,7 @@ There are 1128 problems in total, of which
 | [645](https://www.erdosproblems.com/645) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/645.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [646](https://www.erdosproblems.com/646) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [647](https://www.erdosproblems.com/647) | £25 | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/647.lean) | [A062249](https://oeis.org/A062249), [A087280](https://oeis.org/A087280) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [648](https://www.erdosproblems.com/648) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [648](https://www.erdosproblems.com/648) | no | solved | no | [A391750](https://oeis.org/A391750) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [649](https://www.erdosproblems.com/649) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [650](https://www.erdosproblems.com/650) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [651](https://www.erdosproblems.com/651) | no | disproved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
