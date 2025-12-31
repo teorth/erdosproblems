@@ -23,28 +23,28 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1111 problems in total, of which
-- [99](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [273](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [13](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [100](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [13](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [53](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+There are 1128 problems in total, of which
+- [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
+- [278](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+  - [18](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- [102](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+  - [17](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+- [57](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
-- [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
+- [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
-- 0 are known to be independent of the ZFC axioms of mathematics. (independent)
+- 2 are known to be independent of the ZFC axioms of mathematics. (independent)
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
-- [32](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [8](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [633](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [272](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [269](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 328 distinct [OEIS](https://oeis.org/) sequences, with a total of 391 links created.
-  - 48 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [307](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 270 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [281](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [273](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 332 distinct [OEIS](https://oeis.org/) sequences, with a total of 395 links created.
+  - 50 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [304](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 267 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [2](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -75,8 +75,8 @@ There are 1111 problems in total, of which
 | [22](https://www.erdosproblems.com/22) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [23](https://www.erdosproblems.com/23) | no | falsifiable | no | [A389646](https://oeis.org/A389646) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [24](https://www.erdosproblems.com/24) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [25](https://www.erdosproblems.com/25) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [26](https://www.erdosproblems.com/26) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/26.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [25](https://www.erdosproblems.com/25) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/25.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [26](https://www.erdosproblems.com/26) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/26.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [27](https://www.erdosproblems.com/27) | $100 | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [28](https://www.erdosproblems.com/28) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/28.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [29](https://www.erdosproblems.com/29) | $100 | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
@@ -96,7 +96,7 @@ There are 1111 problems in total, of which
 | [43](https://www.erdosproblems.com/43) | $100 | open | no | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [44](https://www.erdosproblems.com/44) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/44.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [45](https://www.erdosproblems.com/45) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [46](https://www.erdosproblems.com/46) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [46](https://www.erdosproblems.com/46) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [47](https://www.erdosproblems.com/47) | $100 | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [48](https://www.erdosproblems.com/48) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/48.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [49](https://www.erdosproblems.com/49) | no | proved | no | [A365339](https://oeis.org/A365339), [A365474](https://oeis.org/A365474) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
@@ -164,7 +164,7 @@ There are 1111 problems in total, of which
 | [111](https://www.erdosproblems.com/111) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [112](https://www.erdosproblems.com/112) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [113](https://www.erdosproblems.com/113) | $500 | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
-| [114](https://www.erdosproblems.com/114) | no | falsifiable | no | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [114](https://www.erdosproblems.com/114) | no | open | no | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [115](https://www.erdosproblems.com/115) | no | proved | no | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [116](https://www.erdosproblems.com/116) | no | proved | no | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [117](https://www.erdosproblems.com/117) | no | open | no | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
@@ -276,10 +276,10 @@ There are 1111 problems in total, of which
 | [223](https://www.erdosproblems.com/223) | no | solved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [224](https://www.erdosproblems.com/224) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [225](https://www.erdosproblems.com/225) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [226](https://www.erdosproblems.com/226) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [226](https://www.erdosproblems.com/226) | no | proved (Lean) | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [227](https://www.erdosproblems.com/227) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [228](https://www.erdosproblems.com/228) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/228.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
-| [229](https://www.erdosproblems.com/229) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/229.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [229](https://www.erdosproblems.com/229) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/229.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [230](https://www.erdosproblems.com/230) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [231](https://www.erdosproblems.com/231) | no | disproved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [232](https://www.erdosproblems.com/232) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
@@ -291,12 +291,12 @@ There are 1111 problems in total, of which
 | [238](https://www.erdosproblems.com/238) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [239](https://www.erdosproblems.com/239) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [240](https://www.erdosproblems.com/240) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [241](https://www.erdosproblems.com/241) | $100 | open | no | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [241](https://www.erdosproblems.com/241) | $100 | open | no | [A387704](https://oeis.org/A387704) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [242](https://www.erdosproblems.com/242) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/242.lean) | [A073101](https://oeis.org/A073101), [A075245](https://oeis.org/A075245), [A075246](https://oeis.org/A075246), [A075247](https://oeis.org/A075247), [A075248](https://oeis.org/A075248), [A287116](https://oeis.org/A287116) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) | Erdős-Straus conjecture |
 | [243](https://www.erdosproblems.com/243) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/243.lean) | [A000058](https://oeis.org/A000058) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [244](https://www.erdosproblems.com/244) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/244.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [245](https://www.erdosproblems.com/245) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/245.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [246](https://www.erdosproblems.com/246) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [246](https://www.erdosproblems.com/246) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [247](https://www.erdosproblems.com/247) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/247.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [248](https://www.erdosproblems.com/248) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/248.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [249](https://www.erdosproblems.com/249) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/249.lean) | [A256936](https://oeis.org/A256936) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
@@ -318,7 +318,7 @@ There are 1111 problems in total, of which
 | [265](https://www.erdosproblems.com/265) | no | open | no | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [266](https://www.erdosproblems.com/266) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/266.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [267](https://www.erdosproblems.com/267) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/267.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [268](https://www.erdosproblems.com/268) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [268](https://www.erdosproblems.com/268) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/268.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [269](https://www.erdosproblems.com/269) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/269.lean) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [270](https://www.erdosproblems.com/270) | no | disproved | no | [A073016](https://oeis.org/A073016) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [271](https://www.erdosproblems.com/271) | no | open | no | [A005487](https://oeis.org/A005487) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) | Stanley sequences |
@@ -348,8 +348,8 @@ There are 1111 problems in total, of which
 | [295](https://www.erdosproblems.com/295) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/295.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [296](https://www.erdosproblems.com/296) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [297](https://www.erdosproblems.com/297) | no | solved | no | [A092670](https://oeis.org/A092670) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
-| [298](https://www.erdosproblems.com/298) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/298.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
-| [299](https://www.erdosproblems.com/299) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/299.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [298](https://www.erdosproblems.com/298) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/298.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [299](https://www.erdosproblems.com/299) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/299.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [300](https://www.erdosproblems.com/300) | no | solved | no | [A390393](https://oeis.org/A390393) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [301](https://www.erdosproblems.com/301) | no | open | no | [A390394](https://oeis.org/A390394) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [302](https://www.erdosproblems.com/302) | no | open | no | [A390395](https://oeis.org/A390395) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
@@ -509,7 +509,7 @@ There are 1111 problems in total, of which
 | [456](https://www.erdosproblems.com/456) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [457](https://www.erdosproblems.com/457) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | [A391668](https://oeis.org/A391668) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [458](https://www.erdosproblems.com/458) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/458.lean) | [A056604](https://oeis.org/A056604) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [459](https://www.erdosproblems.com/459) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [459](https://www.erdosproblems.com/459) | no | solved | no | [A289280](https://oeis.org/A289280) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [460](https://www.erdosproblems.com/460) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [461](https://www.erdosproblems.com/461) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [462](https://www.erdosproblems.com/462) | no | open | no | [A032742](https://oeis.org/A032742), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
@@ -536,7 +536,7 @@ There are 1111 problems in total, of which
 | [483](https://www.erdosproblems.com/483) | no | open | no | [A030126](https://oeis.org/A030126) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [484](https://www.erdosproblems.com/484) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [485](https://www.erdosproblems.com/485) | no | proved | no | possible | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
-| [486](https://www.erdosproblems.com/486) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
+| [486](https://www.erdosproblems.com/486) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/486.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [487](https://www.erdosproblems.com/487) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [488](https://www.erdosproblems.com/488) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [489](https://www.erdosproblems.com/489) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -544,7 +544,7 @@ There are 1111 problems in total, of which
 | [491](https://www.erdosproblems.com/491) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [492](https://www.erdosproblems.com/492) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [493](https://www.erdosproblems.com/493) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [494](https://www.erdosproblems.com/494) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [494](https://www.erdosproblems.com/494) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/494.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [495](https://www.erdosproblems.com/495) | no | open | no | N/A | [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation), [number theory](https://www.erdosproblems.com/tags/number%20theory) | Littlewood conjecture |
 | [496](https://www.erdosproblems.com/496) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [497](https://www.erdosproblems.com/497) | no | solved | no | [A000372](https://oeis.org/A000372) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | Dedekind's problem |
@@ -566,8 +566,8 @@ There are 1111 problems in total, of which
 | [513](https://www.erdosproblems.com/513) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [514](https://www.erdosproblems.com/514) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [515](https://www.erdosproblems.com/515) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [516](https://www.erdosproblems.com/516) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [517](https://www.erdosproblems.com/517) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [516](https://www.erdosproblems.com/516) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [517](https://www.erdosproblems.com/517) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/517.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [518](https://www.erdosproblems.com/518) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [519](https://www.erdosproblems.com/519) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [520](https://www.erdosproblems.com/520) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/520.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
@@ -612,7 +612,7 @@ There are 1111 problems in total, of which
 | [559](https://www.erdosproblems.com/559) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [560](https://www.erdosproblems.com/560) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [561](https://www.erdosproblems.com/561) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [562](https://www.erdosproblems.com/562) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [562](https://www.erdosproblems.com/562) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/562.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [563](https://www.erdosproblems.com/563) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [564](https://www.erdosproblems.com/564) | $500 | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [565](https://www.erdosproblems.com/565) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
@@ -753,7 +753,7 @@ There are 1111 problems in total, of which
 | [700](https://www.erdosproblems.com/700) | no | open | no | [A091963](https://oeis.org/A091963), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [701](https://www.erdosproblems.com/701) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [702](https://www.erdosproblems.com/702) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [703](https://www.erdosproblems.com/703) | $250 | proved | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [703](https://www.erdosproblems.com/703) | $250 | proved | no | [A390645](https://oeis.org/A390645) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [704](https://www.erdosproblems.com/704) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [705](https://www.erdosproblems.com/705) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/705.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [706](https://www.erdosproblems.com/706) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
@@ -912,7 +912,7 @@ There are 1111 problems in total, of which
 | [859](https://www.erdosproblems.com/859) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/859.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [860](https://www.erdosproblems.com/860) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [861](https://www.erdosproblems.com/861) | no | solved | no | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022), [A143823](https://oeis.org/A143823) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [862](https://www.erdosproblems.com/862) | no | open | no | [A382395](https://oeis.org/A382395) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [862](https://www.erdosproblems.com/862) | no | solved | no | [A382395](https://oeis.org/A382395) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [863](https://www.erdosproblems.com/863) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [864](https://www.erdosproblems.com/864) | no | open | no | [A389182](https://oeis.org/A389182) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [865](https://www.erdosproblems.com/865) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
@@ -1011,7 +1011,7 @@ There are 1111 problems in total, of which
 | [958](https://www.erdosproblems.com/958) | no | disproved (Lean) | no | N/A | [distances](https://www.erdosproblems.com/tags/distances), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [959](https://www.erdosproblems.com/959) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [960](https://www.erdosproblems.com/960) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [961](https://www.erdosproblems.com/961) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [961](https://www.erdosproblems.com/961) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/961.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [962](https://www.erdosproblems.com/962) | no | open | no | [A327909](https://oeis.org/A327909) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [963](https://www.erdosproblems.com/963) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [964](https://www.erdosproblems.com/964) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
@@ -1037,7 +1037,7 @@ There are 1111 problems in total, of which
 | [984](https://www.erdosproblems.com/984) | no | proved | no | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [985](https://www.erdosproblems.com/985) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/985.lean) | [A002233](https://oeis.org/A002233), [A219429](https://oeis.org/A219429), [A103309](https://oeis.org/A103309), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [986](https://www.erdosproblems.com/986) | no | open | no | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [987](https://www.erdosproblems.com/987) | no | proved (Lean) | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
+| [987](https://www.erdosproblems.com/987) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [988](https://www.erdosproblems.com/988) | no | solved | no | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [989](https://www.erdosproblems.com/989) | no | solved | no | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [990](https://www.erdosproblems.com/990) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
@@ -1050,7 +1050,7 @@ There are 1111 problems in total, of which
 | [997](https://www.erdosproblems.com/997) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [998](https://www.erdosproblems.com/998) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [999](https://www.erdosproblems.com/999) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) | Duffin-Schaeffer conjecture |
-| [1000](https://www.erdosproblems.com/1000) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
+| [1000](https://www.erdosproblems.com/1000) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1001](https://www.erdosproblems.com/1001) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1002](https://www.erdosproblems.com/1002) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [1003](https://www.erdosproblems.com/1003) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1003.lean) | [A001274](https://oeis.org/A001274) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
@@ -1093,7 +1093,7 @@ There are 1111 problems in total, of which
 | [1040](https://www.erdosproblems.com/1040) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1041](https://www.erdosproblems.com/1041) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1041.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1042](https://www.erdosproblems.com/1042) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1043](https://www.erdosproblems.com/1043) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1043.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1043](https://www.erdosproblems.com/1043) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1043.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1044](https://www.erdosproblems.com/1044) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1045](https://www.erdosproblems.com/1045) | no | falsifiable | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1046](https://www.erdosproblems.com/1046) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
@@ -1127,14 +1127,14 @@ There are 1111 problems in total, of which
 | [1074](https://www.erdosproblems.com/1074) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1074.lean) | [A063980](https://oeis.org/A063980), [A064164](https://oeis.org/A064164) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1075](https://www.erdosproblems.com/1075) | no | open | no | N/A | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1076](https://www.erdosproblems.com/1076) | no | proved | no | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
-| [1077](https://www.erdosproblems.com/1077) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1077.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1077](https://www.erdosproblems.com/1077) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1077.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1078](https://www.erdosproblems.com/1078) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1079](https://www.erdosproblems.com/1079) | no | solved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
-| [1080](https://www.erdosproblems.com/1080) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1080.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1080](https://www.erdosproblems.com/1080) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1080.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1081](https://www.erdosproblems.com/1081) | no | disproved | no | [A076871](https://oeis.org/A076871), [A076872](https://oeis.org/A076872), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
 | [1082](https://www.erdosproblems.com/1082) | no | falsifiable | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1083](https://www.erdosproblems.com/1083) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [1084](https://www.erdosproblems.com/1084) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [1084](https://www.erdosproblems.com/1084) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1084.lean) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1085](https://www.erdosproblems.com/1085) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1086](https://www.erdosproblems.com/1086) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1087](https://www.erdosproblems.com/1087) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
@@ -1145,7 +1145,7 @@ There are 1111 problems in total, of which
 | [1092](https://www.erdosproblems.com/1092) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1093](https://www.erdosproblems.com/1093) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1093.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [1094](https://www.erdosproblems.com/1094) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1094.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
-| [1095](https://www.erdosproblems.com/1095) | no | open | no | [A003458](https://oeis.org/A003458) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [1095](https://www.erdosproblems.com/1095) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1095.lean) | [A003458](https://oeis.org/A003458) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [1096](https://www.erdosproblems.com/1096) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1097](https://www.erdosproblems.com/1097) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1097.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [1098](https://www.erdosproblems.com/1098) | no | proved | no | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
@@ -1162,4 +1162,21 @@ There are 1111 problems in total, of which
 | [1109](https://www.erdosproblems.com/1109) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1110](https://www.erdosproblems.com/1110) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1111](https://www.erdosproblems.com/1111) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1112](https://www.erdosproblems.com/1112) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [1113](https://www.erdosproblems.com/1113) | no | open | no | [A076336](https://oeis.org/A076336) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) | Sierpinski numbers |
+| [1114](https://www.erdosproblems.com/1114) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1115](https://www.erdosproblems.com/1115) | no | solved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1116](https://www.erdosproblems.com/1116) | no | solved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1117](https://www.erdosproblems.com/1117) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1118](https://www.erdosproblems.com/1118) | no | solved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1119](https://www.erdosproblems.com/1119) | no | independent | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
+| [1120](https://www.erdosproblems.com/1120) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1121](https://www.erdosproblems.com/1121) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1122](https://www.erdosproblems.com/1122) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1123](https://www.erdosproblems.com/1123) | $100 | not provable | no | N/A | [algebra](https://www.erdosproblems.com/tags/algebra) |  |
+| [1124](https://www.erdosproblems.com/1124) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1125](https://www.erdosproblems.com/1125) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1126](https://www.erdosproblems.com/1126) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1127](https://www.erdosproblems.com/1127) | no | independent | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
+| [1128](https://www.erdosproblems.com/1128) | $50 | disproved | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 <!-- TABLE:END -->

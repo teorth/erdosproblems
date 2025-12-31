@@ -272,15 +272,15 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-28"
   tags: ["number theory"]
 
 - number: "26"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -500,8 +500,8 @@
 - number: "46"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1255,7 +1255,7 @@
 - number: "114"
   prize: "no"
   status:
-    state: "falsifiable"
+    state: "open"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -2494,8 +2494,8 @@
 - number: "226"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2527,8 +2527,8 @@
 - number: "229"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -2661,7 +2661,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A387704"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -2715,8 +2715,8 @@
 - number: "246"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2961,8 +2961,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-30"
   tags: ["number theory"]
 
 - number: "269"
@@ -3289,8 +3289,8 @@
 - number: "298"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3300,8 +3300,8 @@
 - number: "299"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3675,7 +3675,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-25"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5066,7 +5066,7 @@
   status:
     state: "solved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A289280"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -5308,7 +5308,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5366,8 +5366,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-29"
   tags: ["number theory", "primitive sets"]
 
 - number: "487"
@@ -5440,7 +5440,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-27"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5454,8 +5454,8 @@
     last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-30"
   tags: ["analysis", "additive combinatorics"]
 
 - number: "495"
@@ -5701,8 +5701,8 @@
 - number: "516"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5716,8 +5716,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-29"
   tags: ["analysis"]
 
 - number: "518"
@@ -6211,8 +6211,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-30"
   tags: ["graph theory", "ramsey theory", "hypergraphs"]
 
 - number: "563"
@@ -6772,7 +6772,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-11-3"
+    last_update: "2025-11-4"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -7768,7 +7768,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A390645"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -9524,8 +9524,8 @@
 - number: "862"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2025-12-28"
   oeis: ["A382395"]
   formalized:
     state: "no"
@@ -9910,7 +9910,7 @@
   prize: "no"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2025-12-27"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -10619,8 +10619,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2025-12-30"
   tags: ["number theory"]
 
 - number: "962"
@@ -10902,8 +10902,8 @@
 - number: "987"
   prize: "no"
   status:
-    state: "proved (Lean)"
-    last_update: "2025-08-31"
+    state: "open"
+    last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -11046,7 +11046,7 @@
 - number: "1000"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-12-05"
   formalized:
     state: "no"
@@ -11520,8 +11520,8 @@
 - number: "1043"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-10-12"
+    state: "disproved (Lean)"
+    last_update: "2025-12-28"
   formalized:
     state: "yes"
     last_update: "2025-12-20"
@@ -11897,8 +11897,8 @@
 - number: "1077"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-06"
+    state: "disproved"
+    last_update: "2025-12-29"
   formalized:
     state: "yes"
     last_update: "2025-10-17"
@@ -11930,8 +11930,8 @@
 - number: "1080"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-10-17"
+    state: "disproved (Lean)"
+    last_update: "2025-12-28"
   formalized:
     state: "yes"
     last_update: "2025-12-11"
@@ -11977,8 +11977,8 @@
     state: "open"
     last_update: "2025-10-17"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2025-12-30"
   oeis: ["possible"]
   tags: ["geometry", "distances"]
 
@@ -12098,8 +12098,8 @@
     state: "open"
     last_update: "2025-10-18"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2025-12-29"
   oeis: ["A003458"]
   tags: ["number theory", "binomial coefficients"]
 
@@ -12278,3 +12278,192 @@
     last_update: "2025-09-28"
   oeis: ["possible"]
   tags: ["graph theory"]
+
+- number: "1112"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["additive combinatorics"]
+
+- number: "1113"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-28"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  comments: "Sierpinski numbers"
+  oeis: ["A076336"]
+  tags: ["number theory", "covering systems"]
+
+- number: "1114"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1115"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1116"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1117"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1118"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1119"
+  prize: "no"
+  status:
+    state: "independent"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis", "set theory"]
+
+- number: "1120"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-29"
+  formalized:
+    state: "no"
+    last_update: "2025-09-28"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1121"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["geometry"]
+
+- number: "1122"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["number theory"]
+
+- number: "1123"
+  prize: "$100"
+  status:
+    state: "not provable"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["algebra"]
+
+- number: "1124"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["geometry"]
+
+- number: "1125"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1126"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1127"
+  prize: "no"
+  status:
+    state: "independent"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["geometry", "distances", "set theory"]
+
+- number: "1128"
+  prize: "$50"
+  status:
+    state: "disproved"
+    last_update: "2025-12-30"
+  formalized:
+    state: "no"
+    last_update: "2025-12-30"
+  oeis: ["N/A"]
+  tags: ["set theory", "ramsey theory", "hypergraphs"]
+
