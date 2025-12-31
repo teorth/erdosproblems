@@ -40,7 +40,7 @@ There are 1128 problems in total, of which
 - [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [282](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [283](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [274](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 333 distinct [OEIS](https://oeis.org/) sequences, with a total of 396 links created.
   - 51 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1088,7 +1088,7 @@ There are 1128 problems in total, of which
 | [1035](https://www.erdosproblems.com/1035) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1036](https://www.erdosproblems.com/1036) | no | proved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1037](https://www.erdosproblems.com/1037) | no | disproved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [1038](https://www.erdosproblems.com/1038) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1038](https://www.erdosproblems.com/1038) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1038.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1039](https://www.erdosproblems.com/1039) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1040](https://www.erdosproblems.com/1040) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1041](https://www.erdosproblems.com/1041) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1041.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
