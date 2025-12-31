@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1128 problems in total, of which
 - [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [278](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [19](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [20](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [102](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [17](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [57](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -526,7 +526,7 @@ There are 1128 problems in total, of which
 | [473](https://www.erdosproblems.com/473) | no | proved | no | [A055265](https://oeis.org/A055265) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [474](https://www.erdosproblems.com/474) | $100 | not provable | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [475](https://www.erdosproblems.com/475) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [476](https://www.erdosproblems.com/476) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [476](https://www.erdosproblems.com/476) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [477](https://www.erdosproblems.com/477) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/477.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [478](https://www.erdosproblems.com/478) | no | open | no | [A210184](https://oeis.org/A210184) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [479](https://www.erdosproblems.com/479) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/479.lean) | [A036236](https://oeis.org/A036236), [A015919](https://oeis.org/A015919), [A050259](https://oeis.org/A050259), [A015921](https://oeis.org/A015921), [A006521](https://oeis.org/A006521), [A006517](https://oeis.org/A006517), [A015940](https://oeis.org/A015940) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
