@@ -9212,8 +9212,8 @@
 - number: "834"
   prize: "no"
   status:
-    state: "verifiable"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-01-01"
   oeis: ["N/A"]
   formalized:
     state: "no"
