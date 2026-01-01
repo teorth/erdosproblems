@@ -40,7 +40,7 @@ There are 1128 problems in total, of which
 - [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [283](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [284](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [274](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 333 distinct [OEIS](https://oeis.org/) sequences, with a total of 396 links created.
   - 51 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -563,7 +563,7 @@ There are 1128 problems in total, of which
 | [510](https://www.erdosproblems.com/510) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/510.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Chowla's cosine problem |
 | [511](https://www.erdosproblems.com/511) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [512](https://www.erdosproblems.com/512) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) | Littlewood's conjecture |
-| [513](https://www.erdosproblems.com/513) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [513](https://www.erdosproblems.com/513) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/513.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [514](https://www.erdosproblems.com/514) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [515](https://www.erdosproblems.com/515) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [516](https://www.erdosproblems.com/516) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
