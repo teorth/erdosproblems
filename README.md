@@ -27,7 +27,7 @@ There are 1133 problems in total, of which
 - [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [278](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [20](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [102](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [103](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [17](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [58](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1133 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [642](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [641](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [287](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1015,7 +1015,7 @@ There are 1133 problems in total, of which
 | [962](https://www.erdosproblems.com/962) | no | open | no | [A327909](https://oeis.org/A327909) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [963](https://www.erdosproblems.com/963) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [964](https://www.erdosproblems.com/964) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [965](https://www.erdosproblems.com/965) | no | open | no | N/A | [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [965](https://www.erdosproblems.com/965) | no | disproved | no | N/A | [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [966](https://www.erdosproblems.com/966) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [967](https://www.erdosproblems.com/967) | no | disproved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [968](https://www.erdosproblems.com/968) | no | open | no | [A387591](https://oeis.org/A387591) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
