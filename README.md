@@ -41,10 +41,10 @@ There are 1133 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [287](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [274](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 333 distinct [OEIS](https://oeis.org/) sequences, with a total of 396 links created.
-  - 51 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [275](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 334 distinct [OEIS](https://oeis.org/) sequences, with a total of 397 links created.
+  - 52 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 266 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 265 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [2](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -734,7 +734,7 @@ There are 1133 problems in total, of which
 | [681](https://www.erdosproblems.com/681) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/681.lean) | [A389680](https://oeis.org/A389680) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [682](https://www.erdosproblems.com/682) | no | proved | no | [A386978](https://oeis.org/A386978) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [683](https://www.erdosproblems.com/683) | no | open | no | [A006530](https://oeis.org/A006530), [A074399](https://oeis.org/A074399), [A121359](https://oeis.org/A121359), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
-| [684](https://www.erdosproblems.com/684) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [684](https://www.erdosproblems.com/684) | no | open | no | [A392019](https://oeis.org/A392019), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [685](https://www.erdosproblems.com/685) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [686](https://www.erdosproblems.com/686) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/686.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [687](https://www.erdosproblems.com/687) | $1000 | open | no | [A048670](https://oeis.org/A048670), [A058989](https://oeis.org/A058989) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
