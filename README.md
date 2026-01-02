@@ -40,7 +40,7 @@ There are 1133 problems in total, of which
 - [642](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [285](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [286](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [274](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 333 distinct [OEIS](https://oeis.org/) sequences, with a total of 396 links created.
   - 51 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -956,7 +956,7 @@ There are 1133 problems in total, of which
 | [903](https://www.erdosproblems.com/903) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [904](https://www.erdosproblems.com/904) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [905](https://www.erdosproblems.com/905) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [906](https://www.erdosproblems.com/906) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
+| [906](https://www.erdosproblems.com/906) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/906.lean) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [907](https://www.erdosproblems.com/907) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [908](https://www.erdosproblems.com/908) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [909](https://www.erdosproblems.com/909) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [topology](https://www.erdosproblems.com/tags/topology) |  |
