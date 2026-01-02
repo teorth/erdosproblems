@@ -12467,3 +12467,57 @@
   oeis: ["N/A"]
   tags: ["set theory", "ramsey theory", "hypergraphs"]
 
+- number: "1129"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-01"
+  formalized:
+    state: "no"
+    last_update: "2026-01-01"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1130"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-01"
+  formalized:
+    state: "no"
+    last_update: "2026-01-01"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1131"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-01"
+  formalized:
+    state: "no"
+    last_update: "2026-01-01"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1132"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-01"
+  formalized:
+    state: "no"
+    last_update: "2026-01-01"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1133"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-01"
+  formalized:
+    state: "no"
+    last_update: "2026-01-01"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
