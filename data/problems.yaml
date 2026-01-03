@@ -2785,8 +2785,8 @@
     last_update: "2025-08-31"
   oeis: ["A227988", "A227989", "possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-01-03"
   tags: ["number theory", "irrationality"]
 
 - number: "253"
@@ -5024,8 +5024,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-01-03"
   tags: ["number theory"]
 
 - number: "456"
@@ -7559,7 +7559,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A392019","possible"]
+  oeis: ["A392019", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
