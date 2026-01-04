@@ -40,7 +40,7 @@ There are 1133 problems in total, of which
 - [641](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [292](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [293](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [275](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 334 distinct [OEIS](https://oeis.org/) sequences, with a total of 397 links created.
   - 52 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -208,7 +208,7 @@ There are 1133 problems in total, of which
 | [155](https://www.erdosproblems.com/155) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/155.lean) | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [156](https://www.erdosproblems.com/156) | no | open | no | [A382397](https://oeis.org/A382397) | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [157](https://www.erdosproblems.com/157) | no | proved | no | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [158](https://www.erdosproblems.com/158) | no | open | no | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [158](https://www.erdosproblems.com/158) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/158.lean) | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [159](https://www.erdosproblems.com/159) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [160](https://www.erdosproblems.com/160) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/160.lean) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [161](https://www.erdosproblems.com/161) | $500 | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
