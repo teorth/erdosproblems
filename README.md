@@ -40,7 +40,7 @@ There are 1133 problems in total, of which
 - [641](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [291](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [292](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [275](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 334 distinct [OEIS](https://oeis.org/) sequences, with a total of 397 links created.
   - 52 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -749,7 +749,7 @@ There are 1133 problems in total, of which
 | [696](https://www.erdosproblems.com/696) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [697](https://www.erdosproblems.com/697) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [698](https://www.erdosproblems.com/698) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
-| [699](https://www.erdosproblems.com/699) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
+| [699](https://www.erdosproblems.com/699) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/699.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [700](https://www.erdosproblems.com/700) | no | open | no | [A091963](https://oeis.org/A091963), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [701](https://www.erdosproblems.com/701) | no | open | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [702](https://www.erdosproblems.com/702) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
