@@ -40,7 +40,7 @@ There are 1133 problems in total, of which
 - [641](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [294](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [295](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [275](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 334 distinct [OEIS](https://oeis.org/) sequences, with a total of 397 links created.
   - 52 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -935,7 +935,7 @@ There are 1133 problems in total, of which
 | [882](https://www.erdosproblems.com/882) | no | solved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [883](https://www.erdosproblems.com/883) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [884](https://www.erdosproblems.com/884) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [885](https://www.erdosproblems.com/885) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [885](https://www.erdosproblems.com/885) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/885.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [886](https://www.erdosproblems.com/886) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [887](https://www.erdosproblems.com/887) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [888](https://www.erdosproblems.com/888) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/888.lean) | [A387584](https://oeis.org/A387584) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [squares](https://www.erdosproblems.com/tags/squares) |  |
