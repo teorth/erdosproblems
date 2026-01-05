@@ -9623,7 +9623,7 @@
 - number: "871"
   prize: "no"
   status:
-    state: "open"
+    state: "disproved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
