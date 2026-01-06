@@ -1141,7 +1141,7 @@
   tags: ["geometry", "distances"]
 
 - number: "104"
-  prize: "£100"
+  prize: "$100"
   status:
     state: "open"
     last_update: "2025-08-31"
@@ -8048,7 +8048,6 @@
   formalized:
     state: "yes"
     last_update: "2025-10-14"
-  comments: "ambiguous statement"
   tags: ["number theory", "factorials"]
 
 - number: "729"
