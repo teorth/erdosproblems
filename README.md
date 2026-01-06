@@ -40,7 +40,7 @@ There are 1133 problems in total, of which
 - [639](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
-- [298](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [299](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [275](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 334 distinct [OEIS](https://oeis.org/) sequences, with a total of 397 links created.
   - 52 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -791,7 +791,7 @@ There are 1133 problems in total, of which
 | [738](https://www.erdosproblems.com/738) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [739](https://www.erdosproblems.com/739) | no | not provable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [740](https://www.erdosproblems.com/740) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [741](https://www.erdosproblems.com/741) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [741](https://www.erdosproblems.com/741) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/741.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [742](https://www.erdosproblems.com/742) | no | decidable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [743](https://www.erdosproblems.com/743) | no | falsifiable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | tree packing conjecture |
 | [744](https://www.erdosproblems.com/744) | no | disproved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
