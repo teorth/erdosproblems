@@ -4561,8 +4561,8 @@
     last_update: "2025-08-31"
   oeis: ["A005236"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-01-06"
   tags: ["number theory", "iterated functions"]
 
 - number: "414"
