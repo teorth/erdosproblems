@@ -25,8 +25,8 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1133 problems in total, of which
 - [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [278](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [20](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- [279](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+  - [21](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [104](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [18](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [58](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -37,7 +37,7 @@ There are 1133 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [640](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [639](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [296](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -778,7 +778,7 @@ There are 1133 problems in total, of which
 | [725](https://www.erdosproblems.com/725) | no | open | no | [A001009](https://oeis.org/A001009) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [726](https://www.erdosproblems.com/726) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [727](https://www.erdosproblems.com/727) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | [A002503](https://oeis.org/A002503), [A343507](https://oeis.org/A343507) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [728](https://www.erdosproblems.com/728) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/728.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) | ambiguous statement |
+| [728](https://www.erdosproblems.com/728) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/728.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) | ambiguous statement |
 | [729](https://www.erdosproblems.com/729) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [730](https://www.erdosproblems.com/730) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
 | [731](https://www.erdosproblems.com/731) | no | open | no | [A006197](https://oeis.org/A006197) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
