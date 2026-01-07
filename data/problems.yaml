@@ -5465,8 +5465,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-01-07"
   comments: "Littlewood conjecture"
   tags: ["diophantine approximation", "number theory"]
 
