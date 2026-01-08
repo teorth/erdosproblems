@@ -41,10 +41,10 @@ There are 1133 problems in total, of which
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - [302](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [275](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 334 distinct [OEIS](https://oeis.org/) sequences, with a total of 397 links created.
-  - 52 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 265 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [278](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 337 distinct [OEIS](https://oeis.org/) sequences, with a total of 401 links created.
+  - 54 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 263 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [2](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -991,7 +991,7 @@ There are 1133 problems in total, of which
 | [938](https://www.erdosproblems.com/938) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/938.lean) | [A001694](https://oeis.org/A001694), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [939](https://www.erdosproblems.com/939) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/939.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [940](https://www.erdosproblems.com/940) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/940.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [941](https://www.erdosproblems.com/941) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [941](https://www.erdosproblems.com/941) | no | proved | no | [A056828](https://oeis.org/A056828) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [942](https://www.erdosproblems.com/942) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/942.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [943](https://www.erdosproblems.com/943) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/943.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [944](https://www.erdosproblems.com/944) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/944.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
@@ -1157,9 +1157,9 @@ There are 1133 problems in total, of which
 | [1104](https://www.erdosproblems.com/1104) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1104.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1105](https://www.erdosproblems.com/1105) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1106](https://www.erdosproblems.com/1106) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1106.lean) | [A194259](https://oeis.org/A194259), [A194260](https://oeis.org/A194260) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1107](https://www.erdosproblems.com/1107) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1107.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
+| [1107](https://www.erdosproblems.com/1107) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1107.lean) | [A056828](https://oeis.org/A056828), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
 | [1108](https://www.erdosproblems.com/1108) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1108.lean) | [A051761](https://oeis.org/A051761), [A115645](https://oeis.org/A115645), [A025494](https://oeis.org/A025494) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [1109](https://www.erdosproblems.com/1109) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1109](https://www.erdosproblems.com/1109) | no | open | no | [A392164](https://oeis.org/A392164), [A392165](https://oeis.org/A392165) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1110](https://www.erdosproblems.com/1110) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1111](https://www.erdosproblems.com/1111) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1112](https://www.erdosproblems.com/1112) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
