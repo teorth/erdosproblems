@@ -7492,7 +7492,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2026-01-07"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -9332,8 +9332,8 @@
 - number: "845"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-11-16"
+    state: "disproved (Lean)"
+    last_update: "2026-01-08"
   oeis: ["N/A"]
   formalized:
     state: "yes"
