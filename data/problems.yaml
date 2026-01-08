@@ -12253,7 +12253,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-28"
-  oeis: ["possible"]
+  oeis: ["A392164","A392165"]
   tags: ["number theory"]
 
 - number: "1110"
