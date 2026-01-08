@@ -40,7 +40,7 @@ There are 1133 problems in total, of which
 - [639](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
-- [305](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [306](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [279](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 337 distinct [OEIS](https://oeis.org/) sequences, with a total of 402 links created.
   - 54 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -807,7 +807,7 @@ There are 1133 problems in total, of which
 | [754](https://www.erdosproblems.com/754) | no | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [755](https://www.erdosproblems.com/755) | no | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [756](https://www.erdosproblems.com/756) | no | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [757](https://www.erdosproblems.com/757) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [757](https://www.erdosproblems.com/757) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/757.lean) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [758](https://www.erdosproblems.com/758) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [759](https://www.erdosproblems.com/759) | no | solved | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [760](https://www.erdosproblems.com/760) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
