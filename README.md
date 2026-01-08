@@ -28,7 +28,7 @@ There are 1133 problems in total, of which
 - [279](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [22](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [104](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [18](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - [19](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [58](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -895,7 +895,7 @@ There are 1133 problems in total, of which
 | [842](https://www.erdosproblems.com/842) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [843](https://www.erdosproblems.com/843) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [844](https://www.erdosproblems.com/844) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
-| [845](https://www.erdosproblems.com/845) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [845](https://www.erdosproblems.com/845) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [846](https://www.erdosproblems.com/846) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [847](https://www.erdosproblems.com/847) | no | open | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [848](https://www.erdosproblems.com/848) | no | decidable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
