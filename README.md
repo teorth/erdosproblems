@@ -25,8 +25,8 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1133 problems in total, of which
 - [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [279](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [22](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- [280](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+  - [23](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [104](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [19](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [58](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -37,8 +37,8 @@ There are 1133 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [639](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
-- 3 have ambiguous statements.
+- [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [308](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [280](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 338 distinct [OEIS](https://oeis.org/) sequences, with a total of 403 links created.
@@ -451,7 +451,7 @@ There are 1133 problems in total, of which
 | [398](https://www.erdosproblems.com/398) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/398.lean) | [A146968](https://oeis.org/A146968) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) | Brocard-Ramanujan conjecture |
 | [399](https://www.erdosproblems.com/399) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [400](https://www.erdosproblems.com/400) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [401](https://www.erdosproblems.com/401) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [401](https://www.erdosproblems.com/401) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) | ambiguous statement |
 | [402](https://www.erdosproblems.com/402) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/402.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [403](https://www.erdosproblems.com/403) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [404](https://www.erdosproblems.com/404) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
@@ -779,7 +779,7 @@ There are 1133 problems in total, of which
 | [726](https://www.erdosproblems.com/726) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [727](https://www.erdosproblems.com/727) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/727.lean) | [A002503](https://oeis.org/A002503), [A343507](https://oeis.org/A343507) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [728](https://www.erdosproblems.com/728) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/728.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
-| [729](https://www.erdosproblems.com/729) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
+| [729](https://www.erdosproblems.com/729) | no | proved (Lean) | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [730](https://www.erdosproblems.com/730) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/730.lean) | [A129515](https://oeis.org/A129515) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients), [base representations](https://www.erdosproblems.com/tags/base%20representations) |  |
 | [731](https://www.erdosproblems.com/731) | no | open | no | [A006197](https://oeis.org/A006197) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) |  |
 | [732](https://www.erdosproblems.com/732) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
