@@ -4431,6 +4431,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "ambiguous statement"
   tags: ["number theory", "factorials"]
 
 - number: "402"
@@ -8053,8 +8054,8 @@
 - number: "729"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-01-10"
   oeis: ["N/A"]
   formalized:
     state: "no"
