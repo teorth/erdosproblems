@@ -41,10 +41,10 @@ There are 1133 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [308](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [280](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 339 distinct [OEIS](https://oeis.org/) sequences, with a total of 404 links created.
-  - 55 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [281](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 340 distinct [OEIS](https://oeis.org/) sequences, with a total of 405 links created.
+  - 56 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [301](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 262 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 261 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -522,7 +522,7 @@ There are 1133 problems in total, of which
 | [469](https://www.erdosproblems.com/469) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/469.lean) | [A006036](https://oeis.org/A006036), [A119425](https://oeis.org/A119425), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [470](https://www.erdosproblems.com/470) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/470.lean) | [A006037](https://oeis.org/A006037), [A002975](https://oeis.org/A002975) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [471](https://www.erdosproblems.com/471) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [472](https://www.erdosproblems.com/472) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [472](https://www.erdosproblems.com/472) | no | open | no | [A389713](https://oeis.org/A389713), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [473](https://www.erdosproblems.com/473) | no | proved | no | [A055265](https://oeis.org/A055265) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [474](https://www.erdosproblems.com/474) | $100 | not provable | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [475](https://www.erdosproblems.com/475) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
