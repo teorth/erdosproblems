@@ -12540,7 +12540,7 @@
   formalized:
     state: "no"
     last_update: "2026-01-11"
-  oeis: ["possible"]
+  oeis: ["A006577"]
   comments: "Collatz conjecture"
   tags: ["number theory"]
 
