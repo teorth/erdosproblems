@@ -4380,7 +4380,7 @@
 - number: "397"
   prize: "no"
   status:
-    state: "disproved"
+    state: "disproved (Lean)"
     last_update: "2026-01-10"
   oeis: ["N/A"]
   formalized:
