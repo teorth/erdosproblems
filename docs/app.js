@@ -233,12 +233,13 @@ function updateStats() {
         const start = filteredTotal === 0 ? 0 : ((currentPage - 1) * pageSize + 1);
         const end = filteredTotal === 0 ? 0 : Math.min(currentPage * pageSize, filteredTotal);
 
-        // Example: "Showing 201–300 of 1,742 (allProblems.length 2,100) problems"
-        // When no filters are active, filteredTotal === allProblems.length.
+        // N.B: total = allProblems.length i.e total number of problems
+        // Example: "Showing 201–300 of 1,742 (total 2,100) problems"
+        // When no filters are active, filteredTotal === total.
         if (filteredTotal > 0) {
-            showingCount.textContent = `Showing ${start.toLocaleString()}–${end.toLocaleString()} of ${filteredTotal.toLocaleString()} (allProblems.length ${allProblems.length.toLocaleString()}) problems`;
+            showingCount.textContent = `Showing ${start.toLocaleString()}–${end.toLocaleString()} of ${filteredTotal.toLocaleString()} (total ${allProblems.length.toLocaleString()}) problems`;
         } else {
-            showingCount.textContent = `Showing 0 of 0 (allProblems.length ${allProblems.length.toLocaleString()}) problems`;
+            showingCount.textContent = `Showing 0 of 0 (total ${allProblems.length.toLocaleString()}) problems`;
         }
     }
 }
