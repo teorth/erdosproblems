@@ -41,10 +41,10 @@ There are 1135 problems in total, of which
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - [311](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [281](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 340 distinct [OEIS](https://oeis.org/) sequences, with a total of 405 links created.
+- [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 341 distinct [OEIS](https://oeis.org/) sequences, with a total of 406 links created.
   - 56 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 263 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 262 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1185,5 +1185,5 @@ There are 1135 problems in total, of which
 | [1132](https://www.erdosproblems.com/1132) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1133](https://www.erdosproblems.com/1133) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1134](https://www.erdosproblems.com/1134) | £10 | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1135](https://www.erdosproblems.com/1135) | $500 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
+| [1135](https://www.erdosproblems.com/1135) | $500 | open | no | [A006370](https://oeis.org/A006370) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
 <!-- TABLE:END -->
