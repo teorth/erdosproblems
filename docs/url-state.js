@@ -60,6 +60,15 @@ function saveStateToURL(state) {
         params.set('tagSort', state.tagSort);
     }
 
+    // Pagination
+    if (state.page && state.page !== 1) {
+        params.set('page', String(state.page));
+    }
+
+    if (state.pageSize && state.pageSize !== 100) {
+        params.set('pageSize', String(state.pageSize));
+    }
+
     // Update URL without reload using History API
     const queryString = params.toString();
     const newURL = queryString
@@ -76,6 +85,12 @@ function saveStateToURL(state) {
 function loadStateFromURL() {
     const params = new URLSearchParams(window.location.search);
 
+    const pageRaw = params.get('page') || '1';
+    const page = /^[1-9]\d*$/.test(pageRaw) ? Number(pageRaw) : 1;
+
+    const pageSizeRaw = params.get('pageSize') || '100';
+    const pageSize = /^[1-9]\d*$/.test(pageSizeRaw) ? Number(pageSizeRaw) : 100;
+
     return {
         sortColumn: params.get('sort') || 'number',
         sortDirection: params.get('dir') || 'asc',
@@ -86,7 +101,9 @@ function loadStateFromURL() {
         oeisFilter: params.get('oeis') || '',
         selectedTags: params.get('tags') ? params.get('tags').split(',').filter(tag => tag.trim() !== '') : [],
         tagLogic: params.get('tagLogic') || 'any',
-        tagSort: params.get('tagSort') || 'count'
+        tagSort: params.get('tagSort') || 'count',
+        page,
+        pageSize
     };
 }
 
@@ -242,6 +259,8 @@ function getCurrentState() {
         oeisFilter: oeisFilter ? oeisFilter.value : '',
         selectedTags,
         tagLogic,
-        tagSort
+        tagSort,
+        page: (typeof currentPage !== 'undefined' && Number.isFinite(currentPage)) ? currentPage : 1,
+        pageSize: (typeof pageSize !== 'undefined' && Number.isFinite(pageSize)) ? pageSize : 100
     };
 }
