@@ -8,6 +8,94 @@ let allProblems = [];
 let filteredProblems = [];
 let currentSort = { column: 'number', direction: 'asc' };
 
+// Pagination
+const DEFAULT_PAGE_SIZE = 100;
+let currentPage = 1;
+let pageSize = DEFAULT_PAGE_SIZE;
+
+function getPageSizeFromUI() {
+    const input = document.getElementById('page-size');
+    if (!input) return pageSize;
+
+    // Keep the last valid value while the user is typing.
+    const value = input.value.trim();
+    if (!/^[1-9]\d*$/.test(value)) return pageSize;
+
+    // Regex guarantees a positive integer.
+    return Number(value);
+}
+
+function setPageSizeInUI(size) {
+    const input = document.getElementById('page-size');
+    if (!input) return;
+    input.value = String(size);
+}
+
+function resetToFirstPageAndUpdate() {
+    currentPage = 1;
+    updateTable();
+}
+
+function updatePaginationUI(totalPages) {
+    const info = document.getElementById('pagination-info');
+    const prevBtn = document.getElementById('pagination-prev');
+    const nextBtn = document.getElementById('pagination-next');
+
+    if (info) {
+        info.textContent = `Page ${currentPage.toLocaleString()} / ${totalPages.toLocaleString()}`;
+    }
+    if (prevBtn) {
+        prevBtn.disabled = currentPage <= 1;
+    }
+    if (nextBtn) {
+        nextBtn.disabled = currentPage >= totalPages;
+    }
+}
+
+function initializePaginationListeners() {
+    const prevBtn = document.getElementById('pagination-prev');
+    const nextBtn = document.getElementById('pagination-next');
+    const pageSizeInput = document.getElementById('page-size');
+
+    if (prevBtn) {
+        prevBtn.addEventListener('click', () => {
+            currentPage = Math.max(1, currentPage - 1);
+            updateTable();
+        });
+    }
+
+    if (nextBtn) {
+        nextBtn.addEventListener('click', () => {
+            currentPage += 1;
+            updateTable();
+        });
+    }
+
+    if (pageSizeInput) {
+        let inputTimeout;
+
+        const applyPageSize = () => {
+            const newSize = getPageSizeFromUI();
+            pageSize = newSize;
+            // Changing page size should reset to page 1
+            currentPage = 1;
+            updateTable(); // updateTable will save state to URL
+        };
+
+        // Update as the user types, but debounce so we don't re-render on every keystroke.
+        pageSizeInput.addEventListener('input', () => {
+            clearTimeout(inputTimeout);
+            inputTimeout = setTimeout(applyPageSize, 250);
+        });
+
+        // Commit immediately on blur/enter (change fires on commit)
+        pageSizeInput.addEventListener('change', () => {
+            clearTimeout(inputTimeout);
+            applyPageSize();
+        });
+    }
+}
+
 /**
  * Load problems from YAML file
  * @returns {Promise<Array<Object>>} Array of problem objects
@@ -101,7 +189,8 @@ function renderTable(problems) {
 
     if (problems.length === 0) {
         tableBody.innerHTML = '<tr><td colspan="7" class="loading-cell">No problems match the current filters.</td></tr>';
-        updateStats(0, allProblems.length);
+        // With pagination, show filtered vs total(allProblems.length) counts (range is empty here)
+        updateStats();
         return;
     }
 
@@ -131,18 +220,27 @@ function renderTable(problems) {
     tableBody.innerHTML = rows;
 
     // Update stats
-    updateStats(problems.length, allProblems.length);
+    updateStats();
 }
 
 /**
  * Update statistics display
- * @param {number} showing - Number of problems currently shown
- * @param {number} total - Total number of problems
  */
-function updateStats(showing, total) {
+function updateStats() {
     const showingCount = document.getElementById('showing-count');
     if (showingCount) {
-        showingCount.textContent = `Showing ${showing.toLocaleString()} of ${total.toLocaleString()} problems`;
+        const filteredTotal = Array.isArray(filteredProblems) ? filteredProblems.length : 0;
+        const start = filteredTotal === 0 ? 0 : ((currentPage - 1) * pageSize + 1);
+        const end = filteredTotal === 0 ? 0 : Math.min(currentPage * pageSize, filteredTotal);
+
+        // N.B: total = allProblems.length i.e total number of problems
+        // Example: "Showing 201–300 of 1,742 (total 2,100) problems"
+        // When no filters are active, filteredTotal === total.
+        if (filteredTotal > 0) {
+            showingCount.textContent = `Showing ${start.toLocaleString()}–${end.toLocaleString()} of ${filteredTotal.toLocaleString()} (total ${allProblems.length.toLocaleString()}) problems`;
+        } else {
+            showingCount.textContent = `Showing 0 of 0 (total ${allProblems.length.toLocaleString()}) problems`;
+        }
     }
 }
 
@@ -167,11 +265,11 @@ function handleSortClick(event) {
     // Update visual indicators
     updateSortIndicators(currentSort.column, currentSort.direction);
 
+    // Sorting should reset pagination
+    currentPage = 1;
+
     // Re-render table
     updateTable();
-
-    // Save state to URL
-    saveStateToURL(getCurrentState());
 }
 
 /**
@@ -193,6 +291,14 @@ function updateTable() {
 
     // Store filtered results
     filteredProblems = results;
+
+    // Pagination: slice the final, sorted results
+    pageSize = getPageSizeFromUI();
+    const totalPages = Math.max(1, Math.ceil(results.length / pageSize));
+    if (!Number.isFinite(currentPage) || currentPage < 1) currentPage = 1;
+    if (currentPage > totalPages) currentPage = totalPages;
+    const startIndex = (currentPage - 1) * pageSize;
+    const pagedResults = results.slice(startIndex, startIndex + pageSize);
 
     // Update tag and dropdown displays with filtered counts
     const nonTagFiltersActive = hasNonTagFilters();
@@ -216,7 +322,10 @@ function updateTable() {
     updateAllDropdownDisplays(allProblems, hasAnyFilters);
 
     // Render
-    renderTable(results);
+    renderTable(pagedResults);
+
+    // Update pagination controls
+    updatePaginationUI(totalPages);
 
     // Save state to URL
     saveStateToURL(getCurrentState());
@@ -263,7 +372,8 @@ async function initialize() {
     }
 
     // Set filter change handler FIRST (before creating any event listeners)
-    setFilterChangeHandler(updateTable);
+    // Any query change should reset pagination.
+    setFilterChangeHandler(resetToFirstPageAndUpdate);
 
     // Extract tag counts and tags
     const tagCounts = extractTagCounts(allProblems);
@@ -290,6 +400,11 @@ async function initialize() {
     currentSort.column = urlState.sortColumn;
     currentSort.direction = urlState.sortDirection;
 
+    // Restore pagination from URL
+    currentPage = urlState.page || 1;
+    pageSize = urlState.pageSize || DEFAULT_PAGE_SIZE;
+    setPageSizeInUI(pageSize);
+
     // Get initial tag sort preference from URL
     const initialTagSort = urlState.tagSort || 'count';
 
@@ -303,6 +418,7 @@ async function initialize() {
     // Initialize event listeners
     initializeSortListeners();
     initializeFilterListeners();
+    initializePaginationListeners();
 
     // Initial render
     updateTable();

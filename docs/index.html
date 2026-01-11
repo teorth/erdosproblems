@@ -129,6 +129,19 @@
             <span id="loading-indicator" class="loading">Loading data...</span>
         </div>
 
+        <div class="pagination-bar" aria-label="Pagination controls">
+            <div class="pagination-controls">
+                <button id="pagination-prev" class="pagination-btn" type="button">Prev</button>
+                <span id="pagination-info" class="pagination-info">Page 1 / 1</span>
+                <button id="pagination-next" class="pagination-btn" type="button">Next</button>
+            </div>
+
+            <div class="page-size-controls">
+                <label for="page-size" class="page-size-label">Per page:</label>
+                <input id="page-size" class="page-size-input" type="number" inputmode="numeric" min="1" step="1" value="100" />
+            </div>
+        </div>
+
         <div class="table-container">
             <table id="problems-table">
                 <thead>
