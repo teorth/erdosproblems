@@ -12521,3 +12521,27 @@
     last_update: "2026-01-01"
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
+
+- number: "1134"
+  prize: "£10"
+  status:
+    state: "disproved"
+    last_update: "2026-01-11"
+  formalized:
+    state: "no"
+    last_update: "2026-01-11"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1135"
+  prize: "$500"
+  status:
+    state: "open"
+    last_update: "2026-01-11"
+  formalized:
+    state: "no"
+    last_update: "2026-01-11"
+  oeis: ["possible"]
+  comments: "Collatz conjecture"
+  tags: ["number theory"]
+
