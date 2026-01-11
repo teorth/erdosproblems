@@ -23,11 +23,11 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1133 problems in total, of which
-- [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
+There are 1135 problems in total, of which
+- [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [280](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [23](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [106](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [107](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [21](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [58](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -37,14 +37,14 @@ There are 1133 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [636](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [309](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [281](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 340 distinct [OEIS](https://oeis.org/) sequences, with a total of 405 links created.
   - 56 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [301](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 261 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 263 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1184,4 +1184,6 @@ There are 1133 problems in total, of which
 | [1131](https://www.erdosproblems.com/1131) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1132](https://www.erdosproblems.com/1132) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1133](https://www.erdosproblems.com/1133) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1134](https://www.erdosproblems.com/1134) | £10 | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1135](https://www.erdosproblems.com/1135) | $500 | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
 <!-- TABLE:END -->
