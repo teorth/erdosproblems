@@ -40,7 +40,7 @@ There are 1135 problems in total, of which
 - [636](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
-- [310](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [311](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [281](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 340 distinct [OEIS](https://oeis.org/) sequences, with a total of 405 links created.
   - 56 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [303](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1121,7 +1121,7 @@ There are 1135 problems in total, of which
 | [1068](https://www.erdosproblems.com/1068) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1068.lean) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1069](https://www.erdosproblems.com/1069) | no | solved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1070](https://www.erdosproblems.com/1070) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [1071](https://www.erdosproblems.com/1071) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [1071](https://www.erdosproblems.com/1071) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1071.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1072](https://www.erdosproblems.com/1072) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1072.lean) | [A154554](https://oeis.org/A154554) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1073](https://www.erdosproblems.com/1073) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1073.lean) | [A256519](https://oeis.org/A256519) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1074](https://www.erdosproblems.com/1074) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1074.lean) | [A063980](https://oeis.org/A063980), [A064164](https://oeis.org/A064164) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
