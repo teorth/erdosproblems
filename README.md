@@ -27,8 +27,8 @@ There are 1133 problems in total, of which
 - [101](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [280](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [23](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [104](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [19](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+- [105](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+  - [20](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [58](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -37,7 +37,7 @@ There are 1133 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [308](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -255,7 +255,7 @@ There are 1133 problems in total, of which
 | [202](https://www.erdosproblems.com/202) | no | open | no | [A389975](https://oeis.org/A389975) | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [203](https://www.erdosproblems.com/203) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/203.lean) | N/A | [primes](https://www.erdosproblems.com/tags/primes), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [204](https://www.erdosproblems.com/204) | no | disproved | no | N/A | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
-| [205](https://www.erdosproblems.com/205) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [205](https://www.erdosproblems.com/205) | no | disproved (Lean) | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [206](https://www.erdosproblems.com/206) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [207](https://www.erdosproblems.com/207) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [208](https://www.erdosproblems.com/208) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/208.lean) | [A005117](https://oeis.org/A005117), [A076259](https://oeis.org/A076259) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
