@@ -40,7 +40,7 @@ There are 1135 problems in total, of which
 - [636](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
-- [312](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [313](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 341 distinct [OEIS](https://oeis.org/) sequences, with a total of 406 links created.
   - 56 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -159,7 +159,7 @@ There are 1135 problems in total, of which
 | [106](https://www.erdosproblems.com/106) | no | falsifiable | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [107](https://www.erdosproblems.com/107) | $500 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/107.lean) | [A000051](https://oeis.org/A000051) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) | 'Happy Ending' problem |
 | [108](https://www.erdosproblems.com/108) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/108.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
-| [109](https://www.erdosproblems.com/109) | no | proved | no | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | Erdős sumset conjecture |
+| [109](https://www.erdosproblems.com/109) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/109.lean) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | Erdős sumset conjecture |
 | [110](https://www.erdosproblems.com/110) | no | not provable | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
 | [111](https://www.erdosproblems.com/111) | no | open | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [112](https://www.erdosproblems.com/112) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
