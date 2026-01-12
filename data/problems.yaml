@@ -11723,8 +11723,8 @@
     state: "open"
     last_update: "2025-09-28"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-01-12"
   oeis: ["A110177", "possible"]
   tags: ["number theory"]
 
