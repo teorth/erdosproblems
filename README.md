@@ -41,8 +41,8 @@ There are 1135 problems in total, of which
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - [320](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 341 distinct [OEIS](https://oeis.org/) sequences, with a total of 406 links created.
-  - 56 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 343 distinct [OEIS](https://oeis.org/) sequences, with a total of 408 links created.
+  - 58 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 262 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
@@ -1157,7 +1157,7 @@ There are 1135 problems in total, of which
 | [1104](https://www.erdosproblems.com/1104) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1104.lean) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1105](https://www.erdosproblems.com/1105) | no | open | no | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1106](https://www.erdosproblems.com/1106) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1106.lean) | [A194259](https://oeis.org/A194259), [A194260](https://oeis.org/A194260) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1107](https://www.erdosproblems.com/1107) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1107.lean) | [A056828](https://oeis.org/A056828), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
+| [1107](https://www.erdosproblems.com/1107) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1107.lean) | [A056828](https://oeis.org/A056828), [A392342](https://oeis.org/A392342), [A392343](https://oeis.org/A392343), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [powerful](https://www.erdosproblems.com/tags/powerful) |  |
 | [1108](https://www.erdosproblems.com/1108) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1108.lean) | [A051761](https://oeis.org/A051761), [A115645](https://oeis.org/A115645), [A025494](https://oeis.org/A025494) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [1109](https://www.erdosproblems.com/1109) | no | open | no | [A392164](https://oeis.org/A392164), [A392165](https://oeis.org/A392165) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1110](https://www.erdosproblems.com/1110) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
