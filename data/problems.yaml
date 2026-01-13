@@ -12231,7 +12231,7 @@
   formalized:
     state: "yes"
     last_update: "2025-12-04"
-  oeis: ["A056828", "possible"]
+  oeis: ["A056828","A392342","A392343","possible"]
   tags: ["number theory", "powerful"]
 
 - number: "1108"
