@@ -11531,8 +11531,8 @@
 - number: "1044"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-09-15"
+    state: "proved"
+    last_update: "2026-01-14"
   formalized:
     state: "no"
     last_update: "2025-09-10"
