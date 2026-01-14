@@ -11531,7 +11531,7 @@
 - number: "1044"
   prize: "no"
   status:
-    state: "proved"
+    state: "solved"
     last_update: "2026-01-14"
   formalized:
     state: "no"
