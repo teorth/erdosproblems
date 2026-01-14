@@ -11790,8 +11790,8 @@
     state: "disproved"
     last_update: "2025-10-01"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-01-14"
   oeis: ["N/A"]
   tags: ["graph theory", "set theory"]
 
