@@ -41,7 +41,7 @@ There are 1135 problems in total, of which
 - 3 have ambiguous statements.
 - 1 have a literature review requested.
 - [320](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 343 distinct [OEIS](https://oeis.org/) sequences, with a total of 408 links created.
+- [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 344 distinct [OEIS](https://oeis.org/) sequences, with a total of 409 links created.
   - 58 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 262 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
@@ -1185,5 +1185,5 @@ There are 1135 problems in total, of which
 | [1132](https://www.erdosproblems.com/1132) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1133](https://www.erdosproblems.com/1133) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1134](https://www.erdosproblems.com/1134) | £10 | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1135](https://www.erdosproblems.com/1135) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1135.lean) | [A006370](https://oeis.org/A006370) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
+| [1135](https://www.erdosproblems.com/1135) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1135.lean) | [A006370](https://oeis.org/A006370), [A008908](https://oeis.org/A008908) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
 <!-- TABLE:END -->
