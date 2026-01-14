@@ -9589,7 +9589,7 @@
 - number: "868"
   prize: "no"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
