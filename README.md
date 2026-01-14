@@ -38,7 +38,7 @@ There are 1135 problems in total, of which
 - [31](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
 - [634](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
-- 3 have ambiguous statements.
+- 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [321](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 344 distinct [OEIS](https://oeis.org/) sequences, with a total of 409 links created.
@@ -510,7 +510,7 @@ There are 1135 problems in total, of which
 | [457](https://www.erdosproblems.com/457) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/457.lean) | [A391668](https://oeis.org/A391668) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [458](https://www.erdosproblems.com/458) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/458.lean) | [A056604](https://oeis.org/A056604) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [459](https://www.erdosproblems.com/459) | no | solved | no | [A289280](https://oeis.org/A289280) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [460](https://www.erdosproblems.com/460) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [460](https://www.erdosproblems.com/460) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) | ambiguous statement |
 | [461](https://www.erdosproblems.com/461) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [462](https://www.erdosproblems.com/462) | no | open | no | [A032742](https://oeis.org/A032742), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [463](https://www.erdosproblems.com/463) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/463.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
