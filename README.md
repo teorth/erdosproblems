@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1135 problems in total, of which
 - [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [282](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [24](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [25](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [108](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [21](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [58](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -274,7 +274,7 @@ There are 1135 problems in total, of which
 | [221](https://www.erdosproblems.com/221) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [222](https://www.erdosproblems.com/222) | no | open | no | [A256435](https://oeis.org/A256435) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [squares](https://www.erdosproblems.com/tags/squares) |  |
 | [223](https://www.erdosproblems.com/223) | no | solved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [224](https://www.erdosproblems.com/224) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [224](https://www.erdosproblems.com/224) | no | proved (Lean) | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [225](https://www.erdosproblems.com/225) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [226](https://www.erdosproblems.com/226) | no | proved (Lean) | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [227](https://www.erdosproblems.com/227) | no | disproved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
