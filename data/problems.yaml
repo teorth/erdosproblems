@@ -7280,8 +7280,8 @@
 - number: "659"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2026-01-12"
+    state: "proved (Lean)"
+    last_update: "2026-01-14"
   oeis: ["possible"]
   formalized:
     state: "yes"
