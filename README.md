@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1135 problems in total, of which
 - [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [282](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [26](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [27](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [108](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [21](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [59](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -340,7 +340,7 @@ There are 1135 problems in total, of which
 | [287](https://www.erdosproblems.com/287) | no | falsifiable | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [288](https://www.erdosproblems.com/288) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/288.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [289](https://www.erdosproblems.com/289) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/289.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
-| [290](https://www.erdosproblems.com/290) | no | proved | no | [A375081](https://oeis.org/A375081) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
+| [290](https://www.erdosproblems.com/290) | no | proved (Lean) | no | [A375081](https://oeis.org/A375081) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [291](https://www.erdosproblems.com/291) | no | open | no | [A110566](https://oeis.org/A110566) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [292](https://www.erdosproblems.com/292) | no | proved | no | [A092671](https://oeis.org/A092671) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [293](https://www.erdosproblems.com/293) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
