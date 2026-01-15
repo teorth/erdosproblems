@@ -3201,12 +3201,12 @@
 - number: "290"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["A375081"]
   formalized:
     state: "no"
-    last_update: "2025-08-31"
+    last_update: "2026-01-14"
   tags: ["number theory", "unit fractions"]
 
 - number: "291"
