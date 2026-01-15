@@ -40,7 +40,7 @@ There are 1135 problems in total, of which
 - [633](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [323](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [324](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 344 distinct [OEIS](https://oeis.org/) sequences, with a total of 409 links created.
   - 58 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -149,7 +149,7 @@ There are 1135 problems in total, of which
 | [96](https://www.erdosproblems.com/96) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [97](https://www.erdosproblems.com/97) | $100 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/97.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [98](https://www.erdosproblems.com/98) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [99](https://www.erdosproblems.com/99) | $100 | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [99](https://www.erdosproblems.com/99) | $100 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/99.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [100](https://www.erdosproblems.com/100) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [101](https://www.erdosproblems.com/101) | $100 | open | no | [A006065](https://oeis.org/A006065), possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [102](https://www.erdosproblems.com/102) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
