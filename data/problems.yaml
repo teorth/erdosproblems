@@ -4647,7 +4647,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A389544", "A390848"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
