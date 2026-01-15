@@ -41,8 +41,8 @@ There are 1135 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [324](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [282](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 344 distinct [OEIS](https://oeis.org/) sequences, with a total of 409 links created.
-  - 58 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [283](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 346 distinct [OEIS](https://oeis.org/) sequences, with a total of 411 links created.
+  - 60 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
   - 262 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
@@ -471,7 +471,7 @@ There are 1135 problems in total, of which
 | [418](https://www.erdosproblems.com/418) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/418.lean) | [A005278](https://oeis.org/A005278), [A263958](https://oeis.org/A263958) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [419](https://www.erdosproblems.com/419) | no | solved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [420](https://www.erdosproblems.com/420) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [421](https://www.erdosproblems.com/421) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [421](https://www.erdosproblems.com/421) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | [A389544](https://oeis.org/A389544), [A390848](https://oeis.org/A390848) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [422](https://www.erdosproblems.com/422) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/422.lean) | [A005185](https://oeis.org/A005185) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [423](https://www.erdosproblems.com/423) | no | open | no | [A005243](https://oeis.org/A005243) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [424](https://www.erdosproblems.com/424) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/424.lean) | [A005244](https://oeis.org/A005244) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
