@@ -41,10 +41,10 @@ There are 1135 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [324](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [284](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 347 distinct [OEIS](https://oeis.org/) sequences, with a total of 412 links created.
+- [285](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 347 distinct [OEIS](https://oeis.org/) sequences, with a total of 414 links created.
   - 61 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 261 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [301](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 260 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -910,7 +910,7 @@ There are 1135 problems in total, of which
 | [857](https://www.erdosproblems.com/857) | no | open | no | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | weak sunflower problem |
 | [858](https://www.erdosproblems.com/858) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 | [859](https://www.erdosproblems.com/859) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/859.lean) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [860](https://www.erdosproblems.com/860) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [860](https://www.erdosproblems.com/860) | no | open | no | [A048670](https://oeis.org/A048670), [A058989](https://oeis.org/A058989) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [861](https://www.erdosproblems.com/861) | no | solved | no | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022), [A143823](https://oeis.org/A143823) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [862](https://www.erdosproblems.com/862) | no | solved | no | [A382395](https://oeis.org/A382395) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [863](https://www.erdosproblems.com/863) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
