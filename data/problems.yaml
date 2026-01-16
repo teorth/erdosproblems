@@ -6296,8 +6296,8 @@
 - number: "570"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-01-16"
   oeis: ["N/A"]
   formalized:
     state: "no"
