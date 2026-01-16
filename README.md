@@ -41,10 +41,10 @@ There are 1135 problems in total, of which
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [324](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [283](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 346 distinct [OEIS](https://oeis.org/) sequences, with a total of 411 links created.
-  - 60 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [284](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 347 distinct [OEIS](https://oeis.org/) sequences, with a total of 412 links created.
+  - 61 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [302](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 262 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 261 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -743,7 +743,7 @@ There are 1135 problems in total, of which
 | [690](https://www.erdosproblems.com/690) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [691](https://www.erdosproblems.com/691) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [692](https://www.erdosproblems.com/692) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
-| [693](https://www.erdosproblems.com/693) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [693](https://www.erdosproblems.com/693) | no | open | no | [A391118](https://oeis.org/A391118), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [694](https://www.erdosproblems.com/694) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/694.lean) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [695](https://www.erdosproblems.com/695) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/695.lean) | [A061092](https://oeis.org/A061092) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [696](https://www.erdosproblems.com/696) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
