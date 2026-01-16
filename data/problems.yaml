@@ -7712,8 +7712,8 @@
 - number: "698"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-01-16"
   oeis: ["possible"]
   formalized:
     state: "no"
