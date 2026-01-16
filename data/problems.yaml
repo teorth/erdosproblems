@@ -11487,12 +11487,17 @@
 - number: "1040"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-09-15"
+    state: "solved"
+    last_update: "2025-03"
   formalized:
     state: "no"
     last_update: "2025-09-10"
   oeis: ["N/A"]
+  comments: >-
+    Solved by Krishnapur, Lundberg, and Ramachandran (2025) [arXiv:2503.18270].
+    They proved that for compact sets K with unit capacity, the minimal
+    lemniscate area converges to zero. A scaling argument extends this to
+    capacity > 1. Combined with Erdős-Netanyahu (1973), μ(F) = 0 iff ρ(F) ≥ 1.
   tags: ["analysis"]
 
 - number: "1041"
