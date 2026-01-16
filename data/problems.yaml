@@ -1033,8 +1033,8 @@
 - number: "94"
   prize: "£25"
   status:
-    state: "proved"
-    last_update: "2025-12-05"
+    state: "proved (Lean)"
+    last_update: "2026-01-15"
   oeis: ["A387858"]
   formalized:
     state: "no"
