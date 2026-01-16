@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1135 problems in total, of which
 - [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [282](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [27](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [28](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [108](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [21](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [59](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -144,7 +144,7 @@ There are 1135 problems in total, of which
 | [91](https://www.erdosproblems.com/91) | no | open | no | [A186704](https://oeis.org/A186704), possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [92](https://www.erdosproblems.com/92) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/92.lean) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [93](https://www.erdosproblems.com/93) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [94](https://www.erdosproblems.com/94) | £25 | proved | no | [A387858](https://oeis.org/A387858) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [94](https://www.erdosproblems.com/94) | £25 | proved (Lean) | no | [A387858](https://oeis.org/A387858) | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [95](https://www.erdosproblems.com/95) | $500 | proved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [96](https://www.erdosproblems.com/96) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [97](https://www.erdosproblems.com/97) | $100 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/97.lean) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [convex](https://www.erdosproblems.com/tags/convex) |  |
