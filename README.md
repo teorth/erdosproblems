@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1135 problems in total, of which
 - [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [283](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [286](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [29](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [108](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [21](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1135 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [633](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [630](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [324](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -641,7 +641,7 @@ There are 1135 problems in total, of which
 | [588](https://www.erdosproblems.com/588) | $100 | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [589](https://www.erdosproblems.com/589) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [590](https://www.erdosproblems.com/590) | $250 | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/590.lean) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [591](https://www.erdosproblems.com/591) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/591.lean) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [591](https://www.erdosproblems.com/591) | $250 | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/591.lean) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [592](https://www.erdosproblems.com/592) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/592.lean) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [593](https://www.erdosproblems.com/593) | $500 | open | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [594](https://www.erdosproblems.com/594) | no | proved | no | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
@@ -1179,8 +1179,8 @@ There are 1135 problems in total, of which
 | [1126](https://www.erdosproblems.com/1126) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1127](https://www.erdosproblems.com/1127) | no | independent | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [1128](https://www.erdosproblems.com/1128) | $50 | disproved | no | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
-| [1129](https://www.erdosproblems.com/1129) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
-| [1130](https://www.erdosproblems.com/1130) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1129](https://www.erdosproblems.com/1129) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1130](https://www.erdosproblems.com/1130) | no | proved | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1131](https://www.erdosproblems.com/1131) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1132](https://www.erdosproblems.com/1132) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1133](https://www.erdosproblems.com/1133) | no | open | no | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
