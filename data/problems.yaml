@@ -6527,7 +6527,7 @@
 - number: "591"
   prize: "$250"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -12470,7 +12470,7 @@
 - number: "1129"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2026-01-01"
   formalized:
     state: "no"
@@ -12481,7 +12481,7 @@
 - number: "1130"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2026-01-01"
   formalized:
     state: "no"
