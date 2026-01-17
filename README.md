@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1135 problems in total, of which
 - [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [286](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [287](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [29](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [108](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [21](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1135 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [630](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [629](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [324](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -331,7 +331,7 @@ There are 1135 problems in total, of which
 | [278](https://www.erdosproblems.com/278) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [279](https://www.erdosproblems.com/279) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [280](https://www.erdosproblems.com/280) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
-| [281](https://www.erdosproblems.com/281) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
+| [281](https://www.erdosproblems.com/281) | no | proved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [282](https://www.erdosproblems.com/282) | no | open | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [283](https://www.erdosproblems.com/283) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/283.lean) | [A380791](https://oeis.org/A380791) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [284](https://www.erdosproblems.com/284) | no | proved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
