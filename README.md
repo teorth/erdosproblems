@@ -40,7 +40,7 @@ There are 1135 problems in total, of which
 - [629](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
-- [324](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [325](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [285](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 347 distinct [OEIS](https://oeis.org/) sequences, with a total of 414 links created.
   - 61 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [301](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -254,7 +254,7 @@ There are 1135 problems in total, of which
 | [201](https://www.erdosproblems.com/201) | no | open | no | [A003002](https://oeis.org/A003002), [A003003](https://oeis.org/A003003), [A003004](https://oeis.org/A003004), [A003005](https://oeis.org/A003005), possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions) |  |
 | [202](https://www.erdosproblems.com/202) | no | open | no | [A389975](https://oeis.org/A389975) | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [203](https://www.erdosproblems.com/203) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/203.lean) | N/A | [primes](https://www.erdosproblems.com/tags/primes), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
-| [204](https://www.erdosproblems.com/204) | no | disproved | no | N/A | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
+| [204](https://www.erdosproblems.com/204) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/204.lean) | N/A | [covering systems](https://www.erdosproblems.com/tags/covering%20systems) |  |
 | [205](https://www.erdosproblems.com/205) | no | disproved (Lean) | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [206](https://www.erdosproblems.com/206) | no | disproved | no | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [unit fractions](https://www.erdosproblems.com/tags/unit%20fractions) |  |
 | [207](https://www.erdosproblems.com/207) | no | proved | no | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
