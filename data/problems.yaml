@@ -3102,8 +3102,8 @@
 - number: "281"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-01-17"
   oeis: ["N/A"]
   formalized:
     state: "no"
