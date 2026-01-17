@@ -2255,8 +2255,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-01-17"
   tags: ["covering systems"]
 
 - number: "205"
@@ -7659,7 +7659,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A391118","possible"]
+  oeis: ["A391118", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
