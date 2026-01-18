@@ -38,7 +38,7 @@ There are 1135 problems in total, of which
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
 - [628](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
-- 4 have ambiguous statements.
+- 5 have ambiguous statements.
 - 1 have a literature review requested.
 - [332](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [285](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 348 distinct [OEIS](https://oeis.org/) sequences, with a total of 415 links created.
@@ -179,7 +179,7 @@ There are 1135 problems in total, of which
 | [126](https://www.erdosproblems.com/126) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/126.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=126) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [127](https://www.erdosproblems.com/127) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=127) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [128](https://www.erdosproblems.com/128) | $250 | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/128.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=128) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [129](https://www.erdosproblems.com/129) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=129) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [129](https://www.erdosproblems.com/129) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=129) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) | ambiguous statement |
 | [130](https://www.erdosproblems.com/130) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=130) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [131](https://www.erdosproblems.com/131) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=131) | [A068063](https://oeis.org/A068063) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [132](https://www.erdosproblems.com/132) | $100 | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=132) | N/A | [distances](https://www.erdosproblems.com/tags/distances) |  |
