@@ -8034,7 +8034,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A002503", "A343507"]
+  oeis: ["A002503", "A343507", "A389396"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
