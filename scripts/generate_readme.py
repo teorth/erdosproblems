@@ -38,6 +38,9 @@ def formalized_link(number:str, code: str) -> str:
     else:
         return code
 
+def ai_attempts_link(number: str) -> str:
+    return md_link("view", f"https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id={number}")
+
 def filter_link(count: int, param: str, value: str) -> str:
     """Create a link to the interactive table with a filter applied."""
     if count == 0:
@@ -288,7 +291,7 @@ def count_review(rows):
 
 
 def build_table(rows):
-    header = "| # | Prize | Status | Formalized | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|"
+    header = "| # | Prize | Status | Formalized | AI Attempts | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|---|"
     lines = []
     lines.append(f"There are {len(rows)} problems in total, of which")
     lines.append(f"- {filter_link(count_prize(rows), 'prize', 'yes')} are attached to a monetary prize.")
@@ -323,8 +326,9 @@ def build_table(rows):
         rid = num_link(r["number"])
         prize = r.get("prize", "?")
         formalized = formalized_link(r["number"], r.get("formalized", {}).get("state", "?"))
+        ai_attempts = ai_attempts_link(r["number"])
         comments = r.get("comments", "")
-        lines.append(f"| {rid} | {prize} | {status} | {formalized} | {oeis} | {tags} | {comments} |")
+        lines.append(f"| {rid} | {prize} | {status} | {formalized} | {ai_attempts} | {oeis} | {tags} | {comments} |")
     return "\n".join(lines)
 
 def insert_between_markers(content, payload):
