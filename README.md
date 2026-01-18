@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1135 problems in total, of which
 - [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [287](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [288](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [30](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [108](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [21](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1135 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [629](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [628](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 4 have ambiguous statements.
 - 1 have a literature review requested.
 - [327](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -702,7 +702,7 @@ There are 1135 problems in total, of which
 | [649](https://www.erdosproblems.com/649) | no | disproved | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [650](https://www.erdosproblems.com/650) | no | open | no | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [651](https://www.erdosproblems.com/651) | no | disproved | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
-| [652](https://www.erdosproblems.com/652) | no | open | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [652](https://www.erdosproblems.com/652) | no | proved | no | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [653](https://www.erdosproblems.com/653) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [654](https://www.erdosproblems.com/654) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [655](https://www.erdosproblems.com/655) | no | open | no | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
