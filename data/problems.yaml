@@ -11125,8 +11125,8 @@
 - number: "1007"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-09-09"
+    state: "solved (Lean)"
+    last_update: "2026-01-19"
   formalized:
     state: "no"
     last_update: "2025-09-09"
