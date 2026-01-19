@@ -92,7 +92,9 @@ function getColumnValue(problem, column) {
             return problem.comments || '';
             
         case 'ai_attempts':
-            return problem.number || '';
+            const state = (problem.status && problem.status.state) ? problem.status.state.toLowerCase() : '';
+            const eligibleStates = ['open', 'verifiable', 'independent', 'falsifiable'];
+            return eligibleStates.includes(state) ? 'yes' : 'add';
             
         default:
             return '';
