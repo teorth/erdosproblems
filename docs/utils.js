@@ -49,6 +49,20 @@ function renderFormalizedLink(number, state) {
 }
 
 /**
+ * Render AI Attempts link based on problem status
+ * @param {string} number - Problem number
+ * @param {Object} status - Status object with state property
+ * @returns {string} HTML anchor tag with "yes" or "add" text
+ */
+function renderAIAttempts(number, status) {
+    const url = `https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=${number}`;
+    const state = (status && status.state) ? status.state.toLowerCase() : '';
+    const eligibleStates = ['open', 'verifiable', 'independent', 'falsifiable'];
+    const linkText = eligibleStates.includes(state) ? 'yes' : 'add';
+    return `<a href="${url}" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
+}
+
+/**
  * Extract column value from problem object
  * @param {Object} problem - Problem data object
  * @param {string} column - Column name
@@ -76,7 +90,10 @@ function getColumnValue(problem, column) {
 
         case 'comments':
             return problem.comments || '';
-
+            
+        case 'ai_attempts':
+            return problem.number || '';
+            
         default:
             return '';
     }
