@@ -30,7 +30,7 @@ There are 1135 problems in total, of which
 - [109](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [22](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [59](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
-  - [2](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
+  - [3](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 2 are known to be independent of the ZFC axioms of mathematics. (independent)
@@ -1057,7 +1057,7 @@ There are 1135 problems in total, of which
 | [1004](https://www.erdosproblems.com/1004) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1004.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1004) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1005](https://www.erdosproblems.com/1005) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1005) | [A386893](https://oeis.org/A386893) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1006](https://www.erdosproblems.com/1006) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1006) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [cycles](https://www.erdosproblems.com/tags/cycles) |  |
-| [1007](https://www.erdosproblems.com/1007) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1007) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1007](https://www.erdosproblems.com/1007) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1007) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1008](https://www.erdosproblems.com/1008) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1008) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1009](https://www.erdosproblems.com/1009) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1009) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1010](https://www.erdosproblems.com/1010) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1010) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
