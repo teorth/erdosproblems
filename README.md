@@ -30,7 +30,7 @@ There are 1135 problems in total, of which
 - [109](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [22](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [59](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
-  - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
+  - [2](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 2 are known to be independent of the ZFC axioms of mathematics. (independent)
@@ -1078,7 +1078,7 @@ There are 1135 problems in total, of which
 | [1025](https://www.erdosproblems.com/1025) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1025) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1026](https://www.erdosproblems.com/1026) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1026) | [A391431](https://oeis.org/A391431), [A391490](https://oeis.org/A391490) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1027](https://www.erdosproblems.com/1027) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1027) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [1028](https://www.erdosproblems.com/1028) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1028) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
+| [1028](https://www.erdosproblems.com/1028) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1028) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [1029](https://www.erdosproblems.com/1029) | $100 | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1029) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1030](https://www.erdosproblems.com/1030) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1030) | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1031](https://www.erdosproblems.com/1031) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1031) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
