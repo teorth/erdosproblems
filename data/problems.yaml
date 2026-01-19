@@ -3103,8 +3103,8 @@
 - number: "281"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2026-01-17"
+    state: "proved (Lean)"
+    last_update: "2026-01-19"
   oeis: ["N/A"]
   formalized:
     state: "no"
