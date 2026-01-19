@@ -27,7 +27,7 @@ There are 1135 problems in total, of which
 - [103](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [288](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [30](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [108](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [109](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [22](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [59](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [1](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1135 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [628](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [627](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 5 have ambiguous statements.
 - 1 have a literature review requested.
 - [332](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -897,7 +897,7 @@ There are 1135 problems in total, of which
 | [844](https://www.erdosproblems.com/844) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=844) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [845](https://www.erdosproblems.com/845) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/845.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=845) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [846](https://www.erdosproblems.com/846) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/846.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=846) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [847](https://www.erdosproblems.com/847) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=847) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [847](https://www.erdosproblems.com/847) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=847) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [848](https://www.erdosproblems.com/848) | no | decidable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=848) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [849](https://www.erdosproblems.com/849) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/849.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=849) | [A003016](https://oeis.org/A003016), [A003015](https://oeis.org/A003015), [A059233](https://oeis.org/A059233), [A098565](https://oeis.org/A098565), [A090162](https://oeis.org/A090162), [A180058](https://oeis.org/A180058), [A182237](https://oeis.org/A182237) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) | Singmaster's conjecture |
 | [850](https://www.erdosproblems.com/850) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/850.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=850) | [A343101](https://oeis.org/A343101) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | Erdős-Woods conjecture |
