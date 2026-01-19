@@ -58,7 +58,7 @@ function renderAIAttempts(number, status) {
     const url = `https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=${number}`;
     const state = (status && status.state) ? status.state.toLowerCase() : '';
     const eligibleStates = ['open', 'verifiable', 'independent', 'falsifiable'];
-    const linkText = eligibleStates.includes(state) ? 'yes' : 'add';
+    const linkText = eligibleStates.includes(state) ? 'view' : 'add';
     return `<a href="${url}" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
 }
 
@@ -92,9 +92,9 @@ function getColumnValue(problem, column) {
             return problem.comments || '';
             
         case 'ai_attempts':
-            const state = (problem.status && problem.status.state) ? problem.status.state.toLowerCase() : '';
-            const eligibleStates = ['open', 'verifiable', 'independent', 'falsifiable'];
-            return eligibleStates.includes(state) ? 'yes' : 'add';
+            const aiState = (problem.status && problem.status.state) ? problem.status.state.toLowerCase() : '';
+            const aiEligibleStates = ['open', 'verifiable', 'independent', 'falsifiable'];
+            return aiEligibleStates.includes(aiState) ? 'view' : 'add';
             
         default:
             return '';
