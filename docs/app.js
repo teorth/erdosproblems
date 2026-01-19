@@ -131,7 +131,7 @@ async function loadProblems() {
 function showError(message) {
     const tableBody = document.getElementById('table-body');
     if (tableBody) {
-        tableBody.innerHTML = `<tr><td colspan="7" class="loading-cell" style="color: red;">${escapeHtml(message)}</td></tr>`;
+        tableBody.innerHTML = `<tr><td colspan="8" class="loading-cell" style="color: red;">${escapeHtml(message)}</td></tr>`;
     }
 }
 
@@ -188,7 +188,7 @@ function renderTable(problems) {
     if (!tableBody) return;
 
     if (problems.length === 0) {
-        tableBody.innerHTML = '<tr><td colspan="7" class="loading-cell">No problems match the current filters.</td></tr>';
+        tableBody.innerHTML = '<tr><td colspan="8" class="loading-cell">No problems match the current filters.</td></tr>';
         // With pagination, show filtered vs total(allProblems.length) counts (range is empty here)
         updateStats();
         return;
@@ -210,6 +210,7 @@ function renderTable(problems) {
                 <td>${renderPrize(prize)}</td>
                 <td>${renderStatus(status)}</td>
                 <td>${renderFormalizedLink(number, formalized.state)}</td>
+                <td>${renderAIAttempts(number, status)}</td>
                 <td>${renderOEISLinks(oeis)}</td>
                 <td>${renderTags(tags)}</td>
                 <td>${renderComments(comments)}</td>
