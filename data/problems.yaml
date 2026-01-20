@@ -3657,8 +3657,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-01-20"
   tags: ["number theory", "additive combinatorics"]
 
 - number: "332"
