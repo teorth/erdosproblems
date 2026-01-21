@@ -23,9 +23,9 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1135 problems in total, of which
+There are 1136 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [289](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [290](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [33](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [109](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [22](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -1186,4 +1186,5 @@ There are 1135 problems in total, of which
 | [1133](https://www.erdosproblems.com/1133) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1133) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1134](https://www.erdosproblems.com/1134) | £10 | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1134) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1135](https://www.erdosproblems.com/1135) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1135.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1135) | [A006370](https://oeis.org/A006370), [A008908](https://oeis.org/A008908) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
+| [1138](https://www.erdosproblems.com/1138) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1138) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 <!-- TABLE:END -->
