@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1135 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [288](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [289](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [32](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [109](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [22](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1135 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [627](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [626](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 6 have ambiguous statements.
 - 1 have a literature review requested.
 - [337](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1071,7 +1071,7 @@ There are 1135 problems in total, of which
 | [1018](https://www.erdosproblems.com/1018) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1018) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
 | [1019](https://www.erdosproblems.com/1019) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1019) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [planar graphs](https://www.erdosproblems.com/tags/planar%20graphs) |  |
 | [1020](https://www.erdosproblems.com/1020) | no | falsifiable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1020) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) | Erdős matching conjecture |
-| [1021](https://www.erdosproblems.com/1021) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1021) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1021](https://www.erdosproblems.com/1021) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1021) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1022](https://www.erdosproblems.com/1022) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1022) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) | literature review sought |
 | [1023](https://www.erdosproblems.com/1023) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1023) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1024](https://www.erdosproblems.com/1024) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1024) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
