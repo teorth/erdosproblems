@@ -11566,8 +11566,8 @@
 - number: "1047"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-09-15"
+    state: "disproved (Lean)"
+    last_update: "2026-01-21"
   formalized:
     state: "no"
     last_update: "2025-09-10"
