@@ -11445,7 +11445,7 @@
 - number: "1036"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-09-13"
   formalized:
     state: "no"
