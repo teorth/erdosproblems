@@ -27,7 +27,7 @@ There are 1136 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [292](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [34](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [109](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [110](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [23](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [59](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [4](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1136 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [624](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [623](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 6 have ambiguous statements.
 - 1 have a literature review requested.
 - [341](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -593,7 +593,7 @@ There are 1136 problems in total, of which
 | [540](https://www.erdosproblems.com/540) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=540) | [A034463](https://oeis.org/A034463) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [541](https://www.erdosproblems.com/541) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/541.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=541) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [542](https://www.erdosproblems.com/542) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=542) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [543](https://www.erdosproblems.com/543) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=543) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
+| [543](https://www.erdosproblems.com/543) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=543) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [544](https://www.erdosproblems.com/544) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=544) | [A000791](https://oeis.org/A000791) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [545](https://www.erdosproblems.com/545) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=545) | [A059442](https://oeis.org/A059442), possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [546](https://www.erdosproblems.com/546) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=546) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
