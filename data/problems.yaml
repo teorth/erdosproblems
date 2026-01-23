@@ -12547,7 +12547,7 @@
   comments: "Collatz conjecture"
   tags: ["number theory"]
 
-- number: "1138"
+- number: "1136"
   prize: "no"
   status:
     state: "proved"
