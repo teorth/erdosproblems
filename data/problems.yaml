@@ -6000,8 +6000,8 @@
 - number: "543"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-01-23"
   oeis: ["possible"]
   formalized:
     state: "no"
