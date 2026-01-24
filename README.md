@@ -40,7 +40,7 @@ There are 1177 problems in total, of which
 - [658](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
-- [343](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [344](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [288](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 350 distinct [OEIS](https://oeis.org/) sequences, with a total of 418 links created.
   - 62 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [310](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -667,7 +667,7 @@ There are 1177 problems in total, of which
 | [614](https://www.erdosproblems.com/614) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=614) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [615](https://www.erdosproblems.com/615) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=615) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [616](https://www.erdosproblems.com/616) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=616) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [617](https://www.erdosproblems.com/617) | no | falsifiable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=617) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [617](https://www.erdosproblems.com/617) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/617.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=617) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [618](https://www.erdosproblems.com/618) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=618) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [619](https://www.erdosproblems.com/619) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=619) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [620](https://www.erdosproblems.com/620) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=620) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) | Erdős-Rogers problem |
