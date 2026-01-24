@@ -12558,3 +12558,461 @@
   oeis: ["N/A"]
   tags: ["number theory"]
 
+- number: "1137"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["number theory", "primes"]
+
+- number: "1138"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["number theory", "primes"]
+
+- number: "1139"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["number theory", "primes"]
+
+- number: "1140"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1141"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["A214583"]
+  tags: ["number theory", "primes"]
+
+- number: "1142"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["A039669"]
+  tags: ["number theory", "primes"]
+
+- number: "1143"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["number theory", "primes"]
+
+- number: "1144"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["number theory", "probability"]
+
+- number: "1145"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["additive combinatorics", "additive basis"]
+
+- number: "1146"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["number theory"]
+
+- number: "1147"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["irrational", "additive basis"]
+
+- number: "1148"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["number theory"]
+
+- number: "1149"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["number theory"]
+
+- number: "1150"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1151"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1152"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1153"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["analysis", "polynomials"]
+
+- number: "1154"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1155"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["graph theory"]
+
+- number: "1156"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["graph theory", "chromatic number"]
+
+- number: "1157"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["hypergraphs", "turan number"]
+
+- number: "1158"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["hypergraphs", "turan number"]
+
+- number: "1159"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["combinatorics"]
+
+- number: "1160"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["group theory"]
+
+- number: "1161"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["group theory"]
+
+- number: "1162"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["group theory"]
+
+- number: "1163"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  comments: "ambiguous statement"
+  tags: ["group theory"]
+
+- number: "1164"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["probability"]
+
+- number: "1165"
+  prize: "no"
+  status:
+    state: "solved"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["probability"]
+
+- number: "1166"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["possible"]
+  tags: ["probability"]
+
+- number: "1167"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "probability"]
+
+- number: "1168"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "ramsey theory"]
+
+- number: "1169"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "ramsey theory"]
+
+- number: "1170"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "ramsey theory"]
+
+- number: "1171"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "ramsey theory"]
+
+- number: "1172"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "ramsey theory"]
+
+- number: "1173"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "combinatorics"]
+
+- number: "1174"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "ramsey theory"]
+
+- number: "1175"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "chromatic number"]
+
+- number: "1176"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "chromatic number"]
+
+- number: "1177"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-23"
+  formalized:
+    state: "no"
+    last_update: "2026-01-23"
+  oeis: ["N/A"]
+  tags: ["set theory", "chromatic number", "hypergraphs"]
+
+
+
+
+
+
+
