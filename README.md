@@ -23,13 +23,13 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1136 problems in total, of which
+There are 1177 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [292](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [295](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [34](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [110](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [23](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [59](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- [60](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [4](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 0 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -37,14 +37,14 @@ There are 1136 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [623](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
-- 6 have ambiguous statements.
+- [660](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- 7 have ambiguous statements.
 - 1 have a literature review requested.
 - [343](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [285](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 348 distinct [OEIS](https://oeis.org/) sequences, with a total of 415 links created.
+- [287](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 349 distinct [OEIS](https://oeis.org/) sequences, with a total of 417 links created.
   - 62 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [301](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 260 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [311](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 270 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1187,4 +1187,45 @@ There are 1136 problems in total, of which
 | [1134](https://www.erdosproblems.com/1134) | £10 | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1134) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1135](https://www.erdosproblems.com/1135) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1135.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1135) | [A006370](https://oeis.org/A006370), [A008908](https://oeis.org/A008908) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
 | [1136](https://www.erdosproblems.com/1136) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1136) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1137](https://www.erdosproblems.com/1137) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1137) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1138](https://www.erdosproblems.com/1138) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1138) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1139](https://www.erdosproblems.com/1139) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1139) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1140](https://www.erdosproblems.com/1140) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1140) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1141](https://www.erdosproblems.com/1141) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1141) | [A214583](https://oeis.org/A214583) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1142](https://www.erdosproblems.com/1142) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1142) | [A039669](https://oeis.org/A039669) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1143](https://www.erdosproblems.com/1143) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1143) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1144](https://www.erdosproblems.com/1144) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1144) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [1145](https://www.erdosproblems.com/1145) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1145) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
+| [1146](https://www.erdosproblems.com/1146) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1146) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1147](https://www.erdosproblems.com/1147) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1147) | N/A | [irrational](https://www.erdosproblems.com/tags/irrational), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
+| [1148](https://www.erdosproblems.com/1148) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1148) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1149](https://www.erdosproblems.com/1149) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1149) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1150](https://www.erdosproblems.com/1150) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1150) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1151](https://www.erdosproblems.com/1151) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1151) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1152](https://www.erdosproblems.com/1152) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1152) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1153](https://www.erdosproblems.com/1153) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1153) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
+| [1154](https://www.erdosproblems.com/1154) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1154) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1155](https://www.erdosproblems.com/1155) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1155) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [1156](https://www.erdosproblems.com/1156) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1156) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [1157](https://www.erdosproblems.com/1157) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1157) | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
+| [1158](https://www.erdosproblems.com/1158) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1158) | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
+| [1159](https://www.erdosproblems.com/1159) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1159) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [1160](https://www.erdosproblems.com/1160) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1160) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
+| [1161](https://www.erdosproblems.com/1161) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1161) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
+| [1162](https://www.erdosproblems.com/1162) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1162) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
+| [1163](https://www.erdosproblems.com/1163) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1163) | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory) | ambiguous statement |
+| [1164](https://www.erdosproblems.com/1164) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1164) | N/A | [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [1165](https://www.erdosproblems.com/1165) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1165) | N/A | [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [1166](https://www.erdosproblems.com/1166) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1166) | possible | [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [1167](https://www.erdosproblems.com/1167) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1167) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [1168](https://www.erdosproblems.com/1168) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1168) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1169](https://www.erdosproblems.com/1169) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1169) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1170](https://www.erdosproblems.com/1170) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1170) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1171](https://www.erdosproblems.com/1171) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1171) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1172](https://www.erdosproblems.com/1172) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1172) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1173](https://www.erdosproblems.com/1173) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1173) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [1174](https://www.erdosproblems.com/1174) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1174) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1175](https://www.erdosproblems.com/1175) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1175) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [1176](https://www.erdosproblems.com/1176) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1176) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
+| [1177](https://www.erdosproblems.com/1177) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1177) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 <!-- TABLE:END -->
