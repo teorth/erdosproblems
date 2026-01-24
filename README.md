@@ -41,10 +41,10 @@ There are 1177 problems in total, of which
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
 - [343](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [287](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 349 distinct [OEIS](https://oeis.org/) sequences, with a total of 417 links created.
+- [288](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 350 distinct [OEIS](https://oeis.org/) sequences, with a total of 418 links created.
   - 62 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [311](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 270 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [310](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 269 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1210,7 +1210,7 @@ There are 1177 problems in total, of which
 | [1157](https://www.erdosproblems.com/1157) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1157) | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [1158](https://www.erdosproblems.com/1158) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1158) | possible | [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [1159](https://www.erdosproblems.com/1159) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1159) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [1160](https://www.erdosproblems.com/1160) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1160) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
+| [1160](https://www.erdosproblems.com/1160) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1160) | [A000001](https://oeis.org/A000001) | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [1161](https://www.erdosproblems.com/1161) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1161) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [1162](https://www.erdosproblems.com/1162) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1162) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [1163](https://www.erdosproblems.com/1163) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1163) | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory) | ambiguous statement |
