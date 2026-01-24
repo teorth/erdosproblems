@@ -12748,7 +12748,7 @@
 - number: "1154"
   prize: "no"
   status:
-    state: "open"
+    state: "not disprovable"
     last_update: "2026-01-23"
   formalized:
     state: "no"
