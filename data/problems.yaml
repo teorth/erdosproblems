@@ -12594,8 +12594,8 @@
 - number: "1140"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "disproved"
+    last_update: "2026-01-24"
   formalized:
     state: "no"
     last_update: "2026-01-23"
