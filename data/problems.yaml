@@ -11849,7 +11849,7 @@
   formalized:
     state: "yes"
     last_update: "2025-12-17"
-  oeis: ["A154554"]
+  oeis: ["A073944", "A072937", "A154554"]
   tags: ["number theory"]
 
 - number: "1073"
