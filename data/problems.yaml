@@ -12566,7 +12566,7 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
-  oeis: ["N/A"]
+  oeis: ["A083550","A005250"]
   tags: ["number theory", "primes"]
 
 - number: "1138"
@@ -13010,7 +13010,16 @@
   oeis: ["N/A"]
   tags: ["set theory", "chromatic number", "hypergraphs"]
 
-
+- number: "1178"
+  prize: "no"
+  status:
+    state: "open"
+    last_update: "2026-01-25"
+  formalized:
+    state: "no"
+    last_update: "2026-01-25"
+  oeis: ["N/A"]
+  tags: ["graph theory", "hypergraphs"]
 
 
 
