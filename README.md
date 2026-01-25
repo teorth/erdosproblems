@@ -40,7 +40,7 @@ There are 1177 problems in total, of which
 - [657](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
-- [344](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [345](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [288](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 350 distinct [OEIS](https://oeis.org/) sequences, with a total of 418 links created.
   - 62 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [310](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -313,7 +313,7 @@ There are 1177 problems in total, of which
 | [260](https://www.erdosproblems.com/260) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=260) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [261](https://www.erdosproblems.com/261) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=261) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [262](https://www.erdosproblems.com/262) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=262) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [263](https://www.erdosproblems.com/263) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=263) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [263](https://www.erdosproblems.com/263) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/263.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=263) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [264](https://www.erdosproblems.com/264) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/264.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=264) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [265](https://www.erdosproblems.com/265) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=265) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [266](https://www.erdosproblems.com/266) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/266.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=266) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
