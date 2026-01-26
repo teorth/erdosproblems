@@ -13021,6 +13021,16 @@
   oeis: ["N/A"]
   tags: ["graph theory", "hypergraphs"]
 
+- number: "1179"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-01-26"
+  formalized:
+    state: "no"
+    last_update: "2026-01-25"
+  oeis: ["N/A"]
+  tags: ["additive combinatorics", "probability"]
 
 
 
