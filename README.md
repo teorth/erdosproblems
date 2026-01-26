@@ -41,10 +41,10 @@ There are 1178 problems in total, of which
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
 - [348](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [289](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 354 distinct [OEIS](https://oeis.org/) sequences, with a total of 422 links created.
-  - 62 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [310](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 269 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [290](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 355 distinct [OEIS](https://oeis.org/) sequences, with a total of 423 links created.
+  - 63 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [309](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 268 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -71,7 +71,7 @@ There are 1178 problems in total, of which
 | [18](https://www.erdosproblems.com/18) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=18) | [A005153](https://oeis.org/A005153) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors), [factorials](https://www.erdosproblems.com/tags/factorials) | practical numbers |
 | [19](https://www.erdosproblems.com/19) | $500 | decidable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=19) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [20](https://www.erdosproblems.com/20) | $1000 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/20.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=20) | [A332077](https://oeis.org/A332077) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) | sunflower conjecture |
-| [21](https://www.erdosproblems.com/21) | $500 | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=21) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
+| [21](https://www.erdosproblems.com/21) | $500 | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=21) | [A391599](https://oeis.org/A391599) | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
 | [22](https://www.erdosproblems.com/22) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=22) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [23](https://www.erdosproblems.com/23) | no | falsifiable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=23) | [A389646](https://oeis.org/A389646) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [24](https://www.erdosproblems.com/24) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=24) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
