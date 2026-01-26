@@ -12825,7 +12825,7 @@
 - number: "1161"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2026-01-23"
   formalized:
     state: "no"
