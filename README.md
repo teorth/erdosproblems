@@ -23,9 +23,9 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1178 problems in total, of which
+There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [295](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [296](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [34](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [111](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [23](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -1229,4 +1229,5 @@ There are 1178 problems in total, of which
 | [1176](https://www.erdosproblems.com/1176) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1176) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1177](https://www.erdosproblems.com/1177) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1177) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [1178](https://www.erdosproblems.com/1178) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1178) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
+| [1179](https://www.erdosproblems.com/1179) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1179) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [probability](https://www.erdosproblems.com/tags/probability) |  |
 <!-- TABLE:END -->
