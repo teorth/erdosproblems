@@ -12671,7 +12671,7 @@
 - number: "1147"
   prize: "no"
   status:
-    state: "proved"
+    state: "open"
     last_update: "2026-01-26"
   formalized:
     state: "no"
