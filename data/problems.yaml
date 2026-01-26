@@ -10081,8 +10081,8 @@
     last_update: "2025-08-31"
   oeis: ["A071626"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-01-26"
   tags: ["number theory", "factorials"]
 
 - number: "913"
