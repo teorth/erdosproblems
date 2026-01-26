@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1178 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [296](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [295](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [34](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [111](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [23](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1178 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [656](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [657](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
 - [348](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1197,7 +1197,7 @@ There are 1178 problems in total, of which
 | [1144](https://www.erdosproblems.com/1144) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1144) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [1145](https://www.erdosproblems.com/1145) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1145) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [1146](https://www.erdosproblems.com/1146) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1146) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1147](https://www.erdosproblems.com/1147) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1147) | N/A | [irrational](https://www.erdosproblems.com/tags/irrational), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
+| [1147](https://www.erdosproblems.com/1147) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1147) | N/A | [irrational](https://www.erdosproblems.com/tags/irrational), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [1148](https://www.erdosproblems.com/1148) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1148) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1149](https://www.erdosproblems.com/1149) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1149) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1150](https://www.erdosproblems.com/1150) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1150) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
