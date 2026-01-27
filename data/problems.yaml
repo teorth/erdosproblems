@@ -7791,8 +7791,8 @@
 - number: "705"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproven"
+    last_update: "2026-01-26"
   oeis: ["N/A"]
   formalized:
     state: "yes"
