@@ -28,7 +28,7 @@ There are 1179 problems in total, of which
 - [296](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [35](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [114](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [25](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - [26](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [61](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [4](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -479,7 +479,7 @@ There are 1179 problems in total, of which
 | [426](https://www.erdosproblems.com/426) | $25 | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=426) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [427](https://www.erdosproblems.com/427) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/427.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=427) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [428](https://www.erdosproblems.com/428) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/428.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=428) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [429](https://www.erdosproblems.com/429) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=429) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [429](https://www.erdosproblems.com/429) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=429) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [430](https://www.erdosproblems.com/430) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=430) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [431](https://www.erdosproblems.com/431) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=431) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | inverse Goldbach problem |
 | [432](https://www.erdosproblems.com/432) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=432) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
