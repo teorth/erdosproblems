@@ -25,8 +25,8 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [296](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [35](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- [297](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+  - [36](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [114](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [26](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [61](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -37,7 +37,7 @@ There are 1179 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [654](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [653](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
 - [352](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1101,7 +1101,7 @@ There are 1179 problems in total, of which
 | [1048](https://www.erdosproblems.com/1048) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1048) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1049](https://www.erdosproblems.com/1049) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1049) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1050](https://www.erdosproblems.com/1050) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1050) | [A331372](https://oeis.org/A331372) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [1051](https://www.erdosproblems.com/1051) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1051.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1051) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [1051](https://www.erdosproblems.com/1051) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1051.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1051) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1052](https://www.erdosproblems.com/1052) | $10 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1052.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1052) | [A002827](https://oeis.org/A002827) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | unitary perfect numbers |
 | [1053](https://www.erdosproblems.com/1053) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1053) | [A007539](https://oeis.org/A007539) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | multiply perfect numbers |
 | [1054](https://www.erdosproblems.com/1054) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1054.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1054) | [A167485](https://oeis.org/A167485) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
