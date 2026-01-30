@@ -7017,8 +7017,8 @@
 - number: "635"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-01-30"
   oeis: ["N/A"]
   formalized:
     state: "no"
