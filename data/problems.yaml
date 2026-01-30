@@ -11833,8 +11833,8 @@
 - number: "1071"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-05"
+    state: "proven"
+    last_update: "2026-01-29"
   formalized:
     state: "yes"
     last_update: "2026-01-11"
