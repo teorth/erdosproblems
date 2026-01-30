@@ -11610,8 +11610,8 @@
 - number: "1051"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-09-28"
+    state: "proved (Lean)"
+    last_update: "2026-01-29"
   formalized:
     state: "yes"
     last_update: "2025-11-24"
