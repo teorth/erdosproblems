@@ -2440,7 +2440,7 @@
 - number: "221"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
