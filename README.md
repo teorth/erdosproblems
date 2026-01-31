@@ -31,9 +31,9 @@ There are 1179 problems in total, of which
   - [26](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [61](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [5](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
-- [5](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
+- [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 2 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
-- 2 are known to be independent of the ZFC axioms of mathematics. (independent)
+- 3 are known to be independent of the ZFC axioms of mathematics. (independent)
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
@@ -1173,7 +1173,7 @@ There are 1179 problems in total, of which
 | [1120](https://www.erdosproblems.com/1120) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1120) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1121](https://www.erdosproblems.com/1121) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1121) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1122](https://www.erdosproblems.com/1122) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1122) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [1123](https://www.erdosproblems.com/1123) | $100 | not provable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1123) | N/A | [algebra](https://www.erdosproblems.com/tags/algebra) |  |
+| [1123](https://www.erdosproblems.com/1123) | $100 | independent | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1123) | N/A | [algebra](https://www.erdosproblems.com/tags/algebra) |  |
 | [1124](https://www.erdosproblems.com/1124) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1124) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1125](https://www.erdosproblems.com/1125) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1125) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1126](https://www.erdosproblems.com/1126) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1126) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
