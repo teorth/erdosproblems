@@ -9115,8 +9115,8 @@
 - number: "825"
   prize: "$25"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-01-31"
   oeis: ["A006037", "A330244"]
   formalized:
     state: "yes"
