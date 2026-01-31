@@ -2441,7 +2441,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2026-01-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4624,8 +4624,8 @@
 - number: "419"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-01-31"
   oeis: ["N/A"]
   formalized:
     state: "no"
