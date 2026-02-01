@@ -40,7 +40,7 @@ There are 1179 problems in total, of which
 - [651](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
-- [352](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [353](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [290](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 355 distinct [OEIS](https://oeis.org/) sequences, with a total of 423 links created.
   - 63 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [309](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1198,7 +1198,7 @@ There are 1179 problems in total, of which
 | [1145](https://www.erdosproblems.com/1145) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1145) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [1146](https://www.erdosproblems.com/1146) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1146) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1147](https://www.erdosproblems.com/1147) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1147) | N/A | [irrational](https://www.erdosproblems.com/tags/irrational), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [1148](https://www.erdosproblems.com/1148) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1148) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1148](https://www.erdosproblems.com/1148) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1148.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1148) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1149](https://www.erdosproblems.com/1149) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1149) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1150](https://www.erdosproblems.com/1150) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1150) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1151](https://www.erdosproblems.com/1151) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1151) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
