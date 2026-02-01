@@ -3477,8 +3477,8 @@
 - number: "315"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-01-31"
   oeis: ["A000058", "A076393"]
   formalized:
     state: "no"
