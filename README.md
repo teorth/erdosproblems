@@ -28,7 +28,7 @@ There are 1179 problems in total, of which
 - [298](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [38](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [114](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [26](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - [27](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [61](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [5](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -503,7 +503,7 @@ There are 1179 problems in total, of which
 | [450](https://www.erdosproblems.com/450) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=450) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [451](https://www.erdosproblems.com/451) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=451) | [A386620](https://oeis.org/A386620) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [452](https://www.erdosproblems.com/452) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=452) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [453](https://www.erdosproblems.com/453) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=453) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [453](https://www.erdosproblems.com/453) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=453) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [454](https://www.erdosproblems.com/454) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/454.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=454) | [A389676](https://oeis.org/A389676), [A389677](https://oeis.org/A389677) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [455](https://www.erdosproblems.com/455) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/455.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=455) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [456](https://www.erdosproblems.com/456) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=456) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
