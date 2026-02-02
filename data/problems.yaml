@@ -11981,6 +11981,7 @@
   formalized:
     state: "yes"
     last_update: "2025-12-30"
+  comments: "contact number problem"
   oeis: ["possible"]
   tags: ["geometry", "distances"]
 
