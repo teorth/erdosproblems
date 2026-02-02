@@ -11982,7 +11982,7 @@
     state: "yes"
     last_update: "2025-12-30"
   comments: "contact number problem"
-  oeis: ["possible"]
+  oeis: ["A045945", "possible"]
   tags: ["geometry", "distances"]
 
 - number: "1085"
