@@ -12031,8 +12031,8 @@
 - number: "1089"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-17"
+    state: "solved"
+    last_update: "2026-02-02"
   formalized:
     state: "no"
     last_update: "2025-09-28"
