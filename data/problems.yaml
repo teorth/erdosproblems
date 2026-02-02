@@ -10959,8 +10959,8 @@
 - number: "992"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-02-02"
   oeis: ["N/A"]
   formalized:
     state: "no"
