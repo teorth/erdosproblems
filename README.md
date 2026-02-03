@@ -28,7 +28,7 @@ There are 1179 problems in total, of which
 - [299](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [42](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [115](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [29](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - [30](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [6](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -555,7 +555,7 @@ There are 1179 problems in total, of which
 | [502](https://www.erdosproblems.com/502) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=502) | [A027627](https://oeis.org/A027627) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [503](https://www.erdosproblems.com/503) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/503.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=503) | [A175769](https://oeis.org/A175769) | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [504](https://www.erdosproblems.com/504) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=504) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) | Blumenthal's problem |
-| [505](https://www.erdosproblems.com/505) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=505) | possible | [geometry](https://www.erdosproblems.com/tags/geometry) | Borsuk's problem |
+| [505](https://www.erdosproblems.com/505) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=505) | possible | [geometry](https://www.erdosproblems.com/tags/geometry) | Borsuk's problem |
 | [506](https://www.erdosproblems.com/506) | no | decidable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=506) | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [507](https://www.erdosproblems.com/507) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=507) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) | Heilbronn's triangle problem |
 | [508](https://www.erdosproblems.com/508) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/508.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=508) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) | Hadwiger-Nelson problem |
