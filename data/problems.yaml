@@ -5577,8 +5577,8 @@
 - number: "505"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-02-32"
   oeis: ["possible"]
   formalized:
     state: "no"
