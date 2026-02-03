@@ -5543,7 +5543,7 @@
 - number: "502"
   prize: "no"
   status:
-    state: "solved"
+    state: "solved (Lean)"
     last_update: "2025-08-31"
   oeis: ["A027627"]
   formalized:
