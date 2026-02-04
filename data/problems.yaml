@@ -4889,8 +4889,8 @@
 - number: "443"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-02-04"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5486,8 +5486,8 @@
 - number: "497"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-02-04"
   oeis: ["A000372"]
   formalized:
     state: "no"
@@ -7160,8 +7160,8 @@
 - number: "648"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-02-04"
   oeis: ["A391750"]
   formalized:
     state: "no"
