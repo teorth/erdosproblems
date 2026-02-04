@@ -4801,8 +4801,8 @@
 - number: "435"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-10-01"
+    state: "proved (Lean)"
+    last_update: "2026-02-04"
   oeis: ["A389479"]
   formalized:
     state: "no"
