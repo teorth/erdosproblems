@@ -8774,8 +8774,8 @@
 - number: "794"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-02-05"
   oeis: ["N/A"]
   formalized:
     state: "no"
