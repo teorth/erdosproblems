@@ -6429,8 +6429,8 @@
 - number: "582"
   prize: "$100"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-02-05"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -11290,7 +11290,7 @@
 - number: "1022"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2026-01-23"
   formalized:
     state: "no"
