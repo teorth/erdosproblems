@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [299](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [46](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [47](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [115](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [33](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -204,7 +204,7 @@ There are 1179 problems in total, of which
 | [151](https://www.erdosproblems.com/151) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=151) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [152](https://www.erdosproblems.com/152) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/152.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=152) | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [153](https://www.erdosproblems.com/153) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/153.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=153) | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
-| [154](https://www.erdosproblems.com/154) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=154) | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
+| [154](https://www.erdosproblems.com/154) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=154) | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [155](https://www.erdosproblems.com/155) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/155.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=155) | [A143824](https://oeis.org/A143824), [A227590](https://oeis.org/A227590), [A003022](https://oeis.org/A003022) | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [156](https://www.erdosproblems.com/156) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=156) | [A382397](https://oeis.org/A382397) | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [157](https://www.erdosproblems.com/157) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=157) | N/A | [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
