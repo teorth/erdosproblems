@@ -12688,7 +12688,7 @@
   formalized:
     state: "yes"
     last_update: "2026-02-01"
-  oeis: ["A390380"]
+  oeis: ["A390380", "A393168"]
   tags: ["number theory"]
 
 - number: "1149"
