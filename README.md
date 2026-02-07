@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [299](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [300](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [47](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [115](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [35](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1179 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [30](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [648](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [647](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
 - [361](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -901,7 +901,7 @@ There are 1179 problems in total, of which
 | [848](https://www.erdosproblems.com/848) | no | decidable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/848.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=848) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [849](https://www.erdosproblems.com/849) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/849.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=849) | [A003016](https://oeis.org/A003016), [A003015](https://oeis.org/A003015), [A059233](https://oeis.org/A059233), [A098565](https://oeis.org/A098565), [A090162](https://oeis.org/A090162), [A180058](https://oeis.org/A180058), [A182237](https://oeis.org/A182237) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [binomial coefficients](https://www.erdosproblems.com/tags/binomial%20coefficients) | Singmaster's conjecture |
 | [850](https://www.erdosproblems.com/850) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/850.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=850) | [A343101](https://oeis.org/A343101) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) | Erdős-Woods conjecture |
-| [851](https://www.erdosproblems.com/851) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/851.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=851) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [851](https://www.erdosproblems.com/851) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/851.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=851) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [852](https://www.erdosproblems.com/852) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=852) | [A001223](https://oeis.org/A001223), [A053597](https://oeis.org/A053597), [A078515](https://oeis.org/A078515) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [853](https://www.erdosproblems.com/853) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/853.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=853) | [A001223](https://oeis.org/A001223), [A390769](https://oeis.org/A390769) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [854](https://www.erdosproblems.com/854) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=854) | [A389839](https://oeis.org/A389839), [A048670](https://oeis.org/A048670) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
