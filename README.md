@@ -28,7 +28,7 @@ There are 1179 problems in total, of which
 - [300](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [47](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [115](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [35](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+  - [36](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [8](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
@@ -699,7 +699,7 @@ There are 1179 problems in total, of which
 | [646](https://www.erdosproblems.com/646) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=646) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [647](https://www.erdosproblems.com/647) | £25 | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/647.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=647) | [A062249](https://oeis.org/A062249), [A087280](https://oeis.org/A087280) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [648](https://www.erdosproblems.com/648) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=648) | [A391750](https://oeis.org/A391750) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [649](https://www.erdosproblems.com/649) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=649) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [649](https://www.erdosproblems.com/649) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=649) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [650](https://www.erdosproblems.com/650) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=650) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [651](https://www.erdosproblems.com/651) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=651) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [652](https://www.erdosproblems.com/652) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=652) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
