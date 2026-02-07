@@ -5934,8 +5934,8 @@
 - number: "537"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-02-06"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -7361,8 +7361,8 @@
 - number: "666"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-02-06"
   oeis: ["possible"]
   formalized:
     state: "no"
