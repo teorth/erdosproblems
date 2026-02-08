@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [300](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [47](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [48](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [115](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [36](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -184,7 +184,7 @@ There are 1179 problems in total, of which
 | [131](https://www.erdosproblems.com/131) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=131) | [A068063](https://oeis.org/A068063) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [132](https://www.erdosproblems.com/132) | $100 | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=132) | N/A | [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [133](https://www.erdosproblems.com/133) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=133) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [134](https://www.erdosproblems.com/134) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=134) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [134](https://www.erdosproblems.com/134) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=134) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [135](https://www.erdosproblems.com/135) | $250 | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=135) | possible | [distances](https://www.erdosproblems.com/tags/distances), [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [136](https://www.erdosproblems.com/136) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=136) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [137](https://www.erdosproblems.com/137) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/137.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=137) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
