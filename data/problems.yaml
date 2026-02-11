@@ -12533,7 +12533,7 @@
   formalized:
     state: "no"
     last_update: "2026-01-11"
-  oeis: ["possible"]
+  oeis: ["A185661"]
   tags: ["number theory"]
 
 - number: "1135"
