@@ -43,8 +43,8 @@ There are 1179 problems in total, of which
 - [365](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [293](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 359 distinct [OEIS](https://oeis.org/) sequences, with a total of 427 links created.
   - 65 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [308](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 266 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [309](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 267 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -826,7 +826,7 @@ There are 1179 problems in total, of which
 | [773](https://www.erdosproblems.com/773) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=773) | [A390813](https://oeis.org/A390813) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets), [squares](https://www.erdosproblems.com/tags/squares) |  |
 | [774](https://www.erdosproblems.com/774) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=774) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [775](https://www.erdosproblems.com/775) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=775) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
-| [776](https://www.erdosproblems.com/776) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=776) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
+| [776](https://www.erdosproblems.com/776) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=776) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [777](https://www.erdosproblems.com/777) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=777) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [778](https://www.erdosproblems.com/778) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=778) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [779](https://www.erdosproblems.com/779) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/779.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=779) | [A005235](https://oeis.org/A005235) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
