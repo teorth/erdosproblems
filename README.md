@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [301](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [51](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [52](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [115](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [37](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -1014,7 +1014,7 @@ There are 1179 problems in total, of which
 | [961](https://www.erdosproblems.com/961) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/961.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=961) | [A213253](https://oeis.org/A213253) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [962](https://www.erdosproblems.com/962) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=962) | [A327909](https://oeis.org/A327909) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [963](https://www.erdosproblems.com/963) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=963) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [964](https://www.erdosproblems.com/964) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=964) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
+| [964](https://www.erdosproblems.com/964) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=964) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [965](https://www.erdosproblems.com/965) | no | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/965.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=965) | N/A | [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [966](https://www.erdosproblems.com/966) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=966) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [967](https://www.erdosproblems.com/967) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=967) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
