@@ -11833,7 +11833,7 @@
 - number: "1071"
   prize: "no"
   status:
-    state: "proven (Lean)"
+    state: "proved (Lean)"
     last_update: "2026-02-12"
   formalized:
     state: "yes"
