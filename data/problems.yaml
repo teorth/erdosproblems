@@ -9563,8 +9563,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-02-14"
   tags: ["number theory", "additive combinatorics"]
 
 - number: "866"
