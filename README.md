@@ -40,7 +40,7 @@ There are 1179 problems in total, of which
 - [647](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 1 have a literature review requested.
-- [369](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [370](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [293](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 359 distinct [OEIS](https://oeis.org/) sequences, with a total of 427 links created.
   - 65 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [309](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1099,7 +1099,7 @@ There are 1179 problems in total, of which
 | [1046](https://www.erdosproblems.com/1046) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1046) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1047](https://www.erdosproblems.com/1047) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1047) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1048](https://www.erdosproblems.com/1048) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1048) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1049](https://www.erdosproblems.com/1049) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1049) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [1049](https://www.erdosproblems.com/1049) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1049.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1049) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1050](https://www.erdosproblems.com/1050) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1050) | [A331372](https://oeis.org/A331372) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1051](https://www.erdosproblems.com/1051) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1051.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1051) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [1052](https://www.erdosproblems.com/1052) | $10 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1052.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1052) | [A002827](https://oeis.org/A002827) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | unitary perfect numbers |
