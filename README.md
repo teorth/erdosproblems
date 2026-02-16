@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [301](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [52](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [53](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [115](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [37](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -537,7 +537,7 @@ There are 1179 problems in total, of which
 | [484](https://www.erdosproblems.com/484) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=484) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [485](https://www.erdosproblems.com/485) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=485) | possible | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [486](https://www.erdosproblems.com/486) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/486.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=486) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
-| [487](https://www.erdosproblems.com/487) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=487) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [487](https://www.erdosproblems.com/487) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=487) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [488](https://www.erdosproblems.com/488) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/488.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=488) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [489](https://www.erdosproblems.com/489) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/489.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=489) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [490](https://www.erdosproblems.com/490) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=490) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
