@@ -12619,8 +12619,8 @@
     state: "open"
     last_update: "2026-01-23"
   formalized:
-    state: "no"
-    last_update: "2026-01-23"
+    state: "yes"
+    last_update: "2026-02-23"
   oeis: ["A039669"]
   tags: ["number theory", "primes"]
 
