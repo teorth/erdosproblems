@@ -5243,8 +5243,8 @@
 - number: "475"
   prize: "no"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "decidable"
+    last_update: "2026-02-23"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -12174,8 +12174,8 @@
 - number: "1102"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-12-2"
+    state: "solved (Lean)"
+    last_update: "2026-02-23"
   formalized:
     state: "yes"
     last_update: "2025-12-24"
