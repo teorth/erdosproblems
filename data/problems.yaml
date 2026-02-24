@@ -4790,8 +4790,8 @@
 - number: "434"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-10-31"
+    state: "proved (Lean)"
+    last_update: "2026-02-24"
   oeis: ["possible"]
   formalized:
     state: "yes"
