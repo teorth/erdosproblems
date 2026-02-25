@@ -11956,8 +11956,8 @@
     state: "falsifiable"
     last_update: "2025-10-17"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-02-25"
   oeis: ["possible"]
   tags: ["geometry", "distances"]
 
