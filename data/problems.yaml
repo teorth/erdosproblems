@@ -1378,7 +1378,7 @@
 - number: "125"
   prize: "no"
   status:
-    state: "disproved (Lean)"
+    state: "open"
     last_update: "2026-02-25"
   oeis: ["A367090"]
   formalized:
