@@ -12737,8 +12737,8 @@
 - number: "1153"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "proved"
+    last_update: "2026-02-27"
   formalized:
     state: "no"
     last_update: "2026-01-23"
