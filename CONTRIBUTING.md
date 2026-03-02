@@ -99,6 +99,10 @@ In general, when using AI tools to generate code, I would recommend using the to
 
 Asking a large language model to directly generate a sequence, as opposed to generating code that one then inspects and executes to compute the sequence, runs the risk of hallucinated output, and is discouraged except for the purposes of a preliminary exploration that is to be replaced by a more trustworthy calculation at a later point in time.
 
+## Discussion of potential solutions to Erdős problems
+
+In general, discussion of Erdős problems should occur on the web site for that problem.  The issue system here is mostly intended for matters relating to the database entries, or for topics which for some reason cannot be easily discussed on the main site (e.g., if they span multiple problems rather than just one).  AI-generated issues will, at a bare minimum, need to disclose their use of AI, and will likely be closed if they are not contributing a significant amount of value.
+
 ## How to cite this database
 
 Bibliographic information for this database can be found at [CITATIONS.cff](CITATIONS.cff).  One possible citation style is
