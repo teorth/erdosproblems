@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [302](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [62](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [63](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [116](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [40](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -165,7 +165,7 @@ There are 1179 problems in total, of which
 | [112](https://www.erdosproblems.com/112) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=112) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [113](https://www.erdosproblems.com/113) | $500 | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=113) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [114](https://www.erdosproblems.com/114) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=114) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [115](https://www.erdosproblems.com/115) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=115) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [115](https://www.erdosproblems.com/115) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=115) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [116](https://www.erdosproblems.com/116) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=116) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [117](https://www.erdosproblems.com/117) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=117) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [118](https://www.erdosproblems.com/118) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=118) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
