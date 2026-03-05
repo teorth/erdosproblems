@@ -41,10 +41,10 @@ There are 1179 problems in total, of which
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [374](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [294](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 360 distinct [OEIS](https://oeis.org/) sequences, with a total of 428 links created.
+- [295](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 362 distinct [OEIS](https://oeis.org/) sequences, with a total of 430 links created.
   - 66 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [309](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 266 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [308](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 265 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -384,7 +384,7 @@ There are 1179 problems in total, of which
 | [331](https://www.erdosproblems.com/331) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/331.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=331) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [332](https://www.erdosproblems.com/332) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/332.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=332) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [333](https://www.erdosproblems.com/333) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=333) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
-| [334](https://www.erdosproblems.com/334) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=334) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [334](https://www.erdosproblems.com/334) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=334) | [A062241](https://oeis.org/A062241), [A045535](https://oeis.org/A045535) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [335](https://www.erdosproblems.com/335) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=335) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [336](https://www.erdosproblems.com/336) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=336) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
 | [337](https://www.erdosproblems.com/337) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=337) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [additive basis](https://www.erdosproblems.com/tags/additive%20basis) |  |
