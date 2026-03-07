@@ -13032,6 +13032,19 @@
   oeis: ["N/A"]
   tags: ["additive combinatorics", "probability"]
 
+- number: "1180"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-03-06"
+  formalized:
+    state: "no"
+    last_update: "2026-03-06"
+  oeis: ["N/A"]
+  tags: ["number theory"]
+
+
+
 
 
 
