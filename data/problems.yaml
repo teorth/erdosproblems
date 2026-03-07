@@ -7182,8 +7182,8 @@
 - number: "650"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-03-06"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -8674,8 +8674,8 @@
 - number: "785"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-03-06"
   oeis: ["N/A"]
   formalized:
     state: "no"
