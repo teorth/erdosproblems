@@ -5043,7 +5043,7 @@
 - number: "457"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2026-03-07"
   oeis: ["A391668"]
   formalized:
