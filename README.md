@@ -25,8 +25,8 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1179 problems in total, of which
 - [104](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [302](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [63](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- [303](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+  - [65](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [116](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [40](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -37,7 +37,7 @@ There are 1179 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [29](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [645](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [644](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [375](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -700,7 +700,7 @@ There are 1179 problems in total, of which
 | [647](https://www.erdosproblems.com/647) | £25 | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/647.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=647) | [A062249](https://oeis.org/A062249), [A087280](https://oeis.org/A087280) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [648](https://www.erdosproblems.com/648) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=648) | [A391750](https://oeis.org/A391750) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [649](https://www.erdosproblems.com/649) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=649) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [650](https://www.erdosproblems.com/650) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=650) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [650](https://www.erdosproblems.com/650) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=650) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [651](https://www.erdosproblems.com/651) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=651) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [652](https://www.erdosproblems.com/652) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=652) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [653](https://www.erdosproblems.com/653) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=653) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
@@ -835,7 +835,7 @@ There are 1179 problems in total, of which
 | [782](https://www.erdosproblems.com/782) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=782) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [783](https://www.erdosproblems.com/783) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=783) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [784](https://www.erdosproblems.com/784) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=784) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [785](https://www.erdosproblems.com/785) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=785) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | exact additive complements |
+| [785](https://www.erdosproblems.com/785) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=785) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | exact additive complements |
 | [786](https://www.erdosproblems.com/786) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=786) | [A143301](https://oeis.org/A143301), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [787](https://www.erdosproblems.com/787) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=787) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [788](https://www.erdosproblems.com/788) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=788) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
