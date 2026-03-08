@@ -41,10 +41,10 @@ There are 1183 problems in total, of which
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [377](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [295](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 362 distinct [OEIS](https://oeis.org/) sequences, with a total of 430 links created.
+- [296](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 363 distinct [OEIS](https://oeis.org/) sequences, with a total of 431 links created.
   - 66 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [311](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 268 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [310](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 267 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -700,7 +700,7 @@ There are 1183 problems in total, of which
 | [647](https://www.erdosproblems.com/647) | £25 | verifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/647.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=647) | [A062249](https://oeis.org/A062249), [A087280](https://oeis.org/A087280) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [648](https://www.erdosproblems.com/648) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=648) | [A391750](https://oeis.org/A391750) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [649](https://www.erdosproblems.com/649) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=649) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [650](https://www.erdosproblems.com/650) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=650) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [650](https://www.erdosproblems.com/650) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=650) | [A027434](https://oeis.org/A027434) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [651](https://www.erdosproblems.com/651) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=651) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [convex](https://www.erdosproblems.com/tags/convex) |  |
 | [652](https://www.erdosproblems.com/652) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=652) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [653](https://www.erdosproblems.com/653) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=653) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
