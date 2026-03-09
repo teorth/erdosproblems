@@ -13054,7 +13054,7 @@
   oeis: ["possible"]
   tags: ["number theory"]
 
-- number: "1181"
+- number: "1182"
   prize: "no"
   status:
     state: "open"
@@ -13065,7 +13065,7 @@
   oeis: ["possible"]
   tags: ["graph theory", "ramsey theory"]
 
-- number: "1182"
+- number: "1183"
   prize: "no"
   status:
     state: "open"
@@ -13075,8 +13075,3 @@
     last_update: "2026-03-07"
   oeis: ["possible"]
   tags: ["combinatorics", "ramsey theory"]
-
-
-
-
-
