@@ -5065,8 +5065,8 @@
 - number: "459"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-03-11"
   oeis: ["A289280"]
   formalized:
     state: "no"
