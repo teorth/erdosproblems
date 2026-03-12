@@ -7553,8 +7553,8 @@
     last_update: "2025-09-04"
   oeis: ["A006530", "A074399", "A121359", "possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-03-12"
   tags: ["number theory", "primes", "binomial coefficients"]
 
 - number: "684"
