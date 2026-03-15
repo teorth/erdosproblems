@@ -2252,8 +2252,8 @@
 - number: "204"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-03-15"
   oeis: ["N/A"]
   formalized:
     state: "yes"
