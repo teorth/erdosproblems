@@ -12991,8 +12991,8 @@
 - number: "1176"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "not disprovable"
+    last_update: "2026-03-18"
   formalized:
     state: "yes"
     last_update: "2026-02-03"
