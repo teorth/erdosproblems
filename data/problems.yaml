@@ -12969,8 +12969,8 @@
 - number: "1174"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "not disprovable"
+    last_update: "2026-03-19"
   formalized:
     state: "no"
     last_update: "2026-01-23"
