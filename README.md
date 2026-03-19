@@ -32,12 +32,12 @@ There are 1183 problems in total, of which
 - [62](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [11](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [4](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
-- 3 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
+- 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 3 are known to be independent of the ZFC axioms of mathematics. (independent)
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [25](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [648](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [647](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [384](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1224,7 +1224,7 @@ There are 1183 problems in total, of which
 | [1171](https://www.erdosproblems.com/1171) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1171) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1172](https://www.erdosproblems.com/1172) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1172) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1173](https://www.erdosproblems.com/1173) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1173) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [1174](https://www.erdosproblems.com/1174) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1174) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1174](https://www.erdosproblems.com/1174) | no | not disprovable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1174) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1175](https://www.erdosproblems.com/1175) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1175) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1176](https://www.erdosproblems.com/1176) | no | not disprovable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1176.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1176) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [1177](https://www.erdosproblems.com/1177) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1177) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
