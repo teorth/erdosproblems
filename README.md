@@ -35,9 +35,9 @@ There are 1183 problems in total, of which
 - 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 3 are known to be independent of the ZFC axioms of mathematics. (independent)
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
-- [25](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
+- [26](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [646](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [645](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [386](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -164,7 +164,7 @@ There are 1183 problems in total, of which
 | [111](https://www.erdosproblems.com/111) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=111) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [112](https://www.erdosproblems.com/112) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=112) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [113](https://www.erdosproblems.com/113) | $500 | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=113) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
-| [114](https://www.erdosproblems.com/114) | $250 | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=114) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [114](https://www.erdosproblems.com/114) | $250 | falsifiable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=114) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [115](https://www.erdosproblems.com/115) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=115) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [116](https://www.erdosproblems.com/116) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=116) | N/A | [polynomials](https://www.erdosproblems.com/tags/polynomials), [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [117](https://www.erdosproblems.com/117) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=117) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
