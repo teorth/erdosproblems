@@ -1255,7 +1255,7 @@
 - number: "114"
   prize: "$250"
   status:
-    state: "open"
+    state: "falsifiable"
     last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
