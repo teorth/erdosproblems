@@ -4394,7 +4394,7 @@
   status:
     state: "falsifiable"
     last_update: "2025-08-31"
-  oeis: ["A146968"]
+  oeis: ["A146968", "A141399"]
   formalized:
     state: "yes"
     last_update: "2025-09-01"
