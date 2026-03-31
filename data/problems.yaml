@@ -4193,8 +4193,8 @@
 - number: "380"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-03-31"
   oeis: ["A070003", "A388654", "A387054", "A389100"]
   formalized:
     state: "no"
