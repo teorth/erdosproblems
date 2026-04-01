@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1183 problems in total, of which
 - [105](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [308](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [309](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [69](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [119](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [43](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1183 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [639](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [386](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1047,7 +1047,7 @@ There are 1183 problems in total, of which
 | [994](https://www.erdosproblems.com/994) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=994) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [995](https://www.erdosproblems.com/995) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=995) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [996](https://www.erdosproblems.com/996) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/996.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=996) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [997](https://www.erdosproblems.com/997) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/997.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=997) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [997](https://www.erdosproblems.com/997) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/997.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=997) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [998](https://www.erdosproblems.com/998) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=998) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
 | [999](https://www.erdosproblems.com/999) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=999) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) | Duffin-Schaeffer conjecture |
 | [1000](https://www.erdosproblems.com/1000) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1000) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [diophantine approximation](https://www.erdosproblems.com/tags/diophantine%20approximation) |  |
