@@ -7182,7 +7182,7 @@
 - number: "650"
   prize: "no"
   status:
-    state: "proved (Lean)"
+    state: "solved (Lean)"
     last_update: "2026-03-06"
   oeis: ["A027434"]
   formalized:
