@@ -3950,8 +3950,8 @@
 - number: "358"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-04-01"
   oeis: ["possible"]
   formalized:
     state: "yes"
