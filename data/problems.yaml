@@ -9592,7 +9592,7 @@
 - number: "868"
   prize: "no"
   status:
-    state: "disproved"
+    state: "solved"
     last_update: "2026-01-13"
   oeis: ["N/A"]
   formalized:
