@@ -40,7 +40,7 @@ There are 1183 problems in total, of which
 - [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
-- [386](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [387](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [296](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 364 distinct [OEIS](https://oeis.org/) sequences, with a total of 432 links created.
   - 66 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [310](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -683,7 +683,7 @@ There are 1183 problems in total, of which
 | [630](https://www.erdosproblems.com/630) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=630) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [631](https://www.erdosproblems.com/631) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=631) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [632](https://www.erdosproblems.com/632) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=632) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [633](https://www.erdosproblems.com/633) | $25 | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=633) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [633](https://www.erdosproblems.com/633) | $25 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/633.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=633) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [634](https://www.erdosproblems.com/634) | $25 | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=634) | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [635](https://www.erdosproblems.com/635) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=635) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [636](https://www.erdosproblems.com/636) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=636) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
