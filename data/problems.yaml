@@ -826,8 +826,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-04-04"
   tags: ["graph theory", "chromatic number"]
 
 - number: "76"
