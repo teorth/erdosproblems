@@ -23,7 +23,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1183 problems in total, of which
+There are 1184 problems in total, of which
 - [105](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [310](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [72](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,14 +37,14 @@ There are 1183 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [388](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [296](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 364 distinct [OEIS](https://oeis.org/) sequences, with a total of 432 links created.
   - 66 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [310](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 267 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [311](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 268 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1234,4 +1234,5 @@ There are 1183 problems in total, of which
 | [1181](https://www.erdosproblems.com/1181) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1181) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1182](https://www.erdosproblems.com/1182) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1182) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1183](https://www.erdosproblems.com/1183) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1183) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1184](https://www.erdosproblems.com/1184) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1184) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 <!-- TABLE:END -->
