@@ -3510,8 +3510,8 @@
 - number: "318"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-01-24"
+    state: "solved"
+    last_update: "2026-04-04"
   oeis: ["N/A"]
   formalized:
     state: "yes"
