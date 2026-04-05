@@ -1211,8 +1211,8 @@
 - number: "110"
   prize: "no"
   status:
-    state: "not provable"
-    last_update: "2025-10-01"
+    state: "disproved"
+    last_update: "2026-04-05"
   oeis: ["N/A"]
   formalized:
     state: "no"
