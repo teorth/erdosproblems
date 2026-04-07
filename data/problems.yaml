@@ -6995,8 +6995,8 @@
 - number: "633"
   prize: "$25"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-04-06"
   oeis: ["N/A"]
   formalized:
     state: "yes"
