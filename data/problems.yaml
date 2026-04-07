@@ -9581,8 +9581,8 @@
 - number: "867"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-09-02"
+    state: "disproved (Lean)"
+    last_update: "2026-04-07"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -10000,8 +10000,8 @@
 - number: "905"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-04-27"
   oeis: ["N/A"]
   formalized:
     state: "no"
