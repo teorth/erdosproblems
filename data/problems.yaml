@@ -10904,8 +10904,8 @@
 - number: "987"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-12-29"
+    state: "proved"
+    last_update: "2026-04-09"
   oeis: ["N/A"]
   formalized:
     state: "no"
