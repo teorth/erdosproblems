@@ -10001,7 +10001,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2026-04-27"
+    last_update: "2026-04-07"
   oeis: ["N/A"]
   formalized:
     state: "no"
