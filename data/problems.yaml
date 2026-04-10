@@ -12298,8 +12298,8 @@
     state: "open"
     last_update: "2025-12-28"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-04-10"
   comments: "Sierpinski numbers"
   oeis: ["A076336"]
   tags: ["number theory", "covering systems"]
@@ -13086,7 +13086,6 @@
     last_update: "2026-04-04"
   oeis: ["possible"]
   tags: ["number theory", "primes"]
-  
 - number: "1185"
   prize: "no"
   status:
@@ -13097,7 +13096,6 @@
     last_update: "2026-04-04"
   oeis: ["N/A"]
   tags: ["additive combinatorics", "arithmetic progressions"]
-      
 - number: "1186"
   prize: "no"
   status:
@@ -13108,7 +13106,6 @@
     last_update: "2026-04-04"
   oeis: ["possible"]
   tags: ["additive combinatorics", "arithmetic progressions"]
-    
 - number: "1187"
   prize: "no"
   status:
@@ -13118,8 +13115,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["N/A"]
-  tags: ["number theory", "primes","additive combinatorics", "arithmetic progressions"] 
-    
+  tags: ["number theory", "primes", "additive combinatorics", "arithmetic progressions"]
 - number: "1188"
   prize: "no"
   status:
@@ -13129,8 +13125,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "covering systems"] 
-    
+  tags: ["number theory", "covering systems"]
 - number: "1189"
   prize: "no"
   status:
@@ -13140,8 +13135,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "covering systems"] 
-    
+  tags: ["number theory", "covering systems"]
 - number: "1190"
   prize: "no"
   status:
@@ -13151,8 +13145,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "covering systems"] 
-    
+  tags: ["number theory", "covering systems"]
 - number: "1191"
   prize: "$1000"
   status:
@@ -13162,8 +13155,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["additive combinatorics", "sidon sets"] 
-    
+  tags: ["additive combinatorics", "sidon sets"]
 - number: "1192"
   prize: "no"
   status:
@@ -13173,8 +13165,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["additive combinatorics", "additive basis"] 
-    
+  tags: ["additive combinatorics", "additive basis"]
 - number: "1193"
   prize: "no"
   status:
@@ -13184,8 +13175,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["N/A"]
-  tags: ["additive combinatorics"] 
-    
+  tags: ["additive combinatorics"]
 - number: "1194"
   prize: "no"
   status:
@@ -13195,8 +13185,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["additive combinatorics", "additive basis", "sidon sets"] 
-    
+  tags: ["additive combinatorics", "additive basis", "sidon sets"]
 - number: "1195"
   prize: "no"
   status:
@@ -13206,8 +13195,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory"] 
-    
+  tags: ["number theory"]
 - number: "1196"
   prize: "no"
   status:
@@ -13217,8 +13205,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "primitive sets"] 
-    
+  tags: ["number theory", "primitive sets"]
 - number: "1197"
   prize: "no"
   status:
@@ -13228,8 +13215,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["N/A"]
-  tags: ["analysis"] 
-    
+  tags: ["analysis"]
 - number: "1198"
   prize: "no"
   status:
@@ -13239,8 +13225,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["N/A"]
-  tags: ["additive combinatorics", "ramsey theory"] 
-    
+  tags: ["additive combinatorics", "ramsey theory"]
 - number: "1199"
   prize: "no"
   status:
@@ -13250,8 +13235,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["additive combinatorics", "ramsey theory"] 
-    
+  tags: ["additive combinatorics", "ramsey theory"]
 - number: "1200"
   prize: "no"
   status:
@@ -13261,8 +13245,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "primes"] 
-    
+  tags: ["number theory", "primes"]
 - number: "1201"
   prize: "no"
   status:
@@ -13272,8 +13255,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "primes"] 
-    
+  tags: ["number theory", "primes"]
 - number: "1202"
   prize: "no"
   status:
@@ -13283,8 +13265,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "primes"] 
-    
+  tags: ["number theory", "primes"]
 - number: "1203"
   prize: "no"
   status:
@@ -13294,8 +13275,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory"] 
- 
+  tags: ["number theory"]
 - number: "1204"
   prize: "no"
   status:
@@ -13305,8 +13285,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory"] 
-   
+  tags: ["number theory"]
 - number: "1205"
   prize: "no"
   status:
@@ -13316,8 +13295,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory"] 
-   
+  tags: ["number theory"]
 - number: "1206"
   prize: "no"
   status:
@@ -13327,8 +13305,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "sidon sets"] 
-  
+  tags: ["number theory", "sidon sets"]
 - number: "1207"
   prize: "no"
   status:
@@ -13338,8 +13315,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["geometry", "distances"] 
- 
+  tags: ["geometry", "distances"]
 - number: "1208"
   prize: "no"
   status:
@@ -13349,8 +13325,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["geometry", "distances"] 
- 
+  tags: ["geometry", "distances"]
 - number: "1209"
   prize: "no"
   status:
@@ -13361,7 +13336,6 @@
     last_update: "2026-04-04"
   oeis: ["possible"]
   tags: ["number theory"]
- 
 - number: "1210"
   prize: "no"
   status:
@@ -13371,7 +13345,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory"] 
+  tags: ["number theory"]
 
 - number: "1211"
   prize: "no"
@@ -13382,7 +13356,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "ramsey theory"] 
+  tags: ["number theory", "ramsey theory"]
 
 - number: "1212"
   prize: "no"
@@ -13393,4 +13367,4 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory", "primes"] 
+  tags: ["number theory", "primes"]
