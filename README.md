@@ -40,7 +40,7 @@ There are 1212 problems in total, of which
 - [653](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
-- [388](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [389](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [296](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 364 distinct [OEIS](https://oeis.org/) sequences, with a total of 432 links created.
   - 66 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [334](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1163,7 +1163,7 @@ There are 1212 problems in total, of which
 | [1110](https://www.erdosproblems.com/1110) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1110) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1111](https://www.erdosproblems.com/1111) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1111) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [1112](https://www.erdosproblems.com/1112) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1112) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
-| [1113](https://www.erdosproblems.com/1113) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1113) | [A076336](https://oeis.org/A076336) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) | Sierpinski numbers |
+| [1113](https://www.erdosproblems.com/1113) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1113.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1113) | [A076336](https://oeis.org/A076336) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [covering systems](https://www.erdosproblems.com/tags/covering%20systems) | Sierpinski numbers |
 | [1114](https://www.erdosproblems.com/1114) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1114) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [polynomials](https://www.erdosproblems.com/tags/polynomials) |  |
 | [1115](https://www.erdosproblems.com/1115) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1115) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1116](https://www.erdosproblems.com/1116) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1116) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
