@@ -12607,8 +12607,8 @@
 - number: "1141"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2026-04-09"
+    state: "disproved (Lean)"
+    last_update: "2026-04-11"
   formalized:
     state: "yes"
     last_update: "2026-02-11"
