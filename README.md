@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1212 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [311](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [74](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [75](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [122](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [45](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [73](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -1175,7 +1175,7 @@ There are 1212 problems in total, of which
 | [1122](https://www.erdosproblems.com/1122) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1122) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1123](https://www.erdosproblems.com/1123) | $100 | independent | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1123) | N/A | [algebra](https://www.erdosproblems.com/tags/algebra) |  |
 | [1124](https://www.erdosproblems.com/1124) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1124) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
-| [1125](https://www.erdosproblems.com/1125) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1125) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1125](https://www.erdosproblems.com/1125) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1125) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1126](https://www.erdosproblems.com/1126) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1126) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1127](https://www.erdosproblems.com/1127) | no | independent | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1127) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [1128](https://www.erdosproblems.com/1128) | $50 | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1128) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
