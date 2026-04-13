@@ -2960,8 +2960,8 @@
 - number: "268"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-04-13"
   oeis: ["N/A"]
   formalized:
     state: "yes"
