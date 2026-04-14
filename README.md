@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1212 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [312](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [313](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [76](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [122](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [47](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1212 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [652](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [651](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [389](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -308,7 +308,7 @@ There are 1212 problems in total, of which
 | [255](https://www.erdosproblems.com/255) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=255) | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [256](https://www.erdosproblems.com/256) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=256) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [257](https://www.erdosproblems.com/257) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/257.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=257) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
-| [258](https://www.erdosproblems.com/258) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/258.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=258) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
+| [258](https://www.erdosproblems.com/258) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/258.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=258) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [259](https://www.erdosproblems.com/259) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/259.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=259) | [A371134](https://oeis.org/A371134) | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [260](https://www.erdosproblems.com/260) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/260.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=260) | N/A | [irrationality](https://www.erdosproblems.com/tags/irrationality) |  |
 | [261](https://www.erdosproblems.com/261) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=261) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
