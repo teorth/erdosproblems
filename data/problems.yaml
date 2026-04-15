@@ -13224,7 +13224,7 @@
 - number: "1197"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2026-04-04"
   formalized:
     state: "no"
