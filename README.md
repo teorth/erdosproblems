@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1212 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [313](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [77](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [78](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [122](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [47](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [74](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -590,7 +590,7 @@ There are 1212 problems in total, of which
 | [537](https://www.erdosproblems.com/537) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=537) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [538](https://www.erdosproblems.com/538) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=538) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [539](https://www.erdosproblems.com/539) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=539) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [540](https://www.erdosproblems.com/540) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=540) | [A034463](https://oeis.org/A034463) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [540](https://www.erdosproblems.com/540) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=540) | [A034463](https://oeis.org/A034463) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [541](https://www.erdosproblems.com/541) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/541.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=541) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [542](https://www.erdosproblems.com/542) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=542) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [543](https://www.erdosproblems.com/543) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=543) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
