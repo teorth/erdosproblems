@@ -13224,8 +13224,8 @@
 - number: "1197"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2026-04-04"
+    state: "disproved (Lean)"
+    last_update: "2026-04-15"
   formalized:
     state: "no"
     last_update: "2026-04-04"
