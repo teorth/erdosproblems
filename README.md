@@ -27,9 +27,9 @@ There are 1212 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [313](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [78](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [122](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
-  - [47](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [74](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- [123](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+  - [48](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
+- [73](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [13](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -1247,7 +1247,7 @@ There are 1212 problems in total, of which
 | [1194](https://www.erdosproblems.com/1194) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1194) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [additive basis](https://www.erdosproblems.com/tags/additive%20basis), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [1195](https://www.erdosproblems.com/1195) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1195) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1196](https://www.erdosproblems.com/1196) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1196) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
-| [1197](https://www.erdosproblems.com/1197) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1197) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1197](https://www.erdosproblems.com/1197) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1197) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1198](https://www.erdosproblems.com/1198) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1198) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1199](https://www.erdosproblems.com/1199) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1199) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1200](https://www.erdosproblems.com/1200) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1200) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
