@@ -7220,8 +7220,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-04-16"
   tags: ["geometry", "distances"]
 
 - number: "654"
@@ -8724,8 +8724,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-04-16"
   tags: ["additive combinatorics"]
 
 - number: "790"
