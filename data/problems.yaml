@@ -7407,7 +7407,7 @@
 - number: "670"
   prize: "no"
   status:
-    state: "disproved"
+    state: "open"
     last_update: "2026-04-16"
   oeis: ["N/A"]
   formalized:
