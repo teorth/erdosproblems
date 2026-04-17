@@ -570,8 +570,8 @@
     last_update: "2025-08-31"
   oeis: ["A263996"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-04-17"
   comments: "sum-product problem"
   tags: ["number theory", "additive combinatorics"]
 
