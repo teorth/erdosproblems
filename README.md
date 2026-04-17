@@ -40,7 +40,7 @@ There are 1212 problems in total, of which
 - [650](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
-- [403](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [404](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [296](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 375 distinct [OEIS](https://oeis.org/) sequences, with a total of 443 links created.
   - 77 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [334](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -585,7 +585,7 @@ There are 1212 problems in total, of which
 | [532](https://www.erdosproblems.com/532) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=532) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [533](https://www.erdosproblems.com/533) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=533) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [534](https://www.erdosproblems.com/534) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=534) | [A387543](https://oeis.org/A387543), [A387698](https://oeis.org/A387698) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [intersecting family](https://www.erdosproblems.com/tags/intersecting%20family) |  |
-| [535](https://www.erdosproblems.com/535) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=535) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [535](https://www.erdosproblems.com/535) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/535.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=535) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [536](https://www.erdosproblems.com/536) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/536.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=536) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [537](https://www.erdosproblems.com/537) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=537) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [538](https://www.erdosproblems.com/538) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=538) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
