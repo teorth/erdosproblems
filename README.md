@@ -26,7 +26,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 There are 1212 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [313](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [80](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+  - [81](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [123](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [48](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [73](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -954,7 +954,7 @@ There are 1212 problems in total, of which
 | [901](https://www.erdosproblems.com/901) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=901) | possible | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
 | [902](https://www.erdosproblems.com/902) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=902) | [A362137](https://oeis.org/A362137) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [903](https://www.erdosproblems.com/903) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=903) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
-| [904](https://www.erdosproblems.com/904) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=904) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [904](https://www.erdosproblems.com/904) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=904) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [905](https://www.erdosproblems.com/905) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=905) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [906](https://www.erdosproblems.com/906) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/906.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=906) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [iterated functions](https://www.erdosproblems.com/tags/iterated%20functions) |  |
 | [907](https://www.erdosproblems.com/907) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=907) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
