@@ -6863,8 +6863,8 @@
 - number: "621"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-10-14"
+    state: "proved (Lean)"
+    last_update: "2026-04-19"
   oeis: ["N/A"]
   formalized:
     state: "no"
