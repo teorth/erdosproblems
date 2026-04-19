@@ -8565,8 +8565,8 @@
 - number: "775"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-10-19"
+    state: "disproved (Lean)"
+    last_update: "2026-04-19"
   oeis: ["possible"]
   formalized:
     state: "no"
