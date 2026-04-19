@@ -2143,8 +2143,8 @@
 - number: "194"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-04-19"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -12385,8 +12385,8 @@
 - number: "1121"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-12-30"
+    state: "proved (Lean)"
+    last_update: "2026-04-19"
   formalized:
     state: "no"
     last_update: "2025-12-30"
@@ -12551,8 +12551,8 @@
 - number: "1136"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2026-01-20"
+    state: "proved (Lean)"
+    last_update: "2026-04-19"
   formalized:
     state: "no"
     last_update: "2026-01-20"
