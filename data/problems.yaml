@@ -10938,8 +10938,8 @@
 - number: "990"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2026-04-09"
+    state: "disproved (Lean)"
+    last_update: "2026-04-19"
   oeis: ["N/A"]
   formalized:
     state: "no"
