@@ -4702,8 +4702,8 @@
 - number: "426"
   prize: "$25"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-04-20"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -10199,8 +10199,8 @@
 - number: "923"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-04-20"
   oeis: ["N/A"]
   formalized:
     state: "no"
