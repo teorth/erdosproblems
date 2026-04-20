@@ -29,7 +29,7 @@ There are 1212 problems in total, of which
   - [85](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [123](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [52](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [73](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- [74](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [13](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -37,7 +37,7 @@ There are 1212 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [650](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [649](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [404](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -833,7 +833,7 @@ There are 1212 problems in total, of which
 | [780](https://www.erdosproblems.com/780) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=780) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [781](https://www.erdosproblems.com/781) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=781) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [782](https://www.erdosproblems.com/782) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=782) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [783](https://www.erdosproblems.com/783) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=783) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [783](https://www.erdosproblems.com/783) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=783) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [784](https://www.erdosproblems.com/784) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=784) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [785](https://www.erdosproblems.com/785) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=785) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | exact additive complements |
 | [786](https://www.erdosproblems.com/786) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/786.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=786) | [A143301](https://oeis.org/A143301), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
