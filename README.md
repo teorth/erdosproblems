@@ -23,11 +23,11 @@ Several of the problems have received assistance from various AI tools.  A list 
 ## Table
 
 <!-- TABLE:START -->
-There are 1212 problems in total, of which
+There are 1217 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [313](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [316](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [87](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [123](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [125](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [53](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [74](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [13](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -43,8 +43,8 @@ There are 1212 problems in total, of which
 - [406](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [296](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 375 distinct [OEIS](https://oeis.org/) sequences, with a total of 443 links created.
   - 77 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [334](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 291 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [336](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 293 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1263,4 +1263,9 @@ There are 1212 problems in total, of which
 | [1210](https://www.erdosproblems.com/1210) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1210) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1211](https://www.erdosproblems.com/1211) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1211) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1212](https://www.erdosproblems.com/1212) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1212) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1213](https://www.erdosproblems.com/1213) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1213) | possible | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
+| [1214](https://www.erdosproblems.com/1214) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1214) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1215](https://www.erdosproblems.com/1215) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1215) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1216](https://www.erdosproblems.com/1216) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1216) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [1217](https://www.erdosproblems.com/1217) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1217) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors), [primitive sets](https://www.erdosproblems.com/tags/primitive%20sets) |  |
 <!-- TABLE:END -->
