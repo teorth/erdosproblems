@@ -1967,8 +1967,8 @@
 - number: "178"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-04-21"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2849,8 +2849,8 @@
 - number: "258"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2026-04-14"
+    state: "proved (Lean)"
+    last_update: "2026-04-21"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -2860,8 +2860,8 @@
 - number: "259"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-09-02"
+    state: "proved (Lean)"
+    last_update: "2026-04-21"
   oeis: ["A371134"]
   formalized:
     state: "yes"
