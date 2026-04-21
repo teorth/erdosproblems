@@ -13395,3 +13395,58 @@
     last_update: "2026-04-04"
   oeis: ["possible"]
   tags: ["number theory", "primes"]
+
+- number: "1213"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-04-21"
+  formalized:
+    state: "no"
+    last_update: "2026-04-04"
+  oeis: ["possible"]
+  tags: ["additive combinatorics"]
+
+- number: "1214"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-04-21"
+  formalized:
+    state: "no"
+    last_update: "2026-04-04"
+  oeis: ["N/A"]
+  tags: ["number theory"]
+
+- number: "1215"
+  prize: "no"
+  status:
+    state: "disproved"
+    last_update: "2026-04-21"
+  formalized:
+    state: "no"
+    last_update: "2026-04-04"
+  oeis: ["N/A"]
+  tags: ["analysis"]
+
+- number: "1216"
+  prize: "no"
+  status:
+    state: "disproved"
+    last_update: "2026-04-21"
+  formalized:
+    state: "no"
+    last_update: "2026-04-04"
+  oeis: ["possible"]
+  tags: ["graph theory", "ramsey theory"]
+
+- number: "1217"
+  prize: "no"
+  status:
+    state: "proved"
+    last_update: "2026-04-21"
+  formalized:
+    state: "no"
+    last_update: "2026-04-04"
+  oeis: ["N/A"]
+  tags: ["number theory", "divisors", "primitive sets"]
