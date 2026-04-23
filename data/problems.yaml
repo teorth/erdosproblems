@@ -257,8 +257,8 @@
 - number: "24"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-04-23"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -8400,8 +8400,8 @@
 - number: "760"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-04-23"
   oeis: ["N/A"]
   formalized:
     state: "no"
