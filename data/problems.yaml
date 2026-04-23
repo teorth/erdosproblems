@@ -1811,8 +1811,8 @@
 - number: "164"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-04-23"
   oeis: ["A137245"]
   formalized:
     state: "no"
