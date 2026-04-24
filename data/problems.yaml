@@ -11202,7 +11202,7 @@
 - number: "1014"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2026-04-24"
   formalized:
     state: "no"
