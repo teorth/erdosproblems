@@ -11202,8 +11202,8 @@
 - number: "1014"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-09-10"
+    state: "proved (Lean)"
+    last_update: "2026-04-24"
   formalized:
     state: "no"
     last_update: "2025-09-10"
@@ -12109,8 +12109,8 @@
 - number: "1096"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-10-18"
+    state: "proved"
+    last_update: "2026-04-24"
   formalized:
     state: "no"
     last_update: "2025-09-28"
@@ -13234,8 +13234,8 @@
 - number: "1198"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-04-04"
+    state: "disproved"
+    last_update: "2026-04-24"
   formalized:
     state: "no"
     last_update: "2026-04-04"
