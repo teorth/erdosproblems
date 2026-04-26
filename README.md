@@ -27,7 +27,7 @@ There are 1217 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [319](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [96](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [126](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [127](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [53](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [75](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [13](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1217 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [644](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [643](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [406](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1188,7 +1188,7 @@ There are 1217 problems in total, of which
 | [1135](https://www.erdosproblems.com/1135) | $500 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1135.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1135) | [A006370](https://oeis.org/A006370), [A008908](https://oeis.org/A008908) | [number theory](https://www.erdosproblems.com/tags/number%20theory) | Collatz conjecture |
 | [1136](https://www.erdosproblems.com/1136) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1136) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1137](https://www.erdosproblems.com/1137) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1137.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1137) | [A083550](https://oeis.org/A083550), [A005250](https://oeis.org/A005250) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [1138](https://www.erdosproblems.com/1138) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1138) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
+| [1138](https://www.erdosproblems.com/1138) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1138) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [1139](https://www.erdosproblems.com/1139) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1139.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1139) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [1140](https://www.erdosproblems.com/1140) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1140) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1141](https://www.erdosproblems.com/1141) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1141.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1141) | [A214583](https://oeis.org/A214583) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
