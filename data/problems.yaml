@@ -11533,8 +11533,8 @@
 - number: "1044"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2026-01-14"
+    state: "solved (Lean)"
+    last_update: "2026-04-28"
   formalized:
     state: "no"
     last_update: "2025-09-10"
