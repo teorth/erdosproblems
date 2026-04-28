@@ -30,7 +30,7 @@ There are 1217 problems in total, of which
 - [127](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [54](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [76](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
-  - [13](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
+  - [14](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
 - 3 are known to be independent of the ZFC axioms of mathematics. (independent)
@@ -1094,7 +1094,7 @@ There are 1217 problems in total, of which
 | [1041](https://www.erdosproblems.com/1041) | no | falsifiable | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1041.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1041) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1042](https://www.erdosproblems.com/1042) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1042) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1043](https://www.erdosproblems.com/1043) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1043.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1043) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1044](https://www.erdosproblems.com/1044) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1044) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
+| [1044](https://www.erdosproblems.com/1044) | no | solved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1044) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1045](https://www.erdosproblems.com/1045) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1045) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1046](https://www.erdosproblems.com/1046) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1046) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1047](https://www.erdosproblems.com/1047) | no | disproved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1047) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
