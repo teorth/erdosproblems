@@ -13201,8 +13201,8 @@
 - number: "1195"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-04-04"
+    state: "solved"
+    last_update: "2026-04-28"
   formalized:
     state: "no"
     last_update: "2026-04-04"
