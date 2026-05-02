@@ -12131,8 +12131,8 @@
 - number: "1098"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-10-18"
+    state: "proved (Lean)"
+    last_update: "2026-05-02"
   formalized:
     state: "no"
     last_update: "2025-09-28"
