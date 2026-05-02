@@ -9901,7 +9901,7 @@
 - number: "896"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
