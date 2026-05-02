@@ -29,7 +29,7 @@ There are 1217 problems in total, of which
   - [100](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [127](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [54](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [79](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- [80](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [15](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -37,7 +37,7 @@ There are 1217 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [638](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [637](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [407](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -946,7 +946,7 @@ There are 1217 problems in total, of which
 | [893](https://www.erdosproblems.com/893) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/893.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=893) | [A046801](https://oeis.org/A046801), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [divisors](https://www.erdosproblems.com/tags/divisors) |  |
 | [894](https://www.erdosproblems.com/894) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=894) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [895](https://www.erdosproblems.com/895) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=895) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics), [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [896](https://www.erdosproblems.com/896) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=896) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [896](https://www.erdosproblems.com/896) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=896) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [897](https://www.erdosproblems.com/897) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/897.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=897) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [898](https://www.erdosproblems.com/898) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=898) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) | Erdős-Mordell inequality |
 | [899](https://www.erdosproblems.com/899) | no | proved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/899.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=899) | N/A | [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
