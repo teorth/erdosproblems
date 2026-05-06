@@ -7062,8 +7062,8 @@
 - number: "639"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-05-06"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -7671,8 +7671,8 @@
 - number: "694"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-05-06"
   oeis: ["possible"]
   formalized:
     state: "yes"
