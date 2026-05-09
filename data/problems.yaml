@@ -8821,7 +8821,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2026-05-08"
-  oeis: ["possible"]
+  oeis: ["A116446"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
