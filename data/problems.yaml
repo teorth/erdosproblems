@@ -3643,8 +3643,8 @@
 - number: "330"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-05-11"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -7693,8 +7693,8 @@
 - number: "696"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-05-11"
   oeis: ["possible"]
   formalized:
     state: "no"
