@@ -41,10 +41,10 @@ There are 1217 problems in total, of which
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [413](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [297](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 376 distinct [OEIS](https://oeis.org/) sequences, with a total of 444 links created.
+- [298](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 377 distinct [OEIS](https://oeis.org/) sequences, with a total of 445 links created.
   - 77 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [335](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 292 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [334](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 291 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -848,7 +848,7 @@ There are 1217 problems in total, of which
 | [795](https://www.erdosproblems.com/795) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=795) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [796](https://www.erdosproblems.com/796) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=796) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [797](https://www.erdosproblems.com/797) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=797) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
-| [798](https://www.erdosproblems.com/798) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=798) | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
+| [798](https://www.erdosproblems.com/798) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=798) | [A116446](https://oeis.org/A116446) | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [799](https://www.erdosproblems.com/799) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=799) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [chromatic number](https://www.erdosproblems.com/tags/chromatic%20number) |  |
 | [800](https://www.erdosproblems.com/800) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=800) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [801](https://www.erdosproblems.com/801) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=801) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
