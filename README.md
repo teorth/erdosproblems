@@ -40,7 +40,7 @@ There are 1217 problems in total, of which
 - [632](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
-- [416](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [417](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [298](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 377 distinct [OEIS](https://oeis.org/) sequences, with a total of 445 links created.
   - 77 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [334](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1253,7 +1253,7 @@ There are 1217 problems in total, of which
 | [1200](https://www.erdosproblems.com/1200) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1200) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [1201](https://www.erdosproblems.com/1201) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1201) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [1202](https://www.erdosproblems.com/1202) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1202) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
-| [1203](https://www.erdosproblems.com/1203) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1203) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [1203](https://www.erdosproblems.com/1203) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1203.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1203) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1204](https://www.erdosproblems.com/1204) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1204) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1205](https://www.erdosproblems.com/1205) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1205) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1206](https://www.erdosproblems.com/1206) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1206) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
