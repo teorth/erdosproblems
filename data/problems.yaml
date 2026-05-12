@@ -3643,7 +3643,7 @@
 - number: "330"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2026-05-11"
   oeis: ["N/A"]
   formalized:
@@ -7693,7 +7693,7 @@
 - number: "696"
   prize: "no"
   status:
-    state: "solved"
+    state: "solved (Lean)"
     last_update: "2026-05-11"
   oeis: ["possible"]
   formalized:
