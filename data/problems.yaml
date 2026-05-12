@@ -456,7 +456,7 @@
 - number: "42"
   prize: "no"
   status:
-    state: "disproved (Lean)"
+    state: "solved (Lean)"
     last_update: "2026-05-10"
   oeis: ["N/A"]
   formalized:
@@ -12065,7 +12065,7 @@
 - number: "1092"
   prize: "no"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-10-17"
   formalized:
     state: "yes"
