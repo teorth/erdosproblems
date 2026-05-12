@@ -13305,7 +13305,7 @@
   formalized:
     state: "no"
     last_update: "2026-04-04"
-  oeis: ["possible"]
+  oeis: ["A008407", "A135311", "possible"]
   tags: ["number theory"]
 
 - number: "1205"
