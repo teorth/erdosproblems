@@ -12573,8 +12573,8 @@
 - number: "1138"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2026-04-25"
+    state: "disproved (Lean)"
+    last_update: "2026-05-11"
   formalized:
     state: "no"
     last_update: "2026-01-23"
