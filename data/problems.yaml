@@ -3874,8 +3874,8 @@
 - number: "351"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2026-05-10"
+    state: "proved (Lean)"
+    last_update: "2026-05-12"
   oeis: ["N/A"]
   formalized:
     state: "yes"
