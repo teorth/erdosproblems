@@ -12202,7 +12202,7 @@
   formalized:
     state: "yes"
     last_update: "2025-12-11"
-  oeis: ["possible"]
+  oeis: ["A292528"]
   tags: ["graph theory", "chromatic number"]
 
 - number: "1105"
