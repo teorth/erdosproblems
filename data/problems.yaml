@@ -8455,8 +8455,8 @@
 - number: "765"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-05-16"
   oeis: ["A006855"]
   formalized:
     state: "no"
