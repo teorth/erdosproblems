@@ -989,7 +989,7 @@
 - number: "90"
   prize: "$500"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["A186705"]
   formalized:
