@@ -990,7 +990,7 @@
   prize: "$500"
   status:
     state: "disproved"
-    last_update: "2025-08-31"
+    last_update: "2026-05-20"
   oeis: ["A186705"]
   formalized:
     state: "yes"
