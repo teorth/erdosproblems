@@ -990,7 +990,7 @@
   prize: "$500"
   status:
     state: "disproved"
-    last_update: "2025-08-31"
+    last_update: "2026-05-21"
   oeis: ["A186705"]
   formalized:
     state: "yes"
@@ -1012,8 +1012,8 @@
 - number: "92"
   prize: "$500"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-05-21"
   oeis: ["possible"]
   formalized:
     state: "yes"
