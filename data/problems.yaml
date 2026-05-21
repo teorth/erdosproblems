@@ -6555,8 +6555,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-05-21"
   tags: ["set theory", "graph theory", "hypergraphs", "chromatic number"]
 
 - number: "594"
