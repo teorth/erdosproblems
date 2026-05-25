@@ -40,7 +40,7 @@ There are 1217 problems in total, of which
 - [627](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
-- [425](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [426](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [311](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 385 distinct [OEIS](https://oeis.org/) sequences, with a total of 462 links created.
   - 78 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [326](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1217,7 +1217,7 @@ There are 1217 problems in total, of which
 | [1164](https://www.erdosproblems.com/1164) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1164) | N/A | [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [1165](https://www.erdosproblems.com/1165) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1165) | N/A | [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [1166](https://www.erdosproblems.com/1166) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1166) | possible | [probability](https://www.erdosproblems.com/tags/probability) |  |
-| [1167](https://www.erdosproblems.com/1167) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1167) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
+| [1167](https://www.erdosproblems.com/1167) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1167.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1167) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [1168](https://www.erdosproblems.com/1168) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1168) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1169](https://www.erdosproblems.com/1169) | no | not disprovable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1169) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [1170](https://www.erdosproblems.com/1170) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1170) | N/A | [set theory](https://www.erdosproblems.com/tags/set%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
