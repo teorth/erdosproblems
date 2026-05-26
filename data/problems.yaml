@@ -13413,8 +13413,8 @@
     state: "proved"
     last_update: "2026-04-21"
   formalized:
-    state: "no"
-    last_update: "2026-04-04"
+    state: "yes"
+    last_update: "2026-05-26"
   oeis: ["N/A"]
   tags: ["number theory"]
 
