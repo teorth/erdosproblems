@@ -170,8 +170,8 @@
     last_update: "2026-02-24"
   oeis: ["A006285"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-05-26"
   tags: ["number theory", "additive basis", "primes"]
 
 - number: "17"
