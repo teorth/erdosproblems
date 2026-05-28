@@ -2231,7 +2231,7 @@
 - number: "202"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["A389975"]
   formalized:
@@ -13146,7 +13146,7 @@
 - number: "1190"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2026-04-04"
   formalized:
     state: "no"
