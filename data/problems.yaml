@@ -2232,7 +2232,7 @@
   prize: "no"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-05-28"
   oeis: ["A389975"]
   formalized:
     state: "no"
@@ -6742,7 +6742,7 @@
   prize: "no"
   status:
     state: "proved"
-    last_update: "2025-08-31"
+    last_update: "2026-05-28"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -9814,7 +9814,7 @@
   prize: "no"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-05-28"
   oeis: ["A387584"]
   formalized:
     state: "yes"
@@ -13147,7 +13147,7 @@
   prize: "no"
   status:
     state: "solved"
-    last_update: "2026-04-04"
+    last_update: "2026-05-28"
   formalized:
     state: "no"
     last_update: "2026-04-04"
