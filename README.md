@@ -25,7 +25,7 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1217 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [323](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [324](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [108](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [132](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [56](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1217 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [624](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [623](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [429](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -660,7 +660,7 @@ There are 1217 problems in total, of which
 | [607](https://www.erdosproblems.com/607) | $250 | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=607) | possible | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [608](https://www.erdosproblems.com/608) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=608) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [609](https://www.erdosproblems.com/609) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=609) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
-| [610](https://www.erdosproblems.com/610) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=610) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [610](https://www.erdosproblems.com/610) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=610) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [611](https://www.erdosproblems.com/611) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=611) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [612](https://www.erdosproblems.com/612) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=612) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [613](https://www.erdosproblems.com/613) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/613.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=613) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
