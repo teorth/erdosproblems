@@ -6741,7 +6741,7 @@
 - number: "610"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
