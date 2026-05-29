@@ -27,7 +27,7 @@ There are 1217 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [324](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [108](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [132](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- [133](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [56](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [85](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [22](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
@@ -37,7 +37,7 @@ There are 1217 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [623](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [622](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [429](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -102,7 +102,7 @@ There are 1217 problems in total, of which
 | [49](https://www.erdosproblems.com/49) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=49) | [A365339](https://oeis.org/A365339), [A365474](https://oeis.org/A365474) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [primes](https://www.erdosproblems.com/tags/primes) |  |
 | [50](https://www.erdosproblems.com/50) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/50.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=50) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [51](https://www.erdosproblems.com/51) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/51.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=51) | [A002202](https://oeis.org/A002202), [A014197](https://oeis.org/A014197) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [52](https://www.erdosproblems.com/52) | $250 | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/52.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=52) | [A263996](https://oeis.org/A263996) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sum-product problem |
+| [52](https://www.erdosproblems.com/52) | $250 | disproved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/52.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=52) | [A263996](https://oeis.org/A263996) | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) | sum-product problem |
 | [53](https://www.erdosproblems.com/53) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=53) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [54](https://www.erdosproblems.com/54) | $100 | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=54) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [55](https://www.erdosproblems.com/55) | $250 | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=55) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
