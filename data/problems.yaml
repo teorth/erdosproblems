@@ -566,7 +566,7 @@
 - number: "52"
   prize: "$250"
   status:
-    state: "disproved"
+    state: "open"
     last_update: "2026-05-28"
   oeis: ["A263996"]
   formalized:
