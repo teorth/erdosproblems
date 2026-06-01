@@ -29,7 +29,7 @@ There are 1217 problems in total, of which
   - [108](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [132](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [56](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [85](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- [86](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [22](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -37,7 +37,7 @@ There are 1217 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [623](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [622](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [430](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -1212,7 +1212,7 @@ There are 1217 problems in total, of which
 | [1159](https://www.erdosproblems.com/1159) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1159) | N/A | [combinatorics](https://www.erdosproblems.com/tags/combinatorics) |  |
 | [1160](https://www.erdosproblems.com/1160) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1160) | [A000001](https://oeis.org/A000001) | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
 | [1161](https://www.erdosproblems.com/1161) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1161) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
-| [1162](https://www.erdosproblems.com/1162) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1162) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) |  |
+| [1162](https://www.erdosproblems.com/1162) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1162) | possible | [group theory](https://www.erdosproblems.com/tags/group%20theory) | Roney-Dougal and Tracey (arXiv:2503.05416) prove the asymptotic formula for the number of subgroups of S_n and give random-subgroup order results, including Theorem 6. |
 | [1163](https://www.erdosproblems.com/1163) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1163) | N/A | [group theory](https://www.erdosproblems.com/tags/group%20theory) | ambiguous statement |
 | [1164](https://www.erdosproblems.com/1164) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1164) | N/A | [probability](https://www.erdosproblems.com/tags/probability) |  |
 | [1165](https://www.erdosproblems.com/1165) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1165) | N/A | [probability](https://www.erdosproblems.com/tags/probability) |  |

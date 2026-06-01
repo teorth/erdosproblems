@@ -12837,12 +12837,13 @@
 - number: "1162"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "solved"
+    last_update: "2026-06-01"
   formalized:
     state: "no"
     last_update: "2026-01-23"
   oeis: ["possible"]
+  comments: "Roney-Dougal and Tracey (arXiv:2503.05416) prove the asymptotic formula for the number of subgroups of S_n and give random-subgroup order results, including Theorem 6."
   tags: ["group theory"]
 
 - number: "1163"
