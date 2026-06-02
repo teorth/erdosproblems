@@ -2100,7 +2100,7 @@
   prize: "no"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-06-02"
   oeis: ["possible"]
   formalized:
     state: "no"
