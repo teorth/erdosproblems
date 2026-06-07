@@ -6741,8 +6741,8 @@
 - number: "610"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2026-05-28"
+    state: "proved (Lean)"
+    last_update: "2026-06-07"
   oeis: ["possible"]
   formalized:
     state: "no"
