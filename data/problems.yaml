@@ -10433,6 +10433,7 @@
     state: "open"
     last_update: "2025-08-31"
   oeis: ["N/A"]
+  comments: "Dirac's conjecture; k=4 remains open. Skottova-Steiner [SkSt25] ask whether a 6-regular (4,1)-graph exists; verified computations rule this out on at most 13 vertices."
   formalized:
     state: "yes"
     last_update: "2025-09-02"
