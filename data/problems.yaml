@@ -778,8 +778,8 @@
 - number: "71"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-06-07"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -989,8 +989,8 @@
 - number: "90"
   prize: "$500"
   status:
-    state: "disproved"
-    last_update: "2026-05-21"
+    state: "disproved (Lean)"
+    last_update: "2026-06-07"
   oeis: ["A186705"]
   formalized:
     state: "yes"
@@ -6741,8 +6741,8 @@
 - number: "610"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2026-05-28"
+    state: "proved (Lean)"
+    last_update: "2026-06-07"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -10243,8 +10243,8 @@
 - number: "927"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-06-07"
   oeis: ["possible"]
   formalized:
     state: "no"
