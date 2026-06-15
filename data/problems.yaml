@@ -13349,7 +13349,7 @@
   formalized:
     state: "no"
     last_update: "2026-04-04"
-  oeis: ["possible"]
+  oeis: ["A193838", "A271490", "possible"]
   tags: ["geometry", "distances"]
 
 - number: "1209"
