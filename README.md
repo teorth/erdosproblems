@@ -41,10 +41,10 @@ There are 1217 problems in total, of which
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [443](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [311](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 385 distinct [OEIS](https://oeis.org/) sequences, with a total of 462 links created.
+- [312](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 387 distinct [OEIS](https://oeis.org/) sequences, with a total of 464 links created.
   - 78 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [326](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 278 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 277 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1258,7 +1258,7 @@ There are 1217 problems in total, of which
 | [1205](https://www.erdosproblems.com/1205) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1205) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1206](https://www.erdosproblems.com/1206) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1206) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [sidon sets](https://www.erdosproblems.com/tags/sidon%20sets) |  |
 | [1207](https://www.erdosproblems.com/1207) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1207) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
-| [1208](https://www.erdosproblems.com/1208) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1208) | possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
+| [1208](https://www.erdosproblems.com/1208) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1208) | [A193838](https://oeis.org/A193838), [A271490](https://oeis.org/A271490), possible | [geometry](https://www.erdosproblems.com/tags/geometry), [distances](https://www.erdosproblems.com/tags/distances) |  |
 | [1209](https://www.erdosproblems.com/1209) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1209.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1209) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1210](https://www.erdosproblems.com/1210) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1210.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1210) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [1211](https://www.erdosproblems.com/1211) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1211) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
