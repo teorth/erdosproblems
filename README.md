@@ -25,8 +25,8 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1217 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [324](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
-  - [110](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
+- [325](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+  - [111](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [132](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [58](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
 - [87](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
@@ -37,7 +37,7 @@ There are 1217 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [621](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [620](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
 - [446](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
@@ -766,7 +766,7 @@ There are 1217 problems in total, of which
 | [713](https://www.erdosproblems.com/713) | $500 | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=713) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [714](https://www.erdosproblems.com/714) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=714) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [turan number](https://www.erdosproblems.com/tags/turan%20number) |  |
 | [715](https://www.erdosproblems.com/715) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=715) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
-| [716](https://www.erdosproblems.com/716) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=716) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) | Ruzsa-Szemerédi problem |
+| [716](https://www.erdosproblems.com/716) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=716) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) | Ruzsa-Szemerédi problem |
 | [717](https://www.erdosproblems.com/717) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=717) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [718](https://www.erdosproblems.com/718) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=718) | N/A | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [719](https://www.erdosproblems.com/719) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=719) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [hypergraphs](https://www.erdosproblems.com/tags/hypergraphs) |  |
@@ -1036,7 +1036,7 @@ There are 1217 problems in total, of which
 | [983](https://www.erdosproblems.com/983) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=983) | possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [984](https://www.erdosproblems.com/984) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=984) | N/A | [arithmetic progressions](https://www.erdosproblems.com/tags/arithmetic%20progressions), [additive combinatorics](https://www.erdosproblems.com/tags/additive%20combinatorics) |  |
 | [985](https://www.erdosproblems.com/985) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/985.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=985) | [A002233](https://oeis.org/A002233), [A219429](https://oeis.org/A219429), [A103309](https://oeis.org/A103309), possible | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [986](https://www.erdosproblems.com/986) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=986) | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
+| [986](https://www.erdosproblems.com/986) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=986) | [A000791](https://oeis.org/A000791), [A059442](https://oeis.org/A059442) | [graph theory](https://www.erdosproblems.com/tags/graph%20theory), [ramsey theory](https://www.erdosproblems.com/tags/ramsey%20theory) |  |
 | [987](https://www.erdosproblems.com/987) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=987) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [988](https://www.erdosproblems.com/988) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=988) | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [989](https://www.erdosproblems.com/989) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=989) | possible | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
