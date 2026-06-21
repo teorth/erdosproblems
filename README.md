@@ -40,7 +40,7 @@ There are 1217 problems in total, of which
 - [620](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 7 have ambiguous statements.
 - 0 have a literature review requested.
-- [448](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
+- [449](https://teorth.github.io/erdosproblems/?formalized=yes) have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
 - [312](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 387 distinct [OEIS](https://oeis.org/) sequences, with a total of 464 links created.
   - 78 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [326](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
@@ -1169,7 +1169,7 @@ There are 1217 problems in total, of which
 | [1116](https://www.erdosproblems.com/1116) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1116) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1117](https://www.erdosproblems.com/1117) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1117) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1118](https://www.erdosproblems.com/1118) | no | solved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1118) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
-| [1119](https://www.erdosproblems.com/1119) | no | independent | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1119) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
+| [1119](https://www.erdosproblems.com/1119) | no | independent | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/1119.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1119) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [set theory](https://www.erdosproblems.com/tags/set%20theory) |  |
 | [1120](https://www.erdosproblems.com/1120) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1120) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [1121](https://www.erdosproblems.com/1121) | no | proved (Lean) | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1121) | N/A | [geometry](https://www.erdosproblems.com/tags/geometry) |  |
 | [1122](https://www.erdosproblems.com/1122) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=1122) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
