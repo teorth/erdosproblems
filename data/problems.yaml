@@ -7913,7 +7913,7 @@
 - number: "716"
   prize: "no"
   status:
-    state: "proved"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
@@ -10894,7 +10894,7 @@
 - number: "986"
   prize: "no"
   status:
-    state: "open"
+    state: "proved"
     last_update: "2025-08-31"
   oeis: ["A000791", "A059442"]
   formalized:
