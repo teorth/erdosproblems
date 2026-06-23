@@ -6841,7 +6841,7 @@
   prize: "no"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-06-13"
   oeis: ["N/A"]
   formalized:
     state: "yes"
