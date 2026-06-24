@@ -10895,7 +10895,7 @@
   prize: "no"
   status:
     state: "proved"
-    last_update: "2025-08-31"
+    last_update: "2026-06-21"
   oeis: ["A000791", "A059442"]
   formalized:
     state: "no"
