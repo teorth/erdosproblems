@@ -2308,8 +2308,8 @@
 - number: "209"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3621,8 +3621,8 @@
 - number: "328"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3896,8 +3896,8 @@
 - number: "353"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4449,8 +4449,8 @@
 - number: "403"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5122,8 +5122,8 @@
 - number: "464"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5659,8 +5659,8 @@
 - number: "512"
   prize: "no"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-06-22"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6840,8 +6840,8 @@
 - number: "619"
   prize: "no"
   status:
-    state: "solved"
-    last_update: "2026-06-15"
+    state: "solved (Lean)"
+    last_update: "2026-06-22"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -12528,8 +12528,8 @@
 - number: "1134"
   prize: "£10"
   status:
-    state: "disproved"
-    last_update: "2026-01-11"
+    state: "disproved (Lean)"
+    last_update: "2026-06-21"
   formalized:
     state: "no"
     last_update: "2026-01-11"
