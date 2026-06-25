@@ -9808,6 +9808,7 @@
   formalized:
     state: "yes"
     last_update: "2026-01-13"
+  comments: "preprint doi.org/10.5281/zenodo.20651083; Lean companion formalization github.com/jarekkoch-hub/erdos887-lean"
   tags: ["number theory", "divisors"]
 
 - number: "888"
