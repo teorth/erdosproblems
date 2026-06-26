@@ -1483,8 +1483,8 @@
     last_update: "2026-02-07"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["graph theory"]
 
 - number: "135"
@@ -1971,8 +1971,8 @@
     last_update: "2026-04-21"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["discrepancy"]
 
 - number: "179"
@@ -5446,8 +5446,8 @@
     last_update: "2025-12-27"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["number theory"]
 
 - number: "494"
@@ -5884,8 +5884,8 @@
     last_update: "2026-01-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["number theory", "ramsey theory"]
 
 - number: "533"
@@ -8061,8 +8061,8 @@
     last_update: "2026-01-10"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["number theory", "factorials"]
 
 - number: "730"
@@ -9630,8 +9630,8 @@
     last_update: "2026-01-05"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["number theory", "additive basis"]
 
 - number: "872"
@@ -9994,8 +9994,8 @@
     last_update: "2026-04-18"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["graph theory"]
 
 - number: "905"
@@ -10203,8 +10203,8 @@
     last_update: "2026-04-20"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-06-26"
   tags: ["graph theory", "chromatic number"]
 
 - number: "924"
@@ -12046,8 +12046,8 @@
     state: "proved (Lean)"
     last_update: "2026-02-27"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-06-26"
   oeis: ["N/A"]
   tags: ["geometry", "ramsey theory"]
 
@@ -12432,8 +12432,8 @@
     state: "proved (Lean)"
     last_update: "2026-04-11"
   formalized:
-    state: "no"
-    last_update: "2025-12-30"
+    state: "yes"
+    last_update: "2026-06-26"
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -12443,8 +12443,8 @@
     state: "proved (Lean)"
     last_update: "2026-02-27"
   formalized:
-    state: "no"
-    last_update: "2025-12-30"
+    state: "yes"
+    last_update: "2026-06-26"
   oeis: ["N/A"]
   tags: ["analysis"]
 
