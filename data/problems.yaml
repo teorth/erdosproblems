@@ -4868,8 +4868,8 @@
 - number: "441"
   prize: "no"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-06-25"
   oeis: ["A068509"]
   formalized:
     state: "no"
