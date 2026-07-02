@@ -2445,8 +2445,8 @@
     last_update: "2026-01-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["number theory", "additive basis"]
 
 - number: "222"
@@ -9641,8 +9641,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["number theory", "primitive sets"]
 
 - number: "873"
