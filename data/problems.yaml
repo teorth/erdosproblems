@@ -2202,8 +2202,8 @@
     last_update: "2026-02-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["arithmetic progressions"]
 
 - number: "200"
@@ -2478,8 +2478,8 @@
     last_update: "2026-01-14"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["geometry"]
 
 - number: "225"
@@ -2500,8 +2500,8 @@
     last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["analysis"]
 
 - number: "227"
@@ -2721,8 +2721,8 @@
     last_update: "2025-12-28"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["number theory"]
 
 - number: "247"
@@ -3273,8 +3273,8 @@
     last_update: "2026-04-22"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["number theory", "unit fractions"]
 
 - number: "297"
@@ -4011,8 +4011,8 @@
     last_update: "2026-03-10"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-02"
   tags: ["number theory"]
 
 - number: "364"
