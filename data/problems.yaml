@@ -4271,7 +4271,7 @@
 - number: "387"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -9560,7 +9560,7 @@
 - number: "865"
   prize: "no"
   status:
-    state: "open"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
