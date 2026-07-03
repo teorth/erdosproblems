@@ -4272,7 +4272,7 @@
   prize: "no"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-07-02"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -9561,7 +9561,7 @@
   prize: "no"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2026-07-02"
   oeis: ["possible"]
   formalized:
     state: "yes"
