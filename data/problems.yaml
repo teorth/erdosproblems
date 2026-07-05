@@ -4947,7 +4947,7 @@
   status:
     state: "disproved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A397433"]
   formalized:
     state: "yes"
     last_update: "2026-06-23"
