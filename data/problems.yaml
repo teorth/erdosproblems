@@ -338,8 +338,8 @@
     last_update: "2025-11-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory", "additive basis"]
 
 - number: "32"
@@ -371,8 +371,8 @@
     last_update: "2026-02-05"
   oeis: ["A389241", "A234813", "A390187"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory"]
 
 - number: "35"
@@ -515,8 +515,8 @@
     last_update: "2025-11-28"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-12-02"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory", "unit fractions"]
 
 - number: "48"
@@ -3097,8 +3097,8 @@
     last_update: "2026-04-18"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory", "covering systems"]
 
 - number: "281"
