@@ -6663,7 +6663,7 @@
 - number: "603"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -10474,7 +10474,7 @@
 - number: "948"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
