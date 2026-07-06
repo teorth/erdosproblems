@@ -3108,8 +3108,8 @@
     last_update: "2026-01-19"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory", "covering systems"]
 
 - number: "282"
@@ -4629,8 +4629,8 @@
     last_update: "2026-01-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory", "factorials"]
 
 - number: "420"
@@ -5004,8 +5004,8 @@
     last_update: "2026-01-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory"]
 
 - number: "454"
@@ -5259,8 +5259,8 @@
     last_update: "2025-12-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory", "additive combinatorics"]
 
 - number: "477"
@@ -5741,8 +5741,8 @@
     last_update: "2026-04-19"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["analysis"]
 
 - number: "520"
@@ -5972,8 +5972,8 @@
     last_update: "2026-04-15"
   oeis: ["A034463"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-06"
   tags: ["number theory"]
 
 - number: "541"
