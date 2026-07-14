@@ -8764,7 +8764,7 @@
 - number: "793"
   prize: "no"
   status:
-    state: "open"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
