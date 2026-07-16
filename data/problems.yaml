@@ -3533,7 +3533,7 @@
 - number: "320"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["A072207"]
   formalized:
@@ -3544,7 +3544,7 @@
 - number: "321"
   prize: "no"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["A384927", "A391592"]
   formalized:
