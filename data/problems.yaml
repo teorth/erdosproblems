@@ -12589,7 +12589,7 @@
   formalized:
     state: "yes"
     last_update: "2026-01-28"
-  oeis: ["possible"]
+  oeis: ["A037143", "A101041"]
   tags: ["number theory", "primes"]
 
 - number: "1140"
