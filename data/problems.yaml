@@ -1357,7 +1357,7 @@
 - number: "123"
   prize: "$250"
   status:
-    state: "open"
+    state: "proved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
