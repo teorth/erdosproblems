@@ -2454,7 +2454,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A256435"]
+  oeis: ["A001481", "A256435"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
