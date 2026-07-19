@@ -1311,7 +1311,7 @@
 - number: "119"
   prize: "$100"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
