@@ -782,8 +782,8 @@
     last_update: "2026-06-07"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["graph theory", "cycles"]
 
 - number: "72"
@@ -2279,8 +2279,8 @@
     last_update: "2026-04-28"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["number theory", "unit fractions"]
 
 - number: "207"
@@ -2312,8 +2312,8 @@
     last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["geometry"]
 
 - number: "210"
@@ -3625,8 +3625,8 @@
     last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["number theory", "additive combinatorics"]
 
 - number: "329"
@@ -3900,8 +3900,8 @@
     last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["geometry"]
 
 - number: "354"
@@ -4453,8 +4453,8 @@
     last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["number theory", "factorials"]
 
 - number: "404"
@@ -4706,8 +4706,8 @@
     last_update: "2026-04-20"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["graph theory"]
 
 - number: "427"
@@ -5126,8 +5126,8 @@
     last_update: "2026-06-21"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["number theory"]
 
 - number: "465"
@@ -5663,8 +5663,8 @@
     last_update: "2026-06-22"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   comments: "Littlewood's conjecture"
   tags: ["analysis"]
 
@@ -6867,8 +6867,8 @@
     last_update: "2026-04-19"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["graph theory"]
 
 - number: "622"
@@ -7066,8 +7066,8 @@
     last_update: "2026-05-06"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "640"
@@ -7165,8 +7165,8 @@
     last_update: "2026-02-04"
   oeis: ["A391750"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-07-22"
   tags: ["number theory"]
 
 - number: "649"
