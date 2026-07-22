@@ -5178,8 +5178,8 @@
 - number: "469"
   prize: "no"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-07-21"
   oeis: ["A006036", "A119425", "possible"]
   formalized:
     state: "yes"
