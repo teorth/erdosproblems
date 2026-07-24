@@ -336,10 +336,10 @@ function extractFormalizedCounts(problems) {
 /**
  * Extract OEIS counts from problems array
  * @param {Array<Object>} problems - Array of problem objects
- * @returns {Object} Object with linked/na/possible/inprogress counts
+ * @returns {Object} Object with linked/na/possible/submitted/inprogress counts
  */
 function extractOEISCounts(problems) {
-    const counts = { linked: 0, na: 0, possible: 0, inprogress: 0 };
+    const counts = { linked: 0, na: 0, possible: 0, submitted: 0, inprogress: 0 };
     problems.forEach(problem => {
         const oeis = problem.oeis || [];
         const oeisPattern = /^A\d{6}$/;
@@ -352,6 +352,9 @@ function extractOEISCounts(problems) {
         }
         if (oeis.includes('possible')) {
             counts.possible++;
+        }
+        if (oeis.includes('submitted')) {
+            counts.submitted++;
         }
         if (oeis.includes('in progress')) {
             counts.inprogress++;
