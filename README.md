@@ -32,8 +32,8 @@ There are 1217 problems in total, of which
 - [93](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [23](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
-- 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
-- 3 are known to be independent of the ZFC axioms of mathematics. (independent)
+- [4](https://teorth.github.io/erdosproblems/?status=not+disprovable) appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
+- [3](https://teorth.github.io/erdosproblems/?status=independent) are known to be independent of the ZFC axioms of mathematics. (independent)
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [27](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
