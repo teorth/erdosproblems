@@ -25,11 +25,11 @@ Several of the problems have received assistance from various AI tools.  A list 
 <!-- TABLE:START -->
 There are 1217 problems in total, of which
 - [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [330](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- 330 have been proved.
   - [120](https://teorth.github.io/erdosproblems/?status=proved+%28Lean%29) of these proofs have been formalized in [Lean](https://lean-lang.org/).
-- [132](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
+- 132 have been disproved.
   - [62](https://teorth.github.io/erdosproblems/?status=disproved+%28Lean%29) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [93](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- 93 have been otherwise solved.
   - [23](https://teorth.github.io/erdosproblems/?status=solved+%28Lean%29) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - 4 appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
