@@ -295,11 +295,14 @@ def build_table(rows):
     lines = []
     lines.append(f"There are {len(rows)} problems in total, of which")
     lines.append(f"- {filter_link(count_prize(rows), 'prize', 'yes')} are attached to a monetary prize.")
-    lines.append(f"- {filter_link(count_proved(rows)+count_proved_lean(rows), 'status', 'proved')} have been proved.")
+    # Aggregate proved/disproved/solved counts mix ordinary + Lean statuses; the
+    # site filter is exact-match only, so linking to ?status=proved would omit
+    # "proved (Lean)" rows. Keep aggregates as plain text; link the Lean subcounts.
+    lines.append(f"- {count_proved(rows)+count_proved_lean(rows)} have been proved.")
     lines.append(f"  - {filter_link(count_proved_lean(rows), 'status', 'proved (Lean)')} of these proofs have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {filter_link(count_disproved(rows)+count_disproved_lean(rows), 'status', 'disproved')} have been disproved.")
+    lines.append(f"- {count_disproved(rows)+count_disproved_lean(rows)} have been disproved.")
     lines.append(f"  - {filter_link(count_disproved_lean(rows), 'status', 'disproved (Lean)')} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {filter_link(count_solved(rows)+count_solved_lean(rows), 'status', 'solved')} have been otherwise solved.")
+    lines.append(f"- {count_solved(rows)+count_solved_lean(rows)} have been otherwise solved.")
     lines.append(f"  - {filter_link(count_solved_lean(rows), 'status', 'solved (Lean)')} of these solutions have been formalized in [Lean](https://lean-lang.org/).")
     lines.append(f"- {filter_link(count_not_provable(rows), 'status', 'not provable')} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
     lines.append(f"- {count_not_disprovable(rows)} appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)")
