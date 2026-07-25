@@ -14922,7 +14922,7 @@
 - number: "920"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
