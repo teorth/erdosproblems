@@ -553,6 +553,23 @@ td:last-child {
     font-style: italic;
 }
 
+/* The "(Lean)" suffix in the Status column: a solution has been formalized in
+   that proof assistant.  Marked up separately from the informal status so it
+   reads as an annotation, and carries a tooltip - and, where recorded, a link
+   to the formalization itself. */
+.formal-tag {
+    white-space: nowrap;
+    cursor: help;
+}
+
+span.formal-tag {
+    color: var(--text-secondary);
+}
+
+a.formal-tag {
+    cursor: pointer;
+}
+
 /* Links */
 a {
     color: var(--link-color);

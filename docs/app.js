@@ -198,7 +198,6 @@ function renderTable(problems) {
     const rows = problems.map(problem => {
         const number = problem.number || '';
         const prize = problem.prize || 'no';
-        const status = problem.status || {};
         const formalized = problem.formalized || {};
         const oeis = problem.oeis || [];
         const tags = problem.tags || [];
@@ -208,9 +207,9 @@ function renderTable(problems) {
             <tr>
                 <td>${renderProblemLink(number)}</td>
                 <td>${renderPrize(prize)}</td>
-                <td>${renderStatus(status)}</td>
+                <td>${renderStatus(problem)}</td>
                 <td>${renderFormalizedLink(number, formalized.state)}</td>
-                <td>${renderAIAttempts(number, status)}</td>
+                <td>${renderAIAttempts(number, problem)}</td>
                 <td>${renderOEISLinks(oeis)}</td>
                 <td>${renderTags(tags)}</td>
                 <td>${renderComments(comments)}</td>
@@ -386,7 +385,7 @@ async function initialize() {
     window._hasActiveFilters = false;
 
     // Store original dropdown option text
-    ['filter-status', 'filter-prize', 'filter-formalized', 'filter-oeis'].forEach(selectId => {
+    ['filter-status', 'filter-formal', 'filter-prize', 'filter-formalized', 'filter-oeis'].forEach(selectId => {
         const select = document.getElementById(selectId);
         if (select) {
             const options = select.querySelectorAll('option:not([value=""])');

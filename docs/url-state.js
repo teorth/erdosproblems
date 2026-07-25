@@ -9,9 +9,10 @@
  * @param {string} state.sortColumn - Column to sort by
  * @param {string} state.sortDirection - Sort direction ('asc' or 'desc')
  * @param {string} state.search - Search query
- * @param {string} state.statusFilter - Status filter value
+ * @param {string} state.statusFilter - Informal status filter value
+ * @param {string} state.formalFilter - Solution-formalization filter value
  * @param {string} state.prizeFilter - Prize filter value
- * @param {string} state.formalizedFilter - Formalized filter value
+ * @param {string} state.formalizedFilter - Statement-formalized filter value
  * @param {string} state.oeisFilter - OEIS filter value
  * @param {Array<string>} state.selectedTags - Array of selected tag values
  * @param {string} state.tagLogic - Tag logic ('any' or 'all')
@@ -34,6 +35,10 @@ function saveStateToURL(state) {
 
     if (state.statusFilter && state.statusFilter !== '') {
         params.set('status', state.statusFilter);
+    }
+
+    if (state.formalFilter && state.formalFilter !== '') {
+        params.set('formal', state.formalFilter);
     }
 
     if (state.prizeFilter && state.prizeFilter !== '') {
@@ -91,11 +96,25 @@ function loadStateFromURL() {
     const pageSizeRaw = params.get('pageSize') || '100';
     const pageSize = /^[1-9]\d*$/.test(pageSizeRaw) ? Number(pageSizeRaw) : 100;
 
+    // Backwards compatibility: links created before the status was split into
+    // an informal and a formal part used a single combined value, such as
+    // "?status=proved (Lean)".  Split those into the two parameters.
+    let statusFilter = params.get('status') || '';
+    let formalFilter = params.get('formal') || '';
+    const combined = splitCombinedStatus(statusFilter);
+    if (statusFilter && combined.formal !== UNFORMALIZED) {
+        statusFilter = combined.informal;
+        if (!formalFilter) {
+            formalFilter = combined.formal;
+        }
+    }
+
     return {
         sortColumn: params.get('sort') || 'number',
         sortDirection: params.get('dir') || 'asc',
         search: params.get('q') || '',
-        statusFilter: params.get('status') || '',
+        statusFilter,
+        formalFilter,
         prizeFilter: params.get('prize') || '',
         formalizedFilter: params.get('formalized') || '',
         oeisFilter: params.get('oeis') || '',
@@ -122,6 +141,11 @@ function restoreUIState(state) {
     const statusFilter = document.getElementById('filter-status');
     if (statusFilter) {
         statusFilter.value = state.statusFilter;
+    }
+
+    const formalFilter = document.getElementById('filter-formal');
+    if (formalFilter) {
+        formalFilter.value = state.formalFilter;
     }
 
     const prizeFilter = document.getElementById('filter-prize');
@@ -222,6 +246,7 @@ function sanitizeTagId(tag) {
 function getCurrentState() {
     const searchBox = document.getElementById('search-box');
     const statusFilter = document.getElementById('filter-status');
+    const formalFilter = document.getElementById('filter-formal');
     const prizeFilter = document.getElementById('filter-prize');
     const formalizedFilter = document.getElementById('filter-formalized');
     const oeisFilter = document.getElementById('filter-oeis');
@@ -254,6 +279,7 @@ function getCurrentState() {
         sortDirection,
         search: searchBox ? searchBox.value : '',
         statusFilter: statusFilter ? statusFilter.value : '',
+        formalFilter: formalFilter ? formalFilter.value : '',
         prizeFilter: prizeFilter ? prizeFilter.value : '',
         formalizedFilter: formalizedFilter ? formalizedFilter.value : '',
         oeisFilter: oeisFilter ? oeisFilter.value : '',
