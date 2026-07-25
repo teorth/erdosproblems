@@ -23,6 +23,9 @@ function searchProblems(problems, query) {
             problem.prize || '',
             (problem.status && problem.status.state) || '',
             (problem.status && problem.status.note) || '',
+            getInformalState(problem),
+            getFormalState(problem),
+            (problem.formal_status && problem.formal_status.note) || '',
             (problem.formalized && problem.formalized.state) || '',
             (problem.formalized && problem.formalized.note) || '',
             (problem.oeis && Array.isArray(problem.oeis)) ? problem.oeis.join(' ') : '',
@@ -39,9 +42,10 @@ function searchProblems(problems, query) {
  * Apply all filters to problems array
  * @param {Array<Object>} problems - Array of problem objects
  * @param {Object} filters - Filter criteria
- * @param {string} filters.status - Status filter value
+ * @param {string} filters.status - Informal status filter value
+ * @param {string} filters.formal - Solution-formalization filter value ('Lean' or 'unformalized')
  * @param {string} filters.prize - Prize filter value ('yes' or 'no')
- * @param {string} filters.formalized - Formalized filter value ('yes' or 'no')
+ * @param {string} filters.formalized - Statement-formalized filter value ('yes' or 'no')
  * @param {string} filters.oeis - OEIS filter value ('linked', 'na', 'possible', 'submitted', 'inprogress')
  * @param {Array<string>} filters.tags - Array of selected tag values
  * @param {string} filters.tagLogic - Tag filter logic ('any' or 'all')
@@ -49,10 +53,17 @@ function searchProblems(problems, query) {
  */
 function applyFilters(problems, filters) {
     return problems.filter(problem => {
-        // Status filter
+        // Status filter (informal status only, so that "proved" also matches a
+        // problem whose proof happens to be formalized)
         if (filters.status && filters.status !== '') {
-            const problemStatus = (problem.status && problem.status.state) || '';
-            if (problemStatus !== filters.status) {
+            if (getInformalState(problem) !== filters.status) {
+                return false;
+            }
+        }
+
+        // Solution formalization filter
+        if (filters.formal && filters.formal !== '') {
+            if (getFormalState(problem) !== filters.formal) {
                 return false;
             }
         }
@@ -348,7 +359,7 @@ function updateDropdownDisplay(selectId, totalCounts, filteredCounts = null) {
 /**
  * Calculate filtered counts for a specific dropdown, excluding that dropdown's own filter
  * @param {Array<Object>} allProblems - All problems
- * @param {string} dropdownType - 'status', 'prize', 'formalized', or 'oeis'
+ * @param {string} dropdownType - 'status', 'formal', 'prize', 'formalized', or 'oeis'
  * @returns {Map|Object} Filtered counts for the dropdown
  */
 function calculateDropdownFilteredCounts(allProblems, dropdownType) {
@@ -360,6 +371,9 @@ function calculateDropdownFilteredCounts(allProblems, dropdownType) {
     switch (dropdownType) {
         case 'status':
             modifiedFilters.status = '';
+            break;
+        case 'formal':
+            modifiedFilters.formal = '';
             break;
         case 'prize':
             modifiedFilters.prize = '';
@@ -382,6 +396,8 @@ function calculateDropdownFilteredCounts(allProblems, dropdownType) {
     switch (dropdownType) {
         case 'status':
             return extractStatusCounts(filtered);
+        case 'formal':
+            return extractFormalStatusCounts(filtered);
         case 'prize':
             return extractPrizeCounts(filtered);
         case 'formalized':
@@ -401,6 +417,7 @@ function calculateDropdownFilteredCounts(allProblems, dropdownType) {
 function updateAllDropdownDisplays(allProblems, hasActiveFilters = false) {
     // Calculate total counts
     const totalStatusCounts = extractStatusCounts(allProblems);
+    const totalFormalCounts = extractFormalStatusCounts(allProblems);
     const totalPrizeCounts = extractPrizeCounts(allProblems);
     const totalFormalizedCounts = extractFormalizedCounts(allProblems);
     const totalOEISCounts = extractOEISCounts(allProblems);
@@ -408,18 +425,21 @@ function updateAllDropdownDisplays(allProblems, hasActiveFilters = false) {
     if (hasActiveFilters) {
         // Calculate filtered counts (excluding each dropdown's own filter)
         const filteredStatusCounts = calculateDropdownFilteredCounts(allProblems, 'status');
+        const filteredFormalCounts = calculateDropdownFilteredCounts(allProblems, 'formal');
         const filteredPrizeCounts = calculateDropdownFilteredCounts(allProblems, 'prize');
         const filteredFormalizedCounts = calculateDropdownFilteredCounts(allProblems, 'formalized');
         const filteredOEISCounts = calculateDropdownFilteredCounts(allProblems, 'oeis');
 
         // Update each dropdown
         updateDropdownDisplay('filter-status', totalStatusCounts, filteredStatusCounts);
+        updateDropdownDisplay('filter-formal', totalFormalCounts, filteredFormalCounts);
         updateDropdownDisplay('filter-prize', totalPrizeCounts, filteredPrizeCounts);
         updateDropdownDisplay('filter-formalized', totalFormalizedCounts, filteredFormalizedCounts);
         updateDropdownDisplay('filter-oeis', totalOEISCounts, filteredOEISCounts);
     } else {
         // No active filters, show total counts only
         updateDropdownDisplay('filter-status', totalStatusCounts, null);
+        updateDropdownDisplay('filter-formal', totalFormalCounts, null);
         updateDropdownDisplay('filter-prize', totalPrizeCounts, null);
         updateDropdownDisplay('filter-formalized', totalFormalizedCounts, null);
         updateDropdownDisplay('filter-oeis', totalOEISCounts, null);
@@ -432,6 +452,7 @@ function updateAllDropdownDisplays(allProblems, hasActiveFilters = false) {
  */
 function getCurrentFilters() {
     const statusFilter = document.getElementById('filter-status');
+    const formalFilter = document.getElementById('filter-formal');
     const prizeFilter = document.getElementById('filter-prize');
     const formalizedFilter = document.getElementById('filter-formalized');
     const oeisFilter = document.getElementById('filter-oeis');
@@ -448,6 +469,7 @@ function getCurrentFilters() {
 
     return {
         status: statusFilter ? statusFilter.value : '',
+        formal: formalFilter ? formalFilter.value : '',
         prize: prizeFilter ? prizeFilter.value : '',
         formalized: formalizedFilter ? formalizedFilter.value : '',
         oeis: oeisFilter ? oeisFilter.value : '',
@@ -470,6 +492,11 @@ function resetAllFilters() {
     const statusFilter = document.getElementById('filter-status');
     if (statusFilter) {
         statusFilter.value = '';
+    }
+
+    const formalFilter = document.getElementById('filter-formal');
+    if (formalFilter) {
+        formalFilter.value = '';
     }
 
     const prizeFilter = document.getElementById('filter-prize');
@@ -543,6 +570,11 @@ function initializeFilterListeners() {
     const statusFilter = document.getElementById('filter-status');
     if (statusFilter) {
         statusFilter.addEventListener('change', handleFilterChange);
+    }
+
+    const formalFilter = document.getElementById('filter-formal');
+    if (formalFilter) {
+        formalFilter.addEventListener('change', handleFilterChange);
     }
 
     const prizeFilter = document.getElementById('filter-prize');

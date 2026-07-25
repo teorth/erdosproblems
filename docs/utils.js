@@ -4,6 +4,61 @@
  */
 
 /**
+ * Value of formal_status.state meaning "no formalized solution is known".
+ * @type {string}
+ */
+const UNFORMALIZED = 'unformalized';
+
+/**
+ * Split a combined status such as "proved (Lean)" into its two primitives.
+ * Mirrors split_legacy_status() in scripts/derive_status.py.
+ * @param {string} state - Combined status state
+ * @returns {{informal: string, formal: string}}
+ */
+function splitCombinedStatus(state) {
+    const trimmed = (state || '').trim();
+    const match = trimmed.match(/^(.*?)\s*\(([^()]+)\)$/);
+    if (match) {
+        return { informal: match[1].trim(), formal: match[2].trim() };
+    }
+    return { informal: trimmed, formal: UNFORMALIZED };
+}
+
+/**
+ * Informal (human/mathematical) status of a problem.
+ * Falls back to splitting the combined `status` for data that predates the
+ * informal_status/formal_status split.
+ * @param {Object} problem - Problem data object
+ * @returns {string} Informal status state
+ */
+function getInformalState(problem) {
+    const explicit = problem && problem.informal_status && problem.informal_status.state;
+    if (explicit) return explicit;
+    return splitCombinedStatus(problem && problem.status && problem.status.state).informal;
+}
+
+/**
+ * Proof assistant in which a *solution* has been formalized, or "unformalized".
+ * @param {Object} problem - Problem data object
+ * @returns {string} Formal status state
+ */
+function getFormalState(problem) {
+    const explicit = problem && problem.formal_status && problem.formal_status.state;
+    if (explicit) return explicit;
+    return splitCombinedStatus(problem && problem.status && problem.status.state).formal;
+}
+
+/**
+ * Whether a solution to the problem has been formalized in some proof assistant
+ * @param {Object} problem - Problem data object
+ * @returns {boolean}
+ */
+function hasFormalizedSolution(problem) {
+    const formal = getFormalState(problem);
+    return Boolean(formal) && formal.toLowerCase() !== UNFORMALIZED;
+}
+
+/**
  * Render problem number as a link to erdosproblems.com
  * @param {string} number - Problem number
  * @returns {string} HTML anchor tag
@@ -35,7 +90,7 @@ function renderOEISLinks(oeisCodes) {
 }
 
 /**
- * Render formalized status with link to Lean file if available
+ * Render statement-formalization status with a link to the Lean file if available
  * @param {string} number - Problem number
  * @param {string} state - Formalized state (yes/no)
  * @returns {string} HTML link or plain text
@@ -49,16 +104,23 @@ function renderFormalizedLink(number, state) {
 }
 
 /**
+ * Informal statuses for which an AI attempt is still worth viewing
+ * @type {Array<string>}
+ */
+const AI_ELIGIBLE_STATES = ['open', 'verifiable', 'independent', 'falsifiable'];
+
+/**
  * Render AI Attempts link based on problem status
  * @param {string} number - Problem number
- * @param {Object} status - Status object with state property
- * @returns {string} HTML anchor tag with "yes" or "add" text
+ * @param {Object} problem - Problem data object
+ * @returns {string} HTML anchor tag with "view" or "add" text
  */
-function renderAIAttempts(number, status) {
+function renderAIAttempts(number, problem) {
     const url = `https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=${number}`;
-    const state = (status && status.state) ? status.state.toLowerCase() : '';
-    const eligibleStates = ['open', 'verifiable', 'independent', 'falsifiable'];
-    const linkText = eligibleStates.includes(state) ? 'view' : 'add';
+    // Keyed on the informal status, so that a formalized-but-undigested problem
+    // ("open (Lean)") is still treated as open here.
+    const state = getInformalState(problem).toLowerCase();
+    const linkText = AI_ELIGIBLE_STATES.includes(state) ? 'view' : 'add';
     return `<a href="${url}" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
 }
 
@@ -82,6 +144,9 @@ function getColumnValue(problem, column) {
         case 'formalized':
             return (problem.formalized && problem.formalized.state) || 'no';
 
+        case 'formal':
+            return getFormalState(problem);
+
         case 'oeis':
             return (problem.oeis && problem.oeis.length > 0) ? problem.oeis.join(', ') : '';
 
@@ -92,9 +157,7 @@ function getColumnValue(problem, column) {
             return problem.comments || '';
             
         case 'ai_attempts':
-            const aiState = (problem.status && problem.status.state) ? problem.status.state.toLowerCase() : '';
-            const aiEligibleStates = ['open', 'verifiable', 'independent', 'falsifiable'];
-            return aiEligibleStates.includes(aiState) ? 'view' : 'add';
+            return AI_ELIGIBLE_STATES.includes(getInformalState(problem).toLowerCase()) ? 'view' : 'add';
             
         default:
             return '';
@@ -128,6 +191,22 @@ function escapeHtml(text) {
 }
 
 /**
+ * Escape text for use inside a double-quoted HTML attribute.
+ * escapeHtml() is not sufficient there, as it leaves quotes untouched.
+ * @param {string} text - Text to escape
+ * @returns {string} Escaped text
+ */
+function escapeAttr(text) {
+    if (!text) return '';
+    return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
+/**
  * Render prize value with formatting
  * @param {string} prize - Prize string
  * @returns {string} Formatted prize display
@@ -152,15 +231,32 @@ function renderTags(tags) {
 }
 
 /**
- * Render status with formatting
- * @param {Object} status - Status object
+ * Render the combined status: the informal status, followed by the proof
+ * assistant in which a solution has been formalized (if any).  The suffix is
+ * tagged separately so it can be explained on hover and linked to the
+ * formalization, since "(Lean)" here means the *solution* was formalized -
+ * not the statement, which is what the "Statement formalized" column reports.
+ * @param {Object} problem - Problem data object
  * @returns {string} Formatted status display
  */
-function renderStatus(status) {
-    if (!status || !status.state) {
+function renderStatus(problem) {
+    const informal = getInformalState(problem);
+    if (!informal && !hasFormalizedSolution(problem)) {
         return '';
     }
-    return escapeHtml(status.state);
+
+    let html = escapeHtml(informal);
+    if (hasFormalizedSolution(problem)) {
+        const formal = getFormalState(problem);
+        const label = `(${escapeHtml(formal)})`;
+        const title = `A solution to this problem has been formalized in ${formal}`;
+        const url = problem.formal_status && problem.formal_status.url;
+        const suffix = /^https?:\/\//i.test(url || '')
+            ? `<a class="formal-tag" href="${escapeAttr(url)}" target="_blank" rel="noopener noreferrer" title="${escapeAttr(title)}">${label}</a>`
+            : `<span class="formal-tag" title="${escapeAttr(title)}">${label}</span>`;
+        html += (html ? ' ' : '') + suffix;
+    }
+    return html;
 }
 
 /**
@@ -223,6 +319,9 @@ function hasNonTagFilters() {
     const statusFilter = document.getElementById('filter-status');
     if (statusFilter && statusFilter.value !== '') return true;
 
+    const formalFilter = document.getElementById('filter-formal');
+    if (formalFilter && formalFilter.value !== '') return true;
+
     const prizeFilter = document.getElementById('filter-prize');
     if (prizeFilter && prizeFilter.value !== '') return true;
 
@@ -284,17 +383,31 @@ function extractAllTagsWithActivity(problems, sortBy, totalCounts, filteredCount
 }
 
 /**
- * Extract status counts from problems array
+ * Extract informal status counts from problems array
  * @param {Array<Object>} problems - Array of problem objects
- * @returns {Map<string, number>} Map of status values to counts
+ * @returns {Map<string, number>} Map of informal status values to counts
  */
 function extractStatusCounts(problems) {
     const statusCounts = new Map();
     problems.forEach(problem => {
-        const status = (problem.status && problem.status.state) || 'open';
+        const status = getInformalState(problem) || 'open';
         statusCounts.set(status, (statusCounts.get(status) || 0) + 1);
     });
     return statusCounts;
+}
+
+/**
+ * Extract formal (solution formalization) status counts from problems array
+ * @param {Array<Object>} problems - Array of problem objects
+ * @returns {Map<string, number>} Map of formal status values to counts
+ */
+function extractFormalStatusCounts(problems) {
+    const counts = new Map();
+    problems.forEach(problem => {
+        const state = getFormalState(problem) || UNFORMALIZED;
+        counts.set(state, (counts.get(state) || 0) + 1);
+    });
+    return counts;
 }
 
 /**
@@ -361,15 +474,16 @@ function extractOEISCounts(problems) {
 }
 
 /**
- * Extract all unique status values from problems array
+ * Extract all unique informal status values from problems array
  * @param {Array<Object>} problems - Array of problem objects
- * @returns {Array<string>} Sorted array of unique statuses
+ * @returns {Array<string>} Sorted array of unique informal statuses
  */
 function extractAllStatuses(problems) {
     const statusSet = new Set();
     problems.forEach(problem => {
-        if (problem.status && problem.status.state) {
-            statusSet.add(problem.status.state);
+        const state = getInformalState(problem);
+        if (state) {
+            statusSet.add(state);
         }
     });
     return Array.from(statusSet).sort();

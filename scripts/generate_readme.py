@@ -3,6 +3,8 @@ import re
 import yaml
 from urllib.parse import quote_plus
 
+from derive_status import UNFORMALIZED, derive_state, primitive_states
+
 # Import statistics management
 try:
     import plot_statistics_history
@@ -41,12 +43,12 @@ def formalized_link(number:str, code: str) -> str:
 def ai_attempts_link(number: str) -> str:
     return md_link("view", f"https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id={number}")
 
-def filter_link(count: int, param: str, value: str) -> str:
-    """Create a link to the interactive table with a filter applied."""
+def filter_link(count: int, **params: str) -> str:
+    """Create a link to the interactive table with one or more filters applied."""
     if count == 0:
         return str(count)
-    encoded_value = quote_plus(value)
-    url = f"https://teorth.github.io/erdosproblems/?{param}={encoded_value}"
+    query = "&".join(f"{k}={quote_plus(v)}" for k, v in params.items())
+    url = f"https://teorth.github.io/erdosproblems/?{query}"
     return md_link(str(count), url)
 
 def count_possible_oeis(rows):
@@ -145,121 +147,38 @@ def count_formalized_yes(rows):
         if r.get("formalized", {}).get("state", "").lower() == "yes"
     )
 
-def count_proved(rows):
+def count_informal(rows, state):
     """
-    Count how many rows have status == "proved".
+    Count how many rows have the given informal status, regardless of whether a
+    solution has been formalized.  So "proved" counts both "proved" and
+    "proved (Lean)".
     """
     return sum(
         1 for r in rows
-        if r.get("status", {}).get("state", "").lower()  == "proved"
+        if primitive_states(r)[0].lower() == state
     )
 
-def count_proved_lean(rows):
+def count_informal_formalized(rows, state, system="Lean"):
     """
-    Count how many rows have status == "proved (Lean)".
+    Count how many rows have the given informal status *and* a solution
+    formalized in the given proof assistant.
     """
     return sum(
         1 for r in rows
-        if r.get("status", {}).get("state", "").lower()  == "proved (lean)"
+        if primitive_states(r)[0].lower() == state
+        and primitive_states(r)[1].lower() == system.lower()
     )
 
-def count_disproved(rows):
+def count_formalized_solution(rows, system="Lean"):
     """
-    Count how many rows have status == "disproved".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower()  == "disproved"
-    )
-
-def count_disproved_lean(rows):
-    """
-    Count how many rows have status == "disproved (Lean)".
+    Count how many rows have a solution formalized in the given proof assistant,
+    regardless of the informal status.  This is not a subset of the solved
+    problems: a formalized-but-not-yet-digested solution keeps an informal
+    status of "open".
     """
     return sum(
         1 for r in rows
-        if r.get("status", {}).get("state", "").lower()  == "disproved (lean)"
-    )
-
-def count_solved(rows):
-    """
-    Count how many rows have status == "solved".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "solved"
-    )
-
-def count_solved_lean(rows):
-    """
-    Count how many rows have status == "solved (Lean)".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "solved (lean)"
-    )
-
-def count_decidable(rows):
-    """
-    Count how many rows have status == "decidable".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "decidable"
-    )
-
-def count_falsifiable(rows):
-    """
-    Count how many rows have status == "falsifiable".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "falsifiable"
-    )
-
-def count_verifiable(rows):
-    """
-    Count how many rows have status == "verifiable".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "verifiable"
-    )
-
-def count_open(rows):
-    """
-    Count how many rows have status == "open".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "open"
-    )
-
-def count_not_provable(rows):
-    """
-    Count how many rows have status == "not provable".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "not provable"
-    )
-
-def count_not_disprovable(rows):
-    """
-    Count how many rows have status == "not disprovable".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "not disprovable"
-    )
-
-def count_independent(rows):
-    """
-    Count how many rows have status == "independent".
-    """
-    return sum(
-        1 for r in rows
-        if r.get("status", {}).get("state", "").lower() == "independent"
+        if primitive_states(r)[1].lower() == system.lower()
     )
 
 def count_prize(rows):
@@ -291,38 +210,41 @@ def count_review(rows):
 
 
 def build_table(rows):
-    header = "| # | Prize | Status | Formalized | AI Attempts | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|---|"
+    header = "| # | Prize | Status | Statement formalized | AI Attempts | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|---|"
     lines = []
     lines.append(f"There are {len(rows)} problems in total, of which")
-    lines.append(f"- {filter_link(count_prize(rows), 'prize', 'yes')} are attached to a monetary prize.")
-    lines.append(f"- {filter_link(count_proved(rows)+count_proved_lean(rows), 'status', 'proved')} have been proved.")
-    lines.append(f"  - {filter_link(count_proved_lean(rows), 'status', 'proved (Lean)')} of these proofs have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {filter_link(count_disproved(rows)+count_disproved_lean(rows), 'status', 'disproved')} have been disproved.")
-    lines.append(f"  - {filter_link(count_disproved_lean(rows), 'status', 'disproved (Lean)')} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {filter_link(count_solved(rows)+count_solved_lean(rows), 'status', 'solved')} have been otherwise solved.")
-    lines.append(f"  - {filter_link(count_solved_lean(rows), 'status', 'solved (Lean)')} of these solutions have been formalized in [Lean](https://lean-lang.org/).")
-    lines.append(f"- {filter_link(count_not_provable(rows), 'status', 'not provable')} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
-    lines.append(f"- {count_not_disprovable(rows)} appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)")
-    lines.append(f"- {count_independent(rows)} are known to be independent of the ZFC axioms of mathematics. (independent)")
-    lines.append(f"- {filter_link(count_decidable(rows), 'status', 'decidable')} appear to be open, but have been reduced to a finite computation. (decidable)")
-    lines.append(f"- {filter_link(count_falsifiable(rows), 'status', 'falsifiable')} appear to be open, but can be disproven by a finite computation if false. (falsifiable)")
-    lines.append(f"- {filter_link(count_verifiable(rows), 'status', 'verifiable')} appear to be open, but can be proven by a finite computation if true. (verifiable)")
-    lines.append(f"- {filter_link(count_open(rows), 'status', 'open')} appear to be completely open.")
+    lines.append(f"- {filter_link(count_prize(rows), prize='yes')} are attached to a monetary prize.")
+    lines.append(f"- {filter_link(count_informal(rows, 'proved'), status='proved')} have been proved.")
+    lines.append(f"  - {filter_link(count_informal_formalized(rows, 'proved'), status='proved', formal='Lean')} of these proofs have been formalized in [Lean](https://lean-lang.org/).")
+    lines.append(f"- {filter_link(count_informal(rows, 'disproved'), status='disproved')} have been disproved.")
+    lines.append(f"  - {filter_link(count_informal_formalized(rows, 'disproved'), status='disproved', formal='Lean')} of these disproofs have been formalized in [Lean](https://lean-lang.org/).")
+    lines.append(f"- {filter_link(count_informal(rows, 'solved'), status='solved')} have been otherwise solved.")
+    lines.append(f"  - {filter_link(count_informal_formalized(rows, 'solved'), status='solved', formal='Lean')} of these solutions have been formalized in [Lean](https://lean-lang.org/).")
+    lines.append(f"- {filter_link(count_informal(rows, 'not provable'), status='not provable')} appear to be open, but cannot be proven from the axioms of ZFC. (not provable)")
+    lines.append(f"- {count_informal(rows, 'not disprovable')} appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)")
+    lines.append(f"- {count_informal(rows, 'independent')} are known to be independent of the ZFC axioms of mathematics. (independent)")
+    lines.append(f"- {filter_link(count_informal(rows, 'decidable'), status='decidable')} appear to be open, but have been reduced to a finite computation. (decidable)")
+    lines.append(f"- {filter_link(count_informal(rows, 'falsifiable'), status='falsifiable')} appear to be open, but can be disproven by a finite computation if false. (falsifiable)")
+    lines.append(f"- {filter_link(count_informal(rows, 'verifiable'), status='verifiable')} appear to be open, but can be proven by a finite computation if true. (verifiable)")
+    lines.append(f"- {filter_link(count_informal(rows, 'open'), status='open')} appear to be completely open.")
     lines.append(f"- {count_ambiguous(rows)} have ambiguous statements.")
     lines.append(f"- {count_review(rows)} have a literature review requested.")
-    lines.append(f"- {filter_link(count_formalized_yes(rows), 'formalized', 'yes')} have their statements formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
-    lines.append(f"- {filter_link(count_rows_with_oeis_id(rows), 'oeis', 'linked')} have been linked to {count_oeis_distinct(rows)} distinct [OEIS](https://oeis.org/) sequences, with a total of {count_oeis_with_multiplicity(rows)} links created.")
+    lines.append(f"- {filter_link(count_formalized_solution(rows), formal='Lean')} have a *solution* formalized in [Lean](https://lean-lang.org/).  This need not be a subset of the solved problems above: a formalized solution that has not yet been digested by a human reader keeps its informal status (so can appear as, e.g., \"open (Lean)\").")
+    lines.append(f"- {filter_link(count_formalized_yes(rows), formalized='yes')} have their *statements* formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).")
+    lines.append(f"- {filter_link(count_rows_with_oeis_id(rows), oeis='linked')} have been linked to {count_oeis_distinct(rows)} distinct [OEIS](https://oeis.org/) sequences, with a total of {count_oeis_with_multiplicity(rows)} links created.")
     lines.append(f"  - {count_distinct_oeis_from(rows, min_id='A387000')} of these OEIS sequences were added since the creation of this database (A387000 onwards).")
-    lines.append(f"- {filter_link(count_possible_oeis(rows), 'oeis', 'possible')} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
+    lines.append(f"- {filter_link(count_possible_oeis(rows), oeis='possible')} are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.")
     lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {count_submitted_oeis(rows)} have a related sequence currently being submitted to the [OEIS](https://oeis.org/).")
-    lines.append(f"- {filter_link(count_inprogress_oeis(rows), 'oeis', 'inprogress')} have a related sequence whose generation is currently in progress.")
+    lines.append(f"- {filter_link(count_inprogress_oeis(rows), oeis='inprogress')} have a related sequence whose generation is currently in progress.")
     lines.append("\n")
     lines.append(header)
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"
         tags = ", ".join(tags_link(s) for s in r.get("tags", [])) or "?"
-        status = r["status"]["state"]
+        # Derived rather than read back, so the table can never disagree with
+        # the counts above even if `status` happens to be stale.
+        status = derive_state(*primitive_states(r))
         rid = num_link(r["number"])
         prize = r.get("prize", "?")
         formalized = formalized_link(r["number"], r.get("formalized", {}).get("state", "?"))
@@ -353,10 +275,10 @@ else:
 
 # Update statistics history and charts
 if plot_statistics_history:
-    proved = count_proved(rows) + count_proved_lean(rows)
-    disproved = count_disproved(rows) + count_disproved_lean(rows)
+    proved = count_informal(rows, "proved")
+    disproved = count_informal(rows, "disproved")
     # make solved include independent problems
-    solved = count_solved(rows) + count_solved_lean(rows) + count_independent(rows)
+    solved = count_informal(rows, "solved") + count_informal(rows, "independent")
     open = len(rows) - (proved+disproved+solved)
 
     current_stats = {
@@ -368,7 +290,9 @@ if plot_statistics_history:
         "proved": proved,
         "disproved": disproved,
         "solved": solved,
-        "lean_solved": count_proved_lean(rows) + count_disproved_lean(rows) + count_solved_lean(rows),
+        # Problems with a solution formalized in Lean.  Not a subset of
+        # total_solved: an undigested formalized solution stays informally open.
+        "lean_solved": count_formalized_solution(rows),
     }
 
     if plot_statistics_history.update_history(current_stats):

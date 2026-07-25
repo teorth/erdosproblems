@@ -42,22 +42,28 @@
 
             <div class="filters-section">
                 <div class="filter-group">
-                    <label for="filter-status">Status:</label>
+                    <label for="filter-status" title="The mathematical status of the problem, ignoring whether a solution has been formalized">Status:</label>
                     <select id="filter-status">
                         <option value="">All Statuses</option>
                         <option value="open">Open</option>
                         <option value="proved">Proved</option>
                         <option value="disproved">Disproved</option>
                         <option value="solved">Solved</option>
-                        <option value="proved (Lean)">Proved (Lean)</option>
-                        <option value="disproved (Lean)">Disproved (Lean)</option>
-                        <option value="solved (Lean)">Solved (Lean)</option>
                         <option value="falsifiable">Falsifiable</option>
                         <option value="verifiable">Verifiable</option>
                         <option value="decidable">Decidable</option>
                         <option value="not provable">Not Provable</option>
                         <option value="not disprovable">Not Disprovable</option>
                         <option value="independent">Independent</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filter-formal" title="Whether a solution to the problem has been formalized in a proof assistant">Solution formalized:</label>
+                    <select id="filter-formal">
+                        <option value="">All</option>
+                        <option value="Lean">Lean</option>
+                        <option value="unformalized">Unformalized</option>
                     </select>
                 </div>
 
@@ -71,7 +77,7 @@
                 </div>
 
                 <div class="filter-group">
-                    <label for="filter-formalized">Formalized:</label>
+                    <label for="filter-formalized" title="Whether the problem statement is formalized in the Formal Conjectures repository">Statement formalized:</label>
                     <select id="filter-formalized">
                         <option value="">All</option>
                         <option value="yes">Yes</option>
@@ -150,8 +156,8 @@
                     <tr>
                         <th data-sort="number" class="sortable sorted-asc">#<span class="sort-arrow">▲</span></th>
                         <th data-sort="prize" class="sortable">Prize<span class="sort-arrow"></span></th>
-                        <th data-sort="status" class="sortable">Status<span class="sort-arrow"></span></th>
-                        <th data-sort="formalized" class="sortable">Formalized<span class="sort-arrow"></span></th>
+                        <th data-sort="status" class="sortable" title="The mathematical status, with the proof assistant in which a solution has been formalized shown in parentheses">Status<span class="sort-arrow"></span></th>
+                        <th data-sort="formalized" class="sortable" title="Whether the problem statement is formalized in the Formal Conjectures repository">Statement formalized<span class="sort-arrow"></span></th>
                         <th data-sort="ai_attempts" class="sortable">AI Attempts<span class="sort-arrow"></span></th>
                         <th data-sort="oeis" class="sortable">OEIS<span class="sort-arrow"></span></th>
                         <th data-sort="tags" class="sortable">Tags<span class="sort-arrow"></span></th>

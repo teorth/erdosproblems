@@ -7,7 +7,7 @@ Edits and contributions to the [main table](README.md#table) are very welcome, p
 To make an edit to the [main table](README.md#table) of this repository:
 
 1. Open [data/problems.yaml](data/problems.yaml).
-2. Click **Edit** (or the edit icon ✏️) and add or modify an entry, as per the sample template below.  Only the **number** field is mandatory; omit any field for which you have no information.
+2. Click **Edit** (or the edit icon ✏️) and add or modify an entry, as per the sample template below.  Only the **number** field is mandatory; omit any field for which you have no information.  One field is an exception: **status** is *derived* from **informal_status** and **formal_status** and is regenerated automatically, so please edit those two instead and leave **status** alone (see [the notes below](#notes-on-template-fields)).
 3. Open a [Pull Request](https://github.com/teorth/erdosproblems/pulls).  (Once the request is accepted, this will automatically regenerate the [main table](README.md#table).  Do not edit the table directly - any such edits will be overridden by this automatic regeneration.) Feel free to use the comment field of the pull request to describe your methodology (e.g., links to code).
 4. If there is additional mathematical context that you could give concerning your edit, consider also adding a comment to the corresponding problem page on the [erdosproblems.com](https://www.erdosproblems.com) site.
 
@@ -20,6 +20,11 @@ If you find an interesting sequence connected to an Erdős problem, but find it 
 ```yaml
 - number: "17"
   prize: "no"
+  informal_status:
+    state: "open"
+    last_update: "2025-08-31"
+  formal_status:
+    state: "unformalized"
   status:
     state: "open"
     last_update: "2025-08-31"
@@ -31,14 +36,29 @@ If you find an interesting sequence connected to an Erdős problem, but find it 
   tags: ["number theory", "primes"]
 ```
 
+A problem whose solution has been formalized in Lean looks like this instead (note that **status** simply combines the two fields above it, and that a link to the formalization may optionally be recorded):
+
+```yaml
+  informal_status:
+    state: "disproved"
+    last_update: "2026-02-24"
+  formal_status:
+    state: "Lean"
+    last_update: "2026-02-24"
+    url: "https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/16.lean"
+  status:
+    state: "disproved (Lean)"
+    last_update: "2026-02-24"
+```
+
 ## Notes on template fields
 
 - **number**: The number of the problem in the [erdosproblems.com](https://www.erdosproblems.com) website. Stored as a string.
 - **prize**: use "no" if no prize given, or the currency amount otherwise. Stored as a string.
-- **status**: the logical status of the problem, as of the **last_update** subfield, stored as a string.  The main values of the **state** subfield are:
-  - "proved": the problem has been solved in the affirmative.  If the proof has been formalized in a proof assistant (such as Lean), this is indicated in parentheses.
-  - "disproved": the problem has been solved in the negative.  If the disproof has been formalized in a proof assistant (such as Lean), this is indicated in parentheses.
-  - "solved": the problem is satisfactorily resolved in some other fashion than a proof or disproof (this can occur for more open-ended questions that are not phrased in a yes-no fashion, or for multi-part questions that have affirmative answers to some parts but negative answers to others). If the solution has been formalized in a proof assistant (such as Lean), this is indicated in parentheses.
+- **informal_status**: the logical status of the problem as understood by human readers, as of the **last_update** subfield, and ignoring any formalization.  The permitted values of the **state** subfield are:
+  - "proved": the problem has been solved in the affirmative.
+  - "disproved": the problem has been solved in the negative.
+  - "solved": the problem is satisfactorily resolved in some other fashion than a proof or disproof (this can occur for more open-ended questions that are not phrased in a yes-no fashion, or for multi-part questions that have affirmative answers to some parts but negative answers to others).
   - "falsifiable": the problem is open, but if false, can be disproven with a finitary counterexample.
   - "verifiable": the problem is open, but if true, can be proven with a finitary example.
   - "decidable": the problem is both falsifiable and verifiable, but not yet solved. (This is rare, but can happen for instance if the problem has somehow been reduced to verifying a large but finite number of cases.)
@@ -49,10 +69,22 @@ If you find an interesting sequence connected to an Erdős problem, but find it 
 
   Note: this status is an *unofficial* crowdsourced classification of the problem.  The [erdosproblems.com](https://www.erdosproblems.com) website will report whether these problems are officially classified as "solved".  In some cases, recent developments on a problem may cause the unofficial status on this site to temporarily be inconsistent with the official status on [erdosproblems.com](https://www.erdosproblems.com); in such cases, the latter should be taken to be the more reliable source.  For further discussion, see [this Github issue](https://github.com/teorth/erdosproblems/issues/26).
 
-If a problem has multiple parts, the status will be the strongest statement that applies to all component parts simultaneously.  (Similarly for the formalized tag below.)
+- **formal_status**: whether a *solution* to the problem has been formalized in a proof assistant, as of the **last_update** subfield.  The permitted values of the **state** subfield are:
+  - "unformalized": no formalized solution is known.  This is the default, and is stated explicitly rather than left blank.
+  - "Lean": a solution has been formalized in [Lean](https://lean-lang.org/).  (Other proof assistants may be added to this list as candidates arise.)
+
+  Two optional subfields may be given when a formalization exists: **url**, a link to the formalization itself (this is displayed on [the interactive table](https://teorth.github.io/erdosproblems/), and is the best place to record where the formal proof lives), and **note**, for any further remarks.
+
+  This field is about the *solution*.  It is not the same thing as the **formalized** field below, which records whether the *statement* has been formalized in the formal conjectures repository.  A problem can perfectly well have a formalized statement and no formalized solution, or vice versa.
+
+- **status**: **derived - do not edit.**  This field combines the two above: it is **informal_status**, with " (⟨proof assistant⟩)" appended whenever **formal_status** is not "unformalized", and a **last_update** that is the later of the two dates.  It is regenerated by [scripts/derive_status.py](scripts/derive_status.py) on every push to `main`, so any hand-edit to it will be overwritten (and a pull request that edits it directly will fail validation).  It is retained because a number of downstream applications read it.
+
+  Because the two component fields are independent, combinations such as **"open (Lean)"** are possible and meaningful.  That one reads: *a solution has been formally verified in Lean, but has not yet been digested by a human reader*, and so the problem is not yet being claimed as solved in the informal sense.  See [this Github issue](https://github.com/teorth/erdosproblems/issues/346) for the discussion that motivated the split.  Conversely, a problem may be "proved" with **formal_status** "unformalized": a human proof exists but no machine-checked one does.
+
+If a problem has multiple parts, the informal status will be the strongest statement that applies to all component parts simultaneously.  (Similarly for the formalized tag below.)
 
 Regarding formalization in Lean: for the purpose of this site, formalizations conditional on past results will be accepted, as long as these past results are either (a) widely accepted, published results that do not simply contain the solution to the problem as a quick corollary, or (b) themselves formalized (or in the process of being formalized) by similar standards.  
-- **formalized**: the formalization status of the problem in [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures), as of the **last_update** subfield.  It is autogenerated and should not be edited directly. The main values of the **state** subfield are:
+- **formalized**: whether the *statement* of the problem has been formalized in the [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures), as of the **last_update** subfield.  It is autogenerated and should not be edited directly. The permitted values of the **state** subfield are:
   - "yes": the problem has been formalized in the formal conjectures repository.
   - "no": if no formalization exists in that repository.
   If the problem is formalized in a different location than the formal conjectures repository, this should be noted in **comments** instead (as the **formalized** field is autogenerated from that repository).
@@ -67,6 +99,25 @@ Regarding formalization in Lean: for the purpose of this site, formalizations co
   - "ambiguous statement": there is some uncertainty as to what the intended statement of the problem is, often because the literal wording of the statement is easily provable or disprovable or does not match the context of the problem.
   - "literature review sought": we suspect that the literature review on this problem is incomplete, and would welcome any assistance in finding relevant references.
 - **tags**: the tags associated to the problem from the [erdosproblems.com](https://www.erdosproblems.com) database. Stored as a list of strings.
+
+## Automated fields and validation
+
+Three parts of the database maintain themselves, and should not be edited by hand:
+
+| What | Regenerated by | When |
+|---|---|---|
+| the **status** field of each entry | [scripts/derive_status.py](scripts/derive_status.py) | on every push to `main` that touches `data/` |
+| the **formalized** field of each entry | [scripts/update_formalization_status.py](scripts/update_formalization_status.py) | whenever the [formal conjectures repository](https://github.com/google-deepmind/formal-conjectures) changes |
+| the [main table](README.md#table) and the progress charts | [scripts/generate_readme.py](scripts/generate_readme.py) | on every push to `main` that touches `data/` |
+
+Every pull request that touches `data/`, `schema/` or `scripts/` is checked by [scripts/validate.py](scripts/validate.py), which verifies the YAML against [schema/problems.schema.json](schema/problems.schema.json), rejects duplicate problem numbers and duplicate keys, and reports any direct edit to the derived **status** field.  You can run these locally:
+
+```bash
+pip install -r requirements.txt
+python scripts/derive_status.py      # refresh the derived status field
+python scripts/validate.py           # check the file
+python scripts/generate_readme.py    # rebuild the README table and charts
+```
 
 ## Linking with the OEIS
 
