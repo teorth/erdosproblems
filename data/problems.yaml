@@ -1924,7 +1924,7 @@
     state: "unformalized"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-07-19"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -1991,7 +1991,7 @@
     last_update: "2025-08-31"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2026-07-17"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -5191,7 +5191,7 @@
     state: "unformalized"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-07-16"
   oeis: ["A072207"]
   formalized:
     state: "no"
@@ -5207,7 +5207,7 @@
     state: "unformalized"
   status:
     state: "solved"
-    last_update: "2025-08-31"
+    last_update: "2026-07-16"
   oeis: ["A384927", "A391592"]
   formalized:
     state: "yes"
@@ -12176,7 +12176,7 @@
     last_update: "2025-08-31"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2026-07-15"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -12874,7 +12874,7 @@
     last_update: "2025-08-31"
   status:
     state: "proved (Lean)"
-    last_update: "2025-08-31"
+    last_update: "2026-07-14"
   oeis: ["possible"]
   formalized:
     state: "no"
