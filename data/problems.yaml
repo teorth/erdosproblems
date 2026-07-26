@@ -18036,7 +18036,9 @@
     state: "open"
     last_update: "2025-12-28"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-07-25"
+    url: "https://github.com/beetree/math_erdos_1112"
   status:
     state: "open"
     last_update: "2025-12-28"
