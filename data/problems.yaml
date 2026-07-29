@@ -9623,7 +9623,9 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-07-29"
+    url: "https://github.com/SamPetkov/Erdos593/blob/d834f1f42e7e0d5d2a6c23e9487563bedb1b277b/formalization/Erdos593SelfContained.lean"
   status:
     state: "open"
     last_update: "2025-08-31"
