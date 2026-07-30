@@ -1108,12 +1108,12 @@
   prize: "no"
   informal_status:
     state: "proved"
-    last_update: "2025-12-2"
+    last_update: "2025-12-02"
   formal_status:
     state: "unformalized"
   status:
     state: "proved"
-    last_update: "2025-12-2"
+    last_update: "2025-12-02"
   oeis: ["A262153"]
   formalized:
     state: "yes"
@@ -3316,13 +3316,13 @@
   prize: "no"
   informal_status:
     state: "disproved"
-    last_update: "2026-1-10"
+    last_update: "2026-01-10"
   formal_status:
     state: "Lean"
-    last_update: "2026-1-10"
+    last_update: "2026-01-10"
   status:
     state: "disproved (Lean)"
-    last_update: "2026-1-10"
+    last_update: "2026-01-10"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -4017,12 +4017,12 @@
   prize: "no"
   informal_status:
     state: "proved"
-    last_update: "2025-12-2"
+    last_update: "2025-12-02"
   formal_status:
     state: "unformalized"
   status:
     state: "proved"
-    last_update: "2025-12-2"
+    last_update: "2025-12-02"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -4650,12 +4650,12 @@
   prize: "no"
   informal_status:
     state: "falsifiable"
-    last_update: "2025-12-5"
+    last_update: "2025-12-05"
   formal_status:
     state: "unformalized"
   status:
     state: "falsifiable"
-    last_update: "2025-12-5"
+    last_update: "2025-12-05"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -8200,13 +8200,13 @@
   prize: "no"
   informal_status:
     state: "disproved"
-    last_update: "2026-02-32"
+    last_update: "2026-02-02"
   formal_status:
     state: "Lean"
-    last_update: "2026-02-32"
+    last_update: "2026-02-02"
   status:
     state: "disproved (Lean)"
-    last_update: "2026-02-32"
+    last_update: "2026-02-02"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -9945,13 +9945,13 @@
   prize: "no"
   informal_status:
     state: "disproved"
-    last_update: "2025-11-4"
+    last_update: "2025-11-04"
   formal_status:
     state: "Lean"
-    last_update: "2025-11-4"
+    last_update: "2025-11-04"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-11-4"
+    last_update: "2025-11-04"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -16768,13 +16768,13 @@
   prize: "no"
   informal_status:
     state: "disproved"
-    last_update: "2025-12-4"
+    last_update: "2025-12-04"
   formal_status:
     state: "Lean"
-    last_update: "2025-12-4"
+    last_update: "2025-12-04"
   status:
     state: "disproved (Lean)"
-    last_update: "2025-12-4"
+    last_update: "2025-12-04"
   formalized:
     state: "no"
     last_update: "2025-09-10"
