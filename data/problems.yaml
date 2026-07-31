@@ -9870,8 +9870,8 @@
     last_update: "2026-07-29"
     url: "https://github.com/primateria/erdos608"
   status:
-    state: "disproved"
-    last_update: "2025-10-25"
+    state: "disproved (Lean)"
+    last_update: "2026-07-29"
   oeis: ["N/A"]
   formalized:
     state: "no"
