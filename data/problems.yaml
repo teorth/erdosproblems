@@ -6462,7 +6462,7 @@
   formalized:
     state: "yes"
     last_update: "2025-09-01"
-  comments: "Brocard-Ramanujan conjecture"
+  comments: "Brocard-Ramanujan conjecture; no solutions with 7 < n <= 10^15 (Epstein–Glickman 2020), improving Berndt–Galway's 10^9 bound"
   tags: ["number theory", "factorials"]
 
 - number: "399"
@@ -13800,7 +13800,7 @@
   formalized:
     state: "yes"
     last_update: "2025-11-25"
-  comments: "Erdős-Woods conjecture"
+  comments: "Erdős-Woods conjecture; Hercher (arXiv:2506.01099) classifies all Benelux pairs with y < 1.4e12"
   tags: ["number theory", "primes"]
 
 - number: "851"
