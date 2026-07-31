@@ -14235,7 +14235,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A121269", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -16601,7 +16601,7 @@
   formalized:
     state: "no"
     last_update: "2025-09-10"
-  oeis: ["possible"]
+  oeis: ["A347025", "possible"]
   tags: ["combinatorics"]
 
 - number: "1024"
