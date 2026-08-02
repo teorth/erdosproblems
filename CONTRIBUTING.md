@@ -95,9 +95,11 @@ Regarding formalization in Lean: for the purpose of this site, formalizations co
   - "N/A": it does not appear that there is an obvious sequence to attach to this problem.  (This status may be updated if new developments create a previously unknown connection to an integer sequence.)
 
   Note that it is possible for multiple sequences to be associated to a single problem.  Note also that the classification of a problem as having a "possible" OEIS sequence or not may be based on a cursory reading of the problem, and can be subject to revision.
-- **comments**: Miscellaneous comments on the problem, for instance describing other names given to the problem, as well as the following specific comments:
+- **comments**: A **very brief** status remark on the problem, for instance an alternative name that the problem is commonly known by ("Brocard-Ramanujan conjecture", "Heilbronn's triangle problem"), as well as the following specific comments:
   - "ambiguous statement": there is some uncertainty as to what the intended statement of the problem is, often because the literal wording of the statement is easily provable or disprovable or does not match the context of the problem.
   - "literature review sought": we suspect that the literature review on this problem is incomplete, and would welcome any assistance in finding relevant references.
+
+  This field is rendered as the final column of the README table, so it is intended for short labels rather than prose: a few words is typical, and anything beyond roughly one short phrase is too long.  **Detailed mathematical commentary does not belong here.**  Discussion of the mathematical content of a specific problem — the current state of the art, search bounds, references to the literature, or an account of what is and is not known — should instead be directed to the commentary on that problem's page at [erdosproblems.com](https://www.erdosproblems.com), which is the authoritative venue for it.  If a formalization needs explaining, use the **note** subfield of **formal_status** rather than this field.
 - **tags**: the tags associated to the problem from the [erdosproblems.com](https://www.erdosproblems.com) database. Stored as a list of strings.
 
 ## Automated fields and validation
