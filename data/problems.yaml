@@ -2963,8 +2963,8 @@
     last_update: "2026-08-01"
     url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/MulticolorTriangleRamsey.lean#L2999-L3051"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "open (Lean)"
+    last_update: "2026-08-01"
   oeis: ["A003323"]
   formalized:
     state: "no"
@@ -5242,7 +5242,8 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A004825", "A004831", "A004832", "A004833", "A004842", "A004843", "A004844", "A004845", "A004857", "A004869", "possible"]
+  oeis: ["A004825", "A004831", "A004832", "A004833", "A004842", "A004843", "A004844",
+    "A004845", "A004857", "A004869", "possible"]
   formalized:
     state: "yes"
     last_update: "2026-03-15"
