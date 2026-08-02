@@ -2959,7 +2959,9 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-01"
+    url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/MulticolorTriangleRamsey.lean#L2999-L3051"
   status:
     state: "open"
     last_update: "2025-08-31"
