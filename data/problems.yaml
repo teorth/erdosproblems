@@ -383,8 +383,8 @@
     last_update: "2026-04-23"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["graph theory"]
 
 - number: "25"
@@ -1506,8 +1506,8 @@
     last_update: "2025-02-17"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["geometry", "convex", "distances"]
 
 - number: "94"
@@ -2661,8 +2661,8 @@
     last_update: "2026-04-23"
   oeis: ["A137245"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "primitive sets"]
 
 - number: "165"
@@ -5105,8 +5105,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "unit fractions"]
 
 - number: "315"
@@ -5122,8 +5122,8 @@
     last_update: "2026-01-31"
   oeis: ["A000058", "A076393"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "unit fractions"]
 
 - number: "316"
@@ -5416,8 +5416,8 @@
     last_update: "2025-12-25"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "additive basis"]
 
 - number: "334"
@@ -6001,8 +6001,8 @@
     last_update: "2026-03-27"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "370"
@@ -6521,8 +6521,8 @@
     last_update: "2026-01-11"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "factorials"]
 
 - number: "402"
@@ -6975,8 +6975,8 @@
     last_update: "2026-01-29"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "430"
@@ -7075,8 +7075,8 @@
     last_update: "2026-02-04"
   oeis: ["A389479"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "436"
