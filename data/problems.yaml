@@ -10961,8 +10961,8 @@
     last_update: "2025-12-08"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "675"
