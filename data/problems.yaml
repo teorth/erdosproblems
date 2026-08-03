@@ -7204,8 +7204,8 @@
     last_update: "2026-02-04"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "444"
@@ -7871,8 +7871,8 @@
     last_update: "2026-04-15"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "additive combinatorics", "ramsey theory"]
 
 - number: "485"
@@ -7920,8 +7920,8 @@
     last_update: "2026-02-16"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "488"
@@ -8084,8 +8084,8 @@
     last_update: "2026-02-04"
   oeis: ["A000372"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   comments: "Dedekind's problem"
   tags: ["combinatorics"]
 
@@ -8102,8 +8102,8 @@
     last_update: "2026-01-27"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   comments: "strong Littlewood-Offord problem"
   tags: ["combinatorics", "analysis"]
 
@@ -8169,8 +8169,8 @@
     last_update: "2026-02-02"
   oeis: ["A027627"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["geometry", "distances"]
 
 - number: "503"
@@ -8740,8 +8740,8 @@
     last_update: "2026-02-06"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "538"
@@ -9463,8 +9463,8 @@
     last_update: "2026-02-05"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "583"
@@ -10047,8 +10047,8 @@
     last_update: "2026-02-08"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["graph theory"]
 
 - number: "619"
@@ -10502,8 +10502,8 @@
     last_update: "2026-03-02"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "factorials"]
 
 - number: "647"
