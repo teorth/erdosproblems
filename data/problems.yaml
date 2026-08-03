@@ -726,8 +726,8 @@
     last_update: "2026-05-06"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "unit fractions", "ramsey theory"]
 
 - number: "46"
@@ -743,8 +743,8 @@
     last_update: "2025-12-29"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "unit fractions", "ramsey theory"]
 
 - number: "47"
@@ -1523,8 +1523,8 @@
     last_update: "2026-01-15"
   oeis: ["A387858"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["geometry", "convex", "distances"]
 
 - number: "95"
@@ -1700,8 +1700,8 @@
     last_update: "2025-11-22"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["geometry"]
 
 - number: "106"
@@ -1863,8 +1863,8 @@
     last_update: "2026-03-03"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["polynomials", "analysis"]
 
 - number: "116"
@@ -2434,8 +2434,8 @@
     last_update: "2026-03-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["graph theory"]
 
 - number: "151"
@@ -3283,8 +3283,8 @@
     last_update: "2026-05-14"
   oeis: ["A389975"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["covering systems"]
 
 - number: "203"
@@ -3333,8 +3333,8 @@
     last_update: "2026-01-10"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory"]
 
 - number: "206"
@@ -3480,8 +3480,8 @@
     last_update: "2026-02-03"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["geometry", "distances"]
 
 - number: "215"
@@ -5481,8 +5481,8 @@
     last_update: "2025-12-10"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-03"
   tags: ["number theory", "additive combinatorics", "additive basis"]
 
 - number: "338"
