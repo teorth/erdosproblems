@@ -4310,6 +4310,7 @@
     state: "no"
     last_update: "2025-08-31"
   tags: ["irrationality"]
+  comments: "ambiguous statement"
 
 - number: "266"
   prize: "no"
