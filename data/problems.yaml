@@ -4309,8 +4309,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["irrationality"]
   comments: "ambiguous statement"
+  tags: ["irrationality"]
 
 - number: "266"
   prize: "no"
