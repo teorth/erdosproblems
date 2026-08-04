@@ -7269,8 +7269,8 @@
     last_update: "2026-02-10"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["combinatorics"]
 
 - number: "448"
@@ -7822,8 +7822,8 @@
     last_update: "2025-12-01"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["number theory"]
 
 - number: "482"
@@ -10552,8 +10552,8 @@
     last_update: "2026-02-07"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["number theory"]
 
 - number: "650"
@@ -10569,8 +10569,8 @@
     last_update: "2026-03-06"
   oeis: ["A027434"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["number theory"]
 
 - number: "651"
@@ -10831,8 +10831,8 @@
     last_update: "2026-02-06"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["graph theory"]
 
 - number: "667"
@@ -11251,8 +11251,8 @@
     last_update: "2026-04-02"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["number theory", "divisors"]
 
 - number: "693"
@@ -11350,8 +11350,8 @@
     last_update: "2026-01-16"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["number theory", "binomial coefficients"]
 
 - number: "699"
@@ -12208,8 +12208,8 @@
     last_update: "2026-01-27"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["graph theory", "chromatic number"]
 
 - number: "752"
@@ -12241,8 +12241,8 @@
     last_update: "2026-04-14"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["graph theory", "chromatic number"]
 
 - number: "754"
@@ -12290,8 +12290,8 @@
     last_update: "2026-03-15"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["geometry", "distances"]
 
 - number: "757"
