@@ -16952,8 +16952,8 @@
     state: "solved (Lean)"
     last_update: "2026-04-28"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -17001,8 +17001,8 @@
     state: "disproved (Lean)"
     last_update: "2026-01-21"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -17018,8 +17018,8 @@
     state: "disproved (Lean)"
     last_update: "2026-01-27"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -17828,8 +17828,8 @@
     state: "proved (Lean)"
     last_update: "2026-05-02"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["N/A"]
   tags: ["group theory"]
 
@@ -18201,8 +18201,8 @@
     state: "proved (Lean)"
     last_update: "2026-04-19"
   formalized:
-    state: "no"
-    last_update: "2025-12-30"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["N/A"]
   tags: ["geometry"]
 
@@ -18446,8 +18446,8 @@
     state: "proved (Lean)"
     last_update: "2026-04-19"
   formalized:
-    state: "no"
-    last_update: "2026-01-20"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["N/A"]
   tags: ["number theory"]
 
@@ -19315,8 +19315,8 @@
     state: "solved (Lean)"
     last_update: "2026-05-14"
   formalized:
-    state: "no"
-    last_update: "2026-04-04"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["possible"]
   tags: ["number theory", "covering systems"]
 
@@ -19364,8 +19364,8 @@
     state: "solved (Lean)"
     last_update: "2026-04-13"
   formalized:
-    state: "no"
-    last_update: "2026-04-04"
+    state: "yes"
+    last_update: "2026-08-04"
   oeis: ["N/A"]
   tags: ["additive combinatorics"]
 
