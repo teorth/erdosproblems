@@ -12355,8 +12355,8 @@
     last_update: "2026-04-23"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["graph theory", "chromatic number"]
 
 - number: "761"
@@ -12388,8 +12388,8 @@
     last_update: "2026-02-08"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["graph theory", "chromatic number"]
 
 - number: "763"
@@ -12598,8 +12598,8 @@
     last_update: "2026-04-19"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["graph theory", "hypergraphs"]
 
 - number: "776"
@@ -12759,8 +12759,8 @@
     last_update: "2026-03-06"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   comments: "exact additive complements"
   tags: ["additive combinatorics"]
 
@@ -12906,8 +12906,8 @@
     last_update: "2026-02-05"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["graph theory", "hypergraphs", "turan number"]
 
 - number: "795"
@@ -12971,8 +12971,8 @@
     last_update: "2026-05-08"
   oeis: ["A116446"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["geometry"]
 
 - number: "799"
@@ -13292,8 +13292,8 @@
     last_update: "2026-04-25"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["additive combinatorics"]
 
 - number: "819"
@@ -13709,8 +13709,8 @@
     last_update: "2026-04-26"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["number theory", "intersecting family"]
 
 - number: "845"
@@ -14004,8 +14004,8 @@
     last_update: "2026-01-21"
   oeis: ["A382395"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["number theory", "sidon sets"]
 
 - number: "863"
@@ -14086,8 +14086,8 @@
     last_update: "2026-04-07"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-04"
   tags: ["additive combinatorics"]
 
 - number: "868"
