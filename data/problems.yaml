@@ -15507,8 +15507,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-05"
   tags: ["number theory"]
 
 - number: "956"
