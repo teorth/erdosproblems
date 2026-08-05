@@ -16349,8 +16349,8 @@
     state: "solved (Lean)"
     last_update: "2026-01-19"
   formalized:
-    state: "no"
-    last_update: "2025-09-09"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["N/A"]
   tags: ["graph theory"]
 
@@ -16366,8 +16366,8 @@
     state: "proved (Lean)"
     last_update: "2026-01-17"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["N/A"]
   tags: ["graph theory"]
 
@@ -16462,8 +16462,8 @@
     state: "proved (Lean)"
     last_update: "2026-04-24"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["possible"]
   tags: ["graph theory"]
 
@@ -16592,8 +16592,8 @@
     state: "proved (Lean)"
     last_update: "2026-01-23"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["possible"]
   tags: ["combinatorics", "hypergraphs"]
 
@@ -16609,8 +16609,8 @@
     state: "solved (Lean)"
     last_update: "2026-02-10"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["A347025", "possible"]
   tags: ["combinatorics"]
 
@@ -16658,8 +16658,8 @@
     state: "solved (Lean)"
     last_update: "2025-12-12"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["A391431", "A391490"]
   tags: ["combinatorics"]
 
@@ -16691,8 +16691,8 @@
     state: "solved (Lean)"
     last_update: "2026-01-19"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["possible"]
   tags: ["graph theory", "discrepancy"]
 
@@ -16788,8 +16788,8 @@
     state: "disproved (Lean)"
     last_update: "2025-12-04"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["possible"]
   tags: ["graph theory"]
 
@@ -16821,8 +16821,8 @@
     state: "proved (Lean)"
     last_update: "2026-01-20"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["possible"]
   tags: ["graph theory"]
 
@@ -16838,8 +16838,8 @@
     state: "disproved (Lean)"
     last_update: "2026-01-18"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-08-05"
   oeis: ["N/A"]
   tags: ["graph theory"]
 
