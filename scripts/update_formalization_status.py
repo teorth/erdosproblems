@@ -1,3 +1,4 @@
+import os
 import requests
 import sys
 from pathlib import Path
@@ -16,7 +17,11 @@ def fetch_formalized_problem_numbers():
     """
     print(f"Fetching file list from {API_URL}...")
     try:
-        response = requests.get(API_URL)
+        headers = {}
+        github_token = os.environ.get("GITHUB_TOKEN")
+        if github_token:
+            headers["Authorization"] = f"Bearer {github_token}"
+        response = requests.get(API_URL, headers=headers)
         # Raises an exception for bad status codes (4xx or 5xx)
         response.raise_for_status()  
         data = response.json()
