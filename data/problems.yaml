@@ -2108,8 +2108,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-07"
   tags: ["graph theory", "chromatic number"]
 
 - number: "131"
@@ -8482,8 +8482,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-07"
   tags: ["analysis", "polynomials", "probability"]
 
 - number: "522"
@@ -12501,8 +12501,8 @@
     last_update: "2025-08-31"
   oeis: ["A014544", "possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-07"
   tags: ["number theory", "geometry"]
 
 - number: "770"
@@ -12938,8 +12938,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-07"
   tags: ["number theory"]
 
 - number: "797"
@@ -19282,8 +19282,8 @@
     state: "open"
     last_update: "2026-04-04"
   formalized:
-    state: "no"
-    last_update: "2026-04-04"
+    state: "yes"
+    last_update: "2026-08-07"
   oeis: ["possible"]
   tags: ["number theory", "covering systems"]
 
