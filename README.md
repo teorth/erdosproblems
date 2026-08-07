@@ -42,10 +42,10 @@ There are 1217 problems in total, of which
 - 0 have a literature review requested.
 - [210](https://teorth.github.io/erdosproblems/?formal=Lean) have a *solution* formalized in [Lean](https://lean-lang.org/).  This need not be a subset of the solved problems above: a formalized solution that has not yet been digested by a human reader keeps its informal status (so can appear as, e.g., "open (Lean)").
 - [593](https://teorth.github.io/erdosproblems/?formalized=yes) have their *statements* formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [320](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 411 distinct [OEIS](https://oeis.org/) sequences, with a total of 491 links created.
+- [321](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 412 distinct [OEIS](https://oeis.org/) sequences, with a total of 492 links created.
   - 80 of these OEIS sequences were added since the creation of this database (A387000 onwards).
 - [324](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 270 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+  - 269 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 
@@ -1044,7 +1044,7 @@ There are 1217 problems in total, of which
 | [990](https://www.erdosproblems.com/990) | no | disproved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/990.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=990) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
 | [991](https://www.erdosproblems.com/991) | no | proved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=991) | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [992](https://www.erdosproblems.com/992) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=992) | N/A | [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
-| [993](https://www.erdosproblems.com/993) | no | falsifiable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=993) | possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
+| [993](https://www.erdosproblems.com/993) | no | falsifiable | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=993) | [A000055](https://oeis.org/A000055), possible | [graph theory](https://www.erdosproblems.com/tags/graph%20theory) |  |
 | [994](https://www.erdosproblems.com/994) | no | disproved | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=994) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [995](https://www.erdosproblems.com/995) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=995) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis), [discrepancy](https://www.erdosproblems.com/tags/discrepancy) |  |
 | [996](https://www.erdosproblems.com/996) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/996.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=996) | N/A | [analysis](https://www.erdosproblems.com/tags/analysis) |  |
