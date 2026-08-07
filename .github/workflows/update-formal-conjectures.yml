@@ -25,6 +25,12 @@ jobs:
 
       - name: Run update script
         run: python3 scripts/update_formalization_status.py
+        env:
+          # The script authenticates its GitHub API call when this is set.
+          # Actions does not export GITHUB_TOKEN to run steps automatically,
+          # so it has to be passed explicitly or the call stays unauthenticated
+          # and subject to the 60-request-per-hour-per-IP limit.  See PR #376.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
