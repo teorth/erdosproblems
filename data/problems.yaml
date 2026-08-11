@@ -6673,18 +6673,19 @@
 - number: "411"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-08-11"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-08-11"
   oeis: ["A383044", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
   tags: ["number theory", "iterated functions"]
+  notes: "Solved by Pan, A. (2026). Proof available at https://doi.org/10.5281/zenodo.21890435"
 
 - number: "412"
   prize: "no"
