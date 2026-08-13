@@ -18,6 +18,19 @@ OUTPUT_DARK = ROOT / "data" / "statistics_history_dark.svg"
 FIELDNAMES = ["commit", "date", "total_problems", "lean_formalized", 
               "oeis_linked", "total_solved", "proved", "disproved", "solved", "lean_solved", "open"]
 
+def _as_int(value, default=0):
+    """Read a CSV cell that may be missing or blank.
+
+    ``csv.DictReader`` creates a key for every column in the header and fills it
+    with ``None`` on a short row, so ``row.get(name, default)`` never falls back
+    for a column the header declares.  Rows written before a column existed are
+    exactly that case.
+    """
+    if value is None or value == "":
+        return default
+    return int(value)
+
+
 def get_current_commit():
     try:
         return subprocess.check_output(["git", "rev-parse", "HEAD"]).decode("ascii").strip()
@@ -35,7 +48,9 @@ def update_history(stats: dict) -> bool:
         with CSV_FILE.open("r", encoding="utf-8") as f:
             rows = list(csv.DictReader(f))
             if rows:
-                last_stats = {k: int(v) for k, v in rows[-1].items() if k in stats}
+                last_stats = {
+                    k: _as_int(v) for k, v in rows[-1].items() if k in stats
+                }
 
     # Compare (ignoring date/commit)
     if last_stats == stats:
@@ -125,13 +140,15 @@ def generate_charts():
     with CSV_FILE.open("r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
+            total = _as_int(row.get("total_problems"))
+            solved = _as_int(row.get("total_solved"))
             data_points.append({
                 'date': datetime.strptime(row["date"], "%Y-%m-%d %H:%M:%S %z"),
-                'lean': int(row["lean_formalized"]),
-                'oeis': int(row["oeis_linked"]),
-                'solve': int(row["total_solved"]),
-                'lean_solved': int(row.get("lean_solved", 0)),
-                'open': int(row.get("open", int(row["total_problems"]) - int(row["total_solved"])))
+                'lean': _as_int(row.get("lean_formalized")),
+                'oeis': _as_int(row.get("oeis_linked")),
+                'solve': solved,
+                'lean_solved': _as_int(row.get("lean_solved")),
+                'open': _as_int(row.get("open"), total - solved)
             })
 
     if not data_points:
