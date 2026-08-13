@@ -117,8 +117,7 @@ for row in data:
 # scripts/derive_status.py on every push to main, so a stale value on a branch
 # is harmless.  What is *not* harmless is a contributor editing `status`
 # directly: that edit would be silently reverted.  We can tell the two apart
-# when the base revision is available, by checking whether `status` moved while
-# both primitives stayed put.
+# when the base revision is available, by checking whether `status` itself moved.
 base_rows = {}
 if args.base:
     base_path = Path(args.base)
@@ -143,11 +142,14 @@ for row in data:
 
     number = row.get("number")
     base_row = base_rows.get(number)
+    # We only get here when `status` disagrees with the derived value, so the
+    # question is simply whether this PR touched `status`.  If it did, the edit
+    # is a hand-edit that regeneration would silently throw away - no matter
+    # whether the primitives moved in the same PR.  If it did not, `status` is
+    # merely stale on the branch, which is harmless.
     hand_edited = (
         base_row is not None
         and dict(base_row.get("status") or {}) != current
-        and base_row.get("informal_status") == row.get("informal_status")
-        and base_row.get("formal_status") == row.get("formal_status")
     )
 
     if hand_edited:
