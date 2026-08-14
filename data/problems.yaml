@@ -6670,7 +6670,7 @@
     last_update: "2025-09-01"
   tags: ["number theory", "iterated functions"]
 
-- id: 411
+- number: 411
   prize: "no"
   informal_status:
     state: "proved"
