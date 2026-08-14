@@ -6683,9 +6683,9 @@
   oeis: ["A383044", "possible"]
   formalized:
     state: "no"
-    last_update: "2025-08-31"
+    last_update: "2026-08-14"
   tags: ["number theory", "iterated functions"]
-  notes: "r=2 case solved by Pan, Alateng (2026). Full proof at https://doi.org/10.5281/zenodo.21890435. General r>2 remains open."
+  notes: "r=2 case solved by Pan, A. (2026). Full proof at https://doi.org/10.5281/zenodo.21890435. General r>2 remains open."
 - number: "412"
   prize: "no"
   informal_status:
