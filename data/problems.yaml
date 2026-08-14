@@ -6670,7 +6670,7 @@
     last_update: "2025-09-01"
   tags: ["number theory", "iterated functions"]
 
-- number: 411
+- number: "411"
   prize: "no"
   informal_status:
     state: "proved"
@@ -6686,6 +6686,7 @@
     last_update: "2026-08-14"
   tags: ["number theory", "iterated functions"]
   notes: "r=2 case solved by Pan, A. (2026). Full proof at https://doi.org/10.5281/zenodo.21890435. General r>2 remains open."
+  
 - number: "412"
   prize: "no"
   informal_status:
