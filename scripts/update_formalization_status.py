@@ -29,6 +29,17 @@ def fetch_formalized_problem_numbers():
         print(f"Error fetching data from GitHub API: {e}", file=sys.stderr)
         sys.exit(1)
 
+    # A partial listing is worse than no listing here: every problem missing from
+    # it gets rewritten to formalized "no", and the workflow commits that.
+    if data.get("truncated"):
+        print(
+            "Error: the GitHub tree listing came back truncated, so it does not "
+            "contain every formalization.  Refusing to rewrite problems.yaml from "
+            "a partial listing.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     formalized_numbers = set()
     for item in data.get("tree", []):
         path = item.get("path", "")
@@ -37,7 +48,16 @@ def fetch_formalized_problem_numbers():
             problem_number = Path(path).stem
             if problem_number.isdigit():
                 formalized_numbers.add(problem_number)
-    
+
+    if not formalized_numbers:
+        print(
+            f"Error: no files under {FILE_PREFIX} in the listing.  Either the "
+            "directory moved or the response was not the tree we asked for; "
+            "either way, marking every problem unformalized would be wrong.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     print(f"Found {len(formalized_numbers)} formalized problem files: {formalized_numbers}")
     return formalized_numbers
 
