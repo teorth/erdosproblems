@@ -130,8 +130,8 @@ def generate_charts():
                 'lean': int(row["lean_formalized"]),
                 'oeis': int(row["oeis_linked"]),
                 'solve': int(row["total_solved"]),
-                'lean_solved': int(row.get("lean_solved", 0)),
-                'open': int(row.get("open", int(row["total_problems"]) - int(row["total_solved"])))
+                'lean_solved': int(row["lean_solved"]),
+                'open': int(row["open"])
             })
 
     if not data_points:
