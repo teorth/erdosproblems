@@ -33,7 +33,7 @@ def update_history(stats: dict) -> bool:
     last_stats = {}
     if CSV_FILE.exists():
         with CSV_FILE.open("r", encoding="utf-8") as f:
-            rows = list(csv.DictReader(f))
+            rows = list(csv.DictReader(f, fieldnames=FIELDNAMES))
             if rows:
                 last_stats = {k: int(v) for k, v in rows[-1].items() if k in stats}
 
