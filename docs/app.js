@@ -303,9 +303,14 @@ function updateTable() {
     // Update tag and dropdown displays with filtered counts
     const nonTagFiltersActive = hasNonTagFilters();
 
-    // Update tag display (excludes tag filters from count calculation)
+    // Update tag display (excludes tag filters from count calculation, so a
+    // selected tag does not zero out the count of every other tag)
     if (nonTagFiltersActive) {
-        window._filteredTagCounts = extractTagCounts(filteredProblems);
+        const withoutTagFilters = applyFilters(
+            searchProblems(allProblems, searchQuery),
+            { ...filters, tags: [] }
+        );
+        window._filteredTagCounts = extractTagCounts(withoutTagFilters);
         window._hasActiveFilters = true;
     } else {
         window._filteredTagCounts = null;
