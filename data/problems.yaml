@@ -6690,7 +6690,7 @@
     These correspond to Steinerberger's first branch (odd part in {1,3,5,7,35,47}).
     The second branch (8m+7 and 6m+5 forms) remains open.
     This is a partial result, not a complete proof of the r=2 case.
-    Proof: https://doi.org/10.5281/zenodo.21952572 (v4.0)
+    Proof: https://doi.org/10.5281/zenodo.21991040 (v4.0)
     Solution set (Branch 1): 2^a * m, m ∈ {1,3,5,7,35,47}, with a_1=2, a_m=1 for others.
   
 - number: "412"
