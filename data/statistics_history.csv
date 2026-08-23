@@ -1,4 +1,4 @@
-commit,date,total_problems,lean_formalized,oeis_linked,total_solved,proved,disproved,solved,lean_solved
+commit,date,total_problems,lean_formalized,oeis_linked,total_solved,proved,disproved,solved,lean_solved,open
 cee85ee5b85bb8ccdbb51647ef3ab7d68a799668,2025-08-31 09:59:02 -0700,2,0,1,1,0,0,1,0
 c7623a59c530a573194fe00c82bded702faed2e0,2025-08-31 10:08:27 -0700,3,3,1,1,0,0,1,0
 3a01dfb81f0c29e6b8e5ed4b90b828fc9d485915,2025-08-31 10:26:37 -0700,200,3,1,1,0,0,1,0
