@@ -174,6 +174,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["number theory", "additive basis", "primes"]
 
 - number: "11"
@@ -210,6 +211,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 13
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["number theory"]
 
 - number: "13"
@@ -318,6 +321,8 @@
     last_update: "2026-03-15"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 4
   comments: "practical numbers"
   tags: ["number theory", "divisors", "factorials"]
 
@@ -644,6 +649,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 6
+    proof_claims: 1
   comments: "minimum overlap problem"
   tags: ["number theory", "additive combinatorics"]
 
@@ -1124,6 +1130,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 3
+    proof_claim_posts: 1
   tags: ["graph theory", "cycles"]
 
 - number: "65"
@@ -1419,6 +1427,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 1
   tags: ["graph theory"]
 
 - number: "82"
@@ -1858,6 +1867,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 5
   tags: ["geometry"]
 
 - number: "107"
@@ -2053,6 +2064,9 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["group theory"]
 
 - number: "118"
@@ -2085,6 +2099,9 @@
   formalized:
     state: "yes"
     last_update: "2025-11-27"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 13
   tags: ["analysis", "polynomials"]
 
 - number: "120"
@@ -2158,6 +2175,8 @@
     last_update: "2025-12-17"
   forum:
     posts: 4
+    proof_claims: 4
+    proof_claim_posts: 9
   tags: ["number theory"]
 
 - number: "124"
@@ -2245,6 +2264,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 6
+    proof_claims: 1
   tags: ["graph theory"]
 
 - number: "129"
@@ -2282,6 +2302,8 @@
     last_update: "2026-08-07"
   forum:
     posts: 1
+    proof_claims: 2
+    proof_claim_posts: 4
   tags: ["graph theory", "chromatic number"]
 
 - number: "131"
@@ -2298,6 +2320,9 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 5
   tags: ["number theory"]
 
 - number: "132"
@@ -2316,6 +2341,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 5
+    proof_claims: 1
   tags: ["distances"]
 
 - number: "133"
@@ -2420,7 +2446,7 @@
     state: "yes"
     last_update: "2025-09-29"
   forum:
-    posts: 7
+    posts: 8
   tags: ["additive combinatorics"]
 
 - number: "139"
@@ -2692,6 +2718,7 @@
     last_update: "2026-01-08"
   forum:
     posts: 7
+    proof_claims: 1
   tags: ["sidon sets"]
 
 - number: "154"
@@ -2813,6 +2840,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 4
+    proof_claim_posts: 2
   tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "161"
@@ -3208,7 +3237,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
   tags: ["graph theory"]
 
 - number: "183"
@@ -4489,6 +4518,8 @@
     last_update: "2026-03-08"
   forum:
     posts: 3
+    proof_claims: 3
+    proof_claim_posts: 8
   tags: ["number theory"]
 
 - number: "255"
@@ -4597,6 +4628,8 @@
     last_update: "2026-03-09"
   forum:
     posts: 8
+    proof_claims: 2
+    proof_claim_posts: 3
   tags: ["irrationality"]
 
 - number: "261"
@@ -4649,6 +4682,8 @@
     last_update: "2026-01-25"
   forum:
     posts: 6
+    proof_claims: 4
+    proof_claim_posts: 4
   tags: ["irrationality"]
 
 - number: "264"
@@ -4720,6 +4755,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 4
+    proof_claims: 1
   tags: ["irrationality"]
 
 - number: "268"
@@ -4830,6 +4866,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["number theory", "covering systems"]
 
 - number: "274"
@@ -4848,6 +4885,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 1
   comments: "Herzog-Schönheim conjecture"
   tags: ["group theory", "covering systems"]
 
@@ -4922,6 +4960,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 4
+    proof_claims: 1
   tags: ["number theory", "covering systems"]
 
 - number: "279"
@@ -5325,6 +5364,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["number theory", "unit fractions"]
 
 - number: "302"
@@ -5343,6 +5384,7 @@
     last_update: "2026-08-05"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["number theory", "unit fractions"]
 
 - number: "303"
@@ -5645,6 +5687,9 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory", "unit fractions"]
 
 - number: "320"
@@ -5663,6 +5708,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 4
+    proof_claim_posts: 9
   tags: ["number theory", "unit fractions"]
 
 - number: "321"
@@ -5681,6 +5728,8 @@
     last_update: "2025-10-06"
   forum:
     posts: 10
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory", "unit fractions"]
 
 - number: "322"
@@ -5790,6 +5839,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 11
+    proof_claims: 3
+    proof_claim_posts: 5
   tags: ["number theory", "unit fractions"]
 
 - number: "328"
@@ -5956,6 +6007,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["number theory", "additive basis"]
 
 - number: "337"
@@ -6043,6 +6095,7 @@
     last_update: "2026-01-22"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "342"
@@ -6129,6 +6182,8 @@
     last_update: "2026-01-04"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["number theory", "complete sequences"]
 
 - number: "347"
@@ -6330,6 +6385,7 @@
     last_update: "2025-10-17"
   forum:
     posts: 10
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "358"
@@ -6401,6 +6457,8 @@
     last_update: "2025-09-05"
   forum:
     posts: 4
+    proof_claims: 2
+    proof_claim_posts: 4
   tags: ["number theory"]
 
 - number: "362"
@@ -6492,6 +6550,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory"]
 
 - number: "367"
@@ -6636,6 +6696,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "375"
@@ -6797,6 +6858,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "384"
@@ -6849,6 +6911,7 @@
     last_update: "2026-01-11"
   forum:
     posts: 13
+    proof_claims: 1
   tags: ["number theory", "binomial coefficients"]
 
 - number: "387"
@@ -6921,6 +6984,8 @@
     last_update: "2026-01-03"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["number theory", "factorials"]
 
 - number: "391"
@@ -6992,6 +7057,7 @@
     last_update: "2026-02-09"
   forum:
     posts: 9
+    proof_claims: 2
   tags: ["number theory"]
 
 - number: "395"
@@ -7384,6 +7450,8 @@
   formalized:
     state: "yes"
     last_update: "2025-09-04"
+  forum:
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "417"
@@ -7476,6 +7544,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 47
+    proof_claims: 2
   tags: ["number theory"]
 
 - number: "422"
@@ -7528,6 +7597,9 @@
   formalized:
     state: "yes"
     last_update: "2025-11-13"
+  forum:
+    proof_claims: 4
+    proof_claim_posts: 7
   tags: ["number theory"]
 
 - number: "425"
@@ -7985,6 +8057,9 @@
   formalized:
     state: "yes"
     last_update: "2026-08-07"
+  forum:
+    proof_claims: 2
+    proof_claim_posts: 8
   tags: ["number theory", "divisors"]
 
 - number: "451"
@@ -8328,6 +8403,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 7
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory", "divisors"]
 
 - number: "470"
@@ -8473,6 +8550,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 8
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "478"
@@ -8491,6 +8569,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 1
   tags: ["number theory", "factorials"]
 
 - number: "479"
@@ -8635,6 +8714,8 @@
     last_update: "2025-12-29"
   forum:
     posts: 8
+    proof_claims: 2
+    proof_claim_posts: 3
   tags: ["number theory", "primitive sets"]
 
 - number: "487"
@@ -8690,6 +8771,7 @@
     last_update: "2026-02-13"
   forum:
     posts: 3
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "490"
@@ -8904,6 +8986,7 @@
     last_update: "2026-05-11"
   forum:
     posts: 12
+    proof_claims: 1
   tags: ["combinatorics", "set theory"]
 
 - number: "502"
@@ -8996,6 +9079,8 @@
     last_update: "2026-08-14"
   forum:
     posts: 2
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["geometry"]
 
 - number: "507"
@@ -9050,6 +9135,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 1
   tags: ["analysis"]
 
 - number: "510"
@@ -9125,6 +9211,7 @@
     last_update: "2026-01-01"
   forum:
     posts: 6
+    proof_claims: 1
   tags: ["analysis"]
 
 - number: "514"
@@ -9215,6 +9302,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["graph theory", "ramsey theory"]
 
 - number: "519"
@@ -9252,6 +9340,7 @@
     last_update: "2025-12-20"
   forum:
     posts: 1
+    proof_claims: 2
   tags: ["number theory", "probability"]
 
 - number: "521"
@@ -9270,6 +9359,7 @@
     last_update: "2026-08-07"
   forum:
     posts: 20
+    proof_claims: 2
   tags: ["analysis", "polynomials", "probability"]
 
 - number: "522"
@@ -9531,6 +9621,8 @@
     last_update: "2025-11-12"
   forum:
     posts: 9
+    proof_claims: 2
+    proof_claim_posts: 4
   tags: ["number theory"]
 
 - number: "537"
@@ -9566,6 +9658,8 @@
   formalized:
     state: "yes"
     last_update: "2026-08-07"
+  forum:
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "539"
@@ -9782,6 +9876,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 7
+    proof_claims: 1
   tags: ["graph theory", "ramsey theory"]
 
 - number: "551"
@@ -9974,6 +10069,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 4
+    proof_claims: 1
   tags: ["graph theory", "ramsey theory"]
 
 - number: "562"
@@ -10108,6 +10204,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["graph theory", "ramsey theory"]
 
 - number: "570"
@@ -10294,6 +10392,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["graph theory"]
 
 - number: "581"
@@ -10517,6 +10617,8 @@
     last_update: "2026-05-21"
   forum:
     posts: 1
+    proof_claims: 4
+    proof_claim_posts: 10
   tags: ["set theory", "graph theory", "hypergraphs", "chromatic number"]
 
 - number: "594"
@@ -10670,6 +10772,7 @@
     last_update: "2026-04-16"
   forum:
     posts: 1
+    proof_claims: 1
   comments: "Property B"
   tags: ["combinatorics", "set theory"]
 
@@ -10936,6 +11039,8 @@
     last_update: "2026-01-24"
   forum:
     posts: 2
+    proof_claims: 12
+    proof_claim_posts: 10
   tags: ["graph theory"]
 
 - number: "618"
@@ -11048,6 +11153,8 @@
     last_update: "2025-11-12"
   forum:
     posts: 5
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["set theory"]
 
 - number: "624"
@@ -11084,6 +11191,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 5
   tags: ["graph theory", "chromatic number"]
 
 - number: "626"
@@ -11239,6 +11348,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 2
   tags: ["geometry"]
 
 - number: "635"
@@ -11579,6 +11690,8 @@
   formalized:
     state: "yes"
     last_update: "2026-04-16"
+  forum:
+    proof_claims: 1
   tags: ["geometry", "distances"]
 
 - number: "654"
@@ -11743,6 +11856,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 4
+    proof_claims: 2
+    proof_claim_posts: 2
   comments: "ambiguous statement"
   tags: ["geometry", "distances"]
 
@@ -11906,6 +12021,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 5
+    proof_claims: 3
+    proof_claim_posts: 13
   tags: ["analysis"]
 
 - number: "672"
@@ -11977,6 +12094,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 7
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["number theory"]
 
 - number: "676"
@@ -11995,6 +12114,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 9
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "677"
@@ -12224,6 +12344,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 30
+    proof_claims: 2
+    proof_claim_posts: 7
   tags: ["number theory"]
 
 - number: "690"
@@ -12406,6 +12528,8 @@
     last_update: "2026-01-04"
   forum:
     posts: 9
+    proof_claims: 4
+    proof_claim_posts: 3
   tags: ["number theory", "binomial coefficients"]
 
 - number: "700"
@@ -12424,6 +12548,8 @@
     last_update: "2026-06-24"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory", "binomial coefficients"]
 
 - number: "701"
@@ -12857,6 +12983,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["combinatorics"]
 
 - number: "726"
@@ -12875,6 +13002,8 @@
     last_update: "2026-06-25"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory"]
 
 - number: "727"
@@ -12949,6 +13078,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 6
+    proof_claims: 1
   tags: ["number theory", "binomial coefficients", "base representations"]
 
 - number: "731"
@@ -12967,6 +13097,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 9
+    proof_claims: 1
   tags: ["number theory", "binomial coefficients"]
 
 - number: "732"
@@ -13121,6 +13252,7 @@
     last_update: "2026-05-09"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["graph theory", "chromatic number"]
 
 - number: "741"
@@ -13158,6 +13290,8 @@
     last_update: "2026-06-29"
   forum:
     posts: 1
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["graph theory"]
 
 - number: "743"
@@ -13611,6 +13745,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["number theory"]
 
 - number: "769"
@@ -13629,6 +13765,7 @@
     last_update: "2026-08-07"
   forum:
     posts: 1
+    proof_claims: 2
   tags: ["number theory", "geometry"]
 
 - number: "770"
@@ -13647,6 +13784,7 @@
     last_update: "2026-01-20"
   forum:
     posts: 6
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "771"
@@ -13752,6 +13890,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 8
+    proof_claims: 3
+    proof_claim_posts: 3
   tags: ["combinatorics"]
 
 - number: "777"
@@ -13786,6 +13926,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 2
+    proof_claim_posts: 6
   tags: ["graph theory"]
 
 - number: "779"
@@ -13909,6 +14051,7 @@
     last_update: "2026-08-04"
   forum:
     posts: 5
+    proof_claims: 1
   comments: "exact additive complements"
   tags: ["additive combinatorics"]
 
@@ -13964,6 +14107,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 14
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["additive combinatorics"]
 
 - number: "789"
@@ -14053,6 +14198,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 13
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "794"
@@ -14108,6 +14254,7 @@
     last_update: "2026-08-07"
   forum:
     posts: 4
+    proof_claims: 2
   tags: ["number theory"]
 
 - number: "797"
@@ -14512,6 +14659,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["number theory"]
 
 - number: "821"
@@ -15003,6 +15152,8 @@
     last_update: "2026-02-01"
   forum:
     posts: 48
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory"]
 
 - number: "849"
@@ -15111,6 +15262,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 7
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "855"
@@ -15148,6 +15300,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 18
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "857"
@@ -15219,6 +15372,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 4
+    proof_claim_posts: 5
   tags: ["number theory", "primes"]
 
 - number: "861"
@@ -15437,6 +15592,8 @@
     last_update: "2026-07-02"
   forum:
     posts: 36
+    proof_claims: 2
+    proof_claim_posts: 4
   tags: ["number theory", "primitive sets"]
 
 - number: "873"
@@ -15507,6 +15664,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 1
+    proof_claims: 2
+    proof_claim_posts: 7
   tags: ["additive combinatorics"]
 
 - number: "877"
@@ -15611,6 +15770,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    proof_claims: 1
   tags: ["number theory", "primitive sets"]
 
 - number: "883"
@@ -15629,6 +15790,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 7
   tags: ["number theory", "graph theory"]
 
 - number: "884"
@@ -16039,6 +16202,7 @@
     last_update: "2026-01-02"
   forum:
     posts: 13
+    proof_claims: 1
   tags: ["analysis", "iterated functions"]
 
 - number: "907"
@@ -16281,6 +16445,8 @@
     last_update: "2026-02-05"
   forum:
     posts: 2
+    proof_claims: 4
+    proof_claim_posts: 2
   tags: ["graph theory", "chromatic number"]
 
 - number: "921"
@@ -16525,6 +16691,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 4
+    proof_claims: 2
+    proof_claim_posts: 3
   tags: ["graph theory"]
 
 - number: "935"
@@ -16970,6 +17138,9 @@
   formalized:
     state: "yes"
     last_update: "2026-08-07"
+  forum:
+    proof_claims: 3
+    proof_claim_posts: 2
   tags: ["geometry", "distances"]
 
 - number: "960"
@@ -17186,6 +17357,8 @@
     last_update: "2026-01-12"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory"]
 
 - number: "972"
@@ -17222,6 +17395,8 @@
     last_update: "2026-06-07"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["analysis"]
 
 - number: "974"
@@ -17383,6 +17558,7 @@
     last_update: "2025-11-13"
   forum:
     posts: 1
+    proof_claims: 1
   tags: ["geometry", "convex", "distances"]
 
 - number: "983"
@@ -17732,6 +17908,8 @@
     last_update: "2026-04-28"
   forum:
     posts: 2
+    proof_claims: 3
+    proof_claim_posts: 6
   oeis: ["N/A"]
   tags: ["analysis", "diophantine approximation"]
 
@@ -17786,6 +17964,8 @@
     last_update: "2025-09-09"
   forum:
     posts: 1
+    proof_claims: 4
+    proof_claim_posts: 3
   oeis: ["A386893"]
   tags: ["number theory"]
 
@@ -18384,6 +18564,8 @@
     last_update: "2025-12-31"
   forum:
     posts: 141
+    proof_claims: 4
+    proof_claim_posts: 6
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -18758,6 +18940,8 @@
   formalized:
     state: "yes"
     last_update: "2025-11-02"
+  forum:
+    proof_claims: 1
   oeis: ["A064152"]
   tags: ["number theory", "primes"]
 
@@ -18794,6 +18978,7 @@
     last_update: "2026-01-12"
   forum:
     posts: 4
+    proof_claims: 1
   oeis: ["A110177", "possible"]
   tags: ["number theory"]
 
@@ -18830,6 +19015,7 @@
     last_update: "2026-01-23"
   forum:
     posts: 11
+    proof_claims: 2
   oeis: ["A389360"]
   tags: ["number theory"]
 
@@ -18955,6 +19141,7 @@
     last_update: "2025-09-28"
   forum:
     posts: 8
+    proof_claims: 1
   oeis: ["possible"]
   tags: ["geometry"]
 
@@ -19488,6 +19675,8 @@
     last_update: "2025-09-28"
   forum:
     posts: 7
+    proof_claims: 3
+    proof_claim_posts: 1
   oeis: ["A325864", "possible"]
   tags: ["number theory", "divisors"]
 
@@ -19543,6 +19732,8 @@
     last_update: "2025-09-28"
   forum:
     posts: 5
+    proof_claims: 2
+    proof_claim_posts: 1
   oeis: ["A392164"]
   tags: ["number theory"]
 
@@ -19667,6 +19858,7 @@
     last_update: "2026-08-03"
   forum:
     posts: 4
+    proof_claims: 1
   oeis: ["possible"]
   tags: ["number theory"]
 
@@ -19705,6 +19897,8 @@
     last_update: "2025-09-28"
   forum:
     posts: 12
+    proof_claims: 2
+    proof_claim_posts: 4
   oeis: ["N/A"]
   tags: ["additive combinatorics"]
 
@@ -20185,6 +20379,7 @@
     last_update: "2026-01-28"
   forum:
     posts: 10
+    proof_claims: 1
   oeis: ["A037143", "A101041"]
   tags: ["number theory", "primes"]
 
@@ -20451,6 +20646,7 @@
     last_update: "2026-01-23"
   forum:
     posts: 1
+    proof_claims: 1
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -20856,6 +21052,7 @@
     last_update: "2026-01-23"
   forum:
     posts: 2
+    proof_claims: 1
   oeis: ["N/A"]
   tags: ["set theory", "chromatic number", "hypergraphs"]
 
@@ -21044,6 +21241,7 @@
     last_update: "2026-08-07"
   forum:
     posts: 5
+    proof_claims: 1
   oeis: ["possible"]
   tags: ["number theory", "covering systems"]
 
@@ -21062,6 +21260,8 @@
     last_update: "2026-04-04"
   forum:
     posts: 6
+    proof_claims: 2
+    proof_claim_posts: 1
   oeis: ["possible"]
   tags: ["number theory", "covering systems"]
 
