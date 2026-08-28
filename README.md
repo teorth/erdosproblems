@@ -11,7 +11,7 @@ The table below is auto-generated from the YAML file [data/problems.yaml](data/p
 
 For further discussion of this project, see [this blog post](https://terrytao.wordpress.com/2025/08/31/a-crowdsourced-project-to-link-up-erdosproblems-com-to-the-oeis/) (from Sep 1, 2025).
 
-Several of the problems have received assistance from various AI tools.  A list of such assistance [can be found here](https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems).
+Several of the problems have received assistance from various AI tools.  A list of such assistance [can be found here](https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems).  **This wiki is no longer updated as of June 30, 2026**, and is retained as a historical record; please do not open issues proposing additions to it.
 ## Progress
 
 <picture>
