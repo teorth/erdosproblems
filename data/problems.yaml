@@ -6391,10 +6391,14 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-28"
+    url: "https://github.com/ShouqiaoW/erdos/tree/61325b10bbdc29f4fb5e0618b414b9f2189333ad/390/lean"
+    note: "Machine-checked against Mathlib; bridged to the Formal Conjectures statement.
+      Not yet digested by a human reader, so the informal status remains open."
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "open (Lean)"
+    last_update: "2026-08-28"
   oeis: ["A193429"]
   formalized:
     state: "yes"
