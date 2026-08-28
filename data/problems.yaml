@@ -20,10 +20,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   formalized:
     state: "yes"
     last_update: "2026-08-26"
@@ -117,10 +118,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -330,10 +332,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A391599"]
   formalized:
     state: "no"
@@ -461,10 +464,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -559,10 +563,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -592,10 +597,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -791,10 +797,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A365339", "A365474"]
   formalized:
     state: "no"
@@ -856,10 +863,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -921,10 +929,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -953,10 +962,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1017,10 +1027,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1341,10 +1352,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A071799", "A387635"]
   formalized:
     state: "no"
@@ -1538,10 +1550,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -1830,10 +1843,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1879,10 +1893,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1961,10 +1976,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A028391", "A013928", "A372306", "A373319", "A372306", "A373178", "A360659",
     "A373114", "A143301"]
   formalized:
@@ -2060,10 +2076,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -2190,10 +2207,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -2272,10 +2290,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A003002"]
   formalized:
     state: "no"
@@ -2336,10 +2355,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A005279"]
   formalized:
     state: "no"
@@ -2387,10 +2407,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2777,10 +2798,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A156989"]
   formalized:
     state: "no"
@@ -2842,10 +2864,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3008,10 +3031,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A003142"]
   formalized:
     state: "no"
@@ -3105,10 +3129,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3499,10 +3524,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3581,10 +3607,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A322144"]
   formalized:
     state: "no"
@@ -3746,10 +3773,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4154,10 +4182,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4268,10 +4297,11 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4399,10 +4429,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A073016"]
   formalized:
     state: "no"
@@ -4891,10 +4922,11 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A390393"]
   formalized:
     state: "no"
@@ -5036,10 +5068,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A217693"]
   formalized:
     state: "no"
@@ -5052,10 +5085,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -5802,10 +5836,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -5900,10 +5935,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -6256,10 +6292,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6368,10 +6405,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A034258", "A034259"]
   formalized:
     state: "no"
@@ -6433,10 +6471,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6599,10 +6638,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
