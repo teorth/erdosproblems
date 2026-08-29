@@ -22,13 +22,14 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-26"
   forum:
     posts: 3
   oeis: ["A160559"]
@@ -70,6 +71,8 @@
 
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 16
 - number: "5"
   prize: "no"
   informal_status:
@@ -94,10 +97,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A335277"]
   formalized:
     state: "yes"
@@ -119,7 +123,7 @@
     state: "yes"
     last_update: "2026-04-20"
   forum:
-    posts: 21
+    posts: 22
   tags: ["number theory", "covering systems"]
 
 - number: "8"
@@ -128,10 +132,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -221,10 +226,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A002264"]
   formalized:
     state: "yes"
@@ -246,7 +252,7 @@
     state: "yes"
     last_update: "2025-11-02"
   forum:
-    posts: 1
+    posts: 2
   tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "15"
@@ -369,10 +375,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A391599"]
   formalized:
     state: "no"
@@ -387,10 +394,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -513,10 +521,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -538,7 +547,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 6
+    posts: 8
   tags: ["number theory", "sidon sets", "additive combinatorics"]
 
 - number: "31"
@@ -621,10 +630,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -659,10 +669,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -763,10 +774,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A143824", "A227590", "A003022", "possible"]
   formalized:
     state: "yes"
@@ -852,10 +864,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -868,10 +881,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A365339", "A365474"]
   formalized:
     state: "no"
@@ -937,10 +951,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -1004,10 +1019,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1036,10 +1052,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1102,10 +1119,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -1131,7 +1149,7 @@
   forum:
     posts: 2
     proof_claims: 3
-    proof_claim_posts: 1
+    proof_claim_posts: 6
   tags: ["graph theory", "cycles"]
 
 - number: "65"
@@ -1426,7 +1444,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
     proof_claims: 1
   tags: ["graph theory"]
 
@@ -1455,10 +1473,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A071799", "A387635"]
   formalized:
     state: "no"
@@ -1516,7 +1535,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
   tags: ["graph theory"]
 
 - number: "87"
@@ -1668,10 +1687,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -1914,10 +1934,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -1983,10 +2004,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2010,7 +2032,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 7
+    posts: 8
   tags: ["polynomials", "analysis"]
 
 - number: "115"
@@ -2038,10 +2060,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2065,8 +2088,9 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
+    posts: 1
     proof_claims: 2
-    proof_claim_posts: 2
+    proof_claim_posts: 3
   tags: ["group theory"]
 
 - number: "118"
@@ -2091,10 +2115,11 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -2129,10 +2154,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A028391", "A013928", "A372306", "A373319", "A372306", "A373178", "A360659",
     "A373114", "A143301"]
   formalized:
@@ -2238,10 +2264,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -2341,7 +2368,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 5
-    proof_claims: 1
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["distances"]
 
 - number: "133"
@@ -2385,10 +2413,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -2455,10 +2484,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A003002", "A003003", "A003004", "A003005"]
   formalized:
     state: "yes"
@@ -2472,10 +2502,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A003002"]
   formalized:
     state: "no"
@@ -2542,10 +2573,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A005279"]
   formalized:
     state: "no"
@@ -2599,10 +2631,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2690,10 +2723,11 @@
     state: "proved"
     last_update: "2026-04-03"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2026-04-03"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3031,10 +3065,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A156989"]
   formalized:
     state: "no"
@@ -3102,10 +3137,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3129,7 +3165,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 12
+    posts: 13
   tags: ["additive combinatorics", "arithmetic progressions", "discrepancy"]
 
 - number: "177"
@@ -3238,6 +3274,8 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+    proof_claims: 2
+    proof_claim_posts: 2
   tags: ["graph theory"]
 
 - number: "183"
@@ -3284,10 +3322,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A003142"]
   formalized:
     state: "no"
@@ -3387,10 +3426,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3434,6 +3474,7 @@
     last_update: "2026-03-05"
   forum:
     posts: 2
+    proof_claims: 1
   tags: ["geometry"]
 
 - number: "194"
@@ -3503,6 +3544,8 @@
   formalized:
     state: "yes"
     last_update: "2026-01-20"
+  forum:
+    posts: 1
   tags: ["arithmetic progressions"]
 
 - number: "198"
@@ -3813,10 +3856,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -3883,10 +3927,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A005115", "A113827", "A123556"]
   formalized:
     state: "yes"
@@ -3900,10 +3945,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A322144"]
   formalized:
     state: "no"
@@ -4045,10 +4091,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -4080,10 +4127,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4242,10 +4290,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -4400,10 +4449,11 @@
     state: "proved"
     last_update: "2025-12-02"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-12-02"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -4436,10 +4486,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A066766"]
   formalized:
     state: "yes"
@@ -4490,10 +4541,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -4528,10 +4580,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4553,7 +4606,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 9
+    posts: 10
   tags: ["analysis"]
 
 - number: "257"
@@ -4627,7 +4680,7 @@
     state: "yes"
     last_update: "2026-03-09"
   forum:
-    posts: 8
+    posts: 9
     proof_claims: 2
     proof_claim_posts: 3
   tags: ["irrationality"]
@@ -4656,10 +4709,11 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -4720,6 +4774,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 1
   comments: "ambiguous statement"
   tags: ["irrationality"]
 
@@ -4729,10 +4784,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -4801,16 +4857,17 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A073016"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
   tags: ["irrationality"]
 
 - number: "271"
@@ -4932,10 +4989,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -5080,10 +5138,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A030659"]
   formalized:
     state: "yes"
@@ -5121,7 +5180,7 @@
     state: "yes"
     last_update: "2026-06-24"
   forum:
-    posts: 18
+    posts: 20
   tags: ["number theory", "unit fractions"]
 
 - number: "288"
@@ -5229,6 +5288,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 3
+  comments: "ambiguous statement"
   tags: ["number theory", "unit fractions"]
 
 - number: "294"
@@ -5338,10 +5398,11 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A390393"]
   formalized:
     state: "no"
@@ -5498,10 +5559,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A217693"]
   formalized:
     state: "no"
@@ -5516,10 +5578,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6043,6 +6106,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    posts: 3
   tags: ["number theory", "additive basis"]
 
 - number: "339"
@@ -6359,10 +6424,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -6394,10 +6460,11 @@
     state: "proved"
     last_update: "2026-04-01"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2026-04-01"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -6467,10 +6534,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -6552,6 +6620,7 @@
     posts: 3
     proof_claims: 2
     proof_claim_posts: 1
+  comments: "ambiguous statement"
   tags: ["number theory"]
 
 - number: "367"
@@ -6658,8 +6727,8 @@
     last_update: "2025-08-31"
   oeis: ["A071870"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-08-26"
   tags: ["number theory"]
 
 - number: "373"
@@ -6714,7 +6783,7 @@
     state: "yes"
     last_update: "2026-01-18"
   forum:
-    posts: 4
+    posts: 5
   tags: ["number theory"]
 
 - number: "376"
@@ -6867,10 +6936,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6965,7 +7035,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 9
+    posts: 10
   tags: ["number theory"]
 
 - number: "390"
@@ -6974,10 +7044,14 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-28"
+    url: "https://github.com/ShouqiaoW/erdos/tree/61325b10bbdc29f4fb5e0618b414b9f2189333ad/390/lean"
+    note: "Machine-checked against Mathlib; bridged to the Formal Conjectures statement.
+      Not yet digested by a human reader, so the informal status remains open."
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "open (Lean)"
+    last_update: "2026-08-28"
   oeis: ["A193429"]
   formalized:
     state: "yes"
@@ -6994,10 +7068,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["A034258", "A034259"]
   formalized:
     state: "no"
@@ -7066,10 +7141,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -7246,10 +7322,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-24"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -7911,10 +7988,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -8015,10 +8093,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A397433"]
   formalized:
     state: "yes"
@@ -8040,7 +8119,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 2
+    posts: 3
   tags: ["number theory", "divisors"]
 
 - number: "450"
@@ -8596,10 +8675,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -8752,7 +8832,8 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 30
+    posts: 31
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "489"
@@ -8968,6 +9049,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    posts: 2
   tags: ["graph theory", "hypergraphs", "turan number"]
 
 - number: "501"
@@ -9005,7 +9088,7 @@
     state: "yes"
     last_update: "2026-08-03"
   forum:
-    posts: 1
+    posts: 2
   tags: ["geometry", "distances"]
 
 - number: "503"
@@ -9078,7 +9161,7 @@
     state: "yes"
     last_update: "2026-08-14"
   forum:
-    posts: 2
+    posts: 3
     proof_claims: 2
     proof_claim_posts: 1
   tags: ["geometry"]
@@ -9153,7 +9236,7 @@
     state: "yes"
     last_update: "2025-11-12"
   forum:
-    posts: 2
+    posts: 3
   comments: "Chowla's cosine problem"
   tags: ["analysis"]
 
@@ -9256,10 +9339,11 @@
     state: "proved"
     last_update: "2025-12-28"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-12-28"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -9559,10 +9643,11 @@
     state: "disproved"
     last_update: "2026-01-26"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2026-01-26"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -9620,7 +9705,7 @@
     state: "yes"
     last_update: "2025-11-12"
   forum:
-    posts: 9
+    posts: 10
     proof_claims: 2
     proof_claim_posts: 4
   tags: ["number theory"]
@@ -10068,7 +10153,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 4
+    posts: 5
     proof_claims: 1
   tags: ["graph theory", "ramsey theory"]
 
@@ -10555,10 +10640,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -10627,10 +10713,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -10915,7 +11002,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 5
+    posts: 6
   tags: ["graph theory"]
 
 - number: "611"
@@ -10995,10 +11082,11 @@
     state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -11192,7 +11280,7 @@
   forum:
     posts: 3
     proof_claims: 2
-    proof_claim_posts: 5
+    proof_claim_posts: 7
   tags: ["graph theory", "chromatic number"]
 
 - number: "626"
@@ -11244,7 +11332,7 @@
     state: "yes"
     last_update: "2026-08-03"
   forum:
-    posts: 2
+    posts: 3
   comments: "Erdős-Lovász Tihany Conjecture"
   tags: ["graph theory", "chromatic number"]
 
@@ -11580,7 +11668,7 @@
     state: "yes"
     last_update: "2025-10-13"
   forum:
-    posts: 13
+    posts: 14
   tags: ["number theory"]
 
 - number: "648"
@@ -11691,7 +11779,8 @@
     state: "yes"
     last_update: "2026-04-16"
   forum:
-    proof_claims: 1
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["geometry", "distances"]
 
 - number: "654"
@@ -13003,7 +13092,7 @@
   forum:
     posts: 6
     proof_claims: 2
-    proof_claim_posts: 1
+    proof_claim_posts: 2
   tags: ["number theory"]
 
 - number: "727"
@@ -13077,8 +13166,9 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 6
-    proof_claims: 1
+    posts: 7
+    proof_claims: 2
+    proof_claim_posts: 1
   tags: ["number theory", "binomial coefficients", "base representations"]
 
 - number: "731"
@@ -13309,7 +13399,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 3
+    posts: 5
   comments: "tree packing conjecture"
   tags: ["graph theory"]
 
@@ -13345,6 +13435,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  forum:
+    posts: 1
   tags: ["graph theory"]
 
 - number: "746"
@@ -13511,10 +13603,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -13945,7 +14038,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 4
+    posts: 5
   tags: ["number theory", "primes"]
 
 - number: "780"
@@ -14731,6 +14824,7 @@
     last_update: "2025-08-31"
   forum:
     posts: 2
+    proof_claims: 1
   tags: ["number theory"]
 
 - number: "825"
@@ -14739,10 +14833,11 @@
     state: "proved"
     last_update: "2026-01-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2026-01-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A006037", "A330244"]
   formalized:
     state: "yes"
@@ -14784,7 +14879,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 4
+    posts: 5
   tags: ["geometry"]
 
 - number: "828"
@@ -15124,10 +15219,11 @@
     state: "disproved"
     last_update: "2026-01-19"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2026-01-19"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -15153,7 +15249,7 @@
   forum:
     posts: 48
     proof_claims: 2
-    proof_claim_posts: 1
+    proof_claim_posts: 2
   tags: ["number theory"]
 
 - number: "849"
@@ -15225,7 +15321,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 7
+    posts: 8
   tags: ["number theory", "primes"]
 
 - number: "853"
@@ -15509,10 +15605,11 @@
     state: "solved"
     last_update: "2026-01-13"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "solved"
-    last_update: "2026-01-13"
+    state: "solved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -15873,10 +15970,11 @@
     state: "solved"
     last_update: "2026-05-28"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "solved"
-    last_update: "2026-05-28"
+    state: "solved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["A387584"]
   formalized:
     state: "yes"
@@ -16068,10 +16166,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -16127,7 +16226,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 3
+    posts: 4
   tags: ["graph theory"]
 
 - number: "903"
@@ -16636,7 +16735,7 @@
     state: "yes"
     last_update: "2025-08-31"
   forum:
-    posts: 8
+    posts: 9
   tags: ["number theory"]
 
 - number: "932"
@@ -16690,7 +16789,7 @@
     state: "no"
     last_update: "2025-08-31"
   forum:
-    posts: 4
+    posts: 6
     proof_claims: 2
     proof_claim_posts: 3
   tags: ["graph theory"]
@@ -16737,10 +16836,11 @@
     state: "proved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -17240,10 +17340,11 @@
     state: "disproved"
     last_update: "2026-01-01"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2026-01-01"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -17639,10 +17740,11 @@
     state: "proved"
     last_update: "2026-04-09"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2026-04-09"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -17750,7 +17852,7 @@
     state: "no"
     last_update: "2025-09-07"
   forum:
-    posts: 6
+    posts: 7
   oeis: ["A000055", "possible"]
   tags: ["graph theory"]
 
@@ -18564,7 +18666,7 @@
     last_update: "2025-12-31"
   forum:
     posts: 141
-    proof_claims: 4
+    proof_claims: 5
     proof_claim_posts: 6
   oeis: ["N/A"]
   tags: ["analysis"]
@@ -19014,7 +19116,7 @@
     state: "yes"
     last_update: "2026-01-23"
   forum:
-    posts: 11
+    posts: 12
     proof_claims: 2
   oeis: ["A389360"]
   tags: ["number theory"]
@@ -19258,10 +19360,11 @@
     state: "disproved"
     last_update: "2025-12-29"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-12-29"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   formalized:
     state: "yes"
     last_update: "2025-10-17"
@@ -19521,10 +19624,11 @@
     state: "disproved"
     last_update: "2025-10-17"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-10-17"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   formalized:
     state: "yes"
     last_update: "2026-01-08"
@@ -19547,7 +19651,7 @@
     state: "yes"
     last_update: "2025-12-12"
   forum:
-    posts: 2
+    posts: 3
   oeis: ["N/A"]
   tags: ["number theory", "binomial coefficients"]
 
@@ -19593,10 +19697,11 @@
     state: "proved"
     last_update: "2026-04-24"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "proved"
-    last_update: "2026-04-24"
+    state: "proved (Lean)"
+    last_update: "2026-08-23"
   formalized:
     state: "yes"
     last_update: "2026-05-21"
@@ -19858,7 +19963,7 @@
     last_update: "2026-08-03"
   forum:
     posts: 4
-    proof_claims: 1
+    proof_claims: 2
   oeis: ["possible"]
   tags: ["number theory"]
 
@@ -20172,10 +20277,11 @@
     state: "disproved"
     last_update: "2025-12-30"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-08-23"
   status:
-    state: "disproved"
-    last_update: "2025-12-30"
+    state: "disproved (Lean)"
+    last_update: "2026-08-23"
   formalized:
     state: "yes"
     last_update: "2026-06-07"
@@ -20230,7 +20336,7 @@
     state: "no"
     last_update: "2026-01-01"
   forum:
-    posts: 5
+    posts: 6
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
@@ -20575,7 +20681,7 @@
     state: "yes"
     last_update: "2026-02-06"
   forum:
-    posts: 4
+    posts: 5
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
@@ -20646,7 +20752,7 @@
     last_update: "2026-01-23"
   forum:
     posts: 1
-    proof_claims: 1
+    proof_claims: 2
   oeis: ["N/A"]
   tags: ["analysis"]
 
@@ -21259,7 +21365,7 @@
     state: "no"
     last_update: "2026-04-04"
   forum:
-    posts: 6
+    posts: 7
     proof_claims: 2
     proof_claim_posts: 1
   oeis: ["possible"]
@@ -21667,7 +21773,7 @@
     state: "yes"
     last_update: "2026-06-24"
   forum:
-    posts: 2
+    posts: 3
   oeis: ["possible"]
   tags: ["number theory", "primes"]
 
