@@ -138,6 +138,12 @@ appropriate [Erdős problem web page](https://www.erdosproblems.com) and see if 
 Note that in some cases, the integer sequences associated to a problem may be somewhat implicit.  For instance:
 
 - The problem may involve a specific real number, such as [Vardi's constant](https://oeis.org/A076393). In that case, the relevant integer sequence would be the decimal expansion of the sequence.
+  OEIS `cons` (decimal expansion) entries store digits **truncated**, not rounded.
+  Printing with `mpmath.nstr`, f-strings, or `format` usually rounds, which can
+  flip the last digit and produce a silent false negative against a correct
+  match. Use [`scripts/oeis_cons_compare.py`](scripts/oeis_cons_compare.py) to
+  truncate and to flag when rounding alone would have rejected the match.
+
 - The problem may involve an integer function of two variables rather than one.  In such cases, there may be interesting sequences to extract by specializing one of the variables to a notable value.  For instance, if the problem involves a function $r_k(N)$ of two parameters $k,N$, it may be of interest to use specific choices of one parameter, e.g., $k=1,2,3$, as examples of sequences associated to the problem.  In some cases, listing the entire two-variable function as a [table](https://oeis.org/wiki/Clear-cut_examples_of_keywords#tabl).
 - The problem may ask to upper or lower bound the "score" of an object $A$ that is defined on some space of "size" $n$ (e.g., $A$ could range over subsets of $\{1,\dots,n\}$ obeying some additional properties), where the "score" could refer to the cardinality of $A$, or some other more complicated metric.  In that case, the natural sequence to consider is the maximal or minimal "score" of such an object, as a function of $n$.
 - In a small number of cases, the natural sequence to consider is a sequence of rational numbers rather than integers.  In such cases, one can take the numerator and denominator of these numbers (in reduced form) as two separate integer sequences and see if they are already in the OEIS.  Or one can try to renormalize the sequence to take integer values rather than rational ones.
