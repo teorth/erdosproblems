@@ -1725,12 +1725,12 @@
 - number: "106"
   prize: "no"
   informal_status:
-    state: "falsifiable"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
   status:
-    state: "falsifiable"
+    state: "disproved (Lean)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -2385,7 +2385,7 @@
 - number: "146"
   prize: "$500"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "Lean"
@@ -2393,7 +2393,7 @@
     url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/CompactnessAndDegeneracy.lean#L18543-L18585"
     note: "counterexample; refutes the degeneracy conjecture"
   status:
-    state: "open (Lean)"
+    state: "disproved (Lean)"
     last_update: "2026-08-02"
   oeis: ["N/A"]
   formalized:
@@ -2943,7 +2943,7 @@
 - number: "180"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "Lean"
@@ -2951,7 +2951,7 @@
     url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/CompactnessAndDegeneracy.lean#L8967-L8970"
     note: "counterexample; refutes the compactness conjecture"
   status:
-    state: "open (Lean)"
+    state: "disproved (Lean)"
     last_update: "2026-08-02"
   oeis: ["N/A"]
   formalized:
@@ -2994,14 +2994,14 @@
 - number: "183"
   prize: "$250"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "Lean"
     last_update: "2026-08-01"
     url: "https://github.com/openai/ten-proofs/blob/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6/MulticolorTriangleRamsey.lean#L2999-L3051"
   status:
-    state: "open (Lean)"
+    state: "solved (Lean)"
     last_update: "2026-08-01"
   oeis: ["A003323"]
   formalized:
@@ -9411,12 +9411,12 @@
 - number: "575"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
