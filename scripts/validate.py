@@ -1,6 +1,7 @@
 import argparse
 import sys
 import json
+import re
 from pathlib import Path
 import yaml
 from jsonschema import validate, Draft202012Validator
@@ -112,7 +113,61 @@ for row in data:
         )
         script_had_errors = True
 
-# --- 5. 'status' is derived and must not be hand-edited ---
+# --- 5. `oeis` entry sanity ---
+# Nothing downstream reads the `oeis` list defensively, so a malformed entry is
+# silently dropped rather than reported:
+#
+#   * generate_readme.py only turns a string matching A###### into a link, so an
+#     entry in any other shape is emitted into the README as bare text;
+#   * every OEIS filter on the interactive table (docs/filters.js) tests for an
+#     *exact* placeholder, so an unrecognised string matches no filter and is
+#     counted in no statistic;
+#   * a repeated identifier is rendered twice in both tables and counted twice in
+#     the README's "total of N links created" figure.
+#
+# A "N/A" alongside anything else is a contradiction in the documented meanings:
+# CONTRIBUTING.md defines it as "it does not appear that there is an obvious
+# sequence to attach to this problem", which cannot hold at the same time as a
+# listed sequence or a "possible".  Such a row would also be matched by both the
+# "N/A" and the "Already Linked" filter at once.
+OEIS_ID_RE = re.compile(r"A\d{6}")
+
+#: Non-identifier strings the `oeis` list may contain, as documented in
+#: CONTRIBUTING.md.
+OEIS_PLACEHOLDERS = ("possible", "submitted", "in progress", "N/A")
+
+for row in data:
+    entries = row.get("oeis") or []
+    number = row.get("number")
+    seen = set()
+    for entry in entries:
+        if not isinstance(entry, str):
+            continue  # already reported by the schema
+        if not (OEIS_ID_RE.fullmatch(entry) or entry in OEIS_PLACEHOLDERS):
+            print(
+                f"{data_path}: [data] problem {number}: unrecognised 'oeis' entry "
+                f"{entry!r}.  Use an OEIS identifier (A followed by six digits) or "
+                f"one of {', '.join(repr(p) for p in OEIS_PLACEHOLDERS)}."
+            )
+            script_had_errors = True
+        if entry in seen:
+            print(
+                f"{data_path}: [data] problem {number}: 'oeis' lists {entry!r} more "
+                f"than once."
+            )
+            script_had_errors = True
+        seen.add(entry)
+
+    if "N/A" in seen and len(seen) > 1:
+        print(
+            f"{data_path}: [data] problem {number}: 'oeis' combines 'N/A' with "
+            f"{', '.join(repr(e) for e in sorted(seen - {'N/A'}))}.  'N/A' means no "
+            f"sequence appears to attach to the problem, so drop it or drop the "
+            f"other entries."
+        )
+        script_had_errors = True
+
+# --- 6. 'status' is derived and must not be hand-edited ---
 # `status` is regenerated from `informal_status`/`formal_status` by
 # scripts/derive_status.py on every push to main, so a stale value on a branch
 # is harmless.  What is *not* harmless is a contributor editing `status`
@@ -166,7 +221,7 @@ for row in data:
             f"will be regenerated as {want.get('state')!r}."
         )
 
-# --- 6. Final result ---
+# --- 7. Final result ---
 if script_had_errors:
     print("\n❌ Validation failed with one or more errors.")
     sys.exit(1)
