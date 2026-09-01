@@ -29,7 +29,7 @@ There are 1217 problems in total, of which
   - [172](https://teorth.github.io/erdosproblems/?status=proved&formal=Lean) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [136](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [89](https://teorth.github.io/erdosproblems/?status=disproved&formal=Lean) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
-- [98](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
+- [99](https://teorth.github.io/erdosproblems/?status=solved) have been otherwise solved.
   - [29](https://teorth.github.io/erdosproblems/?status=solved&formal=Lean) of these solutions have been formalized in [Lean](https://lean-lang.org/).
 - [3](https://teorth.github.io/erdosproblems/?status=not+provable) appear to be open, but cannot be proven from the axioms of ZFC. (not provable)
 - [4](https://teorth.github.io/erdosproblems/?status=not+disprovable) appear to be open, but cannot be disproven from the axioms of ZFC. (not disprovable)
@@ -37,7 +37,7 @@ There are 1217 problems in total, of which
 - [9](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [26](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [7](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [601](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [600](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 10 have ambiguous statements.
 - 0 have a literature review requested.
 - [292](https://teorth.github.io/erdosproblems/?formal=Lean) have a *solution* formalized in [Lean](https://lean-lang.org/).  This need not be a subset of the solved problems above: a formalized solution that has not yet been digested by a human reader keeps its informal status (so can appear as, e.g., "open (Lean)").
@@ -472,7 +472,7 @@ There are 1217 problems in total, of which
 | [418](https://www.erdosproblems.com/418) | no | proved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/418.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=418) | [A005278](https://oeis.org/A005278), [A263958](https://oeis.org/A263958) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [419](https://www.erdosproblems.com/419) | no | solved (Lean) | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/419.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=419) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory), [factorials](https://www.erdosproblems.com/tags/factorials) |  |
 | [420](https://www.erdosproblems.com/420) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=420) | N/A | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
-| [421](https://www.erdosproblems.com/421) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=421) | [A389544](https://oeis.org/A389544), [A390848](https://oeis.org/A390848) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
+| [421](https://www.erdosproblems.com/421) | no | solved | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/421.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=421) | [A389544](https://oeis.org/A389544), [A390848](https://oeis.org/A390848) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [422](https://www.erdosproblems.com/422) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/422.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=422) | [A005185](https://oeis.org/A005185) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [423](https://www.erdosproblems.com/423) | no | open | no | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=423) | [A005243](https://oeis.org/A005243) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
 | [424](https://www.erdosproblems.com/424) | no | open | [yes](https://github.com/google-deepmind/formal-conjectures/blob/main/FormalConjectures/ErdosProblems/424.lean) | [view](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=424) | [A005244](https://oeis.org/A005244) | [number theory](https://www.erdosproblems.com/tags/number%20theory) |  |
