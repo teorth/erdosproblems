@@ -5669,12 +5669,12 @@
 - number: "346"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -11931,12 +11931,12 @@
 - number: "730"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["A129515"]
   formalized:
@@ -16390,12 +16390,12 @@
 - number: "1005"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-09-09"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-09-09"
   formalized:
     state: "no"
