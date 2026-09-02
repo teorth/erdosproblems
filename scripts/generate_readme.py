@@ -279,7 +279,10 @@ if plot_statistics_history:
     disproved = count_informal(rows, "disproved")
     # make solved include independent problems
     solved = count_informal(rows, "solved") + count_informal(rows, "independent")
-    open = len(rows) - (proved+disproved+solved)
+    # Use the informal "open" count, not the residual of solved buckets.
+    # Residual overcounts by folding decidable/falsifiable/verifiable/etc.
+    # into "Open Problems" on the history chart.
+    open = count_informal(rows, "open")
 
     current_stats = {
         "total_problems": len(rows),
