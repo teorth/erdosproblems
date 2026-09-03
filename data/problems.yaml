@@ -6,7 +6,7 @@
   formal_status:
     state: "formalized"
   status:
-    state: "disproved"
+    state: "disproved (formalized)"
     last_update: "2025-08-31"
   oeis: ["A276661"]
   formalized:
@@ -1209,7 +1209,7 @@
   formal_status:
     state: "formalized"
   status:
-    state: "disproved"
+    state: "disproved (formalized)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -2062,7 +2062,7 @@
   formal_status:
     state: "formalized"
   status:
-    state: "proved"
+    state: "proved (formalized)"
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
@@ -8984,7 +8984,7 @@
   formal_status:
     state: "formalized"
   status:
-    state: "proved"
+    state: "proved (formalized)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -9128,7 +9128,7 @@
   formal_status:
     state: "formalized"
   status:
-    state: "proved"
+    state: "proved (formalized)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -9352,7 +9352,7 @@
   formal_status:
     state: "formalized"
   status:
-    state: "proved"
+    state: "proved (formalized)"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
