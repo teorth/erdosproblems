@@ -3160,10 +3160,13 @@
 - number: "193"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-09-02"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-02"
+    url: "https://github.com/ekalvi/erdos-193/blob/af8e6ef0da8e30f5e5702859ab4c14bef0d676b2/formal/Hilbert193/Hilbert193/Continuity.lean"
+    note: "The unconditional theorem is Hilbert193.erdos193_unconditional; see arXiv:2609.01766 for the paper proof."
   status:
     state: "open"
     last_update: "2025-08-31"
