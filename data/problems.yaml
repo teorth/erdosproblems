@@ -3160,12 +3160,12 @@
 - number: "193"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "disproved"
     last_update: "2025-08-31"
   oeis: ["A231255"]
   formalized:
