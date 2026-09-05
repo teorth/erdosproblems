@@ -19094,8 +19094,8 @@
 - number: "1171"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "not disprovable"
+    last_update: "2026-09-05"
   formal_status:
     state: "unformalized"
   status:
