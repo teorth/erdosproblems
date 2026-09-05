@@ -11361,7 +11361,7 @@
   status:
     state: "solved (Lean)"
     last_update: "2026-05-06"
-  oeis: ["possible"]
+  oeis: ["A002181", "A006511", "A049283", "A057635", "possible"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -18959,7 +18959,7 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
-  oeis: ["possible"]
+  oeis: ["A005432", "possible"]
   tags: ["group theory"]
 
 - number: "1163"
@@ -19264,7 +19264,7 @@
   formalized:
     state: "no"
     last_update: "2026-03-07"
-  oeis: ["possible"]
+  oeis: ["A053669", "A053670", "A053671", "A053672", "A053673", "A053674", "possible"]
   tags: ["number theory"]
 
 - number: "1182"
