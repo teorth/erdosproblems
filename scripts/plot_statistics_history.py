@@ -61,7 +61,7 @@ def update_history(stats: dict) -> bool:
     row = {"commit": get_current_commit(), "date": timestamp, **stats}
     
     # Append to file
-    mode = "a" if CSV_FILE.exists() else "w"
+    mode = "a" if CSV_FILE.exists() and CSV_FILE.stat().st_size > 0 else "w"
     with CSV_FILE.open(mode, encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         if mode == "w":
