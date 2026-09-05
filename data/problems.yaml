@@ -5060,7 +5060,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A101877", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -10384,7 +10384,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A005792", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -15333,7 +15333,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A297867", "A036966", "possible"]
   formalized:
     state: "yes"
     last_update: "2025-09-01"
@@ -15381,7 +15381,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A119241", "A119242"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -15397,7 +15397,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A085252", "A085253", "A085255"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
@@ -18605,7 +18605,7 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
-  oeis: ["possible"]
+  oeis: ["A240842", "possible"]
   tags: ["number theory"]
 
 - number: "1141"
@@ -18943,7 +18943,7 @@
   formalized:
     state: "no"
     last_update: "2026-01-23"
-  oeis: ["possible"]
+  oeis: ["A057731", "possible"]
   tags: ["group theory"]
 
 - number: "1162"
