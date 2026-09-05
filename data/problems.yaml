@@ -8214,8 +8214,8 @@
 - number: "501"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "not disprovable"
+    last_update: "2026-09-03"
   formal_status:
     state: "unformalized"
   status:
