@@ -7818,12 +7818,12 @@
 - number: "477"
   prize: "no"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
@@ -10232,12 +10232,12 @@
 - number: "625"
   prize: "$1000"
   informal_status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
+    state: "solved"
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
