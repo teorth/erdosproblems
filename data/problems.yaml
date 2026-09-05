@@ -1395,7 +1395,7 @@
   formalized:
     state: "yes"
     last_update: "2025-11-21"
-  tags: ["graph theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "86"
   prize: "$100"
@@ -2037,7 +2037,7 @@
   formalized:
     state: "yes"
     last_update: "2025-11-12"
-  tags: ["number theory", "base representations"]
+  tags: ["number theory", "base representations", "complete sequences"]
 
 - number: "125"
   prize: "no"
@@ -2251,7 +2251,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "138"
   prize: "$500"
@@ -2646,7 +2646,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["combinatorics", "ramsey theory", "discrepancy"]
+  tags: ["combinatorics", "ramsey theory", "discrepancy", "hypergraphs"]
 
 - number: "162"
   prize: "no"
@@ -3075,7 +3075,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["additive combinatorics", "ramsey theory"]
+  tags: ["additive combinatorics", "ramsey theory", "arithmetic progressions"]
 
 - number: "188"
   prize: "no"
@@ -3355,7 +3355,7 @@
   formalized:
     state: "yes"
     last_update: "2026-01-17"
-  tags: ["covering systems"]
+  tags: ["covering systems", "divisors"]
 
 - number: "205"
   prize: "no"
@@ -3519,7 +3519,7 @@
   formalized:
     state: "yes"
     last_update: "2026-08-03"
-  tags: ["geometry", "distances"]
+  tags: ["geometry", "distances", "ramsey theory"]
 
 - number: "215"
   prize: "no"
@@ -3997,7 +3997,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "irrationality"]
 
 - number: "244"
   prize: "no"
@@ -5326,7 +5326,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory", "powers"]
+  tags: ["number theory", "powers", "sidon sets"]
 
 - number: "325"
   prize: "no"
@@ -5407,7 +5407,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "sidon sets"]
 
 - number: "330"
   prize: "no"
@@ -5815,7 +5815,7 @@
   formalized:
     state: "yes"
     last_update: "2025-09-05"
-  tags: ["number theory"]
+  tags: ["number theory", "complete sequences"]
 
 - number: "355"
   prize: "no"
@@ -5981,7 +5981,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "365"
   prize: "no"
@@ -5997,7 +5997,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "366"
   prize: "no"
@@ -6014,7 +6014,7 @@
     state: "yes"
     last_update: "2025-08-31"
   comments: "ambiguous statement"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "367"
   prize: "no"
@@ -6030,7 +6030,7 @@
   formalized:
     state: "yes"
     last_update: "2026-08-20"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "368"
   prize: "no"
@@ -6160,7 +6160,7 @@
   formalized:
     state: "yes"
     last_update: "2026-01-18"
-  tags: ["number theory"]
+  tags: ["number theory", "primes"]
 
 - number: "376"
   prize: "no"
@@ -7829,7 +7829,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "sidon sets"]
 
 - number: "478"
   prize: "no"
@@ -8359,7 +8359,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["analysis"]
+  tags: ["analysis", "polynomials"]
 
 - number: "510"
   prize: "no"
@@ -8847,7 +8847,7 @@
   formalized:
     state: "yes"
     last_update: "2026-04-16"
-  tags: ["number theory"]
+  tags: ["number theory", "additive combinatorics"]
 
 - number: "540"
   prize: "no"
@@ -9380,7 +9380,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["graph theory", "turan number"]
+  tags: ["graph theory", "turan number", "cycles"]
 
 - number: "573"
   prize: "no"
@@ -10046,7 +10046,7 @@
   formalized:
     state: "yes"
     last_update: "2026-05-09"
-  tags: ["graph theory"]
+  tags: ["graph theory", "ramsey"]
 
 - number: "614"
   prize: "no"
@@ -10566,7 +10566,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory", "additive combinatorics", "ramsey theory"]
+  tags: ["number theory", "additive combinatorics", "ramsey theory", "arithmetic progressions"]
 
 - number: "646"
   prize: "no"
@@ -13487,7 +13487,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "divisors", "unit fractions"]
 
 - number: "826"
   prize: "no"
@@ -15272,7 +15272,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "936"
   prize: "no"
@@ -15288,7 +15288,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "937"
   prize: "no"
@@ -15305,7 +15305,7 @@
   formalized:
     state: "yes"
     last_update: "2026-06-24"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "938"
   prize: "no"
@@ -15321,7 +15321,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "939"
   prize: "no"
@@ -15337,7 +15337,7 @@
   formalized:
     state: "yes"
     last_update: "2025-09-01"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "940"
   prize: "no"
@@ -15353,7 +15353,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "941"
   prize: "no"
@@ -15369,7 +15369,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "942"
   prize: "no"
@@ -15385,7 +15385,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "943"
   prize: "no"
@@ -15401,7 +15401,7 @@
   formalized:
     state: "yes"
     last_update: "2025-08-31"
-  tags: ["number theory"]
+  tags: ["number theory", "powerful"]
 
 - number: "944"
   prize: "no"
@@ -15922,7 +15922,7 @@
   formalized:
     state: "yes"
     last_update: "2025-12-20"
-  tags: ["number theory", "divisors"]
+  tags: ["number theory", "divisors", "polynomials"]
 
 - number: "976"
   prize: "no"
@@ -16457,7 +16457,7 @@
     state: "yes"
     last_update: "2026-08-05"
   oeis: ["N/A"]
-  tags: ["graph theory"]
+  tags: ["graph theory", "cycles"]
 
 - number: "1009"
   prize: "no"
@@ -16536,7 +16536,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["A292528"]
-  tags: ["graph theory"]
+  tags: ["graph theory", "chromatic number"]
 
 - number: "1014"
   prize: "no"
@@ -16553,7 +16553,7 @@
     state: "yes"
     last_update: "2026-08-05"
   oeis: ["possible"]
-  tags: ["graph theory"]
+  tags: ["graph theory", "ramsey theory"]
 
 - number: "1015"
   prize: "no"
@@ -16961,7 +16961,7 @@
     state: "no"
     last_update: "2025-09-10"
   oeis: ["N/A"]
-  tags: ["analysis"]
+  tags: ["analysis", "polynomials"]
 
 - number: "1040"
   prize: "no"
@@ -16993,7 +16993,7 @@
     state: "yes"
     last_update: "2025-11-26"
   oeis: ["N/A"]
-  tags: ["analysis"]
+  tags: ["analysis", "polynomials"]
 
 - number: "1042"
   prize: "no"
@@ -17807,7 +17807,7 @@
     state: "no"
     last_update: "2025-09-28"
   oeis: ["N/A"]
-  tags: ["geometry", "chromatic number"]
+  tags: ["chromatic number", "graph theory"]
 
 - number: "1092"
   prize: "no"
@@ -17824,7 +17824,7 @@
     state: "yes"
     last_update: "2026-01-08"
   oeis: ["N/A"]
-  tags: ["geometry", "chromatic number"]
+  tags: ["chromatic number", "graph theory"]
 
 - number: "1093"
   prize: "no"
@@ -18524,7 +18524,7 @@
     last_update: "2026-01-13"
   oeis: ["A006370", "A008908"]
   comments: "Collatz conjecture"
-  tags: ["number theory"]
+  tags: ["number theory", "iterated functions"]
 
 - number: "1136"
   prize: "no"
@@ -19041,7 +19041,7 @@
     state: "yes"
     last_update: "2026-05-25"
   oeis: ["N/A"]
-  tags: ["set theory", "probability"]
+  tags: ["set theory", "ramsey theory"]
 
 - number: "1168"
   prize: "no"
@@ -19185,7 +19185,7 @@
     state: "yes"
     last_update: "2026-02-03"
   oeis: ["N/A"]
-  tags: ["set theory", "chromatic number"]
+  tags: ["set theory", "ramsey theory"]
 
 - number: "1177"
   prize: "no"
@@ -19491,7 +19491,7 @@
     state: "no"
     last_update: "2026-04-04"
   oeis: ["possible"]
-  tags: ["number theory"]
+  tags: ["number theory", "analysis"]
 
 - number: "1196"
   prize: "no"
