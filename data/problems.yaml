@@ -7,8 +7,8 @@
     state: "Lean"
     last_update: "2026-09-03"
   status:
-    state: "disproved (formalized)"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["A276661"]
   formalized:
     state: "yes"
@@ -1211,8 +1211,8 @@
     state: "Lean"
     last_update: "2026-09-03"
   status:
-    state: "disproved (formalized)"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -2065,8 +2065,8 @@
     state: "Lean"
     last_update: "2026-09-03"
   status:
-    state: "proved (formalized)"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -8988,8 +8988,8 @@
     state: "Lean"
     last_update: "2026-09-03"
   status:
-    state: "proved (formalized)"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -9133,8 +9133,8 @@
     state: "Lean"
     last_update: "2026-09-03"
   status:
-    state: "proved (formalized)"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -9358,8 +9358,8 @@
     state: "Lean"
     last_update: "2026-09-03"
   status:
-    state: "proved (formalized)"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "no"
