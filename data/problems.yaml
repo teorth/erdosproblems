@@ -6669,8 +6669,8 @@
     state: "yes"
     last_update: "2025-09-01"
   tags: ["number theory", "iterated functions"]
-
-- number: "411"
+  
+  - number: "411"
   prize: "no"
   informal_status:
     state: "open"
@@ -6684,8 +6684,8 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "partial r=2 result"
   tags: ["number theory", "iterated functions"]
-  comments: "Partial result: r=2 first branch fully classified. Branch 2 remains open. Proof: https://doi.org/10.5281/zenodo.21991040"
   
 - number: "412"
   prize: "no"
