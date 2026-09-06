@@ -5060,7 +5060,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A101877", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
@@ -13547,7 +13547,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A025455", "A025468", "possible"]
   formalized:
     state: "yes"
     last_update: "2026-06-07"
@@ -15172,7 +15172,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A058989", "A048670", "A049300", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
