@@ -40,6 +40,7 @@ def largest_prime_power_exponent(m: int) -> int:
             if e > best:
                 best = e
         p += 1 if p == 2 else 2
+    # leftover factor is 1 or a prime, so the exponent is 1
     return best
 
 
