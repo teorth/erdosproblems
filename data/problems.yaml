@@ -9020,7 +9020,7 @@
   formal_status:
     state: "Lean"
     last_update: "2026-09-11"
-    url: "https://github.com/ericlisg/erdos550-lean"
+    url: "https://github.com/ericlisg/erdos550-lean/blob/6624ede70821f095eaee49865448af4e4f8c421c/RequestProject/Main.lean"
     note: "Lean 4 formalisation accompanying E. Li, arXiv:2606.23659v2; exported theorem
       Erdos550.erdos_550. Independently rebuilt from a clean clone (8160 jobs, no
       errors) with #print axioms reporting only propext, Classical.choice, Quot.sound.
