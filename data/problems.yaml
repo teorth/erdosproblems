@@ -9018,10 +9018,17 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-11"
+    url: "https://github.com/ericlisg/erdos550-lean"
+    note: "Lean 4 formalisation accompanying E. Li, arXiv:2606.23659v2; exported theorem
+      Erdos550.erdos_550. Independently rebuilt from a clean clone (8160 jobs, no
+      errors) with #print axioms reporting only propext, Classical.choice, Quot.sound.
+      The informal status is left open pending human review of the paper, per the
+      discussion on the problem page."
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "open (Lean)"
+    last_update: "2026-09-11"
   oeis: ["N/A"]
   formalized:
     state: "yes"
