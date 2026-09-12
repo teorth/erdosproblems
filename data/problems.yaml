@@ -17133,10 +17133,14 @@
     state: "proved"
     last_update: "2025-09-28"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-12"
+    url: "https://github.com/gotrevor/lean-gallery/blob/efc72e14c2030842a44dbc7e42850981886fdd03/LeanGallery/NumberTheory/Erdos1050/Statement.lean"
+    note: "Trevor Morris's formalisation of Borwein's irrationality result; theorem
+      LeanGallery.NumberTheory.Erdos1050.erdos_1050."
   status:
-    state: "proved"
-    last_update: "2025-09-28"
+    state: "proved (Lean)"
+    last_update: "2026-09-12"
   formalized:
     state: "yes"
     last_update: "2026-09-01"
