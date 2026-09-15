@@ -16724,7 +16724,10 @@
     state: "solved"
     last_update: "2025-09-12"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-15"
+    url: "https://github.com/iiis-lean/Erdos1025/tree/30a98247750d691ba76dda074b80b7465a229036"
+    note: "Formalizes the known square-root lower and upper bounds for free sets of unordered pair mappings."
   status:
     state: "solved"
     last_update: "2025-09-12"
