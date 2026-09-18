@@ -83,6 +83,12 @@ function saveStateToURL(state) {
     window.history.replaceState(null, '', newURL);
 }
 
+/** Parse a positive, exactly representable integer, retaining the fallback otherwise. */
+function parsePositiveInteger(value, fallback) {
+    const number = Number(value);
+    return /^[1-9]\d*$/.test(value) && Number.isSafeInteger(number) ? number : fallback;
+}
+
 /**
  * Load state from URL query parameters
  * @returns {Object} State object with default values for missing parameters
@@ -91,10 +97,10 @@ function loadStateFromURL() {
     const params = new URLSearchParams(window.location.search);
 
     const pageRaw = params.get('page') || '1';
-    const page = /^[1-9]\d*$/.test(pageRaw) ? Number(pageRaw) : 1;
+    const page = parsePositiveInteger(pageRaw, 1);
 
     const pageSizeRaw = params.get('pageSize') || '100';
-    const pageSize = /^[1-9]\d*$/.test(pageSizeRaw) ? Number(pageSizeRaw) : 100;
+    const pageSize = parsePositiveInteger(pageSizeRaw, 100);
 
     // Backwards compatibility: links created before the status was split into
     // an informal and a formal part used a single combined value, such as
@@ -109,9 +115,12 @@ function loadStateFromURL() {
         }
     }
 
+    const sortableColumns = ['number', 'prize', 'status', 'formal', 'formalized', 'ai_attempts', 'oeis', 'tags', 'comments'];
+    const sortColumn = params.get('sort');
+
     return {
-        sortColumn: params.get('sort') || 'number',
-        sortDirection: params.get('dir') || 'asc',
+        sortColumn: sortableColumns.includes(sortColumn) ? sortColumn : 'number',
+        sortDirection: params.get('dir') === 'desc' ? 'desc' : 'asc',
         search: params.get('q') || '',
         statusFilter,
         formalFilter,

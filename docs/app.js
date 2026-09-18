@@ -19,10 +19,7 @@ function getPageSizeFromUI() {
 
     // Keep the last valid value while the user is typing.
     const value = input.value.trim();
-    if (!/^[1-9]\d*$/.test(value)) return pageSize;
-
-    // Regex guarantees a positive integer.
-    return Number(value);
+    return parsePositiveInteger(value, pageSize);
 }
 
 function setPageSizeInUI(size) {
