@@ -18038,7 +18038,7 @@
   formalized:
     state: "yes"
     last_update: "2026-01-18"
-  oeis: ["possible"]
+  oeis: ["A399683", "A399687"]
   tags: ["graph theory", "ramsey theory"]
 
 - number: "1106"
