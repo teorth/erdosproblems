@@ -5,7 +5,7 @@ OEIS keyword:cons sequences store digits *truncated*, not rounded. Common
 printers (mpmath.nstr, f-strings, format) round, so a correct constant can
 disagree with OEIS on the last digit whenever the next digit is >= 5.
 
-This helper truncates via Decimal and reports whether a mismatch is that
+This helper uses exact integer arithmetic and reports whether a mismatch is that
 rounding artefact or a genuine non-match.
 """
 
@@ -13,62 +13,47 @@ from __future__ import annotations
 
 import argparse
 import sys
-from decimal import Decimal, getcontext, ROUND_DOWN, ROUND_HALF_UP
 from fractions import Fraction
+
+
+def _scaled_ratio(value: Fraction, n: int) -> tuple[int, int]:
+    """Scale a positive rational so its integer part has n significant digits."""
+    if n <= 0:
+        raise ValueError("n must be positive")
+    if value <= 0:
+        raise ValueError("value must be positive")
+
+    numerator, denominator = value.numerator, value.denominator
+    exponent = len(str(numerator)) - len(str(denominator))
+    if exponent >= 0:
+        below_power = numerator < denominator * 10**exponent
+    else:
+        below_power = numerator * 10**(-exponent) < denominator
+    if below_power:
+        exponent -= 1
+
+    scale = n - 1 - exponent
+    if scale >= 0:
+        numerator *= 10**scale
+    else:
+        denominator *= 10**(-scale)
+    return numerator, denominator
 
 
 def digits_truncated(value: Fraction, n: int) -> str:
     """Return the first n significant digits of value, truncated."""
-    if n <= 0:
-        raise ValueError("n must be positive")
-    if value <= 0:
-        raise ValueError("value must be positive")
-
-    getcontext().prec = n + 20
-    d = Decimal(value.numerator) / Decimal(value.denominator)
-    # Scientific form so we always get significant digits, not a fixed scale.
-    normalized = d.normalize()
-    # Digits without exponent: use to_integral / quantize on significand.
-    sign, digits, exp = normalized.as_tuple()
-    digit_str = "".join(str(x) for x in digits)
-    if len(digit_str) < n:
-        # Need more fractional digits from a higher precision render.
-        getcontext().prec = max(n + 20, getcontext().prec)
-        d = Decimal(value.numerator) / Decimal(value.denominator)
-        # floor(d * 10^(n-1-floor(log10(d))))
-        from math import floor, log10
-
-        log = floor(log10(float(d)))
-        scale = Decimal(10) ** (n - 1 - log)
-        scaled = (d * scale).to_integral_value(rounding=ROUND_DOWN)
-        digit_str = format(int(scaled), "d")
-        if len(digit_str) > n:
-            digit_str = digit_str[:n]
-        elif len(digit_str) < n:
-            digit_str = digit_str.ljust(n, "0")
-    return digit_str[:n]
+    numerator, denominator = _scaled_ratio(value, n)
+    return str(numerator // denominator)
 
 
 def digits_rounded(value: Fraction, n: int) -> str:
     """Return the first n significant digits of value, rounded half-up."""
-    if n <= 0:
-        raise ValueError("n must be positive")
-    if value <= 0:
-        raise ValueError("value must be positive")
-    getcontext().prec = n + 20
-    d = Decimal(value.numerator) / Decimal(value.denominator)
-    from math import floor, log10
-
-    log = floor(log10(float(d)))
-    scale = Decimal(10) ** (n - 1 - log)
-    scaled = (d * scale).to_integral_value(rounding=ROUND_HALF_UP)
-    digit_str = format(int(scaled), "d")
-    if len(digit_str) > n:
-        # Rounding carried into an extra digit (e.g. 999... -> 1000...).
-        digit_str = digit_str[:n]
-    elif len(digit_str) < n:
-        digit_str = digit_str.ljust(n, "0")
-    return digit_str[:n]
+    numerator, denominator = _scaled_ratio(value, n)
+    digits, remainder = divmod(numerator, denominator)
+    if 2 * remainder >= denominator:
+        digits += 1
+    # A carry can add one digit, e.g. 9999 rounds to 10000.
+    return str(digits)[:n]
 
 
 def compare_cons(value: Fraction, oeis_digits: str) -> dict:
