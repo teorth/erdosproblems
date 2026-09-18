@@ -3116,7 +3116,10 @@
     state: "solved"
     last_update: "2026-06-02"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-15"
+    url: "https://github.com/jbaelaw/erdos190-lean"
+    note: "Qualitative statement (every canonical N exceeds (Ck)^k for all large k, hence H(k)^{1/k}/k -> infinity given the existence of H(k), which is not formalized) proved in Lean 4 / Mathlib v4.33.0 following Section 4.3 of arXiv:2604.20588; registered in the Palomar registry as PALOMAR-2026-09-15-000003."
   status:
     state: "solved"
     last_update: "2026-06-02"
