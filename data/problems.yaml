@@ -8230,8 +8230,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "independent"
-    last_update: "2025-08-31"
+    state: "not disprovable"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "yes"
