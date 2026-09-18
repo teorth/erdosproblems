@@ -3667,7 +3667,7 @@
   status:
     state: "solved"
     last_update: "2025-10-14"
-  oeis: ["possible"]
+  oeis: ["A008811", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
