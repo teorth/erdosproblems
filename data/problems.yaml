@@ -7969,8 +7969,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-18"
   tags: ["analysis", "polynomials"]
 
 - number: "486"
@@ -8067,8 +8067,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-18"
   tags: ["number theory"]
 
 - number: "492"
@@ -17797,8 +17797,8 @@
     state: "solved"
     last_update: "2026-02-01"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-09-18"
   oeis: ["possible"]
   tags: ["geometry", "distances"]
 
