@@ -3119,10 +3119,13 @@
     state: "Lean"
     last_update: "2026-09-15"
     url: "https://github.com/jbaelaw/erdos190-lean"
-    note: "Qualitative statement (every canonical N exceeds (Ck)^k for all large k, hence H(k)^{1/k}/k -> infinity given the existence of H(k), which is not formalized) proved in Lean 4 / Mathlib v4.33.0 following Section 4.3 of arXiv:2604.20588; registered in the Palomar registry as PALOMAR-2026-09-15-000003."
+    note: "Qualitative statement (every canonical N exceeds (Ck)^k for all large k,
+      hence H(k)^{1/k}/k -> infinity given the existence of H(k), which is not formalized)
+      proved in Lean 4 / Mathlib v4.33.0 following Section 4.3 of arXiv:2604.20588;
+      registered in the Palomar registry as PALOMAR-2026-09-15-000003."
   status:
-    state: "solved"
-    last_update: "2026-06-02"
+    state: "solved (Lean)"
+    last_update: "2026-09-15"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -3172,10 +3175,11 @@
     state: "Lean"
     last_update: "2026-09-02"
     url: "https://github.com/ekalvi/erdos-193/blob/af8e6ef0da8e30f5e5702859ab4c14bef0d676b2/formal/Hilbert193/Hilbert193/Continuity.lean"
-    note: "The unconditional theorem is Hilbert193.erdos193_unconditional; see arXiv:2609.01766 for the paper proof."
+    note: "The unconditional theorem is Hilbert193.erdos193_unconditional; see arXiv:2609.01766
+      for the paper proof."
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-04"
   oeis: ["A231255"]
   formalized:
     state: "yes"
@@ -8978,8 +8982,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "decidable"
-    last_update: "2025-09-11"
+    state: "proved"
+    last_update: "2026-09-03"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -16741,10 +16745,11 @@
     state: "Lean"
     last_update: "2026-09-15"
     url: "https://github.com/iiis-lean/Erdos1025/tree/30a98247750d691ba76dda074b80b7465a229036"
-    note: "Formalizes the known square-root lower and upper bounds for free sets of unordered pair mappings."
+    note: "Formalizes the known square-root lower and upper bounds for free sets of
+      unordered pair mappings."
   status:
-    state: "solved"
-    last_update: "2025-09-12"
+    state: "solved (Lean)"
+    last_update: "2026-09-15"
   formalized:
     state: "no"
     last_update: "2025-09-10"
@@ -19120,8 +19125,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "not disprovable"
+    last_update: "2026-09-05"
   formalized:
     state: "no"
     last_update: "2026-01-23"
