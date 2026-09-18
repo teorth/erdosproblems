@@ -19857,3 +19857,68 @@
     last_update: "2026-04-04"
   oeis: ["N/A"]
   tags: ["number theory", "divisors", "primitive sets"]
+
+- number: "1218"
+  prize: "no"
+  informal_status:
+    state: "open"
+    last_update: "2026-09-12"
+  formal_status:
+    state: "unformalized"
+  status:
+    state: "open"
+    last_update: "2026-09-12"
+  formalized:
+    state: "no"
+    last_update: "2026-09-12"
+  oeis: ["N/A"]
+  tags: ["ramsey theory", "set theory"]
+
+- number: "1219"
+  prize: "no"
+  informal_status:
+    state: "proved"
+    last_update: "2026-09-12"
+  formal_status:
+    state: "unformalized"
+  status:
+    state: "proved"
+    last_update: "2026-09-12"
+  formalized:
+    state: "no"
+    last_update: "2026-09-12"
+  oeis: ["N/A"]
+  tags: ["ramsey theory", "set theory"]
+
+- number: "1220"
+  prize: "no"
+  informal_status:
+    state: "open"
+    last_update: "2026-09-12"
+  formal_status:
+    state: "unformalized"
+  status:
+    state: "open"
+    last_update: "2026-09-12"
+  formalized:
+    state: "no"
+    last_update: "2026-09-12"
+  oeis: ["N/A"]
+  tags: ["ramsey theory", "set theory"]
+
+- number: "1221"
+  prize: "no"
+  informal_status:
+    state: "open"
+    last_update: "2026-09-12"
+  formal_status:
+    state: "unformalized"
+  status:
+    state: "open"
+    last_update: "2026-09-12"
+  formalized:
+    state: "no"
+    last_update: "2026-09-12"
+  oeis: ["N/A"]
+  comments: "ambiguous statement"
+  tags: ["analysis", "distribution"]
