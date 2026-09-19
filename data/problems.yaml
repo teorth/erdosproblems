@@ -472,8 +472,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-19"
   tags: ["number theory", "additive basis"]
 
 - number: "30"
@@ -571,8 +571,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-19"
   tags: ["number theory", "additive basis"]
 
 - number: "36"
@@ -5956,8 +5956,8 @@
     last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-19"
   tags: ["number theory"]
 
 - number: "363"
@@ -6497,8 +6497,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-19"
   comments: "reverse Littlewood-Offord problem"
   tags: ["analysis"]
 
