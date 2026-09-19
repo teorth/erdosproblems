@@ -4530,7 +4530,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2026-01-20"
-  oeis: ["N/A"]
+  oeis: ["A000079"]
   formalized:
     state: "yes"
     last_update: "2026-01-18"
