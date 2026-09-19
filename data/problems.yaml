@@ -3808,10 +3808,11 @@
   status:
     state: "disproved (Lean)"
     last_update: "2026-05-14"
-  oeis: ["N/A"]
+  oeis: ["A000225", "possible"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "ambiguous statement"
   tags: ["combinatorics"]
 
 - number: "232"
