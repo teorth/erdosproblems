@@ -1,50 +1,55 @@
 #!/usr/bin/env python3
 """S(n) for Erdős problem 379 (issue #354).
 
-S(n) is min_{0<k<n} of the largest exponent in the prime factorization of
-binom(n,k). Equivalently: the largest e such that, for every k, some prime
-power p^e divides binom(n,k).
+S(n) = min_{0 < k < n} max_p v_p(C(n,k)).
+
+Uses Kummer's theorem / digit-sum formula for the p-adic valuation of
+binomial coefficients, so S(n) can be computed without building C(n,k).
 """
 from __future__ import annotations
 
-from math import gcd
+
+def digit_sum(n: int, p: int) -> int:
+    s = 0
+    while n:
+        s += n % p
+        n //= p
+    return s
 
 
-def binomial(n: int, k: int) -> int:
-    if k < 0 or k > n:
-        return 0
-    k = min(k, n - k)
-    num = 1
-    den = 1
-    for i in range(k):
-        num *= n - i
-        den *= i + 1
-        g = gcd(num, den)
-        num //= g
-        den //= g
-    return num // den
+def primes_upto(n: int) -> list[int]:
+    sieve = bytearray(b"\x01") * (n + 1)
+    if n >= 0:
+        sieve[0:2] = b"\x00\x00"
+    for i in range(2, int(n**0.5) + 1):
+        if sieve[i]:
+            sieve[i * i : n + 1 : i] = b"\x00" * (((n - i * i) // i) + 1)
+    return [i for i, v in enumerate(sieve) if v]
 
 
-def largest_prime_power_exponent(m: int) -> int:
-    if m <= 1:
-        return 0
-    best = 1
-    x = m
-    p = 2
-    while p * p <= x:
-        if x % p == 0:
-            e = 0
-            while x % p == 0:
-                x //= p
-                e += 1
-            if e > best:
-                best = e
-        p += 1 if p == 2 else 2
-    # leftover factor is 1 or a prime, so the exponent is 1
-    return best
+def valuation_binom(n: int, k: int, p: int) -> int:
+    return (digit_sum(k, p) + digit_sum(n - k, p) - digit_sum(n, p)) // (p - 1)
+
+
+def max_exponent(n: int, k: int) -> int:
+    return max(valuation_binom(n, k, p) for p in primes_upto(n))
 
 
 def S(n: int) -> int:
     if n < 2:
         raise ValueError("S is defined for n >= 2")
-    return min(largest_prime_power_exponent(binomial(n, k)) for k in range(1, n))
+    return min(max_exponent(n, k) for k in range(1, n))
+
+
+# Issue #354 lists S(2)..S(40).
+ISSUE_PREFIX = [
+    1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1,
+    2, 1, 1, 1, 2, 1, 1, 1, 1,
+]
+
+
+if __name__ == "__main__":
+    import sys
+
+    maxn = int(sys.argv[1]) if len(sys.argv) > 1 else 40
+    print([S(n) for n in range(2, maxn + 1)])
