@@ -3691,7 +3691,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2026-01-14"
-  oeis: ["N/A"]
+  oeis: ["A000051"]
   formalized:
     state: "yes"
     last_update: "2026-07-02"
