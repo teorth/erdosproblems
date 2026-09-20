@@ -9540,8 +9540,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["graph theory"]
 
 - number: "582"
@@ -13775,8 +13775,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["graph theory", "chromatic number"]
 
 - number: "843"
