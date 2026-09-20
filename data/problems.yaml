@@ -11527,8 +11527,8 @@
     last_update: "2025-08-31"
   oeis: ["A390645"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["combinatorics"]
 
 - number: "704"
@@ -12254,8 +12254,8 @@
     last_update: "2025-08-31"
   oeis: ["A007865"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   comments: "Cameron-Erdős conjecture"
   tags: ["number theory"]
 
@@ -13165,8 +13165,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["graph theory"]
 
 - number: "805"
