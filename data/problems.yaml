@@ -1852,8 +1852,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["graph theory", "turan number"]
 
 - number: "114"
@@ -2808,8 +2808,8 @@
     last_update: "2026-08-24"
   oeis: ["A156989"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   comments: "density Hales-Jewett"
   tags: ["additive combinatorics", "combinatorics"]
 
@@ -3041,8 +3041,8 @@
     last_update: "2026-08-24"
   oeis: ["A003142"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["additive combinatorics"]
 
 - number: "186"
@@ -5106,8 +5106,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["number theory", "unit fractions"]
 
 - number: "311"
@@ -10796,8 +10796,8 @@
     last_update: "2026-04-20"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-20"
   tags: ["additive combinatorics"]
 
 - number: "659"
