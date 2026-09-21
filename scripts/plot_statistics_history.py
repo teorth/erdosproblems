@@ -111,7 +111,7 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_count
     ax.set_title("Erdős Problems Progress", fontsize=14, fontweight='bold', color=colors['text'], pad=20)
     # Anchor at zero; scale the ceiling to the data so growing series never clip.
     max_count = max((max(counts) for counts, _, _ in data if counts), default=0)
-    ax.set_ylim(0, max(max_count * 1.05, 1))
+    ax.set_ylim(0, max(max_count, 1))
     
     legend = ax.legend(loc='upper left', fontsize=10, facecolor=colors['box_bg'], edgecolor=colors['grid'])
     plt.setp(legend.get_texts(), color=colors['text'])
