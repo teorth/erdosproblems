@@ -1986,8 +1986,8 @@
   oeis: ["A028391", "A013928", "A372306", "A373319", "A373178", "A360659", "A373114",
     "A143301"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-22"
   tags: ["number theory", "squares"]
 
 - number: "122"
@@ -4810,8 +4810,8 @@
     last_update: "2025-08-31"
   oeis: ["A092671"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-22"
   tags: ["number theory", "unit fractions"]
 
 - number: "293"
@@ -8775,8 +8775,8 @@
     last_update: "2025-08-31"
   oeis: ["A387543", "A387698"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-22"
   tags: ["number theory", "intersecting family"]
 
 - number: "535"
@@ -16243,8 +16243,8 @@
     state: "disproved"
     last_update: "2025-09-07"
   formalized:
-    state: "no"
-    last_update: "2025-09-07"
+    state: "yes"
+    last_update: "2026-09-22"
   oeis: ["N/A"]
   tags: ["analysis", "discrepancy"]
 
