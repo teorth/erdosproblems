@@ -12776,8 +12776,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-22"
   tags: ["combinatorics", "hypergraphs", "chromatic number"]
 
 - number: "781"
