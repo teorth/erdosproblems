@@ -871,8 +871,8 @@
     last_update: "2026-08-24"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-22"
   tags: ["number theory", "additive combinatorics"]
 
 - number: "54"
@@ -6314,8 +6314,8 @@
     last_update: "2026-08-24"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-09-22"
   tags: ["number theory", "binomial coefficients"]
 
 - number: "385"
@@ -17094,8 +17094,8 @@
     state: "disproved"
     last_update: "2025-09-15"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-09-22"
   oeis: ["N/A"]
   tags: ["analysis"]
 
