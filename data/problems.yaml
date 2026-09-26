@@ -8575,7 +8575,12 @@
     state: "open"
     last_update: "2025-12-08"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-25"
+    url: "https://github.com/chreia/erdos-522/blob/03b373231dea614a8476aa0ab6623c15166cebf5/lean/Erdos522/Probability/RademacherZeroDistribution.lean#L25-L32"
+    note: "Theorem Erdos522.erdos_522 (Lean 4.34.0, Mathlib 5ed2965; axioms propext,
+      Classical.choice, Quot.sound). Paper proof: S. Kawada, doi:10.5281/zenodo.22970145.
+      Not yet digested by a human reader, so the informal status remains open."
   status:
     state: "open"
     last_update: "2025-12-08"
