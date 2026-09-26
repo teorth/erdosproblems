@@ -8582,8 +8582,8 @@
       Classical.choice, Quot.sound). Paper proof: S. Kawada, doi:10.5281/zenodo.22970145.
       Not yet digested by a human reader, so the informal status remains open."
   status:
-    state: "open"
-    last_update: "2025-12-08"
+    state: "open (Lean)"
+    last_update: "2026-09-25"
   oeis: ["N/A"]
   formalized:
     state: "yes"
