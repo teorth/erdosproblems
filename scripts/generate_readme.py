@@ -40,13 +40,12 @@ def formalized_link(number:str, code: str) -> str:
     else:
         return code
 
-AI_ELIGIBLE_STATES = {"open", "verifiable", "independent", "falsifiable"}
-
-def ai_attempts_link(number: str, informal_state: str) -> str:
-    # Match docs/utils.js: eligible states link as "view", otherwise "add".
-    label = "view" if informal_state.lower() in AI_ELIGIBLE_STATES else "add"
-    return md_link(label, f"https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id={number}")
-
+def ai_attempts_link(number: str) -> str:
+    return md_link(
+        "view",
+        f"https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id={number}"
+    )
+    
 def filter_link(count: int, **params: str) -> str:
     """Create a link to the interactive table with one or more filters applied."""
     if count == 0:
@@ -252,7 +251,7 @@ def build_table(rows):
         rid = num_link(r["number"])
         prize = r.get("prize", "?")
         formalized = formalized_link(r["number"], r.get("formalized", {}).get("state", "?"))
-        ai_attempts = ai_attempts_link(r["number"], primitive_states(r)[0])
+        ai_attempts = ai_attempts_link(r["number"])
         comments = r.get("comments", "")
         lines.append(f"| {rid} | {prize} | {status} | {formalized} | {ai_attempts} | {oeis} | {tags} | {comments} |")
     return "\n".join(lines)
