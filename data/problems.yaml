@@ -4790,8 +4790,10 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Steinerberger’s part
-      (ii): gcd(a_n,lcm(1,...,n))>1 infinitely often; part (i) remains open. Proof and reproduction:
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Steinerberger’s
+      part
+      (ii): gcd(a_n,lcm(1,...,n))>1 infinitely often; part (i) remains open. Proof
+      and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/5c5716e4c1f4d5ce43b165fe2a49a4ef06747397/submissions/jsp-000247-cyr/README.md
   status:
     state: "open"
@@ -5040,8 +5042,10 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Watanabe’s 47-term
-      semiprime unit-fraction decomposition of 1; not the general rational question. Proof and
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Watanabe’s
+      47-term
+      semiprime unit-fraction decomposition of 1; not the general rational question.
+      Proof and
       reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/c927fdec0e77175f386f41e8fe76197f0303ee18/submissions/jsp-000257-cyr/README.md
   status:
@@ -5245,11 +5249,12 @@
     url: "https://github.com/CollinYuanjieRen/awards/blob/8c4f1b2b4b9d1e7fb872340b7ae88dde5e862097/submissions/jsp-000264-cyr/README.md"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): All three
-      signed-reciprocal questions; new square component excludes 1. The prior progression and
+      signed-reciprocal questions; new square component excludes 1. The prior progression
+      and
       density formalizations by plby are credited.
   status:
-    state: "solved"
-    last_update: "2026-04-04"
+    state: "solved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -5346,7 +5351,8 @@
     state: "unformalized"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Sidon-polynomial
-      obstruction for degree at most two and for X^4; no resolution of the general polynomial
+      obstruction for degree at most two and for X^4; no resolution of the general
+      polynomial
       question. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/59bfa3d89ed9d59a49cc2fde1c5afad98cb843ef/submissions/jsp-000270-cyr/README.md
   status:
@@ -5662,11 +5668,12 @@
     url: "https://github.com/CollinYuanjieRen/awards/blob/46ae0c27d3bb808ff4419cf0c88cac7afafa73f1/submissions/jsp-000285-cyr/README.md"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Eventual-density
-      subcompleteness for occurrence-preserving multisets. Pinned external dependencies and their
+      subcompleteness for occurrence-preserving multisets. Pinned external dependencies
+      and their
       authors are credited in the package.
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -6028,7 +6035,8 @@
     state: "unformalized"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Classical
-      consecutive-powerful nonsquare counterexample 12167, 12168; the separate counting question
+      consecutive-powerful nonsquare counterexample 12167, 12168; the separate counting
+      question
       remains open. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/a36772f677bc0f4bd154c4a9ca94e1da117ea5e6/submissions/jsp-000301-cyr/README.md
   status:
@@ -7279,12 +7287,14 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/7d38593f55eb49c6854a4d0b2fc7bee33f33e4a9/submissions/jsp-000360-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Chen’s sharp bounded-lcm
-      asymptotic and nonoptimality of Erdős’s construction. New asymptotic proof is combined with
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Chen’s
+      sharp bounded-lcm
+      asymptotic and nonoptimality of Erdős’s construction. New asymptotic proof is
+      combined with
       credited plby definitions and nonoptimality.
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["A068509"]
   formalized:
     state: "yes"
@@ -8116,9 +8126,12 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Schmidt’s counterexample
-      for the original real-subdivision question; the integer-endpoint formulation is a different,
-      positive statement. The reused plby Dirichlet formalization is credited. Proof and
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Schmidt’s
+      counterexample
+      for the original real-subdivision question; the integer-endpoint formulation
+      is a different,
+      positive statement. The reused plby Dirichlet formalization is credited. Proof
+      and
       reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/b7fd28d18275e25ed97d59403293a8e5484f8d32/submissions/jsp-000398-cyr/README.md
   status:
@@ -8156,8 +8169,10 @@
     state: "unformalized"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Selfridge–Straus
-      uniqueness when a prime greater than k divides the cardinality, or when k=2 and the
-      cardinality is not a power of two; eventual uniqueness from Gordon–Fraenkel–Straus is not
+      uniqueness when a prime greater than k divides the cardinality, or when k=2
+      and the
+      cardinality is not a power of two; eventual uniqueness from Gordon–Fraenkel–Straus
+      is not
       formalized. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/963a52aba021a920b368c6a66d25c3c1c3051c65/submissions/jsp-000399-cyr/README.md
   status:
@@ -10393,11 +10408,12 @@
     url: "https://github.com/CollinYuanjieRen/awards/blob/566c5b9b083ebcdbe5e256ceb59f79472a36a41e/submissions/jsp-000511-cyr/README.md"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Alon–Tarsi
-      three-list-colorability of bipartite planar graphs from ordinary drawings. Reuses and credits
+      three-list-colorability of bipartite planar graphs from ordinary drawings. Reuses
+      and credits
       plby and the Schoenflies development.
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -10741,11 +10757,12 @@
     url: "https://github.com/CollinYuanjieRen/awards/blob/169af3b2c1a7abe50786e6276c0f56b895823a91/submissions/jsp-000527-cyr/README.md"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Pohoata–Zakharov
-      subexponential bounds in every dimension at least three. New extraction/assembly and dimension
+      subexponential bounds in every dimension at least three. New extraction/assembly
+      and dimension
       transport extend the credited plby prerequisites.
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -11591,14 +11608,18 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/bb7c6ed15ed8c2cf8b7a2be0e9388871cb16d59c/submissions/jsp-000573-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Frankl–Füredi exact
-      extremal cardinality for each fixed parameter and sufficiently large n; the package also
-      includes the variable-parameter exponential gap. The fixed-parameter exact value extends
-      credited plby definitions, lower bounds and the Frankl–Rödl variable-parameter gap
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Frankl–Füredi
+      exact
+      extremal cardinality for each fixed parameter and sufficiently large n; the
+      package also
+      includes the variable-parameter exponential gap. The fixed-parameter exact value
+      extends
+      credited plby definitions, lower bounds and the Frankl–Rödl variable-parameter
+      gap
       formalization.
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["A390645"]
   formalized:
     state: "yes"
@@ -11936,8 +11957,10 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): An explicit pair of
-      orthogonal Latin squares of order 10; neither the general asymptotic question nor all orders
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): An explicit
+      pair of
+      orthogonal Latin squares of order 10; neither the general asymptotic question
+      nor all orders
       are claimed. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/59767327c3c784e4daa3726c648a34597a3bd404/submissions/jsp-000592-cyr/README.md
   status:
@@ -12071,8 +12094,10 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Upper bound exp(O(sqrt(n)
-      log n)) for block-compatible sequences; no general characterization is claimed. Uses the
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Upper bound
+      exp(O(sqrt(n)
+      log n)) for block-compatible sequences; no general characterization is claimed.
+      Uses the
       credited plby definitions. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/bb4c53e847da438895921ee2290ca19437e08996/submissions/jsp-000600-cyr/README.md
   status:
@@ -12436,11 +12461,12 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/19f6269a89a6161bef13b90af62a79de6d9a683a/submissions/jsp-000620-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Avis–Erdős–Pach lower
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Avis–Erdős–Pach
+      lower
       construction and f(n)=n/2+O(1). Reuses the credited plby upper bound.
   status:
-    state: "proved"
-    last_update: "2025-08-31"
+    state: "proved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["possible"]
   formalized:
     state: "no"
@@ -13236,11 +13262,12 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/137faffa350f15cbeb9b73c03a7382a288b97b1d/submissions/jsp-000660-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Alon’s balanced-subgraph
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Alon’s
+      balanced-subgraph
       counterexample and both stated negative-answer readings.
   status:
-    state: "disproved"
-    last_update: "2025-08-31"
+    state: "disproved (Lean)"
+    last_update: "2026-09-16"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -13998,8 +14025,10 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Erdős’s infinite
-      two-consecutive family and Makowski’s pair (75,1215); the three-consecutive Erdős–Woods
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Erdős’s
+      infinite
+      two-consecutive family and Makowski’s pair (75,1215); the three-consecutive
+      Erdős–Woods
       question remains open. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/70c7a40b2c89db7f18623fa32bebf62da0f9eaca/submissions/jsp-000703-cyr/README.md
   status:
@@ -16258,9 +16287,12 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Beck’s absolute
-      closed-disk running-radius bounds and qualitative unboundedness. The lower radius is at most R
-      and the upper set may depend on R; stronger fixed-radius/global-set quantifiers are not
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Beck’s
+      absolute
+      closed-disk running-radius bounds and qualitative unboundedness. The lower radius
+      is at most R
+      and the upper set may depend on R; stronger fixed-radius/global-set quantifiers
+      are not
       claimed. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/4ed852624aed9eca1f9d1b98af398f8e7785ede2/submissions/jsp-000822-cyr/README.md
   status:
@@ -16347,12 +16379,14 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/0e9e601721e330405a477dc7b33965349da9ffe4/submissions/jsp-000827-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Marstrand’s negative
-      answer in the fixed-set quantifier order: one Borel set fails for almost every parameter
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Marstrand’s
+      negative
+      answer in the fixed-set quantifier order: one Borel set fails for almost every
+      parameter
       alpha. Reuses the credited plby statement definitions.
   status:
-    state: "disproved"
-    last_update: "2025-09-07"
+    state: "disproved (Lean)"
+    last_update: "2026-09-16"
   formalized:
     state: "yes"
     last_update: "2026-09-22"
@@ -16416,8 +16450,10 @@
   formal_status:
     state: "unformalized"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Kesten’s interval-length
-      criterion: bounded remainder holds exactly when the interval length belongs to Z alpha + Z;
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Kesten’s
+      interval-length
+      criterion: bounded remainder holds exactly when the interval length belongs
+      to Z alpha + Z;
       this does not assert the stronger separate-endpoint wording. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/c2ecac9d6afd79ad1547324cb222d43018931959/submissions/jsp-000831-cyr/README.md
   status:
@@ -16747,12 +16783,14 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/2398377a9bb59c21ec2ff1f14e049e4753972c79/submissions/jsp-000848-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Eventual bounded-size
-      nonplanar subgraphs, with ordinary topological nonplanarity. Reuses the credited compact-K5
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Eventual
+      bounded-size
+      nonplanar subgraphs, with ordinary topological nonplanarity. Reuses the credited
+      compact-K5
       development.
   status:
-    state: "solved"
-    last_update: "2025-12-12"
+    state: "solved (Lean)"
+    last_update: "2026-09-16"
   formalized:
     state: "no"
     last_update: "2025-09-10"
@@ -16769,12 +16807,14 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/be3461dd89a6509c62a96ae201a41b36afa8cfa6/submissions/jsp-000849-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Simonovits saturation
-      result with an ordinary topological planarity bridge. Reuses the credited plby combinatorial
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Simonovits
+      saturation
+      result with an ordinary topological planarity bridge. Reuses the credited plby
+      combinatorial
       core.
   status:
-    state: "proved"
-    last_update: "2025-11-21"
+    state: "proved (Lean)"
+    last_update: "2026-09-16"
   formalized:
     state: "no"
     last_update: "2025-09-10"
@@ -17712,8 +17752,10 @@
     state: "unformalized"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): The positive
-      Brown–Erdős–Sós asymptotic under simultaneous local sparsity for every j=4,...,k. Reuses the
-      credited plby high-girth Steiner-system formalization and its negative theorem for the literal
+      Brown–Erdős–Sós asymptotic under simultaneous local sparsity for every j=4,...,k.
+      Reuses the
+      credited plby high-girth Steiner-system formalization and its negative theorem
+      for the literal
       single-k reading. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/983a20fcb5f44fa72c3c279e065546a14640784f/submissions/jsp-000895-cyr/README.md
   status:
@@ -18270,7 +18312,8 @@
     state: "unformalized"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Erdős–Lewin
-      representability for the pair {2,3}; other-pair questions remain open. Proof and reproduction:
+      representability for the pair {2,3}; other-pair questions remain open. Proof
+      and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/7cdb528bc75feb914a308915a4fce0c912be710f/submissions/jsp-000921-cyr/README.md
   status:
     state: "open"
@@ -18421,8 +18464,10 @@
     state: "unformalized"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Wetzel’s
-      countable-values/continuum-hypothesis biconditional; not the general-cardinal independence
-      result. New CH construction extends the credited plby countability proof. Proof and
+      countable-values/continuum-hypothesis biconditional; not the general-cardinal
+      independence
+      result. New CH construction extends the credited plby countability proof. Proof
+      and
       reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/49d433ee833f3d8d52b2fd839237c9c7639d6a07/submissions/jsp-000930-cyr/README.md
   status:
@@ -18593,12 +18638,13 @@
     url: "https://github.com/CollinYuanjieRen/awards/blob/791bf61df4366b60b6b47b9e062661ee65b3143b/submissions/jsp-000936-cyr/README.md"
     note: >-
       Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Free real-node
-      Lebesgue-minimizer characterization by equal interior peaks and controlled endpoint tails,
+      Lebesgue-minimizer characterization by equal interior peaks and controlled endpoint
+      tails,
       including singleton nodes. Extends randyxian08’s credited canonical de Boor–Pinkus
       formalization.
   status:
-    state: "proved"
-    last_update: "2026-01-17"
+    state: "proved (Lean)"
+    last_update: "2026-09-16"
   formalized:
     state: "no"
     last_update: "2026-01-01"
@@ -18892,12 +18938,14 @@
     last_update: "2026-09-16"
     url: "https://github.com/CollinYuanjieRen/awards/blob/7e05ab7a1f3defe48d72d6af17a66c9d6a57567e/submissions/jsp-000952-cyr/README.md"
     note: >-
-      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Konieczny’s sqrt(2)
-      counterexample to order-two recurrence-set bases; the almost-every-parameter theorem is not
+      Lean formalization contribution by Collin Yuanjie Ren (AI-assisted): Konieczny’s
+      sqrt(2)
+      counterexample to order-two recurrence-set bases; the almost-every-parameter
+      theorem is not
       formalized.
   status:
-    state: "disproved"
-    last_update: "2026-01-27"
+    state: "disproved (Lean)"
+    last_update: "2026-09-16"
   formalized:
     state: "yes"
     last_update: "2026-09-20"
