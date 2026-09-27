@@ -20116,7 +20116,10 @@
     state: "open"
     last_update: "2026-09-12"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-26"
+    url: "https://github.com/jbaelaw/erdos1220-lean"
+    note: "Non-provability of the affirmative answer, proved in Lean 4 / Mathlib (commit 9cb81ff): ZFC does not entail the first-order sentence saying that every singular lambda with lambda and cf(lambda) aleph_0-inaccessible satisfies lambda -> (lambda, aleph_1)^2, with a faithfulness theorem to the Mathlib-level statement. The countermodel uses lambda = beth_{c^+} and a forcing adapted from Shelah-Stanley (Sh:258, Section 3). Standard axioms only; registered in the Palomar registry as PALOMAR-2026-09-26-000001. The consistency of a positive answer (independence) is not formalized."
   status:
     state: "open"
     last_update: "2026-09-12"
