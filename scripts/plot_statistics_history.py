@@ -23,6 +23,7 @@ from pathlib import Path
 import csv
 import subprocess
 from datetime import datetime, timedelta, timezone
+import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
@@ -33,6 +34,13 @@ OUTPUT_DARK = ROOT / "data" / "statistics_history_dark.svg"
 
 #: Date the rendered charts were frozen; see the module docstring.
 CHARTS_FROZEN_ON = "2026-10-06"
+
+# The first rows of the history (2025-08-31, roughly 10:00 to 12:10 Pacific) were
+
+# Make SVG output deterministic: fixed hash salt for element IDs.
+# Applied via matplotlib.rc_context at save time so we don't leak a global
+# rcParam side effect to any other code that imports this module.
+SVG_HASH_SALT = "erdos-problems-statistics"
 
 # The first rows of the history (2025-08-31, roughly 10:00 to 12:10 Pacific) were
 # written while the problem set was still being imported: the total went from
@@ -211,9 +219,21 @@ def generate_charts(force: bool = False):
     lean_solved = [p['lean_solved'] for p in data_points]
     open_counts = [p['open'] for p in data_points]
 
+    # Deterministic SVG metadata: no timestamp, fixed creator.
+    svg_metadata = {"Date": CHARTS_FROZEN_ON, "Creator": "erdos-problems-statistics"}
+
+    # Scope the hash salt to just these saves so we don't leak a global
+    # rcParam side effect to other code that imports this module.
+    with matplotlib.rc_context({"svg.hashsalt": SVG_HASH_SALT}):
     for theme, path in [('light', OUTPUT_LIGHT), ('dark', OUTPUT_DARK)]:
         fig = create_plot(dates, lean, oeis, solve, lean_solved, open_counts, theme=theme)
-        fig.savefig(path, format='svg', bbox_inches='tight', facecolor=fig.get_facecolor())
+            fig.savefig(
+                path,
+                format='svg',
+                bbox_inches='tight',
+                facecolor=fig.get_facecolor(),
+                metadata=dict(svg_metadata),
+            )
         plt.close(fig)
         
 
