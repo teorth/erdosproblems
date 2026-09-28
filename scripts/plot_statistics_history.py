@@ -7,6 +7,7 @@ from pathlib import Path
 import csv
 import subprocess
 from datetime import datetime, timedelta, timezone
+import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
@@ -14,6 +15,11 @@ ROOT = Path(__file__).resolve().parents[1]
 CSV_FILE = ROOT / "data" / "statistics_history.csv"
 OUTPUT_LIGHT = ROOT / "data" / "statistics_history_light.svg"
 OUTPUT_DARK = ROOT / "data" / "statistics_history_dark.svg"
+
+# Make SVG output deterministic: fixed hash salt for element IDs.
+# Applied via matplotlib.rc_context at save time so we don't leak a global
+# rcParam side effect to any other code that imports this module.
+SVG_HASH_SALT = "erdos-problems-statistics"
 
 # The first rows of the history (2025-08-31, roughly 10:00 to 12:10 Pacific) were
 # written while the problem set was still being imported: the total went from
@@ -179,10 +185,22 @@ def generate_charts():
     lean_solved = [p['lean_solved'] for p in data_points]
     open_counts = [p['open'] for p in data_points]
 
-    for theme, path in [('light', OUTPUT_LIGHT), ('dark', OUTPUT_DARK)]:
-        fig = create_plot(dates, lean, oeis, solve, lean_solved, open_counts, theme=theme)
-        fig.savefig(path, format='svg', bbox_inches='tight', facecolor=fig.get_facecolor())
-        plt.close(fig)
+    # Deterministic SVG metadata: no timestamp, fixed creator.
+    svg_metadata = {"Date": "", "Creator": "erdos-problems-statistics"}
+
+    # Scope the hash salt to just these saves so we don't leak a global
+    # rcParam side effect to other code that imports this module.
+    with matplotlib.rc_context({"svg.hashsalt": SVG_HASH_SALT}):
+        for theme, path in [('light', OUTPUT_LIGHT), ('dark', OUTPUT_DARK)]:
+            fig = create_plot(dates, lean, oeis, solve, lean_solved, open_counts, theme=theme)
+            fig.savefig(
+                path,
+                format='svg',
+                bbox_inches='tight',
+                facecolor=fig.get_facecolor(),
+                metadata=dict(svg_metadata),
+            )
+            plt.close(fig)
         
 
 if __name__ == "__main__":
