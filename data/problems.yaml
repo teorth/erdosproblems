@@ -7967,8 +7967,8 @@
     note: "Trevor Morris's formalisation of Graham-Pollak and Stoll's general resolution
       [St05]; theorems LeanGallery.NumberTheory.Erdos482.erdos_482_verbatim and LeanGallery.NumberTheory.Erdos482.General.erdos482_resolution."
   status:
-    state: "solved (Lean)"
-    last_update: "2026-09-26"
+    state: "solved"
+    last_update: "2025-08-31"
   oeis: ["A004539"]
   formalized:
     state: "yes"
