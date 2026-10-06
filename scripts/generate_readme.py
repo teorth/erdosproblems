@@ -299,5 +299,9 @@ if plot_statistics_history:
         "lean_solved": count_formalized_solution(rows),
     }
 
-    if plot_statistics_history.update_history(current_stats):
-        plot_statistics_history.generate_charts()
+    # The history CSV keeps accumulating, but the rendered charts are frozen as
+    # of plot_statistics_history.CHARTS_FROZEN_ON and are no longer regenerated
+    # here; see that module's docstring.  generate_charts() is deliberately not
+    # called, rather than called and ignored, so this step does no chart work at
+    # all on a routine push.
+    plot_statistics_history.update_history(current_stats)

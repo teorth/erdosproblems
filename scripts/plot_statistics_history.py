@@ -1,8 +1,24 @@
 #!/usr/bin/env python3
 """
 Manages the statistics history CSV and generates progress charts.
+
+**The charts are frozen as of 2026-10-06.**  `update_history` still runs, so
+`data/statistics_history.csv` continues to accumulate; only the rendered SVGs
+are frozen, and the README links to them rather than displaying them inline.
+
+This follows the policy change announced at
+<https://www.erdosproblems.com/forum/thread/blog:9> on 6 October 2026, under
+which erdosproblems.com no longer displays problem statuses, the count of
+solved problems, or the solved percentage.  A progress chart of solved and
+formalized counts over time is the same kind of scoreboard, so its prominence
+here is reduced in step.  The underlying series is still recorded, since the
+data remains useful; what is withdrawn is its promotion to a headline graphic.
+
+To regenerate deliberately (which un-freezes the committed SVGs), call
+`generate_charts(force=True)` or run this script with `--force`.
 """
 
+import argparse
 from pathlib import Path
 import csv
 import subprocess
@@ -14,6 +30,9 @@ ROOT = Path(__file__).resolve().parents[1]
 CSV_FILE = ROOT / "data" / "statistics_history.csv"
 OUTPUT_LIGHT = ROOT / "data" / "statistics_history_light.svg"
 OUTPUT_DARK = ROOT / "data" / "statistics_history_dark.svg"
+
+#: Date the rendered charts were frozen; see the module docstring.
+CHARTS_FROZEN_ON = "2026-10-06"
 
 # The first rows of the history (2025-08-31, roughly 10:00 to 12:10 Pacific) were
 # written while the problem set was still being imported: the total went from
@@ -144,8 +163,21 @@ def create_plot(dates, lean_counts, oeis_counts, solve_counts, lean_solved_count
     plt.tight_layout()
     return fig
 
-def generate_charts():
-    """Reads history and generates SVG charts."""
+def generate_charts(force: bool = False):
+    """Reads history and generates SVG charts.
+
+    Frozen as of ``CHARTS_FROZEN_ON``: without ``force`` this is a no-op, so
+    the committed SVGs keep showing the series as it stood on that date.  See
+    the module docstring for why.
+    """
+    if not force:
+        print(
+            f"Progress charts are frozen as of {CHARTS_FROZEN_ON}; leaving the "
+            f"committed SVGs untouched.  The history CSV is still being updated. "
+            f"Pass --force (or force=True) to regenerate deliberately."
+        )
+        return
+
     if not CSV_FILE.exists():
         return
 
@@ -186,4 +218,10 @@ def generate_charts():
         
 
 if __name__ == "__main__":
-    generate_charts()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help=f"regenerate the SVGs even though they are frozen as of {CHARTS_FROZEN_ON}",
+    )
+    generate_charts(force=parser.parse_args().force)

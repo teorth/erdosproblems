@@ -14,11 +14,11 @@ For further discussion of this project, see [this blog post](https://terrytao.wo
 Several of the problems have received assistance from various AI tools.  A list of such assistance [can be found here](https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems).  **This wiki is no longer updated as of June 30, 2026**, and is retained as a historical record; please do not open issues proposing additions to it.
 ## Progress
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data/statistics_history_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="data/statistics_history_light.svg">
-  <img alt="Erdős Problems Progress" src="data/statistics_history_light.svg">
-</picture>
+The progress chart is **frozen as of October 6, 2026** and is no longer shown here; it remains available as an image: [light](data/statistics_history_light.svg) / [dark](data/statistics_history_dark.svg).
+
+This is in accordance with the [policy changes announced at erdosproblems.com](https://www.erdosproblems.com/forum/thread/blog:9) on that date, under which that site no longer displays the statuses of problems, nor the count or percentage of problems solved.  A chart tracking solved and formalized counts over time serves much the same function, so it is no longer given a headline position in this repository either.
+
+The underlying data stays active: [data/statistics_history.csv](data/statistics_history.csv) continues to be updated as the database changes, so a current chart can be regenerated at any time with `python scripts/plot_statistics_history.py --force`.
 
 ## Table
 
