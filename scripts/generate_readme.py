@@ -14,9 +14,14 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 data_path = ROOT / "data" / "problems.yaml"
 readme_path = ROOT / "README.md"
+# The summary counts live on their own page rather than at the top of the
+# README, so a visitor is not shown a scoreboard by default; see STATISTICS.md.
+stats_path = ROOT / "STATISTICS.md"
 
 START = "<!-- TABLE:START -->"
 END = "<!-- TABLE:END -->"
+STATS_START = "<!-- STATS:START -->"
+STATS_END = "<!-- STATS:END -->"
 
 def num_link(num):
     return f"[{num}](https://www.erdosproblems.com/{num})"
@@ -213,8 +218,8 @@ def count_review(rows):
     )
 
 
-def build_table(rows):
-    header = "| # | Prize | Status | Statement formalized | AI Attempts | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|---|"
+def build_stats(rows):
+    """The summary counts, rendered to STATISTICS.md rather than the README."""
     lines = []
     lines.append(f"There are {len(rows)} problems in total, of which")
     lines.append(f"- {filter_link(count_prize(rows), prize='yes')} are attached to a monetary prize.")
@@ -241,8 +246,12 @@ def build_table(rows):
     lines.append(f"  - {count_possible_oeis(rows)-count_possible_and_id(rows)} of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.")
     lines.append(f"- {filter_link(count_submitted_oeis(rows), oeis='submitted')} have a related sequence currently being submitted to the [OEIS](https://oeis.org/).")
     lines.append(f"- {filter_link(count_inprogress_oeis(rows), oeis='inprogress')} have a related sequence whose generation is currently in progress.")
-    lines.append("\n")
-    lines.append(header)
+    return "\n".join(lines)
+
+def build_table(rows):
+    """The per-problem table, which stays on the README."""
+    header = "| # | Prize | Status | Statement formalized | AI Attempts | OEIS | Tags | Comments |\n|---|---|---|---|---|---|---|---|"
+    lines = [header]
     for r in rows:
         oeis = ", ".join(oeis_link(s) for s in r.get("oeis", [])) or "?"
         tags = ", ".join(tags_link(s) for s in r.get("tags", [])) or "?"
@@ -257,25 +266,42 @@ def build_table(rows):
         lines.append(f"| {rid} | {prize} | {status} | {formalized} | {ai_attempts} | {oeis} | {tags} | {comments} |")
     return "\n".join(lines)
 
-def insert_between_markers(content, payload):
+def insert_between_markers(content, payload, start=START, end=END):
     pattern = re.compile(
-        rf"({re.escape(START)})(.*)({re.escape(END)})",
+        rf"({re.escape(start)})(.*)({re.escape(end)})",
         flags=re.DOTALL
     )
-    repl = rf"\1\n{payload}\n\3"
-    return re.sub(pattern, repl, content)
+    # A function replacement, so a backslash anywhere in the payload (a LaTeX
+    # fragment in a comment, say) is not read as a regex escape.
+    new_content, count = pattern.subn(
+        lambda m: f"{m.group(1)}\n{payload}\n{m.group(3)}", content
+    )
+    if count == 0:
+        # Without this the substitution is a silent no-op and the caller
+        # cheerfully reports the file as up-to-date, leaving it stale forever.
+        raise SystemExit(
+            f"error: could not find the {start} / {end} markers.  They are "
+            f"required; the surrounding prose is hand-written and so the file "
+            f"cannot simply be recreated."
+        )
+    return new_content
+
+def render(path, payload, label, start=START, end=END):
+    """Write `payload` between the markers in `path`, if that changes anything."""
+    if not path.is_file():
+        raise SystemExit(f"error: {path} is missing; it is not auto-created.")
+    old = path.read_text(encoding="utf-8")
+    new = insert_between_markers(old, payload, start, end)
+    if new == old:
+        print(f"{label} already up-to-date.")
+        return
+    path.write_text(new, encoding="utf-8")
+    print(f"{label} updated.")
 
 rows = yaml.safe_load(data_path.read_text(encoding="utf-8"))
-table_md = build_table(rows)
 
-readme = readme_path.read_text(encoding="utf-8")
-new_readme = insert_between_markers(readme, table_md)
-
-if new_readme != readme:
-    readme_path.write_text(new_readme, encoding="utf-8")
-    print("README updated.")
-else:
-    print("README already up-to-date.")
+render(readme_path, build_table(rows), "README")
+render(stats_path, build_stats(rows), "STATISTICS", STATS_START, STATS_END)
 
 # Update statistics history and charts
 if plot_statistics_history:
