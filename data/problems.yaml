@@ -2644,8 +2644,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics", "ramsey theory", "discrepancy", "hypergraphs"]
 
 - number: "162"
@@ -3413,8 +3413,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics", "hypergraphs"]
 
 - number: "208"
@@ -8282,8 +8282,8 @@
     last_update: "2025-08-31"
   oeis: ["A140462"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs", "turan number"]
 
 - number: "501"
@@ -9966,8 +9966,8 @@
     last_update: "2026-07-06"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics", "set theory"]
 
 - number: "604"
@@ -10180,8 +10180,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory"]
 
 - number: "617"
@@ -10625,8 +10625,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs"]
 
 - number: "644"
@@ -10641,8 +10641,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics"]
 
 - number: "645"
@@ -10994,8 +10994,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics"]
 
 - number: "666"
@@ -11767,8 +11767,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "turan number", "hypergraphs"]
 
 - number: "713"
@@ -11832,8 +11832,8 @@
     last_update: "2026-06-21"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   comments: "Ruzsa-Szemerédi problem"
   tags: ["graph theory", "hypergraphs"]
 
@@ -11881,8 +11881,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs"]
 
 - number: "720"
@@ -11929,8 +11929,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics"]
 
 - number: "723"
@@ -12105,8 +12105,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics"]
 
 - number: "733"
@@ -12137,8 +12137,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics"]
 
 - number: "735"
@@ -12347,8 +12347,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics", "hypergraphs"]
 
 - number: "748"
@@ -13736,8 +13736,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs", "chromatic number"]
 
 - number: "833"
@@ -13752,8 +13752,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs", "chromatic number"]
 
 - number: "834"
@@ -13768,8 +13768,8 @@
     last_update: "2026-01-01"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs"]
 
 - number: "835"
@@ -13800,8 +13800,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs", "chromatic number"]
 
 - number: "837"
@@ -13816,8 +13816,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["graph theory", "hypergraphs"]
 
 - number: "838"
@@ -14866,8 +14866,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics", "hypergraphs"]
 
 - number: "902"
@@ -14898,8 +14898,8 @@
     last_update: "2025-10-14"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-07"
   tags: ["combinatorics"]
 
 - number: "904"
@@ -16899,8 +16899,8 @@
     state: "solved"
     last_update: "2025-09-12"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-10-07"
   oeis: ["possible"]
   tags: ["graph theory", "hypergraphs"]
 
@@ -17738,8 +17738,8 @@
     state: "open"
     last_update: "2025-10-05"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-10-07"
   oeis: ["N/A"]
   tags: ["hypergraphs"]
 
@@ -19108,8 +19108,8 @@
     state: "open"
     last_update: "2026-01-23"
   formalized:
-    state: "no"
-    last_update: "2026-01-23"
+    state: "yes"
+    last_update: "2026-10-07"
   oeis: ["possible"]
   tags: ["hypergraphs", "turan number"]
 
@@ -19124,8 +19124,8 @@
     state: "open"
     last_update: "2026-01-23"
   formalized:
-    state: "no"
-    last_update: "2026-01-23"
+    state: "yes"
+    last_update: "2026-10-07"
   oeis: ["possible"]
   tags: ["hypergraphs", "turan number"]
 
@@ -19429,8 +19429,8 @@
     state: "open"
     last_update: "2026-01-23"
   formalized:
-    state: "no"
-    last_update: "2026-01-23"
+    state: "yes"
+    last_update: "2026-10-07"
   oeis: ["N/A"]
   tags: ["set theory", "chromatic number", "hypergraphs"]
 
@@ -19445,8 +19445,8 @@
     state: "open"
     last_update: "2026-01-25"
   formalized:
-    state: "no"
-    last_update: "2026-01-25"
+    state: "yes"
+    last_update: "2026-10-07"
   oeis: ["N/A"]
   tags: ["graph theory", "hypergraphs"]
 
