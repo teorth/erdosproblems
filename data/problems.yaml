@@ -10609,8 +10609,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-10"
   tags: ["graph theory", "cycles"]
 
 - number: "643"
