@@ -20100,7 +20100,10 @@
     state: "proved"
     last_update: "2026-09-12"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-28"
+    url: "https://github.com/jbaelaw/erdos1219-lean"
+    note: "Shelah's theorem (Notes on partition calculus, 1975, Section 1) proved in Lean 4 / Mathlib (commit 00e696a) exactly for the formulation on this page: for every increasing sequence n with 2^{aleph_{n_k}} strictly increasing and 2^{aleph_{n_0}} > aleph_omega, the cardinal sum of the 2^{aleph_{n_k}} satisfies the binary partition relation to (aleph_omega)^2. Standard axioms only; Comparator accepted with the Lean, NanoDa and con-ron kernels. Statement added to formal-conjectures in google-deepmind/formal-conjectures#6671."
   status:
     state: "proved"
     last_update: "2026-09-12"
