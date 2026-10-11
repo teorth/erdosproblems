@@ -16027,7 +16027,10 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-10-11"
+    url: "https://github.com/linrock/math-proofs/blob/1571a487465fb6a87f92dcc46f1bd71b0846c413/erdos-973/Solution.lean#L47"
+    note: "Theorem Erdos973.Palomar.not_erdos_973, formalizing the negative resolution via the residual-polynomial method of arXiv:2608.02043 (PALOMAR-2026-09-20-000008)."
   status:
     state: "open"
     last_update: "2025-08-31"
