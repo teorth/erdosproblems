@@ -9207,8 +9207,8 @@
     last_update: "2025-08-31"
   oeis: ["A389335"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-11"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "557"
