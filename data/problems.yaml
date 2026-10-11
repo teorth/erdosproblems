@@ -6270,7 +6270,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2025-08-31"
-  oeis: ["A048279", "possible"]
+  oeis: ["A048279", "A400962"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
