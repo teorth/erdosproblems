@@ -2872,7 +2872,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2026-08-24"
-  oeis: ["N/A"]
+  oeis: ["A292441", "A292442"]
   formalized:
     state: "yes"
     last_update: "2026-09-02"
