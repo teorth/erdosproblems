@@ -11043,8 +11043,8 @@
     last_update: "2025-08-31"
   oeis: ["A385657"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-12"
   tags: ["geometry", "distances"]
 
 - number: "669"
