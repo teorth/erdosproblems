@@ -7722,8 +7722,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-13"
   comments: "ambiguous statement"
   tags: ["number theory"]
 
@@ -9191,8 +9191,8 @@
     last_update: "2025-08-31"
   oeis: ["A389313", "possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-13"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "556"
@@ -10962,8 +10962,8 @@
     last_update: "2025-08-31"
   oeis: ["A391668"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-13"
   tags: ["number theory"]
 
 - number: "664"
@@ -11751,8 +11751,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-13"
   tags: ["number theory"]
 
 - number: "712"
@@ -13382,8 +13382,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-13"
   tags: ["graph theory", "ramsey theory"]
 
 - number: "811"
