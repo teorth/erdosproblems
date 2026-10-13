@@ -11173,8 +11173,8 @@
     last_update: "2025-08-31"
   oeis: ["A390181", "in progress"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-13"
   tags: ["number theory"]
 
 - number: "677"
