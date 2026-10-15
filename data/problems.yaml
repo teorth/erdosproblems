@@ -6399,7 +6399,7 @@
   status:
     state: "solved"
     last_update: "2026-07-02"
-  oeis: ["N/A"]
+  oeis: ["A401107", "A401108"]
   formalized:
     state: "yes"
     last_update: "2026-01-02"
