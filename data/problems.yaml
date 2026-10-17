@@ -16560,7 +16560,7 @@
   formalized:
     state: "yes"
     last_update: "2025-12-10"
-  oeis: ["possible"]
+  oeis: ["A079008", "possible"]
   tags: ["number theory"]
 
 - number: "1005"
