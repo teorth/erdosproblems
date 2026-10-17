@@ -1,6 +1,8 @@
 import os
 import requests
 import sys
+import tempfile
+import stat
 from pathlib import Path
 from datetime import datetime
 from ruamel.yaml import YAML
@@ -102,8 +104,14 @@ def update_yaml_file(formalized_numbers):
                 
     if update_count > 0:
         print(f"Updating {update_count} entries in the YAML file...")
-        with open(DATA_PATH, 'w', encoding='utf-8') as f:
-            yaml.dump(data, f)
+        fd, temporary = tempfile.mkstemp(dir=DATA_PATH.parent, prefix=DATA_PATH.name + ".")
+        try:
+            with os.fdopen(fd, 'w', encoding='utf-8') as f:
+                yaml.dump(data, f)
+            os.chmod(temporary, stat.S_IMODE(DATA_PATH.stat().st_mode))
+            os.replace(temporary, DATA_PATH)
+        finally:
+            Path(temporary).unlink(missing_ok=True)
         print("✅ YAML file updated successfully.")
     else:
         print("🧘 No changes needed. YAML file is already up-to-date.")
