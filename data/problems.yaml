@@ -7329,7 +7329,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2026-02-04"
-  oeis: ["N/A"]
+  oeis: ["A401140"]
   formalized:
     state: "yes"
     last_update: "2026-08-03"
