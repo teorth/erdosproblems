@@ -20059,7 +20059,7 @@
   formalized:
     state: "no"
     last_update: "2026-04-04"
-  oeis: ["possible"]
+  oeis: ["A122027", "A122026"]
   tags: ["graph theory", "ramsey theory"]
 
 - number: "1217"
