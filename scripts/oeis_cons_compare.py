@@ -16,6 +16,16 @@ import sys
 from fractions import Fraction
 
 
+
+def _decimal_string(value: int) -> str:
+    """Convert a nonnegative integer without Python's large-int string limit."""
+    chunks = []
+    while value >= 10**9:
+        value, chunk = divmod(value, 10**9)
+        chunks.append(f"{chunk:09d}")
+    return str(value) + "".join(reversed(chunks))
+
+
 def _scaled_ratio(value: Fraction, n: int) -> tuple[int, int]:
     """Scale a positive rational so its integer part has n significant digits."""
     if n <= 0:
@@ -24,7 +34,7 @@ def _scaled_ratio(value: Fraction, n: int) -> tuple[int, int]:
         raise ValueError("value must be positive")
 
     numerator, denominator = value.numerator, value.denominator
-    exponent = len(str(numerator)) - len(str(denominator))
+    exponent = len(_decimal_string(numerator)) - len(_decimal_string(denominator))
     if exponent >= 0:
         below_power = numerator < denominator * 10**exponent
     else:
@@ -43,7 +53,7 @@ def _scaled_ratio(value: Fraction, n: int) -> tuple[int, int]:
 def digits_truncated(value: Fraction, n: int) -> str:
     """Return the first n significant digits of value, truncated."""
     numerator, denominator = _scaled_ratio(value, n)
-    return str(numerator // denominator)
+    return _decimal_string(numerator // denominator)
 
 
 def digits_rounded(value: Fraction, n: int) -> str:
@@ -53,7 +63,7 @@ def digits_rounded(value: Fraction, n: int) -> str:
     if 2 * remainder >= denominator:
         digits += 1
     # A carry can add one digit, e.g. 9999 rounds to 10000.
-    return str(digits)[:n]
+    return _decimal_string(digits)[:n]
 
 
 def compare_cons(value: Fraction, oeis_digits: str) -> dict:
