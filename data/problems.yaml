@@ -6946,8 +6946,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-17"
   tags: ["number theory"]
 
 - number: "421"
@@ -9722,8 +9722,8 @@
     last_update: "2025-08-31"
   oeis: ["A006065", "A008997"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-17"
   tags: ["geometry"]
 
 - number: "589"
@@ -11350,8 +11350,8 @@
     last_update: "2025-08-31"
   oeis: ["A048670", "A058989"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-17"
   tags: ["number theory"]
 
 - number: "688"
