@@ -15382,7 +15382,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A401022"]
   formalized:
     state: "yes"
     last_update: "2026-07-02"
