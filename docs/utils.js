@@ -104,23 +104,14 @@ function renderFormalizedLink(number, state) {
 }
 
 /**
- * Informal statuses for which an AI attempt is still worth viewing
- * @type {Array<string>}
- */
-const AI_ELIGIBLE_STATES = ['open', 'verifiable', 'independent', 'falsifiable'];
-
-/**
  * Render AI Attempts link based on problem status
  * @param {string} number - Problem number
  * @param {Object} problem - Problem data object
- * @returns {string} HTML anchor tag with "view" or "add" text
+ * @returns {string} HTML anchor tag with "view" text
  */
 function renderAIAttempts(number, problem) {
     const url = `https://mehmetmars7.github.io/Erdosproblems-llm-hunter/problem.html?type=erdos&id=${number}`;
-    // Keyed on the informal status, so that a formalized-but-undigested problem
-    // ("open (Lean)") is still treated as open here.
-    const state = getInformalState(problem).toLowerCase();
-    const linkText = AI_ELIGIBLE_STATES.includes(state) ? 'view' : 'add';
+    const linkText = 'view';
     return `<a href="${url}" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
 }
 
@@ -157,7 +148,7 @@ function getColumnValue(problem, column) {
             return problem.comments || '';
             
         case 'ai_attempts':
-            return AI_ELIGIBLE_STATES.includes(getInformalState(problem).toLowerCase()) ? 'view' : 'add';
+            return 'view';
             
         default:
             return '';
