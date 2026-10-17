@@ -1,4 +1,5 @@
 import importlib.util
+import os
 from pathlib import Path
 from unittest.mock import patch
 import pytest
@@ -20,6 +21,11 @@ def test_serialization_failure_preserves_database(tmp_path):
     assert database.read_text() == original
     assert list(tmp_path.iterdir()) == [database]
 
+@pytest.mark.skipif(
+    os.name == "nt",
+    reason="Windows chmod only toggles the read-only bit, so POSIX modes do not "
+           "round-trip; the mode-preserving code itself is platform-independent.",
+)
 def test_successful_update_preserves_mode(tmp_path):
     database = tmp_path / 'problems.yaml'
     database.write_text('- number: "1"\n  formalized:\n    state: "no"\n')

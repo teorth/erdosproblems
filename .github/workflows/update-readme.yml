@@ -14,6 +14,20 @@ on:
 permissions:
   contents: write
 
+# Regeneration ends in a commit and push to `main`, so two runs in flight race
+# and the loser dies on a non-fast-forward push.  Merging several PRs in quick
+# succession used to produce a handful of failed runs for this reason, and if
+# the *last* one lost, `main` was left with stale derived fields and no retry,
+# since these commits carry [skip ci].
+#
+# Queue instead.  Runs are idempotent and only the final state matters, so it is
+# enough that one run executes after the last push: with cancel-in-progress
+# false GitHub keeps the newest pending run and discards the older ones, and
+# that run sees the fully-merged tree.
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest

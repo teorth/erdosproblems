@@ -121,8 +121,18 @@ Every pull request that touches `data/`, `schema/` or `scripts/` is checked by [
 pip install -r requirements.txt
 python scripts/derive_status.py      # refresh the derived status field
 python scripts/validate.py           # check the file
-python scripts/generate_readme.py    # rebuild the README table and charts
+python scripts/generate_readme.py    # rebuild the README table and the statistics page
 ```
+
+A pull request touching `scripts/`, `tests/` or `docs/` additionally runs the test suite under [tests/](tests/) — the Python tests with `pytest`, and the `docs/` JavaScript tests with node's built-in runner.  To run them yourself:
+
+```bash
+pip install -r requirements.txt pytest
+python -m pytest tests -q            # the Python tests
+node tests/test-url-state.cjs        # the docs/ JavaScript tests
+```
+
+`pytest` is a test-only dependency and is deliberately not in `requirements.txt`.  One test is skipped on Windows, where `chmod` only toggles the read-only bit so POSIX file modes cannot round-trip; it runs on Linux, as CI does.
 
 ## Linking with the OEIS
 

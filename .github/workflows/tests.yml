@@ -1,0 +1,65 @@
+name: Tests
+
+# `validate.yml` checks data/problems.yaml against the schema; this runs the
+# test suite under tests/, which nothing executed before.  The paths below
+# deliberately include docs/ and tests/, neither of which validate.yml covers,
+# so a change to the site's JavaScript is no longer merged untested.
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'docs/**'
+      - 'requirements.txt'
+      - '.github/workflows/tests.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'docs/**'
+      - 'requirements.txt'
+      - '.github/workflows/tests.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+
+      # pytest is a test-only dependency, so it is installed here rather than
+      # added to requirements.txt, which the other workflows also install.
+      - run: python -m pip install -r requirements.txt pytest
+
+      - name: Run the Python test suite
+        run: python -m pytest tests -q
+
+  node:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+
+      - name: Run the docs/ JavaScript tests
+        # node:test exits non-zero on failure, so no runner is needed.
+        run: |
+          shopt -s nullglob
+          files=(tests/*.cjs)
+          if [[ ${#files[@]} -eq 0 ]]; then
+            echo "No .cjs tests found."
+            exit 0
+          fi
+          for f in "${files[@]}"; do
+            echo "== $f"
+            node "$f"
+          done

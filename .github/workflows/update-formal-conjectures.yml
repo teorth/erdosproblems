@@ -8,6 +8,13 @@ on:
 permissions:
   contents: write
 
+# Shares the queue with "Regenerate derived fields and README", since both end
+# in a push to `main` and would otherwise race each other.  No deadlock: this
+# workflow finishes before the workflow_run trigger starts the regeneration.
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
 jobs:
   update-files:
     runs-on: ubuntu-latest
