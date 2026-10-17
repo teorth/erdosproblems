@@ -10,7 +10,7 @@ The figures are still generated, and the per-problem table on the [main page](RE
 
 <!-- STATS:START -->
 There are 1221 problems in total, of which
-- [106](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
+- [107](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
 - [336](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [183](https://teorth.github.io/erdosproblems/?status=proved&formal=Lean) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [139](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
