@@ -11528,7 +11528,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2026-01-16"
-  oeis: ["possible"]
+  oeis: ["A400908"]
   formalized:
     state: "yes"
     last_update: "2026-08-04"
