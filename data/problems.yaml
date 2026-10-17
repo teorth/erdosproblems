@@ -19575,7 +19575,7 @@
   formalized:
     state: "no"
     last_update: "2026-04-04"
-  oeis: ["possible"]
+  oeis: ["A121385", "possible"]
   tags: ["additive combinatorics", "arithmetic progressions"]
 
 - number: "1187"
