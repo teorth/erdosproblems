@@ -11495,7 +11495,7 @@
   status:
     state: "solved (Lean)"
     last_update: "2026-05-11"
-  oeis: ["possible"]
+  oeis: ["A399769", "A400930"]
   formalized:
     state: "yes"
     last_update: "2026-10-12"
