@@ -66,9 +66,12 @@ _FORUM_KEYS = ("posts", "proof_claims", "proof_claim_posts")
 def parse_forum_index(html):
     """Map problem number -> the `forum` entry that problem should carry.
 
-    Threads that belong to no problem -- the site's blog threads, coded
-    "blog:N", and the named topic threads -- are skipped; see the module
-    docstring for how the rest are counted.
+    Skipped, because they belong to no problem: the `blog:N` threads and the
+    named topic threads (AI Contributions, Site feedback, and so on). A bare
+    problem number is that problem's own thread and is recorded as `posts`.
+    A proof claim, coded `<number>/proof-claims#proof-claim-<id>`, increments
+    `proof_claims`, and its reply badge (absent until someone answers) adds
+    to `proof_claim_posts`. See the module docstring for the counting rules.
     """
     threads = {}
     for item in _THREAD_ITEM_RE.findall(html):
