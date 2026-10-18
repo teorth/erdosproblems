@@ -6,6 +6,13 @@ on:
 permissions:
   contents: write
 
+# This also commits and pushes data/problems.yaml, same as the regeneration
+# workflows. Share their group so a manual run cannot race one and die on a
+# non-fast-forward push.
+concurrency:
+  group: commit-to-main
+  cancel-in-progress: false
+
 jobs:
   update-files:
     runs-on: ubuntu-latest
