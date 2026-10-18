@@ -225,8 +225,8 @@ def generate_charts(force: bool = False):
     # Scope the hash salt to just these saves so we don't leak a global
     # rcParam side effect to other code that imports this module.
     with matplotlib.rc_context({"svg.hashsalt": SVG_HASH_SALT}):
-    for theme, path in [('light', OUTPUT_LIGHT), ('dark', OUTPUT_DARK)]:
-        fig = create_plot(dates, lean, oeis, solve, lean_solved, open_counts, theme=theme)
+        for theme, path in [('light', OUTPUT_LIGHT), ('dark', OUTPUT_DARK)]:
+            fig = create_plot(dates, lean, oeis, solve, lean_solved, open_counts, theme=theme)
             fig.savefig(
                 path,
                 format='svg',
@@ -234,7 +234,7 @@ def generate_charts(force: bool = False):
                 facecolor=fig.get_facecolor(),
                 metadata=dict(svg_metadata),
             )
-        plt.close(fig)
+            plt.close(fig)
         
 
 if __name__ == "__main__":
