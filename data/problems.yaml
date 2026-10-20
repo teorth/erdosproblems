@@ -3907,8 +3907,8 @@
     last_update: "2026-03-04"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-20"
   tags: ["number theory", "primes"]
 
 - number: "238"
@@ -7347,8 +7347,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-20"
   tags: ["number theory", "divisors"]
 
 - number: "445"
