@@ -13248,8 +13248,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-20"
   tags: ["graph theory"]
 
 - number: "803"
@@ -17053,8 +17053,8 @@
     state: "open"
     last_update: "2025-12-12"
   formalized:
-    state: "no"
-    last_update: "2025-09-10"
+    state: "yes"
+    last_update: "2026-10-20"
   oeis: ["possible"]
   tags: ["graph theory"]
 
@@ -18527,8 +18527,8 @@
     state: "open"
     last_update: "2025-12-30"
   formalized:
-    state: "no"
-    last_update: "2025-12-30"
+    state: "yes"
+    last_update: "2026-10-20"
   oeis: ["N/A"]
   tags: ["number theory"]
 
