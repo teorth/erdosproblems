@@ -19773,8 +19773,8 @@
     state: "disproved"
     last_update: "2026-04-24"
   formalized:
-    state: "no"
-    last_update: "2026-04-04"
+    state: "yes"
+    last_update: "2026-10-21"
   oeis: ["N/A"]
   tags: ["additive combinatorics", "ramsey theory"]
 
