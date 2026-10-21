@@ -10689,7 +10689,7 @@
   status:
     state: "verifiable"
     last_update: "2025-08-31"
-  oeis: ["A062249", "A087280"]
+  oeis: ["A062249", "A087280", "A400986"]
   formalized:
     state: "yes"
     last_update: "2025-10-13"
