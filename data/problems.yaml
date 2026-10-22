@@ -5692,8 +5692,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-22"
   tags: ["number theory", "complete sequences"]
 
 - number: "345"
@@ -18830,8 +18830,8 @@
     state: "disproved"
     last_update: "2026-01-24"
   formalized:
-    state: "no"
-    last_update: "2026-01-23"
+    state: "yes"
+    last_update: "2026-10-22"
   oeis: ["A240842", "possible"]
   tags: ["number theory"]
 
