@@ -38,7 +38,11 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-10-16"
+    url: "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Combinatorics/Progressions/Results/Conclusions.lean#L38"
+    note: "Linked as the formal proof of erdos_3 in formal-conjectures (#6898). Not yet
+      digested by a human reader, so the informal status remains open."
   status:
     state: "open"
     last_update: "2025-08-31"
@@ -3018,7 +3022,11 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-10-16"
+    url: "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Combinatorics/CycleDecomposition/Main.lean#L207"
+    note: "Linked as the formal proof of erdos_184 in formal-conjectures (#6898). Not yet
+      digested by a human reader, so the informal status remains open."
   status:
     state: "open"
     last_update: "2025-08-31"
