@@ -4680,8 +4680,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-10-26"
   tags: ["number theory", "unit fractions"]
 
 - number: "285"
@@ -19192,8 +19192,8 @@
     state: "open"
     last_update: "2026-01-23"
   formalized:
-    state: "no"
-    last_update: "2026-01-23"
+    state: "yes"
+    last_update: "2026-10-26"
   oeis: ["A005432", "possible"]
   tags: ["group theory"]
 
