@@ -18390,8 +18390,8 @@
     state: "proved"
     last_update: "2025-12-29"
   formalized:
-    state: "no"
-    last_update: "2025-09-28"
+    state: "yes"
+    last_update: "2026-10-26"
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
