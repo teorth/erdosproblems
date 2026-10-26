@@ -214,8 +214,8 @@
 - number: "14"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-15"
   formal_status:
     state: "unformalized"
   status:
@@ -1318,8 +1318,8 @@
 - number: "81"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-15"
   formal_status:
     state: "unformalized"
   status:
@@ -1566,8 +1566,8 @@
 - number: "96"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   formal_status:
     state: "unformalized"
   status:
@@ -1582,8 +1582,8 @@
 - number: "97"
   prize: "$100"
   informal_status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   formal_status:
     state: "unformalized"
   status:
@@ -2339,8 +2339,8 @@
 - number: "143"
   prize: "$500"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-16"
   formal_status:
     state: "unformalized"
   status:
@@ -3222,8 +3222,8 @@
 - number: "196"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-20"
   formal_status:
     state: "unformalized"
   status:
