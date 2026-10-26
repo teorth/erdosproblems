@@ -14732,7 +14732,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A046801", "possible"]
+  oeis: ["A046801", "A401468"]
   formalized:
     state: "yes"
     last_update: "2025-09-25"
