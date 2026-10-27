@@ -310,7 +310,7 @@
       chi'(AG(2,q)^{+p}) = (q-1)p + (q+1) <= n, and Universal Three-Tier Pair-Budget Discharging Closure
       (Theorems 3.9-3.11), certifying 3,091/3,091 canonical and frontier PBDs across 3 <= n <= 25 with 0 violations.
       Lean 4.33.1 formalization (0 sorry, standard axioms; formal-conjectures #7641) verifies all 14 algebraic/combinatorial
-      reduction theorems and extremal PG(2,2)/PG(2,3) witnesses."
+      reduction theorems and extremal PG(2,2)/PG(2,3) witnesses; the full SimpleGraph.chromaticNumber wrapper remains open."
   status:
     state: "decidable"
     last_update: "2025-08-31"
