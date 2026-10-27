@@ -19656,13 +19656,13 @@
     state: "Lean"
     last_update: "2026-10-27"
     url: "https://github.com/doublegate/Erdos_1191/blob/11001ddd2346ece0de4be332f357f9520ac2c0f0/Erdos1191/Proofs.lean"
-    note: "Paper proof by L. Parobek (doi:10.13140/RG.2.2.17420.27526): proves unconditionally that every
-      infinite Sidon set A satisfies liminf A(x)*sqrt((ln x)/x) = 0 (part i, affirmative; hence part ii is
-      false for every c > 0, Corollary 2.12) via exact harmonic-integral conservation, discrete
-      Legendre-Fenchel integrality excess, and the multi-octave Haar hyperfactorial / Glaisher-Kinkelin
-      sawtooth identity (Theorems 2.1-2.11). Lean 4.33.1 formalization (commit 11001ddd, 0 sorry, standard
-      axioms; formal-conjectures #7640) verifies all 14 algebraic/combinatorial reduction theorems and
-      finite Sidon witnesses; the continuous real-integral Filter.liminf wrapper remains open."
+    note: "Paper proof by L. Parobek (https://github.com/doublegate/Erdos_1191/blob/main/paper/Parobek_2026-10-27_Erdos1191_Unconditional_Diophantine_Haar_Closure_Sidon_Sets.pdf):
+      proves unconditionally that every infinite Sidon set A satisfies liminf A(x)*sqrt((ln x)/x) = 0 (part i,
+      affirmative; hence part ii is false for every c > 0, Corollary 2.12) via exact harmonic-integral
+      conservation, discrete Legendre-Fenchel integrality excess, and the multi-octave Haar hyperfactorial /
+      Glaisher-Kinkelin sawtooth identity (Theorems 2.1-2.11). Lean 4.33.1 formalization (commit 11001ddd, 0
+      sorry, standard axioms; formal-conjectures #7640) verifies all 14 algebraic/combinatorial reduction
+      theorems and finite Sidon witnesses; the continuous real-integral Filter.liminf wrapper remains open."
   status:
     state: "open"
     last_update: "2026-04-04"
