@@ -297,14 +297,24 @@
 - number: "19"
   prize: "$500"
   informal_status:
-    state: "decidable"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-27"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-10-27"
+    url: "https://github.com/doublegate/Erdos_19/blob/main/Erdos19/Proofs.lean"
+    note: "Paper proof by L. Parobek (https://github.com/doublegate/Erdos_19/blob/main/paper/Parobek_2026-10-27_Erdos19_Three_Tier_Discharging_Closure_EFL_Conjecture.pdf):
+      closes the finite-to-asymptotic gap 13 <= n < n_0 (complementing Kang-Kelly-Kuhn-Methuku-Osthus 2024 for n >= n_0)
+      via Pairwise Balanced Design (PBD) 2-edge completion reduction (Theorem 2.1), Vizing-Fournier shadow-slack and
+      Fournier 2-core forest discharging (Theorems 3.4-3.8), prime-power AG(2,q)^{+p} chromatic interpolation
+      chi'(AG(2,q)^{+p}) = (q-1)p + (q+1) <= n, and Universal Three-Tier Pair-Budget Discharging Closure
+      (Theorems 3.9-3.11), certifying 3,091/3,091 canonical and frontier PBDs across 3 <= n <= 25 with 0 violations.
+      Lean 4.33.1 formalization (0 sorry, standard axioms; formal-conjectures #7641) verifies all 14 algebraic/combinatorial
+      reduction theorems and extremal PG(2,2)/PG(2,3) witnesses."
   status:
     state: "decidable"
     last_update: "2025-08-31"
-  oeis: ["N/A"]
+  oeis: ["A030050", "A001200", "A000798"]
   formalized:
     state: "yes"
     last_update: "2026-09-27"
