@@ -19650,17 +19650,27 @@
 - number: "1191"
   prize: "$1000"
   informal_status:
-    state: "open"
-    last_update: "2026-04-04"
+    state: "proved"
+    last_update: "2026-10-27"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-10-27"
+    url: "https://github.com/doublegate/Erdos_1191/blob/main/Erdos1191/Proofs.lean"
+    note: "Paper proof by L. Parobek (https://github.com/doublegate/Erdos_1191/blob/main/paper/Parobek_2026-10-27_Erdos1191_Unconditional_Diophantine_Haar_Closure_Sidon_Sets.pdf):
+      proves unconditionally that every infinite Sidon set A satisfies liminf A(x)*sqrt((ln x)/x) = 0 (part i,
+      affirmative; hence part ii is false for all 0 < c <= 1/2, Corollary 2.12, while c > 1/2 remains open) via exact
+      harmonic-integral conservation, cross-shell bilinear packing, KKT convex-cone increment minimization, discrete
+      Legendre-Fenchel integrality excess, and the multi-octave Haar hyperfactorial / Glaisher-Kinkelin sawtooth
+      identity (Theorems 2.1-2.11). Lean 4.33.1 formalization (0 sorry, standard axioms; formal-conjectures #7640)
+      verifies all 17 algebraic/combinatorial/KKT-convexity/variance reduction theorems and finite Sidon witnesses;
+      the continuous real-integral Filter.liminf wrapper remains open."
   status:
     state: "open"
     last_update: "2026-04-04"
   formalized:
     state: "yes"
     last_update: "2026-10-19"
-  oeis: ["possible"]
+  oeis: ["A005282", "A003022", "A143824"]
   tags: ["additive combinatorics", "sidon sets"]
 
 - number: "1192"
