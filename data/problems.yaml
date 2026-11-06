@@ -9827,8 +9827,8 @@
 - number: "595"
   prize: "$250"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "not disprovable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
   status:
