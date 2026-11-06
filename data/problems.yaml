@@ -2240,8 +2240,8 @@
 - number: "137"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "verifiable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
   status:
@@ -2440,8 +2440,8 @@
 - number: "149"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
   status:
@@ -2473,8 +2473,8 @@
 - number: "151"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
   status:
@@ -11180,8 +11180,8 @@
 - number: "677"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
   status:
@@ -11569,8 +11569,8 @@
 - number: "701"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
   status:
@@ -14020,8 +14020,8 @@
 - number: "850"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "verifiable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
     note: >-
@@ -19152,8 +19152,8 @@
 - number: "1160"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   formal_status:
     state: "unformalized"
   status:
