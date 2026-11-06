@@ -20117,10 +20117,16 @@
 - number: "1220"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2026-09-12"
+    state: "not provable"
+    last_update: "2026-09-26"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-26"
+    url: "https://github.com/jbaelaw/erdos1220-lean"
+    note: "Lean 4 / Mathlib proof (commit 9cb81ff, standard axioms) that ZFC does not prove the
+      affirmative answer, via a model with lambda = beth_{c^+} (forcing adapted from
+      Shelah-Stanley 1987, Section 3); registered in the Palomar registry as
+      PALOMAR-2026-09-26-000001. Independence is not formalized."
   status:
     state: "open"
     last_update: "2026-09-12"
