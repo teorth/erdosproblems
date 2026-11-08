@@ -7932,7 +7932,7 @@
   status:
     state: "proved (Lean)"
     last_update: "2026-08-23"
-  oeis: ["N/A"]
+  oeis: ["A381579"]
   formalized:
     state: "yes"
     last_update: "2025-08-31"
