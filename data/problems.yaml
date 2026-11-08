@@ -219,8 +219,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-15"
   oeis: ["A143824", "possible"]
   formalized:
     state: "yes"
@@ -1323,8 +1323,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-15"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -1571,8 +1571,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -1587,8 +1587,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -2344,8 +2344,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-16"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3227,8 +3227,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-20"
   oeis: ["N/A"]
   formalized:
     state: "yes"
