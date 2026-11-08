@@ -19286,8 +19286,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "not disprovable"
+    last_update: "2026-10-26"
   formalized:
     state: "yes"
     last_update: "2026-10-23"
