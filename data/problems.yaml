@@ -7223,7 +7223,7 @@
   status:
     state: "proved"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A401450"]
   formalized:
     state: "yes"
     last_update: "2026-09-20"
