@@ -77,6 +77,9 @@ def derive_state(informal_state, formal_state):
     """Combine the two primitive states into the derived `status.state`."""
     informal_state = (informal_state or "").strip()
     formal_state = (formal_state or UNFORMALIZED).strip()
+    # A formal annotation with no informal state used to render as " (Lean)".
+    if not informal_state:
+        return ""
     if not formal_state or formal_state == UNFORMALIZED:
         return informal_state
     return f"{informal_state} ({formal_state})"
