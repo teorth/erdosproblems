@@ -4480,7 +4480,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A401861"]
   formalized:
     state: "yes"
     last_update: "2026-04-16"
