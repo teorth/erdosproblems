@@ -54,6 +54,51 @@ def _find(k: int, numer: int, denom: int, start: int) -> list[int] | None:
     return None
 
 
+def _find_budget(k: int, numer: int, denom: int, start: int, budget: int) -> list[int] | None:
+    """Like _find, but the denominators stay within `budget` of the greedy choice.
+
+    The final two-term split is refused when its search interval is huge, so a
+    missed witness is reported as absent rather than scanned indefinitely.
+    """
+    g = gcd(numer, denom)
+    numer //= g
+    denom //= g
+    if numer <= 0:
+        return None
+    if k == 1:
+        return [denom] if numer == 1 and denom >= start else None
+    lo = max(start, (denom + numer - 1) // numer)
+    if k == 2:
+        hi = (2 * denom) // numer
+        if hi - lo > 2_000_000:
+            return None
+        for a in range(lo, hi):
+            den = numer * a - denom
+            if den > 0 and (denom * a) % den == 0:
+                b = (denom * a) // den
+                if b > a:
+                    return [a, b]
+        return None
+    limit = min(lo + budget, (k * denom) // numer)
+    for a in range(lo, limit + 1):
+        nn = numer * a - denom
+        if nn <= 0:
+            continue
+        rest = _find_budget(k - 1, nn, denom * a, a + 1, budget - (a - lo))
+        if rest is not None:
+            return [a, *rest]
+    return None
+
+
+def witness_near_greedy(n1: int, k: int, max_budget: int = 3) -> tuple[int, ...] | None:
+    """A k-term decomposition starting at n1, if one stays close to greedy."""
+    for budget in range(max_budget + 1):
+        rest = _find_budget(k - 1, n1 - 1, n1, n1 + 1, budget)
+        if rest is not None:
+            return (n1, *rest)
+    return None
+
+
 def _exists(k: int, numer: int, denom: int, start: int) -> bool:
     return _find(k, numer, denom, start) is not None
 
@@ -104,7 +149,8 @@ def f(k: int) -> int:
     raise RuntimeError(f"no {k}-term decomposition")
 
 
-# Issue #271, recomputed here for k = 3..22. k = 23 and 24 are left out.
+# Issue #271 through k = 21. k = 22 is checked by splitting, and k = 23, 24
+# by witness_near_greedy. The posted table ends at k = 24.
 ISSUE_PREFIX = {
     3: 2, 4: 2, 5: 3, 6: 3, 7: 3, 8: 4, 9: 4, 10: 5, 11: 6, 12: 6,
     13: 7, 14: 7, 15: 8, 16: 8, 17: 9, 18: 9, 19: 10, 20: 10, 21: 11,

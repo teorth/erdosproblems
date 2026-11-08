@@ -11,6 +11,7 @@ from short_egyptian import (
     f,
     split_largest,
     sums_to_one,
+    witness_near_greedy,
 )
 
 
@@ -29,6 +30,19 @@ def test_issue_271_k_22_by_splitting():
     assert not _exists(21, 11, 12, 13)
     assert not _exists(21, 12, 13, 14)
     assert all(_harmonic_short(21, n1 - 1, n1, n1 + 1) for n1 in range(14, 23))
+
+
+def test_issue_271_k_23_and_24():
+    # The posted table ends at k = 24 with f(23) = f(24) = 12.
+    for k in (23, 24):
+        witness = witness_near_greedy(12, k)
+        assert witness is not None and witness[0] == 12 and len(witness) == k
+        assert sums_to_one(witness)
+    assert not _exists(22, 12, 13, 14)
+    assert all(_harmonic_short(22, n1 - 1, n1, n1 + 1) for n1 in range(14, 24))
+    assert not _exists(23, 12, 13, 14)
+    assert not _exists(23, 13, 14, 15)
+    assert all(_harmonic_short(23, n1 - 1, n1, n1 + 1) for n1 in range(15, 25))
 
 
 if __name__ == "__main__":
