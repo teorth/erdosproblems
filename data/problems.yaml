@@ -1765,8 +1765,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -2147,8 +2147,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   oeis: ["A068063"]
   formalized:
     state: "yes"
@@ -5010,8 +5010,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-16"
   oeis: ["A097847", "A097849"]
   formalized:
     state: "yes"
@@ -14146,8 +14146,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-20"
   oeis: ["possible"]
   formalized:
     state: "yes"
