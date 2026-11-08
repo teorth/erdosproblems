@@ -7540,7 +7540,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A034694", "A061026", "possible"]
+  oeis: ["A034694", "A061026", "A398758"]
   formalized:
     state: "yes"
     last_update: "2026-06-07"
