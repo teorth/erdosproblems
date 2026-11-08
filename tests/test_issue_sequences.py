@@ -1,8 +1,8 @@
-"""Checked prefixes of the tables in open Erdős-problem issues.
+"""Checked ranges from open Erdős-problem issues.
 
-The full ranges in those issues are large. These tests recompute the range
-that is exact by the search in this repository, and check the explicit
-covering-system witnesses from issue #509 directly.
+Covering counts are exhaustive through seven moduli. The named reciprocal
+maximizers through seventeen moduli are checked directly. e(n), g_k(n), and
+v(k) are recomputed on the prefix the search finishes quickly.
 """
 import sys
 from functools import reduce
@@ -44,6 +44,14 @@ def test_issue_509_witnesses_are_irreducible_coverings():
         (2, 3, 4, 6, 8, 16, 48): "35/24",
         (2, 3, 4, 6, 8, 9, 18, 72): "14/9",
         (2, 3, 4, 5, 6, 10, 15, 20, 30): "17/10",
+        (2, 3, 4, 5, 6, 8, 10, 15, 20, 40): "109/60",
+        (2, 3, 4, 5, 6, 8, 10, 15, 16, 20, 80): "28/15",
+        (2, 3, 4, 5, 6, 8, 9, 10, 15, 18, 20, 360): "353/180",
+        (2, 3, 4, 5, 6, 8, 9, 10, 15, 16, 18, 20, 720): "91/45",
+        (2, 3, 4, 5, 6, 8, 9, 10, 15, 16, 18, 20, 32, 1440): "739/360",
+        (2, 3, 4, 5, 6, 8, 9, 10, 15, 16, 18, 20, 27, 54, 2160): "2243/1080",
+        (2, 3, 4, 5, 6, 7, 8, 10, 14, 15, 20, 21, 28, 35, 42, 56): "907/420",
+        (2, 3, 4, 5, 6, 7, 8, 10, 14, 15, 16, 20, 21, 28, 35, 42, 112): "1859/840",
     }
     for moduli, fraction in rows.items():
         assert is_irreducible_covering(moduli)
@@ -58,10 +66,15 @@ def test_issue_499_exact_edge_counts_through_n_5():
 
 
 def test_issue_444_g2_matches_multiplicative_sidon_and_g3_prefix():
-    # g_2 is F from problem 425. The g_3 prefix is the start of issue #444.
+    # g_2 is F from problem 425. g_3 and g_4 are the start of the issue #444 tables.
     for n in range(1, 13):
         assert g(2, n) == F(n)
-    assert [g(3, n) for n in range(1, 13)] == [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 11]
+    assert [g(3, n) for n in range(1, 25)] == [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 11, 12, 13, 14, 15, 16, 16, 17, 17, 18, 19, 20, 21,
+    ]
+    assert [g(4, n) for n in range(1, 21)] == [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19,
+    ]
 
 
 def test_issue_403_unit_fraction_denominators_through_k_5():

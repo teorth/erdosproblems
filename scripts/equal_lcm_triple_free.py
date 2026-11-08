@@ -47,7 +47,7 @@ def f(N: int) -> int:
     return best
 
 
-# Issue #354 table for N = 1..30 (exhaustive check here through 20; 21..30 pinned from issue)
+# Issue #354 table for N = 1..30. The published table continues through N = 45.
 ISSUE_PREFIX = [
     1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 10, 10, 11, 12, 12, 13, 14, 15, 16, 16,
     17, 18, 19, 19, 20, 21, 22, 23, 24, 24,
