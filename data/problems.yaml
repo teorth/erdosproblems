@@ -9832,8 +9832,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "not disprovable"
+    last_update: "2026-10-26"
   oeis: ["N/A"]
   formalized:
     state: "yes"
