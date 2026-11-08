@@ -2245,8 +2245,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "verifiable"
+    last_update: "2026-10-26"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -2445,8 +2445,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   oeis: ["N/A"]
   formalized:
     state: "no"
@@ -2478,8 +2478,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -11185,8 +11185,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -11574,8 +11574,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -14032,8 +14032,8 @@
       question remains open. Proof and reproduction:
       https://github.com/CollinYuanjieRen/awards/blob/70c7a40b2c89db7f18623fa32bebf62da0f9eaca/submissions/jsp-000703-cyr/README.md
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "verifiable"
+    last_update: "2026-10-26"
   oeis: ["A343101"]
   formalized:
     state: "yes"
@@ -19157,8 +19157,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2026-01-23"
+    state: "falsifiable"
+    last_update: "2026-10-26"
   formalized:
     state: "no"
     last_update: "2026-01-23"
