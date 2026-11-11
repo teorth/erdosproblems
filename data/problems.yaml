@@ -18650,8 +18650,8 @@
     state: "proved (Lean)"
     last_update: "2026-09-16"
   formalized:
-    state: "no"
-    last_update: "2026-01-01"
+    state: "yes"
+    last_update: "2026-11-11"
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
@@ -18666,8 +18666,8 @@
     state: "proved"
     last_update: "2026-01-17"
   formalized:
-    state: "no"
-    last_update: "2026-01-01"
+    state: "yes"
+    last_update: "2026-11-11"
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
