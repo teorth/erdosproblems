@@ -16,21 +16,32 @@ def can_subset_sum(nums: list[int], target: int) -> bool:
 
 def feasible(n: int, k: int) -> bool:
     """Whether {1,...,n-1} can be colored with k colors so no color class
-    has a subset summing to n."""
+    has a subset summing to n.
+
+    Each class keeps the bitset of subset sums. A color is legal for x when
+    bit n stays off after adding x.
+    """
+    if k < 1:
+        return False
     elems = list(range(1, n))
 
-    def search(i: int, classes: list[list[int]]) -> bool:
+    def hits(mask: int, value: int) -> bool:
+        return ((mask | (mask << value)) >> n) & 1 == 1
+
+    def search(i: int, masks: list[int]) -> bool:
         if i == len(elems):
             return True
-        x = elems[i]
-        for c in classes:
-            c.append(x)
-            if not can_subset_sum(c, n) and search(i + 1, classes):
+        value = elems[i]
+        for j, mask in enumerate(masks):
+            if hits(mask, value):
+                continue
+            masks[j] = mask | (mask << value)
+            if search(i + 1, masks):
                 return True
-            c.pop()
+            masks[j] = mask
         return False
 
-    return search(0, [[] for _ in range(k)])
+    return search(0, [1] * k)
 
 
 def f(n: int) -> int:

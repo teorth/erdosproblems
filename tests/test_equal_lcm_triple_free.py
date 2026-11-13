@@ -5,7 +5,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from equal_lcm_triple_free import ISSUE_PREFIX, f, is_triple_free
 
 def test_small_exhaustive():
-    for n, want in enumerate(ISSUE_PREFIX[:20], 1):
+    for n, want in enumerate(ISSUE_PREFIX, 1):
         assert f(n) == want, (n, f(n), want)
 
 def test_witness():

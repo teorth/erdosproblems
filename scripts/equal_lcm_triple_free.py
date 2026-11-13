@@ -22,35 +22,55 @@ def is_triple_free(A: list[int]) -> bool:
     return True
 
 
-def f(N: int) -> int:
-    if N < 1:
-        raise ValueError("N >= 1")
-    best = 0
-    chosen: list[int] = []
-    nums = list(range(N, 0, -1))
+def _bad_triples(N: int) -> list[tuple[int, int, int]]:
+    bad = []
+    for a, b, c in combinations(range(1, N + 1), 3):
+        ab = lcm(a, b)
+        if ab == lcm(a, c) == lcm(b, c):
+            bad.append((a, b, c))
+    return bad
 
-    def dfs(i: int) -> None:
+
+def _min_deletions(triples: list[tuple[int, int, int]]) -> int:
+    """Smallest set that meets every triple. The complement is a maximum triple-free set."""
+    best = len({v for triple in triples for v in triple}) + 1
+
+    def search(index: int, deleted: set[int]) -> None:
         nonlocal best
-        if len(chosen) + (len(nums) - i) <= best:
+        if len(deleted) >= best:
             return
-        if i == len(nums):
-            best = max(best, len(chosen))
+        while index < len(triples):
+            a, b, c = triples[index]
+            if a in deleted or b in deleted or c in deleted:
+                index += 1
+                continue
+            break
+        else:
+            best = len(deleted)
             return
-        x = nums[i]
-        chosen.append(x)
-        if is_triple_free(chosen):
-            dfs(i + 1)
-        chosen.pop()
-        dfs(i + 1)
+        a, b, c = triples[index]
+        for value in (a, b, c):
+            deleted.add(value)
+            search(index + 1, deleted)
+            deleted.remove(value)
 
-    dfs(0)
+    search(0, set())
     return best
 
 
-# Issue #354 table for N = 1..30 (exhaustive check here through 20; 21..30 pinned from issue)
+def f(N: int) -> int:
+    if N < 1:
+        raise ValueError("N >= 1")
+    triples = _bad_triples(N)
+    if not triples:
+        return N
+    return N - _min_deletions(triples)
+
+
+# Issue #354 table for N = 1..45.
 ISSUE_PREFIX = [
-    1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 10, 10, 11, 12, 12, 13, 14, 15, 16, 16,
-    17, 18, 19, 19, 20, 21, 22, 23, 24, 24,
+    1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 10, 10, 11, 12, 12, 13, 14, 15, 16, 16, 17, 18, 19, 19, 20,
+    21, 22, 23, 24, 24, 25, 26, 27, 28, 28, 29, 30, 31, 32, 32, 33, 33, 34, 35, 35,
 ]
 
 
