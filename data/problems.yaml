@@ -20104,7 +20104,12 @@
     state: "proved"
     last_update: "2026-09-12"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-28"
+    url: "https://github.com/jbaelaw/erdos1219-lean"
+    note: "Shelah's theorem (Notes on partition calculus, 1975, Section 1), proved in Lean 4 /
+      Mathlib as stated on erdosproblems.com (commit 00e696a, standard axioms); registered in
+      the Palomar registry as PALOMAR-2026-09-30-000003."
   status:
     state: "proved"
     last_update: "2026-09-12"
