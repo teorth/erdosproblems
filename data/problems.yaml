@@ -9797,7 +9797,10 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-07-29"
+    url: "https://github.com/SamPetkov/Erdos593/blob/d834f1f42e7e0d5d2a6c23e9487563bedb1b277b/formalization/Erdos593SelfContained.lean"
+    note: "Registered on Palomar as PALOMAR-2026-11-16-000018 (https://palomar-registry.org/entry.html?id=PALOMAR-2026-11-16-000018): Erdos593.TripleSystem.isObligatory_iff_isolatedReduction_intrinsic"
   status:
     state: "open"
     last_update: "2025-08-31"
