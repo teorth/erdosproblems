@@ -214,13 +214,13 @@
 - number: "14"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-15"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-15"
   oeis: ["A143824", "possible"]
   formalized:
     state: "yes"
@@ -1318,13 +1318,13 @@
 - number: "81"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-15"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-15"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -1566,13 +1566,13 @@
 - number: "96"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   oeis: ["possible"]
   formalized:
     state: "yes"
@@ -1582,13 +1582,13 @@
 - number: "97"
   prize: "$100"
   informal_status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   formal_status:
     state: "unformalized"
   status:
-    state: "falsifiable"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-16"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -2339,13 +2339,13 @@
 - number: "143"
   prize: "$500"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-16"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-16"
   oeis: ["N/A"]
   formalized:
     state: "yes"
@@ -3222,13 +3222,13 @@
 - number: "196"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-20"
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "disproved"
+    last_update: "2026-10-20"
   oeis: ["N/A"]
   formalized:
     state: "yes"
