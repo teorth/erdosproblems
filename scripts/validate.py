@@ -79,7 +79,7 @@ if data is None:
     sys.exit(1)
 
 schema = json.loads(schema_path.read_text(encoding="utf-8"))
-v = Draft202012Validator(schema)
+v = Draft202012Validator(schema, format_checker=Draft202012Validator.FORMAT_CHECKER)
 schema_errors = sorted(v.iter_errors(data), key=lambda e: e.path)
 if schema_errors:
     for e in schema_errors:
