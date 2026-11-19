@@ -8786,7 +8786,7 @@
   prize: "no"
   informal_status:
     state: "open"
-    last_update: "2025-08-31"
+    last_update: "2026-10-29"
   formal_status:
     state: "unformalized"
   status:
@@ -8796,6 +8796,7 @@
   formalized:
     state: "no"
     last_update: "2025-08-31"
+  comments: "F(4) >= 397 and F(5) >= 1514: explicit 2-colourings of initial segments {1,...,N} with no k-element set whose nonempty subset sums are all monochromatic (sum(A) <= N) — N=396 for k=4, N=1513 for k=5 — with two independent checkers, at https://github.com/nakata-app/erdos-531-folkman (found by AI search agents, DeepSeek and Claude; verified by programs). No specific F(4) or F(5) value appears in the literature; the general bound of Balogh-Eberhard-Narayanan-Treglown-Wagner gives only F(5) >= 10. F(2) = 9, F(3) = 54 under the same convention."
   tags: ["number theory", "ramsey theory"]
 
 - number: "532"
