@@ -10237,8 +10237,8 @@
 - number: "620"
   prize: "no"
   informal_status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "solved"
+    last_update: "2026-10-17"
   formal_status:
     state: "unformalized"
   status:
