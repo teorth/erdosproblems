@@ -7961,7 +7961,11 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-09-26"
+    url: "https://github.com/gotrevor/lean-gallery/blob/a834bbad2f36eedcc16066b2bc4da49f98ab5b85/LeanGallery/NumberTheory/Erdos482/Statement.lean"
+    note: "Trevor Morris's formalisation of Graham-Pollak and Stoll's general resolution
+      [St05]; theorems LeanGallery.NumberTheory.Erdos482.erdos_482_verbatim and LeanGallery.NumberTheory.Erdos482.General.erdos482_resolution."
   status:
     state: "solved"
     last_update: "2025-08-31"
