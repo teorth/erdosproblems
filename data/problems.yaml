@@ -10322,7 +10322,10 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-11-16"
+    url: "https://github.com/SamPetkov/Erdos/blob/22a2c9fd635c613113dab5c54414b7cd35d8eb58/625/formalization/Erdos625SelfContained.lean"
+    note: "Erdos625.erdos625: chi - zeta >= ((log 2)^2/4) log(200/153) n/(log n)^3 with high probability for G(n,1/2), along all n"
   status:
     state: "solved"
     last_update: "2025-08-31"
