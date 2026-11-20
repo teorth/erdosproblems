@@ -107,7 +107,8 @@ function renderFormalizedLink(number, state) {
  * Informal statuses for which an AI attempt is still worth viewing
  * @type {Array<string>}
  */
-const AI_ELIGIBLE_STATES = ['open', 'verifiable', 'independent', 'falsifiable'];
+// Decidable is both falsifiable and verifiable, so it stays with those labels.
+const AI_ELIGIBLE_STATES = ['open', 'verifiable', 'independent', 'falsifiable', 'decidable'];
 
 /**
  * Render AI Attempts link based on problem status
