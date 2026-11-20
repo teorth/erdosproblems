@@ -29,8 +29,8 @@ def test_S_rejects_n_below_two():
 
 
 def test_S_prefix_issue_354():
-    # n = 2 .. 40 as listed in issue 354
-    got = [S(n) for n in range(2, 41)]
+    # n = 2 .. 120 as listed in issue 354
+    got = [S(n) for n in range(2, 2 + len(ISSUE_PREFIX))]
     assert got == ISSUE_PREFIX
 
 
