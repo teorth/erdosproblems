@@ -3462,8 +3462,8 @@
     last_update: "2026-09-15"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-11-12"
   forum:
     posts: 6
     proof_claims: 1
@@ -5429,8 +5429,8 @@
     last_update: "2025-08-31"
   oeis: ["A092670"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-11-12"
   tags: ["number theory", "unit fractions"]
 
 - number: "298"
@@ -11453,8 +11453,8 @@
     last_update: "2025-08-31"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-11-19"
   forum:
     posts: 3
     proof_claims: 3
@@ -13551,8 +13551,8 @@
     last_update: "2025-10-01"
   oeis: ["N/A"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-11-12"
   forum:
     posts: 4
   tags: ["graph theory", "chromatic number"]
@@ -14477,8 +14477,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-11-19"
   forum:
     posts: 1
     proof_claims: 2
@@ -14515,8 +14515,8 @@
     last_update: "2025-08-31"
   oeis: ["possible"]
   formalized:
-    state: "no"
-    last_update: "2025-08-31"
+    state: "yes"
+    last_update: "2026-11-19"
   forum:
     posts: 3
     proof_claims: 2
@@ -20676,8 +20676,8 @@
     state: "proved (Lean)"
     last_update: "2026-09-16"
   formalized:
-    state: "no"
-    last_update: "2026-01-01"
+    state: "yes"
+    last_update: "2026-11-11"
   oeis: ["N/A"]
   tags: ["analysis", "polynomials"]
 
@@ -20692,8 +20692,8 @@
     state: "proved"
     last_update: "2026-01-17"
   formalized:
-    state: "no"
-    last_update: "2026-01-01"
+    state: "yes"
+    last_update: "2026-11-11"
   forum:
     posts: 4
   oeis: ["N/A"]
