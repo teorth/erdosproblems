@@ -45,7 +45,9 @@ def formalized_link(number:str, code: str) -> str:
     else:
         return code
 
-AI_ELIGIBLE_STATES = {"open", "verifiable", "independent", "falsifiable"}
+# Decidable problems are both falsifiable and verifiable (CONTRIBUTING.md), so
+# they stay eligible whenever either of those statuses is.
+AI_ELIGIBLE_STATES = {"open", "verifiable", "independent", "falsifiable", "decidable"}
 
 def ai_attempts_link(number: str, informal_state: str) -> str:
     # Match docs/utils.js: eligible states link as "view", otherwise "add".
@@ -298,36 +300,43 @@ def render(path, payload, label, start=START, end=END):
     path.write_text(new, encoding="utf-8")
     print(f"{label} updated.")
 
-rows = yaml.safe_load(data_path.read_text(encoding="utf-8"))
+def main():
+    rows = yaml.safe_load(data_path.read_text(encoding="utf-8"))
 
-render(readme_path, build_table(rows), "README")
-render(stats_path, build_stats(rows), "STATISTICS", STATS_START, STATS_END)
+    render(readme_path, build_table(rows), "README")
+    render(stats_path, build_stats(rows), "STATISTICS", STATS_START, STATS_END)
 
-# Update statistics history and charts
-if plot_statistics_history:
-    proved = count_informal(rows, "proved")
-    disproved = count_informal(rows, "disproved")
-    # make solved include independent problems
-    solved = count_informal(rows, "solved") + count_informal(rows, "independent")
-    open = len(rows) - (proved+disproved+solved)
+    # Update statistics history and charts
+    if plot_statistics_history:
+        proved = count_informal(rows, "proved")
+        disproved = count_informal(rows, "disproved")
+        # make solved include independent problems
+        solved = count_informal(rows, "solved") + count_informal(rows, "independent")
+        # Residual open, including falsifiable/decidable/verifiable and the
+        # set-theoretic open statuses. Do not redefine this recorded series.
+        open_count = len(rows) - (proved + disproved + solved)
 
-    current_stats = {
-        "total_problems": len(rows),
-        "lean_formalized": count_formalized_yes(rows),
-        "oeis_linked": count_rows_with_oeis_id(rows),
-        "total_solved": proved + disproved + solved,
-        "open": open,
-        "proved": proved,
-        "disproved": disproved,
-        "solved": solved,
-        # Problems with a solution formalized in Lean.  Not a subset of
-        # total_solved: an undigested formalized solution stays informally open.
-        "lean_solved": count_formalized_solution(rows),
-    }
+        current_stats = {
+            "total_problems": len(rows),
+            "lean_formalized": count_formalized_yes(rows),
+            "oeis_linked": count_rows_with_oeis_id(rows),
+            "total_solved": proved + disproved + solved,
+            "open": open_count,
+            "proved": proved,
+            "disproved": disproved,
+            "solved": solved,
+            # Problems with a solution formalized in Lean.  Not a subset of
+            # total_solved: an undigested formalized solution stays informally open.
+            "lean_solved": count_formalized_solution(rows),
+        }
 
-    # The history CSV keeps accumulating, but the rendered charts are frozen as
-    # of plot_statistics_history.CHARTS_FROZEN_ON and are no longer regenerated
-    # here; see that module's docstring.  generate_charts() is deliberately not
-    # called, rather than called and ignored, so this step does no chart work at
-    # all on a routine push.
-    plot_statistics_history.update_history(current_stats)
+        # The history CSV keeps accumulating, but the rendered charts are frozen as
+        # of plot_statistics_history.CHARTS_FROZEN_ON and are no longer regenerated
+        # here; see that module's docstring.  generate_charts() is deliberately not
+        # called, rather than called and ignored, so this step does no chart work at
+        # all on a routine push.
+        plot_statistics_history.update_history(current_stats)
+
+
+if __name__ == "__main__":
+    main()
