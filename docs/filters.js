@@ -292,8 +292,10 @@ function filterTagCheckboxes(searchQuery) {
     const items = document.querySelectorAll('.tag-checkbox-item');
 
     items.forEach(item => {
-        const label = item.querySelector('label');
-        const tagName = label.textContent.toLowerCase();
+        // Match the tag itself. The label also shows "(filtered/total)", and
+        // those digits are not part of the name.
+        const checkbox = item.querySelector('.tag-filter-checkbox');
+        const tagName = (checkbox ? checkbox.value : '').toLowerCase();
         const matches = query === '' || tagName.includes(query);
         item.style.display = matches ? 'flex' : 'none';
     });
