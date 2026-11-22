@@ -5355,7 +5355,7 @@
 - number: "293"
   prize: "no"
   informal_status:
-    state: "proved"
+    state: "solved"
     last_update: "2026-10-16"
   formal_status:
     state: "unformalized"
