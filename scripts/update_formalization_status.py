@@ -23,7 +23,10 @@ def fetch_formalized_problem_numbers():
         github_token = os.environ.get("GITHUB_TOKEN")
         if github_token:
             headers["Authorization"] = f"Bearer {github_token}"
-        response = requests.get(API_URL, headers=headers)
+        # Without a timeout a stalled connection hangs the job until Actions
+        # kills it, holding the commit-to-main queue the whole time.  A timeout
+        # raises a RequestException, which the handler below reports.
+        response = requests.get(API_URL, headers=headers, timeout=30)
         # Raises an exception for bad status codes (4xx or 5xx)
         response.raise_for_status()  
         data = response.json()

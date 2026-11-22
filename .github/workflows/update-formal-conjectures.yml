@@ -18,6 +18,7 @@ concurrency:
 jobs:
   update-files:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout local repository
         uses: actions/checkout@v4
