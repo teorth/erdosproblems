@@ -28,10 +28,10 @@ There are 1221 problems in total, of which
 - 0 have a literature review requested.
 - [323](https://teorth.github.io/erdosproblems/?formal=Lean) have a *solution* formalized in [Lean](https://lean-lang.org/).  This need not be a subset of the solved problems above: a formalized solution that has not yet been digested by a human reader keeps its informal status (so can appear as, e.g., "open (Lean)").
 - [1021](https://teorth.github.io/erdosproblems/?formalized=yes) have their *statements* formalized in [Lean](https://lean-lang.org/) in the [Formal Conjectures Repository](https://github.com/google-deepmind/formal-conjectures).
-- [383](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 504 distinct [OEIS](https://oeis.org/) sequences, with a total of 591 links created.
-  - 134 of these OEIS sequences were added since the creation of this database (A387000 onwards).
-- [290](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
-  - 218 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
+- [388](https://teorth.github.io/erdosproblems/?oeis=linked) have been linked to 508 distinct [OEIS](https://oeis.org/) sequences, with a total of 596 links created.
+  - 138 of these OEIS sequences were added since the creation of this database (A387000 onwards).
+- [285](https://teorth.github.io/erdosproblems/?oeis=possible) are potentially related to an [OEIS](https://oeis.org/) sequence not already listed.
+  - 213 of these problems are not currently linked to any existing [OEIS](https://oeis.org/) sequence.
 - 0 have a related sequence currently being submitted to the [OEIS](https://oeis.org/).
 - [1](https://teorth.github.io/erdosproblems/?oeis=inprogress) have a related sequence whose generation is currently in progress.
 <!-- STATS:END -->
