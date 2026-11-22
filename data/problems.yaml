@@ -18553,7 +18553,7 @@
     last_update: "2026-08-05"
   forum:
     posts: 6
-  oeis: ["possible"]
+  oeis: ["A059442"]
   tags: ["graph theory", "ramsey theory"]
 
 - number: "1015"
