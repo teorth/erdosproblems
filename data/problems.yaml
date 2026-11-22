@@ -21700,7 +21700,7 @@
     last_update: "2026-04-04"
   forum:
     posts: 1
-  oeis: ["possible"]
+  oeis: ["A401209"]
   tags: ["number theory", "primes"]
 
 - number: "1185"
