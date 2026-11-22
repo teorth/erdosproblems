@@ -5360,7 +5360,7 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "proved"
+    state: "solved"
     last_update: "2026-10-16"
   oeis: ["A400352"]
   formalized:
