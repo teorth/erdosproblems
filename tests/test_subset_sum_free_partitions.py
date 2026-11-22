@@ -21,8 +21,8 @@ def test_small_n():
 
 
 def test_prefix():
-    # Cross-check against the issue #354 table for n <= 14 (fast enough for CI).
-    for n, want in enumerate(ISSUE_PREFIX[:13], 2):
+    # Issue #354 table for n = 2..26.
+    for n, want in enumerate(ISSUE_PREFIX, 2):
         assert f(n) == want, (n, f(n), want)
 
 
