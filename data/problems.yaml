@@ -112,7 +112,7 @@
   tags: ["number theory", "primes"]
 
 - number: "7"
-  prize: "no"
+  prize: "$25"
   informal_status:
     state: "verifiable"
     last_update: "2025-08-31"
@@ -316,7 +316,7 @@
   tags: ["number theory", "primes"]
 
 - number: "18"
-  prize: "no"
+  prize: "$250"
   informal_status:
     state: "open"
     last_update: "2025-08-31"
@@ -576,7 +576,7 @@
   tags: ["number theory", "additive basis"]
 
 - number: "32"
-  prize: "no"
+  prize: "$50"
   informal_status:
     state: "open"
     last_update: "2025-08-31"
@@ -2882,7 +2882,7 @@
   tags: ["sidon sets"]
 
 - number: "159"
-  prize: "no"
+  prize: "$100"
   informal_status:
     state: "open"
     last_update: "2025-08-31"
@@ -3299,7 +3299,7 @@
   tags: ["graph theory", "ramsey theory"]
 
 - number: "182"
-  prize: "no"
+  prize: "$100"
   informal_status:
     state: "proved"
     last_update: "2025-08-31"
@@ -10066,7 +10066,7 @@
   tags: ["graph theory", "ramsey theory"]
 
 - number: "548"
-  prize: "no"
+  prize: "$100"
   informal_status:
     state: "proved"
     last_update: "2025-08-31"
@@ -19588,7 +19588,7 @@
   tags: ["geometry"]
 
 - number: "1071"
-  prize: "no"
+  prize: "$10"
   informal_status:
     state: "proved"
     last_update: "2026-02-12"
