@@ -5360,8 +5360,8 @@
   formal_status:
     state: "unformalized"
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "proved"
+    last_update: "2026-10-16"
   oeis: ["A400352"]
   formalized:
     state: "no"

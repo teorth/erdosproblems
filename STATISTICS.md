@@ -11,7 +11,7 @@ The figures are still generated, and the per-problem table on the [main page](RE
 <!-- STATS:START -->
 There are 1221 problems in total, of which
 - [114](https://teorth.github.io/erdosproblems/?prize=yes) are attached to a monetary prize.
-- [339](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
+- [340](https://teorth.github.io/erdosproblems/?status=proved) have been proved.
   - [184](https://teorth.github.io/erdosproblems/?status=proved&formal=Lean) of these proofs have been formalized in [Lean](https://lean-lang.org/).
 - [144](https://teorth.github.io/erdosproblems/?status=disproved) have been disproved.
   - [97](https://teorth.github.io/erdosproblems/?status=disproved&formal=Lean) of these disproofs have been formalized in [Lean](https://lean-lang.org/).
@@ -23,7 +23,7 @@ There are 1221 problems in total, of which
 - [8](https://teorth.github.io/erdosproblems/?status=decidable) appear to be open, but have been reduced to a finite computation. (decidable)
 - [29](https://teorth.github.io/erdosproblems/?status=falsifiable) appear to be open, but can be disproven by a finite computation if false. (falsifiable)
 - [9](https://teorth.github.io/erdosproblems/?status=verifiable) appear to be open, but can be proven by a finite computation if true. (verifiable)
-- [571](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
+- [570](https://teorth.github.io/erdosproblems/?status=open) appear to be completely open.
 - 11 have ambiguous statements.
 - 0 have a literature review requested.
 - [323](https://teorth.github.io/erdosproblems/?formal=Lean) have a *solution* formalized in [Lean](https://lean-lang.org/).  This need not be a subset of the solved problems above: a formalized solution that has not yet been digested by a human reader keeps its informal status (so can appear as, e.g., "open (Lean)").
