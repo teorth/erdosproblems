@@ -20339,7 +20339,7 @@
     posts: 4
     proof_claims: 4
     proof_claim_posts: 1
-  oeis: ["possible"]
+  oeis: ["A401291"]
   tags: ["number theory"]
 
 - number: "1111"
