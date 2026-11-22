@@ -22093,7 +22093,7 @@
     last_update: "2026-09-07"
   forum:
     posts: 2
-  oeis: ["possible"]
+  oeis: ["A401479"]
   tags: ["number theory", "sidon sets"]
 
 - number: "1207"
