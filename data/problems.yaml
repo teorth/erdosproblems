@@ -12426,7 +12426,7 @@
   status:
     state: "falsifiable"
     last_update: "2026-10-26"
-  oeis: ["possible"]
+  oeis: ["A399050"]
   formalized:
     state: "yes"
     last_update: "2025-12-02"
