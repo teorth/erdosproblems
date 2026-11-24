@@ -12843,7 +12843,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["A091963", "possible"]
+  oeis: ["A091963", "A402268", "possible"]
   formalized:
     state: "yes"
     last_update: "2026-06-24"
