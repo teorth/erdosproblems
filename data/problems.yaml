@@ -9277,10 +9277,21 @@
     state: "solved"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-11-22"
+    url: "https://github.com/mavis-codee/erdos-504-lean/blob/39e1d8031ee6cbe851cc05d33af4775894b22a51/Erdos504Formal/Erdos504Minimax.lean#L96"
+    note: "Complete Lean formalization of the Erdos-Szekeres value alpha_{2^n} =
+      pi(1 - 1/n) (theorem erdos_504), and of the endpoint alpha_{2^n - 1}
+      (Erdos504Endpoint.lean#L229, unconditional via strictCountingBound in
+      Erdos504StrictCounting.lean#L2654). Kernel-checked at the pinned commit:
+      lake build exit 0; axioms propext, Classical.choice, Quot.sound only; no
+      live sorry. Linked as the formal proof of erdos_504 and its endpoint
+      variant in formal-conjectures (#8189, under review). Sendov's complete
+      determination of alpha_N is not covered. Informal status unchanged:
+      solved in the literature (Szekeres 1941; Erdos-Szekeres 1960/61)."
   status:
-    state: "solved"
-    last_update: "2025-08-31"
+    state: "solved (Lean)"
+    last_update: "2026-11-22"
   oeis: ["N/A"]
   formalized:
     state: "yes"
