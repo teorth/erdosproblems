@@ -9999,7 +9999,7 @@
   status:
     state: "disproved"
     last_update: "2026-01-23"
-  oeis: ["possible"]
+  oeis: ["A402761"]
   formalized:
     state: "no"
     last_update: "2025-08-31"
