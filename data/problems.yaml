@@ -11790,7 +11790,7 @@
   status:
     state: "open"
     last_update: "2025-08-31"
-  oeis: ["possible"]
+  oeis: ["A006855", "possible"]
   formalized:
     state: "yes"
     last_update: "2026-10-07"
@@ -21011,7 +21011,7 @@
     last_update: "2026-06-08"
   forum:
     posts: 2
-  oeis: ["possible"]
+  oeis: ["A003586"]
   tags: ["number theory"]
 
 - number: "1147"
