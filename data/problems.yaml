@@ -364,7 +364,10 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-11-24"
+    url: "https://github.com/openai/math/blob/92b516ef8e2abf66c3db7aa31438d3010bc7956f/lean/OAI/Combinatorics/Sunflower/FixedBase.lean#L41-L48"
+    note: "OpenAI proved the qualitative fixed-petal bound for finite uniform families over arbitrary ground types."
   status:
     state: "open"
     last_update: "2025-08-31"
@@ -2052,7 +2055,10 @@
     state: "falsifiable"
     last_update: "2025-12-28"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-11-24"
+    url: "https://github.com/zhangteng2000/ehp-lemniscate-verification-20261108/blob/f40d41fa0a73b47d19f36574ed06c0fab387b5f1/lean/EHP/MainTheorem.lean#L42-L50"
+    note: "Teng Zhang formalized the lemniscate length inequality for every positive degree and classified the equality cases."
   status:
     state: "falsifiable"
     last_update: "2025-12-28"
