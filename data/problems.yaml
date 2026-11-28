@@ -2502,10 +2502,14 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-10-16"
+    url: "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/Combinatorics/ProgressionColoring/Main.lean#L12"
+    note: "Linked as the formal proof of erdos_138 in formal-conjectures (#6898).\
+      \ Not yet digested by a human reader, so the informal status remains open."
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "open (Lean)"
+    last_update: "2026-10-16"
   oeis: ["A005346"]
   formalized:
     state: "yes"
@@ -6828,10 +6832,14 @@
     state: "open"
     last_update: "2025-08-31"
   formal_status:
-    state: "unformalized"
+    state: "Lean"
+    last_update: "2026-10-16"
+    url: "https://github.com/openai/math/blob/adc7f1241b42e322a6451854ab7e4b4c146bf78a/lean/OAI/NumberTheory/JointDickman/PaperMain.lean#L21"
+    note: "Linked as the formal proof of erdos_371 in formal-conjectures (#6898).\
+      \ Not yet digested by a human reader, so the informal status remains open."
   status:
-    state: "open"
-    last_update: "2025-08-31"
+    state: "open (Lean)"
+    last_update: "2026-10-16"
   oeis: ["A070089"]
   formalized:
     state: "yes"
